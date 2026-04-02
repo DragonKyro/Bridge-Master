@@ -1,0 +1,107 @@
+{
+  "theme": "Absolute Beginner Declarer Play",
+  "description": "Foundational declarer play concepts for players just learning the game. These hands teach the habit of planning before playing and recognizing common patterns.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Counting winners in notrump",
+      "deal_pbn": "S:AKQ.AK5.876.9843 8754.QJT9.KQJ.75 JT9.876.AT9.AKQJ 632.432.5432.T62",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Before playing, count your sure winners: 3 spade tricks (AKQ), 2 heart tricks (AK), 1 diamond trick (A), and 4 club tricks (AKQJ) = 10 top tricks. You need 9 for 3NT so just cash your winners in the right order. Always count winners in notrump before playing to trick one.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting losers in trump contracts",
+      "deal_pbn": "S:AKQJT.A65.K87.43 9876.KQJ.QJT.KQ7 5432.987.A96.AJ8 -.T432.5432.T9652",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In a suit contract, count losers from declarer's hand: 0 spade losers, 2 heart losers (small cards opposite low), 1 diamond loser, 2 club losers = 5 losers. You can afford only 3 losers for 4S. Plan to ruff 2 heart losers in dummy to reduce losers to 3. Always count losers in trump contracts.",
+      "par_tricks": null
+    },
+    {
+      "title": "Identifying the source of extra tricks",
+      "deal_pbn": "S:AK5.A84.KQJ.8743 QJT9.KQJ.874.KQ9 8764.976.AT96.A5 32.T532.532.JT62",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count top tricks: 2 spades, 1 heart, 1 diamond (A), 1 club (A) = 5 tricks. You need 4 more. The diamond suit (KQJ opposite AT96) provides the extra tricks through length once the opponents' cards are driven out. Identify where your extra tricks will come from before playing.",
+      "par_tricks": null
+    },
+    {
+      "title": "Cashing top winners first",
+      "deal_pbn": "S:AKQ.AKQ.AKQ.7654 JT98.JT9.JT9.AKQ 7654.876.876.JT9 32.5432.5432.832",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 9 top winners: AKQ of spades, AKQ of hearts, AKQ of diamonds. Cash them immediately. If you delay and try to develop clubs, West will win and attack your weaknesses. When you have enough sure tricks, take them right away.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't take finesses you don't need",
+      "deal_pbn": "S:AKQ.AKQ.J987.A54 JT98.JT9.Q65.KQJ 7654.876.AKT.876 32.5432.432.T932",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count your winners: 3 spades, 3 hearts, 1 club (A) = 7 top tricks. You need 2 more from diamonds. With AKT and J987, you could finesse the Q, but cashing AK first drops the Q (West has Q65). Even if it didn't, you have enough tricks without risk. Never finesse when you already have enough tricks available safely.",
+      "par_tricks": null
+    },
+    {
+      "title": "Take your sure tricks before they disappear",
+      "deal_pbn": "S:A87.AK8.QJT98.A3 KQJ.QJT.A76.8765 T965.976.K54.KQJ 432.5432.32.T942",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the spade K. You have 1 spade winner (A), 2 hearts (AK), 1 club (A) = 4 sure tricks. You need 5 diamond tricks. Win the spade A immediately before West can continue spades. Then drive out the diamond A. If you duck the spade, West continues and your entry position is damaged. Cash vulnerable winners before they disappear.",
+      "par_tricks": null
+    },
+    {
+      "title": "Recognizing immediate danger from the defense",
+      "deal_pbn": "S:A5.AK6.QJT98.K63 KQJ97.QJT.A7.T87 T864.987.K654.AQ 32.5432.32.J9542",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the spade K attacking your weak spade holding. You have only one spade stopper (A). The danger is that if West gets in with the diamond A, they will cash established spades. Win the spade A and immediately attack diamonds. Recognizing the danger tells you to move quickly before the defense sets up their suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "Make a plan before playing from dummy",
+      "deal_pbn": "S:A65.AKQ.QJT9.K87 KQJ9.JT9.A87.QJ9 T874.876.K654.A5 32.5432.32.T6432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the spade K. Before playing from dummy, STOP and plan. Count winners: 1 spade (A), 3 hearts (AKQ), 1 club (A) = 5 top tricks. Need 4 more from diamonds. Plan: win spade A, lead diamonds to drive out the A, then cash established diamonds. Making a plan at trick one is the most important habit in bridge.",
+      "par_tricks": null
+    },
+    {
+      "title": "Choosing between multiple possible plans",
+      "deal_pbn": "S:AK5.A87.KQJ9.A87 QJT9.KQJ.T87.KQJ 8764.965.A654.65 32.T432.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 2 spade winners, 1 heart winner, 1 club winner = 4 top tricks. Plan A: develop diamonds (AKQJ9 opposite 654) for 5 tricks by cashing top diamonds. Plan B: try heart finesses. Plan A is clearly better since 4 diamond tricks are virtually guaranteed (the suit splits). Always compare plans and pick the safest one.",
+      "par_tricks": null
+    },
+    {
+      "title": "Playing for overtricks vs just making the contract",
+      "deal_pbn": "S:AKQ.AKQ.AK54.872 JT98.JT9.QJ9.AKQ 7654.876.T876.J9 32.5432.32.T6543",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 9 top tricks: 3 spades, 3 hearts, 2 diamonds, plus a 4th diamond if the suit splits 3-2. The safe line is to cash 9 winners. The greedy line plays for diamond length but risks letting West in with club winners. At matchpoints you might play for the overtrick; at teams just take your 9 tricks. Adjust your line to the scoring.",
+      "par_tricks": null
+    }
+  ]
+}

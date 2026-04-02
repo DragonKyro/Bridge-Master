@@ -1,0 +1,157 @@
+{
+  "theme": "Hold-Up Play and Ducking",
+  "description": "Teaching hands focused on hold-up plays, ducking strategies, danger hand recognition, and avoidance techniques in both notrump and suit contracts.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Hold up once in notrump",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ98.KQJ.76.QJ4 T43.T987.A54.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 81 (Beginner): West leads the SK against 3NT. Duck the first spade (hold up the SA once). Win the second round. Now if East gains the lead, East has no spade to return. You can safely drive out the DA to establish diamonds. Holding up once exhausts East's spades.",
+      "par_tricks": null
+    },
+    {
+      "title": "Hold up twice in notrump",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ93.KQJ.76.QJ4 T4.T987.A54.AK32 872.432.T32.T987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 82 (Intermediate): West leads the SK from a 5-card suit. Duck the first and second rounds of spades. Win the third with SA. Now East has no spade left. When East wins the DA, East cannot return a spade, so West's remaining spade winners are stranded.",
+      "par_tricks": null
+    },
+    {
+      "title": "Ducking to cut communications",
+      "deal_pbn": "S:A65.A65.AKQJ9.65 KQJ98.KQJ.76.QJ4 T43.T987.854.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 83 (Intermediate): West leads spades. You have 9 top tricks but the defense threatens to cash 5 if they maintain communication. Duck the first round of spades to sever the link between East and West. Win the continuation and cash your winners.",
+      "par_tricks": null
+    },
+    {
+      "title": "Ducking to isolate one defender",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ98.QJ4.76.QJ4 T43.KT9.A54.AK32 72.8732.T32.T987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 84 (Intermediate): West leads spades with a 5-card suit. Duck the first round to isolate East from West's spades. After winning the second spade, drive out the DA. If East wins, East has no spade to return. West's spade winners are stranded because you broke the communication.",
+      "par_tricks": null
+    },
+    {
+      "title": "Ducking the first round of a suit",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ9.KQJ4.76.QJ4 T43.T987.A54.AK3 872.32.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 85 (Beginner): West leads the SK. Instead of winning immediately, duck (play low from both hands). This temporarily loses a trick but preserves your stopper for later. When you next win the SA, you maintain control and the opponents' communication may be broken.",
+      "par_tricks": null
+    },
+    {
+      "title": "Recognizing when not to hold up",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ9.KQ4.76.QJT4 T43.JT87.A54.AK3 872.932.T32.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 86 (Intermediate): West leads the SK. Here you should win immediately because you have 9 top tricks (5 diamonds, 2 clubs, 1 heart, 1 spade). Holding up is pointless since you never need to lose the lead. Ducking risks West finding a damaging switch. When you can run 9 tricks, take them.",
+      "par_tricks": null
+    },
+    {
+      "title": "Hold-up play to sever defenders communication",
+      "deal_pbn": "S:A65.K65.KQJ98.65 KQJ98.A97.76.QJ4 T43.QJT8.A54.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 87 (Intermediate): West leads spades. Duck the first round precisely. Win the second with SA. Now when you drive out the DA, if East wins, East cannot return a spade. The hold-up has severed the defenders' communication in the spade suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "Ducking in a suit contract",
+      "deal_pbn": "S:A65.AKJ98.654.65 KQJ9.765.KQ9.QJT T43.QT4.AT87.AK3 872.32.J32.98742",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 88 (Intermediate): Playing 4H, West leads SK. Duck the first round. Win the second spade with SA. Now draw trumps and develop diamonds. By ducking a spade, you give up one trick early but maintain trump control. If you win the first spade and lose a diamond later, they cash spade tricks while you have no trumps left.",
+      "par_tricks": null
+    },
+    {
+      "title": "Ducking to preserve control",
+      "deal_pbn": "S:A65.AKJ98.654.65 KQJ9.765.KQ9.QJT T84.QT4.AT87.AK3 732.32.J32.98742",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 89 (Intermediate): West leads the SK against 4H. Duck this trick to preserve the SA as a later control card. Winning immediately wastes the SA, and if you lose the lead later in diamonds, they cash spade tricks. Ducking delays losing a trick you were always going to lose, while preserving control.",
+      "par_tricks": null
+    },
+    {
+      "title": "Danger hand recognition",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ98.KQ4.76.QJ4 T43.JT87.A54.AK3 72.932.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 90 (Intermediate): West is the danger hand with established spades after the opening lead. East is safe. After holding up the SA, when you must lose a diamond trick, you want East to win it (East has no spade to return). Always identify the danger hand early and shape your play to keep that defender off lead.",
+      "par_tricks": null
+    },
+    {
+      "title": "Keeping the dangerous opponent off lead",
+      "deal_pbn": "S:A65.A65.AQ987.65 KQJ98.KQJ.65.QJ4 T43.T987.KT4.AK3 72.432.J32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 91 (Intermediate): West leads spades. After holding up and winning, finesse diamonds toward dummy's DK (not toward hand). If the finesse loses, it loses to East who is safe. Playing diamonds the other way risks losing to West, who cashes spades. Always finesse into the safe hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "Forcing the safe hand to win",
+      "deal_pbn": "S:A65.A65.KJ987.65 KQJ98.KQJ.65.QJ4 T43.T987.AQ4.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 92 (Intermediate): West is dangerous with established spades. After the hold-up, lead toward dummy's DAQ. If West plays low, finesse the DQ. If it loses to East's DK, East has no spade to return. You force the safe hand (East) to win the trick.",
+      "par_tricks": null
+    },
+    {
+      "title": "Avoidance play",
+      "deal_pbn": "S:A65.A65.AKJ98.65 KQJ98.KQJ.76.QJ4 T43.T987.T54.AK3 72.432.Q32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 93 (Intermediate): West is dangerous. You need 4 diamond tricks. Instead of cashing DA and DK (risking the DQ falling under West), lead the DT from dummy and finesse. If it loses to East's DQ, East has no spade. You shape the entire play around keeping West off lead -- classic avoidance.",
+      "par_tricks": null
+    },
+    {
+      "title": "Lead toward strength away from danger hand",
+      "deal_pbn": "S:A65.A65.AQ987.65 KQJ98.QJ4.65.QJ4 T43.KT87.KT4.AK3 72.932.J32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 94 (Intermediate): West is the danger hand with spades. To develop diamonds safely, lead from dummy toward South's DAQ. If West has the DJ, the finesse wins. If East has the DJ and wins, East cannot hurt you. Always lead toward your tenace from the side away from the danger hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "Play for the drop vs avoidance finesse",
+      "deal_pbn": "S:A65.AK5.AKJ98.65 KQJ98.J97.76.QJ4 T43.QT86.T54.AK3 72.432.Q32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 95 (Advanced): West is the danger hand. You need diamond tricks. With AKJ98 opposite T54, playing for the drop (DA then DK) succeeds only if DQ is doubleton. The finesse succeeds 50% but risks losing to West if West has DQ. Here, take the avoidance finesse through East: if it loses to East's DQ, you are safe. Accept slightly inferior percentage to avoid the danger hand.",
+      "par_tricks": null
+    }
+  ]
+}

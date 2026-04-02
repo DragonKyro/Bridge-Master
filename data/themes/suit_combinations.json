@@ -1,0 +1,307 @@
+{
+  "theme": "Suit Combination Themes",
+  "description": "A collection of hands focused on optimal play of specific suit combinations, from basic honor management to advanced restricted choice situations.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "311. AK Opposite Small",
+      "deal_pbn": "S:AK85.A74.KQ5.A63 QJT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AK opposite small. Cash the AK hoping to drop honors, then force out remaining high cards. Basic suit combination play.",
+      "par_tricks": 10
+    },
+    {
+      "title": "312. AQ Opposite Small",
+      "deal_pbn": "S:AQ85.A74.KQ5.A63 KJT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AQ opposite small. Lead toward the AQ from dummy. If West has the King, finesse the Queen. Basic finesse or play for the drop decision.",
+      "par_tricks": 10
+    },
+    {
+      "title": "313. KQ Opposite Small",
+      "deal_pbn": "S:KQ85.A74.KQ5.A63 AJT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KQ opposite small. Must lose the Ace but need to set up the suit. Lead the King to force the Ace. Entry management is critical with no Ace in the suit.",
+      "par_tricks": 9
+    },
+    {
+      "title": "314. AJ Opposite Small",
+      "deal_pbn": "S:AJ85.A74.KQ5.A63 KQT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AJ opposite small. Lead toward the AJ. If West plays low, insert the Jack. Standard finesse position against West for the King and Queen.",
+      "par_tricks": 9
+    },
+    {
+      "title": "315. KJ Opposite Small",
+      "deal_pbn": "S:KJ85.A74.KQ5.A63 AQT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KJ opposite small. Lead toward the KJ hoping to find the Ace or Queen onside. Duck or finesse depending on which honor you need.",
+      "par_tricks": 8
+    },
+    {
+      "title": "316. QJ Opposite Small",
+      "deal_pbn": "S:QJ85.A74.KQ5.A63 AKT3.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: QJ opposite small. Lead toward QJ to force out the Ace and King. Intermediate honor combination establishing length tricks.",
+      "par_tricks": 8
+    },
+    {
+      "title": "317. AQJ Opposite Small",
+      "deal_pbn": "S:AQJ5.A74.KQ5.A63 KT83.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AQJ opposite small. One high card (King) missing. Lead toward AQJ and finesse. If the King is onside, lose zero tricks in the suit.",
+      "par_tricks": 10
+    },
+    {
+      "title": "318. KQJ Opposite Small",
+      "deal_pbn": "S:KQJ5.A74.KQ5.A63 AT83.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KQJ opposite small. Missing the Ace. Lead the King to force out the Ace. Strong sequence makes this straightforward despite missing top honor.",
+      "par_tricks": 10
+    },
+    {
+      "title": "319. AJT Opposite Small",
+      "deal_pbn": "S:AJT5.A74.KQ5.A63 KQ83.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AJT opposite small. Lead toward AJT, finesse the Ten. If it loses to the Queen, re-enter dummy and finesse the Jack. Touching intermediates provide two finesse chances.",
+      "par_tricks": 10
+    },
+    {
+      "title": "320. KJT Opposite Small",
+      "deal_pbn": "S:KJT5.A74.KQ5.A63 AQ83.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KJT opposite small. Three-card tenace. Lead the King hoping to pin the Ace, then finesse the Jack if needed. Complex three-card tenace requiring careful play.",
+      "par_tricks": 9
+    },
+    {
+      "title": "321. QJT Opposite Small",
+      "deal_pbn": "S:QJT5.A74.KQ5.A63 AK83.QJT6.J84.Q5 9764.K85.A63.K74 2.932.T972.JT982",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: QJT opposite small. Intermediate spots. Lead the Queen to force out an honor. Continue with Jack then Ten to establish length winners.",
+      "par_tricks": 8
+    },
+    {
+      "title": "322. AQ Opposite Jxx",
+      "deal_pbn": "S:AQ5.A74.KQ85.A63 KT83.QJT6.J4.Q54 J64.K85.A963.K72 972.932.T72.JT98",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AQ opposite Jxx. Finesse the Queen, then if it wins, lead the Jack from dummy to unblock the suit. The Jack is a useful intermediate card.",
+      "par_tricks": 10
+    },
+    {
+      "title": "323. KQ Opposite Jxx",
+      "deal_pbn": "S:KQ5.A74.KQ85.A63 AT83.QJT6.J4.Q54 J64.K85.A963.K72 972.932.T72.JT98",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KQ opposite Jxx. Missing the Ace with blocked honors. Lead the Jack from dummy first. If West ducks, continue with low toward KQ. Complex entry management.",
+      "par_tricks": 9
+    },
+    {
+      "title": "324. AQJ Opposite xxx",
+      "deal_pbn": "S:AQJ.A74.KQ85.A63 KT83.QJT6.J4.Q54 654.K85.A963.K72 972.932.T72.JT98",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AQJ opposite xxx. Maximum expected tricks: finesse twice. Lead from dummy, finesse the Jack. Return to dummy, finesse the Queen. Three tricks if King onside.",
+      "par_tricks": 10
+    },
+    {
+      "title": "325. KQJ Opposite xxx",
+      "deal_pbn": "S:KQJ.A74.KQ85.A63 AT83.QJT6.J4.Q54 654.K85.A963.K72 972.932.T72.JT98",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: KQJ opposite xxx. Without the Ace but with length. Lead the King to force the Ace. With dummy entries, establish the remaining honors as winners.",
+      "par_tricks": 9
+    },
+    {
+      "title": "326. AKT Opposite xxx",
+      "deal_pbn": "S:AKT.A74.KQ85.A63 QJ83.QJT6.J4.Q54 654.K85.A963.K72 972.932.T72.JT98",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: AKT opposite xxx. Cash the Ace then lead toward the KT. If the Queen and Jack are split, the Ten becomes a winning finesse card. Intermediates used correctly.",
+      "par_tricks": 10
+    },
+    {
+      "title": "327. Axxx Opposite QJx",
+      "deal_pbn": "S:A864.A74.KQ5.A63 KT53.QJT6.J84.Q5 QJ7.K85.A63.K974 92.932.T972.JT82",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Axxx opposite QJx. Lead the Queen from dummy. If West covers with King, win the Ace and the remaining cards are high. Direction and timing matter.",
+      "par_tricks": 10
+    },
+    {
+      "title": "328. Axxx Opposite KJx",
+      "deal_pbn": "S:A864.A74.KQ5.A63 QT53.QJT6.J84.Q5 KJ7.K85.A63.K974 92.932.T972.JT82",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Axxx opposite KJx. Two lines: finesse the Jack or play Ace then King hoping the Queen drops. Complex two potential lines depending on distribution clues.",
+      "par_tricks": 10
+    },
+    {
+      "title": "329. Axxx Opposite QTx",
+      "deal_pbn": "S:A864.A74.KQ5.A63 KJ53.QJT6.J84.Q5 QT7.K85.A63.K974 92.932.T972.JT82",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Axxx opposite QTx. Lead the Queen from dummy. Spot cards matter: if West covers, win Ace and the Ten is promoted. Restricted choice applies if honors split.",
+      "par_tricks": 9
+    },
+    {
+      "title": "330. Kxxx Opposite QJx",
+      "deal_pbn": "S:K864.A74.KQ5.A63 AT53.QJT6.J84.Q5 QJ7.K85.A63.K974 92.932.T972.JT82",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Kxxx opposite QJx. Missing the Ace, direction-sensitive. Lead the Queen from dummy hoping to pin the Ten or force the Ace from the right side.",
+      "par_tricks": 9
+    },
+    {
+      "title": "331. Axx Opposite QTxx",
+      "deal_pbn": "S:A85.A74.KQ5.A963 KJ63.QJT6.J84.Q5 QT74.K85.A63.K72 92.932.T972.JT84",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Axx opposite QTxx. Five cards opposite three. Lead toward the Queen. If it wins, return and lead the Ten for a second finesse. Length compensates for missing honors.",
+      "par_tricks": 10
+    },
+    {
+      "title": "332. Axx Opposite JTxx",
+      "deal_pbn": "S:A85.A74.KQ5.A963 KQ63.QJT6.J84.Q5 JT74.K85.A63.K72 92.932.T972.JT84",
+      "contract": "3S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Axx opposite JTxx. Lead the Jack from dummy. If West covers, win the Ace and the Ten is promoted. Combination play with intermediates.",
+      "par_tricks": 9
+    },
+    {
+      "title": "333. Kxx Opposite JTxx",
+      "deal_pbn": "S:K85.A74.KQ5.A963 AQ63.QJT6.J84.Q5 JT74.K85.A63.K72 92.932.T972.JT84",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spades: Kxx opposite JTxx. Missing Ace and Queen with length. Lead the Jack from dummy. If West plays the Ace, the King and Ten are promoted. If West ducks, the Jack wins.",
+      "par_tricks": 8
+    },
+    {
+      "title": "334. 9-Card Fit Missing the Queen",
+      "deal_pbn": "S:AKJ85.A74.KQ5.63 T63.QJT6.J84.QJ5 9742.K85.A63.A74 Q.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Nine spades between the hands missing the Queen. With 9 cards, play the Ace and King (percentage play). The Queen drops singleton from East. Eight ever, nine never.",
+      "par_tricks": 11
+    },
+    {
+      "title": "335. 8-Card Fit Missing the Queen",
+      "deal_pbn": "S:AKJ85.A74.KQ5.63 T63.QJT6.J84.QJ5 974.K85.A632.A74 Q2.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Eight spades between the hands missing the Queen. With 8 cards, finesse for the Queen (eight ever). Cash the Ace, then lead toward KJ and finesse the Jack.",
+      "par_tricks": 10
+    },
+    {
+      "title": "336. 9-Card Fit Missing the King",
+      "deal_pbn": "S:AQJ85.A74.KQ5.63 K63.QJT6.J84.QJ5 T742.K85.A63.A74 9.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Nine spades missing the King. Finesse or play for the drop? With 9 cards, the drop is slightly better. But here the finesse works too since West holds Kxx.",
+      "par_tricks": 11
+    },
+    {
+      "title": "337. 9-Card Fit Missing KJ",
+      "deal_pbn": "S:AQT85.A74.KQ5.63 KJ3.QJT6.J84.QJ5 9742.K85.A63.A74 6.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Nine spades missing KJ. Finesse the Queen; if it wins, re-enter dummy and finesse the Ten for the Jack. With West holding KJx, both finesses succeed.",
+      "par_tricks": 11
+    },
+    {
+      "title": "338. 9-Card Fit Missing QJ",
+      "deal_pbn": "S:AKT85.A74.KQ5.63 QJ3.QJT6.J84.QJ5 9742.K85.A63.A74 6.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Nine spades missing QJ. Cash the Ace, then finesse the Ten. If West started with QJx, the Ten loses to an honor but the King drops the other. Play for the split.",
+      "par_tricks": 10
+    },
+    {
+      "title": "339. 10-Card Fit with One Honor Missing",
+      "deal_pbn": "S:AJ9854.A74.KQ5.6 KT.QJT6.J84.QJ53 7632.K85.A63.A74 Q.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ten spades missing the Queen. With 10 cards, play the Ace or King to drop the singleton or doubleton Queen. Here East has singleton Queen. Always play for the drop with 10 cards.",
+      "par_tricks": 12
+    },
+    {
+      "title": "340. Restricted Choice in Suit Combinations",
+      "deal_pbn": "S:AT985.A74.KQ5.63 QJ3.QJT6.J84.QJ5 7642.K85.A63.A74 K.932.T972.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Play the Ace, East drops the King. By restricted choice, East is more likely to hold a singleton King than KQ or KJ. Finesse the Ten on the next round. West started with QJx.",
+      "par_tricks": 10
+    }
+  ]
+}

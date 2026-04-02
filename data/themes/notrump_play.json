@@ -1,0 +1,207 @@
+{
+  "theme": "Notrump Play Themes",
+  "description": "Teaching hands for declarer play in notrump contracts, covering planning, suit establishment, hold-up plays, tempo, and trick development.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Count winners before taking tricks",
+      "deal_pbn": "S:AK5.AK5.AK54.654 QJT9.QJT.QJT.QJT 876.876.876.AK32 432.9432.932.987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 151 (Beginner): Before playing a card, count your sure winners: 2 spades, 2 hearts, 2 diamonds, 2 clubs = 8. You need one more. Plan to develop a 9th trick in diamonds (a 3-2 break yields a long diamond) or clubs. Counting first prevents haphazard play.",
+      "par_tricks": null
+    },
+    {
+      "title": "Identify the suit to develop",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ9.KQJ.76.QJT4 T43.T987.A54.AK3 872.432.T32.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 152 (Beginner): You have 4 sure tricks outside diamonds. Diamonds offer 5 tricks once the DA is knocked out. Choose diamonds as your development suit. Don't waste time on hearts or clubs which yield fewer tricks. Identify the suit that gives you the most tricks for the least cost.",
+      "par_tricks": null
+    },
+    {
+      "title": "Choose between immediate cashing and development",
+      "deal_pbn": "S:AK5.AK5.QJT98.65 QJT9.QJT.K6.QJT4 876.876.A54.AK32 432.9432.732.987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 153 (Beginner): You have 6 top tricks (2 spades, 2 hearts, 2 clubs). Rather than cashing them immediately, develop diamonds first by driving out the DK. This gives you 5 diamond tricks for a total of 11. Develop before cashing to maximize your trick count.",
+      "par_tricks": null
+    },
+    {
+      "title": "Preserve entries to the long suit",
+      "deal_pbn": "S:A65.AK5.654.A654 KQJ9.QJT.KQ9.QJT 874.876.AJT87.K3 T32.9432.32.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 154 (Beginner): Dummy has a long diamond suit to establish. Preserve dummy's entries (CK and a later small diamond as entry after the suit is set up). Win the spade lead with SA, cross to CK, drive out DKQ. The established diamonds are in dummy, so you need an entry there to cash them.",
+      "par_tricks": null
+    },
+    {
+      "title": "Hold up to cut communications",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ93.KQJ.76.QJ4 T4.T987.A54.AK32 872.432.T32.T987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 155 (Intermediate): West leads the SK from a 5-card suit. Duck twice, win the third spade. Now East has no spade to return. Drive out the DA safely. If East wins, East is endplayed. The hold-up cuts defenders' communication.",
+      "par_tricks": null
+    },
+    {
+      "title": "Avoid the dangerous defender",
+      "deal_pbn": "S:A65.A65.AQ987.65 KQJ98.KQJ.65.QJ4 T43.T987.KT4.AK3 72.432.J32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 156 (Intermediate): West is dangerous with spade winners. Finesse diamonds through East: lead from dummy toward your DAQ. If East has the DJ, you gain. If East wins, East has no spade to return. Never give West the lead by playing diamonds the wrong way.",
+      "par_tricks": null
+    },
+    {
+      "title": "Knock out the stopper",
+      "deal_pbn": "S:AK5.A65.QJT98.65 QJT9.KQJ.K6.QJT4 876.T987.A54.AK3 432.432.732.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 157 (Beginner): You need 9 tricks. Diamonds can provide 5 once the DK is knocked out. Lead the DQ at trick two to force out West's DK. After the DK is gone, your DJT98 in hand and DA in dummy yield 5 diamond tricks plus 4 top tricks elsewhere.",
+      "par_tricks": null
+    },
+    {
+      "title": "Establish side suit with limited stoppers",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ98.KQJ.76.QJ4 T43.T987.A54.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 158 (Intermediate): You have only one spade stopper. Race to establish diamonds before the defense establishes spades. Hold up the SA once, win the second spade, then drive out the DA immediately. You must establish your suit before they run theirs.",
+      "par_tricks": null
+    },
+    {
+      "title": "Keep control of the hand",
+      "deal_pbn": "S:AK5.AK5.QJT98.65 QJT9.QJT.K6.QJT4 876.876.A754.AK3 432.9432.32.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 159 (Intermediate): After winning the spade lead, drive out the DK immediately. Don't cash side winners first, as that wastes tempo. Maintaining control means keeping your stoppers intact while establishing tricks. Win SA, lead DQ right away. You keep control by not squandering your high cards on premature side-suit plays.",
+      "par_tricks": null
+    },
+    {
+      "title": "Use multiple suits for trick development",
+      "deal_pbn": "S:AK5.AK54.QJ65.65 QJT9.QJT.K98.QJT 876.876.AT74.AK3 432.932.32.98742",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 160 (Intermediate): You need 9 tricks. No single suit provides enough, but combining diamonds (4 tricks after driving out DK) with hearts (possibly a 3-3 break for a 4th trick) gives you enough. Develop diamonds first, then test hearts. Use multiple sources to assemble 9 tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "Play on the suit opponents helped establish",
+      "deal_pbn": "S:AK5.QJT98.A65.65 QJT9.K6.KQJ.QJT4 876.A754.T87.AK3 432.32.9432.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 161 (Intermediate): West leads the SQ. After winning, note that West's lead has helped establish your spade suit. Now develop hearts by driving out HK. The opponents gave you tempo in spades; exploit this gift by focusing on your main suit (hearts) for the remaining tricks you need.",
+      "par_tricks": null
+    },
+    {
+      "title": "Build tricks from length",
+      "deal_pbn": "S:A65.A65.87654.A6 KQJ9.KQJ.KQ.KQJ4 T43.T987.AJT9.53 872.432.32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 162 (Beginner): Your long diamond suit (5 cards opposite 4) can generate extra tricks through length. Play DA, then continue diamonds. After the opponents' DKQ fall, your remaining small diamonds become winners. Length generates tricks even from small cards.",
+      "par_tricks": null
+    },
+    {
+      "title": "Build tricks from honors",
+      "deal_pbn": "S:A65.AKQ.KQJ9.654 KQJ9.J98.876.QJT T43.T765.AT5.AK3 872.432.432.9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 163 (Beginner): Your honor cards in diamonds (KQJ9 opposite AT5) can be promoted into tricks by driving out the missing honors. Lead the DK to force out the DA or establish your sequence. Honor combinations create tricks through force and repetition.",
+      "par_tricks": null
+    },
+    {
+      "title": "Notrump end position planning",
+      "deal_pbn": "S:AK5.AK5.AKJ98.65 QJT9.QJT.76.QJT4 876.876.T54.AK32 432.9432.Q32.987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 164 (Advanced): Before cashing winners, visualize the endgame. You need the diamond finesse but must plan entries. Cash the DAK first, then if the DQ does not drop, cross to dummy via CK to lead a diamond toward the DJ. Plan the end position before committing to a line.",
+      "par_tricks": null
+    },
+    {
+      "title": "Managing tempo in notrump",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ9.KQJ4.76.QJ4 T43.T987.A54.AK3 872.32.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 165 (Intermediate): Tempo means staying ahead of the defenders. Win the spade lead (not ducking since you have only one stopper and 4 suits to develop). Immediately attack diamonds to establish 5 tricks. Every trick you spend elsewhere is a tempo lost to the defense.",
+      "par_tricks": null
+    },
+    {
+      "title": "When to duck an opening lead",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ93.KQ4.76.QJ4 T4.JT87.A54.AK32 872.932.T32.T987",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 166 (Beginner): West leads SK from KQJ93. You must duck! With only one stopper, holding up ensures that when East gains the lead (in diamonds), East has no spade to return. Ducking the opening lead is correct when you must lose the lead later.",
+      "par_tricks": null
+    },
+    {
+      "title": "When to win immediately",
+      "deal_pbn": "S:AK5.A65.QJT98.65 QJT96.KQJ.K6.QJ4 87.T987.A754.AK3 432.432.32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 167 (Beginner): West leads SQ. You have AK of spades (two stoppers) and 8 tricks ready (4 diamonds, 2 clubs, 1 heart, 1 spade). Win immediately with SA and drive out DK for 9 tricks. Ducking gains nothing here since you have a second stopper and enough tricks after one drive.",
+      "par_tricks": null
+    },
+    {
+      "title": "Develop nine tricks before defense develops five",
+      "deal_pbn": "S:A65.A65.KQJ98.65 KQJ98.KQJ.76.QJ4 T43.T987.A54.AK3 72.432.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 168 (Intermediate): This is a race. West leads spades (5-card suit). You hold up once, win the second spade. Now immediately attack diamonds. You need 5 diamond tricks plus 4 top tricks. If you develop 9 tricks before West establishes and cashes 5 defensive tricks, you win the race.",
+      "par_tricks": null
+    },
+    {
+      "title": "Using clues from opening lead",
+      "deal_pbn": "S:A65.AK5.KJ987.65 KQJ98.QJ4.65.QJ4 T43.T987.AQ4.AK3 72.632.T32.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 169 (Intermediate): West leads the SK, suggesting a 5-card spade suit. This tells you East has at most 2 spades. After holding up and winning, you can safely finesse diamonds into East's hand. Use the opening lead as a clue about the defenders' distribution to guide your play.",
+      "par_tricks": null
+    },
+    {
+      "title": "Balancing safety vs aggression",
+      "deal_pbn": "S:AK5.AK5.QJT98.65 QJT9.QJT.K6.QJT4 876.9876.A754.AK 432.432.32.98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 170 (Intermediate): You have 8 top tricks and need one more from diamonds. The safe line is to drive out the DK -- even if defense cashes some spades, you have two stoppers. Don't try a risky finesse in another suit when a straightforward development play is available. Balance safety vs aggression by choosing the line that guarantees your contract.",
+      "par_tricks": null
+    }
+  ]
+}

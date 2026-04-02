@@ -1,0 +1,157 @@
+{
+  "theme": "Endplay and Elimination Basics",
+  "description": "Hands teaching the fundamentals of elimination play, throw-ins, and endplays — stripping side suits and forcing defenders to make losing returns.",
+  "difficulty": 5,
+  "hands": [
+    {
+      "title": "201. Eliminate side suits",
+      "deal_pbn": "S:AK87.AK5.T62.A83 QJT9.T87.KQ9.T65 6532.QJ6.A87.KQ7 4.9432.J543.J942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Strip hearts and clubs, then play diamonds. Defenders must give a ruff-sluff or open diamonds for you.",
+      "par_tricks": null
+    },
+    {
+      "title": "202. Throw defender in",
+      "deal_pbn": "S:AKQ5.A65.T62.A83 JT98.KQJ.KQ9.T65 7632.T87.A87.KQ7 4.9432.J543.J942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After stripping side suits, exit with a heart to West. West must lead into your diamond tenace or concede ruff-sluff.",
+      "par_tricks": null
+    },
+    {
+      "title": "203. Endplay to force lead away from honor",
+      "deal_pbn": "S:AK65.AK8.T63.A75 QJT9.J976.KQ9.83 8732.T52.A87.KQ6 4.Q43.J542.JT942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Strip clubs and hearts, then exit. West holds KQ9 of diamonds and must lead away from the honor into your AT tenace.",
+      "par_tricks": null
+    },
+    {
+      "title": "204. Endplay to concede ruff-and-discard",
+      "deal_pbn": "S:AKQ7.AK5.T64.A73 JT98.QJT.KQ9.T65 542.876.A873.KQ8 63.9432.J52.J942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Eliminate clubs and hearts, then throw West in with a diamond. West has only hearts and clubs left, conceding ruff-and-discard.",
+      "par_tricks": null
+    },
+    {
+      "title": "205. Simple strip and endplay",
+      "deal_pbn": "S:AKQ8.AK6.T64.A75 JT97.QJT.KQ9.863 6532.875.A87.KQ4 4.9432.J532.JT92",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash AK of hearts, AKQ of clubs, then exit with a heart. Defender must break diamonds or give ruff-sluff.",
+      "par_tricks": null
+    },
+    {
+      "title": "206. Rectify the count for an endplay",
+      "deal_pbn": "S:AKQ7.A65.T63.A86 JT98.KQJ.KQ9.T73 6532.T87.A87.KQ5 4.9432.J542.J942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You must lose a heart early to rectify the count — ducking a heart before stripping and throwing West in.",
+      "par_tricks": null
+    },
+    {
+      "title": "207. Identify endplay position early",
+      "deal_pbn": "S:AKQ6.AK7.T63.A86 JT98.QJT.KQ9.T73 7532.865.A87.KQ5 4.9432.J542.J942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Spot the endplay potential at trick one. Avoid cashing the wrong winners — strip methodically before the throw-in.",
+      "par_tricks": null
+    },
+    {
+      "title": "208. Create the endplay by ducking",
+      "deal_pbn": "S:AKQ6.AK8.T63.A65 JT98.QJ7.KQ9.873 732.T65.A87.KQ42 54.9432.J542.JT9",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Duck a heart to place the lead with West. After winning, West is endplayed — any return helps declarer.",
+      "par_tricks": null
+    },
+    {
+      "title": "209. Create the endplay by removing exits",
+      "deal_pbn": "S:AKQ6.AK7.T63.A85 JT98.QJT.KQ9.T73 732.865.A87.KQ64 54.9432.J542.J92",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash clubs and hearts to strip West of safe exit cards. Then throw West in with a heart — forced to lead diamonds or give ruff-sluff.",
+      "par_tricks": null
+    },
+    {
+      "title": "210. Throw-in with trump still out",
+      "deal_pbn": "S:AKQ6.AK87.T63.A6 JT98.QJ5.KQ9.873 7532.T64.A87.KQ5 4.932.J542.JT942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Execute the throw-in before drawing all trumps. West still holds a trump but is endplayed on the heart exit.",
+      "par_tricks": null
+    },
+    {
+      "title": "211. Trump endplay basics",
+      "deal_pbn": "S:AKQ7.AK86.T63.A5 JT98.QJ5.KQ9.873 6532.T74.A87.KQ6 4.932.J542.JT942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Use a trump as the throw-in card. After stripping side suits, exit with your last trump to endplay West.",
+      "par_tricks": null
+    },
+    {
+      "title": "212. Avoidance plus endplay",
+      "deal_pbn": "S:AKQ7.AK86.T63.A7 JT98.QJ5.KQ9.853 6532.T74.A87.KQ6 4.932.J542.JT942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Keep East off lead (dangerous hand) while engineering a throw-in against West. Strip and exit toward West only.",
+      "par_tricks": null
+    },
+    {
+      "title": "213. Exit card management",
+      "deal_pbn": "S:AKQ7.AK83.T63.A7 JT98.QJ5.KQ9.865 6532.T76.A87.KQ3 4.942.J542.JT942",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Preserve the 3 of hearts as your exit card for the throw-in. Cashing the wrong heart early destroys the endplay.",
+      "par_tricks": null
+    },
+    {
+      "title": "214. Duck to place the lead",
+      "deal_pbn": "S:AKQ7.AK8.T63.A54 JT98.QJ5.KQ9.876 652.T76.A87.KQ32 43.9432.J542.JT9",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Duck a heart to the desired defender. West wins and is stuck — any return gives declarer the contract.",
+      "par_tricks": null
+    },
+    {
+      "title": "215. Throw-in to solve a guess",
+      "deal_pbn": "S:AKQ7.AK5.T63.A86 JT98.QJT.KQ9.T73 652.876.A87.KQ54 43.9432.J542.J92",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Instead of guessing which defender holds a key card, strip and throw-in. The defender is forced to solve the guess for you.",
+      "par_tricks": null
+    }
+  ]
+}

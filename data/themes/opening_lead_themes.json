@@ -1,0 +1,167 @@
+{
+  "theme": "Opening Lead Themes",
+  "description": "A comprehensive collection of hands focused on opening lead selection, covering sequence leads, fourth-best leads, singleton leads, trump leads, and strategic choices between active and passive approaches.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "285. Lead top of sequence",
+      "deal_pbn": "S:AQ5.874.KJ85.AQ4 K83.KQJ93.T94.73 JT74.A65.AQ72.K5 962.T2.63.JT9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KQJ93 in hearts. The correct opening lead is the king — the top of a three-card or longer sequence. This lead is safe (it doesn't give away a trick) and begins establishing West's long suit. Partner sees the king and knows West also holds the queen and jack.",
+      "par_tricks": null
+    },
+    {
+      "title": "286. Lead fourth best",
+      "deal_pbn": "S:AQ5.87.KJT85.AQ4 K83.KT963.94.T73 JT74.A54.AQ72.K5 962.QJ2.63.J9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KT963 in hearts without a solid sequence. The correct lead is the 6 — fourth best from the longest and strongest suit. Partner applies the Rule of 11: subtract 6 from 11 = 5 cards higher than the 6 outside West's hand. This helps East determine the right play at trick one.",
+      "par_tricks": null
+    },
+    {
+      "title": "287. Lead from touching honors",
+      "deal_pbn": "S:AQ5.874.AJ85.AQ4 K83.QJT93.T94.73 JT74.A65.KQ72.K5 962.K2.63.JT9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds QJT93 in hearts — touching honors. Lead the queen, the top of touching honors. This promises the jack (and usually the ten). Touching honor leads are desirable because they establish tricks without risk. The queen lead traps the king if it's in the next hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "288. Lead from interior sequence",
+      "deal_pbn": "S:AQ5.874.KJ85.AQ4 K83.KJT93.T94.73 JT74.A65.AQ72.K5 962.Q2.63.JT9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KJT93 in hearts — an interior sequence (KJT with the queen missing). The correct lead is the jack, top of the interior sequence. This lead attacks the suit effectively: if the queen is in East or South, the jack forces it out. The king remains as an entry to cash established hearts later.",
+      "par_tricks": null
+    },
+    {
+      "title": "289. Lead from unsupported ace",
+      "deal_pbn": "S:KQJ5.KJ87.K85.K4 T83.A953.AT94.87 A974.Q64.Q72.A53 62.T2.J63.QJT962",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds A953 in hearts. Leading an unsupported ace against notrump is generally risky — it may set up declarer's king-jack. However, when the auction suggests hearts is the right suit and you need to establish it, the ace lead grabs a trick while retaining suit control. Here the lead is the 5 (fourth best), not the ace.",
+      "par_tricks": null
+    },
+    {
+      "title": "290. Lead from unsupported king",
+      "deal_pbn": "S:AQJ5.QJ87.Q85.K4 T83.K953.AT94.87 K974.A64.K72.A53 62.T2.J63.QJT962",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds K953 in hearts. Leading from an unsupported king is risky but sometimes necessary when it's the best suit to attack. West leads the 5 (fourth best), hoping partner has the ace or queen-jack. If partner holds the ace, the king becomes established. The risk is that declarer holds AQx and gets two free tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "291. Lead a singleton",
+      "deal_pbn": "S:AKQJ5.K73.Q94.K6 T874.JT84.6.J983 62.A95.AKT732.A5 93.Q62.J85.QT742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds a singleton 6 of diamonds. Against a suit contract, this is an attractive lead — West hopes to ruff a diamond when partner gains the lead. The singleton lead is especially effective when West has trump entries or when the bidding suggests partner has diamond honors to win a trick.",
+      "par_tricks": null
+    },
+    {
+      "title": "292. Lead trumps",
+      "deal_pbn": "S:AKQ85.73.Q954.K6 JT74.KQJ8.T6.J83 62.A95.AK72.AT54 93.T642.J83.Q972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The bidding suggests dummy will be ruffing (e.g., declarer bid two suits). West should lead a trump to cut down dummy's ruffing power. Leading the jack of spades (top of sequence in trumps) removes one of dummy's trumps. Trump leads are correct when the defense's goal is to prevent ruffs rather than establish side suits.",
+      "par_tricks": null
+    },
+    {
+      "title": "293. Avoid underleading an ace in suit contracts",
+      "deal_pbn": "S:KQJ85.K73.Q94.K6 T74.AT84.T63.J83 A62.J95.AK72.A54 93.Q62.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds AT84 in hearts. In a suit contract, do NOT underlead the ace — lead the ten (top of the interior sequence T-8) or find another suit. Underleading an ace risks losing it entirely if declarer has a singleton king. In notrump, underleading aces is standard; in suit contracts, it is dangerous.",
+      "par_tricks": null
+    },
+    {
+      "title": "294. Lead partner's suit",
+      "deal_pbn": "S:AQ5.874.KJT85.K4 K83.KQ93.94.T763 JT74.A65.AQ72.A5 962.JT2.63.QJ982",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "East overcalled 2C during the auction. West should lead a club — partner's bid suit — rather than hearts. Lead the 7 (fourth best from four) or the 3 (low from three small). Partner's overcall shows values and length, making their suit the best line of attack. Loyalty to partner's suit is a key defensive principle.",
+      "par_tricks": null
+    },
+    {
+      "title": "295. Lead unbid suit",
+      "deal_pbn": "S:AQ5.KJ87.KJ85.K4 T83.953.AT94.873 KJ74.AQ64.Q72.A5 962.T2.63.QJT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The bidding went 1D-1H-4H. Spades and clubs were never mentioned. West should lead a club — an unbid suit — rather than leading into declarer's bid diamond suit or the trump suit. Unbid suits are attractive because the opponents have not shown strength there, increasing the chance partner has useful cards.",
+      "par_tricks": null
+    },
+    {
+      "title": "296. Lead through strength",
+      "deal_pbn": "S:KJ5.AJ87.KQ5.KJ4 QT83.93.AT94.873 A974.K654.872.A5 62.QT2.J63.QT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Dummy (North) has shown values. When leading through strength, West leads a suit where dummy is strong — such as a spade toward partner's possible honors. Leading through strength (dummy's AK) and up to weakness forces declarer to commit before seeing the defense's cards. Here West leads a diamond through declarer's KQ toward East's possible jack.",
+      "par_tricks": null
+    },
+    {
+      "title": "297. Lead up to weakness",
+      "deal_pbn": "S:KJ5.AJ87.KQ5.KJ4 A983.93.T974.873 QT74.K654.862.A5 62.QT2.AJ3.QT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West should lead up to declarer's weakness. Declarer's hand (South) has KQ5 in diamonds, but East may hold the AJ behind it. A diamond lead from West goes up to declarer's weakness and through to East's strength. This trapping play can net extra tricks when the honors are positioned favorably.",
+      "par_tricks": null
+    },
+    {
+      "title": "298. Passive lead against slam",
+      "deal_pbn": "S:AKJ85.AK3.KQ4.A6 T74.JT84.T63.J83 Q62.Q95.A972.K54 93.762.J85.QT972",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Against 6NT, declarer has shown a powerful hand. West should make a passive lead — the jack of hearts (top of sequence). Against slams, avoid aggressive leads that might give away the setting trick. Declarer needs 12 tricks; don't hand them an extra one. A safe lead forces declarer to generate tricks on their own.",
+      "par_tricks": null
+    },
+    {
+      "title": "299. Attacking lead against game",
+      "deal_pbn": "S:QJ5.Q874.KJ5.AQ4 K83.KT963.A94.73 AT74.A5.QT72.K85 962.J2.863.JT962",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Against 3NT, West should attack aggressively with the 6 of hearts (fourth best from KT963). The defense must establish their long suit before declarer takes nine tricks. Against game in notrump, passive defense rarely succeeds — you must race to set up and cash your suit. The heart attack gives the defense the best chance.",
+      "par_tricks": null
+    },
+    {
+      "title": "300. Choosing between active and passive leads",
+      "deal_pbn": "S:AQJ85.K73.K94.K6 T74.QJ84.T63.J83 K62.AT5.AQ72.A54 93.962.J85.QT972",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West must choose: hearts (QJ84, a near-sequence offering safety) or another suit. The QJ lead is semi-aggressive — it attacks while being relatively safe. The decision depends on the auction: if declarer has shown a long running suit, be aggressive (you need tricks fast). If the auction was tentative, be passive and wait. Here the QJ of hearts is the best balance of safety and attack.",
+      "par_tricks": null
+    }
+  ]
+}

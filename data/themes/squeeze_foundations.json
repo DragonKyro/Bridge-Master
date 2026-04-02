@@ -1,0 +1,157 @@
+{
+  "theme": "Squeeze Foundations",
+  "description": "Hands introducing squeeze play — recognizing potential, rectifying the count, managing entries and threats, and executing simple, positional, automatic, and double squeezes.",
+  "difficulty": 5,
+  "hands": [
+    {
+      "title": "216. Recognizing squeeze potential",
+      "deal_pbn": "S:AKQ5.A64.AK3.K64 JT98.KQJ.J97.J98 7632.T87.Q86.AQ3 4.9532.T542.T752",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count 11 top tricks. West guards both hearts and diamonds. Running spades squeezes West — he cannot hold both stoppers.",
+      "par_tricks": null
+    },
+    {
+      "title": "217. Count winners for squeeze position",
+      "deal_pbn": "S:AKQ6.A64.AK3.K64 JT98.KQJ.J97.J98 7532.T87.Q86.AQ3 4.9532.T542.T752",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Verify you are one trick short with all remaining winners. This is the N-1 condition for a squeeze to operate.",
+      "par_tricks": null
+    },
+    {
+      "title": "218. Rectify the count",
+      "deal_pbn": "S:AKQ6.A65.AK3.K64 JT98.KQJ.J97.J98 7532.T87.Q86.AQ3 4.9432.T542.T752",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You must lose one trick early to rectify the count. Duck a heart, then run winners to squeeze West in hearts and diamonds.",
+      "par_tricks": null
+    },
+    {
+      "title": "219. Cash winners in proper order",
+      "deal_pbn": "S:AKQ7.A64.AK3.K64 JT98.KQJ.J97.J98 6532.T87.Q86.AQ3 4.9532.T542.T752",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash spades before diamonds. Running diamonds first squanders the squeeze — the order of winners matters to preserve threats and entries.",
+      "par_tricks": null
+    },
+    {
+      "title": "220. Simple squeeze against one defender",
+      "deal_pbn": "S:AKQ7.A64.AK3.K43 JT98.KQJ.J97.J98 6532.T87.Q86.AQ5 4.9532.T542.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West alone guards hearts and diamonds. Run spades and clubs — on the last winner, West is squeezed and must unguard one suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "221. Positional squeeze basics",
+      "deal_pbn": "S:AK76.A64.AK3.K43 QJT9.KQJ.J97.J98 8532.T87.Q86.AQ5 4.9532.T542.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The squeeze only works because West sits over the threat cards. If East held those guards, the positional squeeze would fail.",
+      "par_tricks": null
+    },
+    {
+      "title": "222. Automatic squeeze basics",
+      "deal_pbn": "S:AKQ7.A6.AK3.K643 JT98.KQJ.J97.J98 6532.T87.Q86.AQ5 4.95432.T542.T72",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Threat cards are split so that either defender is squeezed regardless of position. The automatic squeeze works against either opponent.",
+      "par_tricks": null
+    },
+    {
+      "title": "223. Squeeze against a defender guarding two suits",
+      "deal_pbn": "S:AKQ7.A65.AK3.K43 JT98.KQJ.J97.J98 6532.T87.Q86.AQ5 4.9432.T542.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West is overloaded guarding hearts and diamonds. Run black-suit winners to force West to abandon one guard.",
+      "par_tricks": null
+    },
+    {
+      "title": "224. Entry management for squeeze",
+      "deal_pbn": "S:AKQ7.A65.AK4.K43 JT98.KQJ.J97.J98 6532.T87.Q86.AQ5 4.9432.T532.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Keep an entry to dummy's threat card. The squeeze card is useless if you cannot reach the established winner after defender discards.",
+      "par_tricks": null
+    },
+    {
+      "title": "225. Avoid blocking before squeeze",
+      "deal_pbn": "S:AKQ7.A65.AK4.K43 JT98.KQJ.J97.J98 6532.T87.Q83.AQ5 4.9432.T652.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Do not cash the diamond queen prematurely. Blocking the suit destroys the threat — keep Q83 in dummy as a connected menace.",
+      "par_tricks": null
+    },
+    {
+      "title": "226. Strip squeeze basics",
+      "deal_pbn": "S:AKQ7.A65.AK4.K53 JT98.KQJ.J97.J98 6532.T87.Q86.AQ4 4.9432.T532.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Combine stripping with squeeze pressure. After the squeeze forces a discard, the defender is also endplayed.",
+      "par_tricks": null
+    },
+    {
+      "title": "227. Squeeze to produce an endplay",
+      "deal_pbn": "S:AKQ7.A65.AK3.K54 JT98.KQJ.J97.J98 6532.T87.Q86.AQ3 4.9432.T542.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Run winners to squeeze West, then use the forced discard to create a throw-in position. Squeeze followed by endplay.",
+      "par_tricks": null
+    },
+    {
+      "title": "228. Double squeeze introduction",
+      "deal_pbn": "S:AKQ7.A65.AK3.K32 JT98.KQJ.864.J98 5432.T87.QJ9.AQ4 6.9432.T752.T765",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West guards hearts, East guards diamonds, both guard clubs. Running spades pressures both defenders in sequence — a double squeeze.",
+      "par_tricks": null
+    },
+    {
+      "title": "229. Threat cards and menace basics",
+      "deal_pbn": "S:AKQ7.A65.AK4.K54 JT98.KQJ.J97.J98 6532.T87.Q86.AQ3 4.9432.T532.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Identify threat cards: the heart 6 threatens West's guard, the diamond Q threatens West's stopper. Menaces must be accompanied by entries.",
+      "par_tricks": null
+    },
+    {
+      "title": "230. Recognizing when a squeeze is impossible",
+      "deal_pbn": "S:AKQ7.A65.AK5.K43 JT98.KQJ.J97.J98 6532.T87.Q86.AQ5 4.9432.T432.T762",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "No squeeze exists — threats lack entries, or both suits are guarded by different defenders with no common pressure point. Seek alternative play.",
+      "par_tricks": null
+    }
+  ]
+}

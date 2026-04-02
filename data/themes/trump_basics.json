@@ -1,0 +1,227 @@
+{
+  "theme": "Trump Basics",
+  "description": "Fundamental techniques for managing trumps: when to draw, when to delay, counting, control, and advanced trump plays.",
+  "difficulty": 2,
+  "hands": [
+    {
+      "title": "96. Drawing trumps immediately",
+      "deal_pbn": "S:A5.AKQ74.K63.A52 KJ83.J96.QT74.J9 QT62.T853.A52.K3 974.2.J98.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With no need to ruff in dummy, draw trumps immediately to prevent the defense from ruffing your winners. Three rounds of trumps clear the suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "97. Not drawing trumps too early",
+      "deal_pbn": "S:A5.AKJ74.863.A52 KJ83.Q96.QT74.J9 QT62.T853.A52.K3 974.2.KJ9.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You need to ruff a diamond in dummy before drawing trumps. If you draw trumps first, you lose the ruffing trick and go down.",
+      "par_tricks": null
+    },
+    {
+      "title": "98. When to delay drawing trumps",
+      "deal_pbn": "S:A5.AKJT4.863.A52 KJ83.Q96.KT74.J9 QT62.853.AQ52.K3 974.72.J9.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Delay drawing trumps to take a diamond finesse and ruff a diamond. Completing side-suit business first maximizes your trick count.",
+      "par_tricks": null
+    },
+    {
+      "title": "99. Counting trumps",
+      "deal_pbn": "S:A5.AKJT3.K63.A52 KJ83.Q96.QT74.J9 QT62.854.A52.K63 974.72.J98.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count trumps as they are played. With AKJTx opposite 854, track each round. After 3 rounds, note if one trump remains outstanding.",
+      "par_tricks": null
+    },
+    {
+      "title": "100. Pulling the last trump",
+      "deal_pbn": "S:A5.AKJT3.K63.A52 KJ83.Q97.QT74.J9 QT62.854.A52.K63 974.62.J98.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After drawing three rounds of trumps, one trump remains with a defender. Pull it before cashing side-suit winners to prevent a ruff.",
+      "par_tricks": null
+    },
+    {
+      "title": "101. Leaving one trump outstanding intentionally",
+      "deal_pbn": "S:A5.AKJT3.K63.A52 KJ83.Q96.QT74.63 QT62.874.A52.KJ9 974.52.J98.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After drawing two rounds, the Queen is the only trump out. It is a master trump. Leave it and switch to setting up side tricks rather than wasting a tempo.",
+      "par_tricks": null
+    },
+    {
+      "title": "102. Using trumps for control",
+      "deal_pbn": "S:A5.AKJ74.K63.A52 KQJ8.96.QT74.J93 T962.T853.A52.K6 743.Q2.J98.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Use trumps to control the hand by ruffing the third round of spades. Trumps serve as stoppers in the opponents' suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "103. Using trumps to prevent ruffs",
+      "deal_pbn": "S:A5.AKQT3.K63.A52 KJ83.J96.QT74.63 QT62.874.A52.KJ9 974.52.J98.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Draw trumps promptly to prevent the defense from ruffing your club or diamond winners. Removing their trumps protects your side-suit tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "104. Using trumps as entries",
+      "deal_pbn": "S:A5.AKJ43.K63.A52 KJ83.Q96.QT7.J93 QT62.T875.A52.K6 974.2.J984.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Use dummy's trump honors as entries to reach established winners in dummy. The T8 of hearts in dummy serve as entries after drawing trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "105. Managing trump length between declarer and dummy",
+      "deal_pbn": "S:A5.AKJT3.K63.A52 KQJ8.Q96.QT7.J93 T962.874.A52.K64 743.52.J984.QT87",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With 5 trumps in hand and 3 in dummy, manage the length advantage. Do not shorten your long trump holding unnecessarily by ruffing in the long hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "106. Trumping losers in the short hand",
+      "deal_pbn": "S:A53.AKJT3.86.A52 KJ8.Q96.QT74.J93 QT62.874.AK52.K6 974.52.J93.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff a diamond loser in the short hand (dummy) to gain an extra trick. This creates a trick that would otherwise be lost.",
+      "par_tricks": null
+    },
+    {
+      "title": "107. Avoiding ruffing losers in the long hand",
+      "deal_pbn": "S:A53.AKJT3.86.A52 KJ84.Q96.QT7.J93 QT62.874.AK52.K6 97.52.J943.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Resist the temptation to ruff in the long hand (South). Ruffing shortens your trump length and may cause you to lose trump control.",
+      "par_tricks": null
+    },
+    {
+      "title": "108. The long trump hand principle",
+      "deal_pbn": "S:A53.AKJT4.86.A52 KJ84.Q96.QT7.J93 QT62.873.AK52.K6 97.52.J943.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The long trump hand should not ruff unless necessary. Preserve length to maintain control and draw the opponents' trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "109. The short trump hand principle",
+      "deal_pbn": "S:A53.AKJT4.86.A53 KJ84.Q96.QT7.J92 QT62.873.AK52.K6 97.52.J943.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruffing in the short hand gains tricks. Dummy's 3 trumps can each ruff a loser, adding to the 5 trump tricks from the long hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "110. Crossruff basics",
+      "deal_pbn": "S:A5.AKJ43.86.A953 KJ83.Q96.KQT7.J2 QT62.T875.A5.K64 974.2.J9432.QT87",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff diamonds in hand and clubs in dummy alternately. Cash side-suit winners first, then crossruff for the remaining tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "111. When crossruffing beats drawing trumps",
+      "deal_pbn": "S:A5.AKJ43.86.A953 KJ83.Q96.KQT7.J2 QT64.T875.A5.K64 972.2.J9432.QT87",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With shortness in both hands and plenty of ruffs available, crossruffing produces more tricks than drawing trumps. Cash Aces first, then crossruff.",
+      "par_tricks": null
+    },
+    {
+      "title": "112. When crossruffing is dangerous",
+      "deal_pbn": "S:A5.AKJ43.86.A953 KJ83.QT9.KQT7.J2 QT64.876.A5.K764 972.52.J9432.QT8",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "A crossruff is dangerous when defenders have trump length and can overruff. Here an opponent may overruff dummy, making the crossruff line risky.",
+      "par_tricks": null
+    },
+    {
+      "title": "113. Trump promotion basics",
+      "deal_pbn": "S:AK5.AQJ43.86.A95 QJ83.KT9.KQT7.J2 T964.876.A53.K64 72.52.J942.QT873",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The defense can promote their KT9 of trumps by forcing declarer to ruff. Declarer must plan carefully to prevent the defense from scoring extra trump tricks through promotion.",
+      "par_tricks": null
+    },
+    {
+      "title": "114. Forcing defense to ruff high",
+      "deal_pbn": "S:AK5.AQJ43.86.A95 QJ83.KT9.KQT7.62 T964.876.A53.KJ3 72.52.J942.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Lead a suit that forces a defender to ruff with a high trump, promoting a trump trick for your side. This is an advanced concept requiring visualization.",
+      "par_tricks": null
+    },
+    {
+      "title": "115. Establishing trump control",
+      "deal_pbn": "S:AK5.AQJ43.863.A5 QJ83.KT9.KQT.J92 T964.876.A52.K63 72.52.J974.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Win the trump battle by maintaining length. Refuse to ruff when the defense forces you, preserving your trump holding for control.",
+      "par_tricks": null
+    },
+    {
+      "title": "116. Trump extraction vs side-suit setup",
+      "deal_pbn": "S:AK5.AQJ43.863.A9 QJ83.KT9.KQT.J52 T964.876.A52.K63 72.52.J974.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Decide between continuing to draw trumps and switching to set up a side suit. Sometimes you must leave a trump out to develop your side suit in time.",
+      "par_tricks": null
+    },
+    {
+      "title": "117. Using a trump coup idea at a simple level",
+      "deal_pbn": "S:AK5.AQJ43.863.A9 QJ83.K9.KQT4.J52 T964.T876.A52.K3 72.52.J97.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "When a defender has Kx of trumps behind your AQJ, shorten your trumps to the same length, then lead from dummy through the King. A simple version of the trump coup.",
+      "par_tricks": null
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "theme": "Entries and Communications",
+  "description": "Teaching hands focused on managing entries between declarer's hand and dummy, including preserving, creating, and timing the use of entries.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Preserving entries to dummy",
+      "deal_pbn": "S:A5.KQJ.T9876.A65 QJT9.T987.KQ.QJT K8764.A65.A54.K4 32.432.J32.98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 21 (Beginner): South has a long diamond suit to establish but must preserve dummy's entries. Win the spade lead with the Ace in hand (not the King in dummy). Drive out the DK and DQ. Dummy's SK and DA serve as entries to cash the long diamonds. If you waste the SK at trick one, you strand winners in dummy.",
+      "par_tricks": null
+    },
+    {
+      "title": "Preserving entries to hand",
+      "deal_pbn": "S:A5.AKQ32.A65.654 QJT9.J976.QJT.QJ K8764.T85.K43.A3 32.4.9872.KT9872",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 22 (Beginner): South needs to draw trumps and cash heart winners in hand. After winning the spade lead in dummy, draw trumps. Preserve the DA as an entry back to hand to cash the long hearts. Don't waste the DA early by playing diamonds prematurely.",
+      "par_tricks": null
+    },
+    {
+      "title": "Using an entry before it disappears",
+      "deal_pbn": "S:A5.KQJ84.Q65.A65 QJT9.T97.KJ4.QJT K876.A65.AT98.K4 432.32.732.98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 23 (Beginner): The HA in dummy is an entry that could disappear if defenders attack hearts. Use the HA immediately to take a diamond finesse while it still provides access to dummy. If you delay, West may force out the HA with a heart shift, stranding dummy's diamond winners.",
+      "par_tricks": null
+    },
+    {
+      "title": "Creating an extra entry",
+      "deal_pbn": "S:A5.AKQ32.K65.A65 QJT9.J976.QJT.QJ K876.T85.A432.K4 432.4.987.T98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 24 (Intermediate): South needs to reach dummy to cash established diamonds. By overtaking the DK with dummy's DA, you create a later entry with a small diamond to dummy's established long diamonds. This unblock manufactures transportation that would not otherwise exist.",
+      "par_tricks": null
+    },
+    {
+      "title": "Avoiding blocking your own suit",
+      "deal_pbn": "S:A65.AKQ.T9876.A6 QJT9.T987.KQ.QJT K87.654.AJ54.K54 432.J32.32.98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 25 (Beginner): Diamonds are your main source of tricks. Play the DT and D9 from hand first under dummy's higher cards. If you play low from hand, the T9 will block the suit. By playing high from the short side first, you keep the suit flowing.",
+      "par_tricks": null
+    },
+    {
+      "title": "Unblocking honors",
+      "deal_pbn": "S:A65.AKQ.K54.A654 QJT9.T987.QJT.QJ K87.654.A9876.K9 432.J32.32.T8732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 26 (Beginner): South holds DK54 opposite dummy's DA9876. To run the diamond suit, unblock the DK under dummy's DA on the first round. Then dummy's D9876 are all winners. Failing to unblock the DK leaves you stuck in hand with no way to reach dummy's diamonds.",
+      "par_tricks": null
+    },
+    {
+      "title": "Transportation between hands",
+      "deal_pbn": "S:A65.AKQ32.65.A65 QJT9.J976.QJT.QJ K87.T85.AK432.K4 432.4.987.T98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 27 (Beginner): South needs to establish and cash dummy's diamonds while also using heart winners in hand. Use the CK to reach dummy, establish diamonds by driving out the missing honors, return via hearts to hand, then cross back to dummy. Plan the order of travel between the two hands.",
+      "par_tricks": null
+    },
+    {
+      "title": "Rectifying communications before attacking a suit",
+      "deal_pbn": "S:A65.AKQ32.65.K65 QJT9.J97.QJT4.QJ K87.T86.AK97.A43 432.54.832.T9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 28 (Intermediate): Before developing hearts for extra tricks, first solve the entry problem. Cash DA and DK in dummy while you can reach there, establishing diamond winners. Only then drive out hearts. If you start hearts first, you may lose the lead and never reach dummy's diamond winners.",
+      "par_tricks": null
+    },
+    {
+      "title": "Entry shortage in notrump",
+      "deal_pbn": "S:A65.KQJ.654.KQJ5 QJT9.T987.KQ9.T9 K87.A65.AT87.A64 432.432.J32.8732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 29 (Intermediate): Dummy has strong diamonds to develop but only the HA and SK as entries. You must use each entry at the right moment. Win the spade lead, cross to HA to take a diamond finesse. Later use SK to reach established diamonds. Wasting either entry ruins the timing.",
+      "par_tricks": null
+    },
+    {
+      "title": "Entry shortage in suit contracts",
+      "deal_pbn": "S:A65.AKQJT.654.65 QJT9.976.KQ9.QJT K87.85.AT87.AK43 432.432.J32.9872",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 30 (Intermediate): Playing 4H, dummy has limited entries (SK, DA, CA, CK). You need to reach dummy to take a diamond finesse and later ruff a diamond. Plan the sequence: win SA, draw trumps, cross to CA, finesse DT. Use CK to reach dummy for established diamonds.",
+      "par_tricks": null
+    },
+    {
+      "title": "Choosing which entry to preserve",
+      "deal_pbn": "S:A65.AKQ32.654.A6 QJT9.J976.KQ.QJT K87.T85.AJT9.K54 432.4.8732.98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 31 (Intermediate): Dummy has the SK and CK as potential entries, plus the diamond suit to develop. You need to decide which entry to save. Preserve the CK as a later entry to diamonds (since clubs aren't under attack), and use the SK early to start the diamond finesse.",
+      "par_tricks": null
+    },
+    {
+      "title": "Timing the use of entries",
+      "deal_pbn": "S:A65.KQJ84.65.A65 QJT9.T97.QJT4.QJ K87.A65.AK987.K4 432.32.32.T98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 32 (Intermediate): Dummy has HA, DA, DK, and CK as entries. Use them in the right order: first cash DA and DK to set up long diamonds, then use HA as the entry to cash them. If you use HA too early, you cannot reach dummy's established diamonds later. Sequence matters.",
+      "par_tricks": null
+    },
+    {
+      "title": "Crossing to dummy efficiently",
+      "deal_pbn": "S:A65.AKQ32.K54.A6 QJT9.J976.QJ6.QJ K874.T85.A98.K54 32.4.T732.T98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 33 (Beginner): To reach dummy for the diamond finesse, cross via the CK rather than the SK. The SK might be needed later as a re-entry. The CK is the most efficient crossing card since clubs aren't needed for other purposes. Don't waste a valuable spade entry when a cheaper crossing exists.",
+      "par_tricks": null
+    },
+    {
+      "title": "Avoiding wasted entries",
+      "deal_pbn": "S:AK5.AKQ32.654.A6 QJT9.J976.KQ8.J5 876.T85.AJT9.K43 432.4.732.QT9872",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 34 (Beginner): Don't cross to dummy just to lead a suit you can play from hand. Save dummy's CK entry for when you truly need to be in dummy to cash established diamonds. Each trip to dummy should accomplish something essential.",
+      "par_tricks": null
+    },
+    {
+      "title": "Managing one-entry hands",
+      "deal_pbn": "S:AK5.AKQ32.654.K6 QJT9.J976.KQ8.QJ 876.T85.AJT9.A54 432.4.732.T98732",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Theme 35 (Intermediate): Dummy has effectively one useful entry in the DA (after DKQ are driven out). You must plan the entire hand around that single entry. Drive out the DK and DQ first, then use the DA as the one entry to cash the established DJ and DT. Do all your work before using that precious entry.",
+      "par_tricks": null
+    }
+  ]
+}

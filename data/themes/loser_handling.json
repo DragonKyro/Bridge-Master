@@ -1,0 +1,147 @@
+{
+  "theme": "Loser Handling in Suit Contracts",
+  "description": "Techniques for identifying, counting, and eliminating losers in trump contracts, including ruffing, discarding, finesses, and timing considerations.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "137. Count losers in a trump contract",
+      "deal_pbn": "S:AKJ52.KQ3.742.65 T87.JT92.KQ9.QJ4 Q943.A87.AT3.AK3 6.654.J865.T9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South counts losers: 0 spade, 0 heart, 3 diamond, 2 club = 5 losers. Need to reduce to 3. Dummy has AK of clubs to cover 2 club losers, and the diamond ace covers 1 diamond loser. Count carefully before playing.",
+      "par_tricks": 10
+    },
+    {
+      "title": "138. Reduce losers by ruffing",
+      "deal_pbn": "S:AKQ75.A64.852.K6 J83.KQJ9.KQ4.T85 T942.T73.A76.AQ3 6.852.JT93.J9742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 2 diamond losers. Win the opening lead, draw trumps leaving one in dummy, then ruff a heart in dummy and a diamond in dummy to reduce losers.",
+      "par_tricks": 10
+    },
+    {
+      "title": "139. Reduce losers by discarding",
+      "deal_pbn": "S:AKQJ5.74.863.A52 T83.KQJ9.KT4.J87 9762.A63.AQ7.KQ3 4.T852.J952.T964",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 2 diamond losers (5 total, need 3). Dummy has KQ of clubs on which South can discard two losers. Draw trumps, cash club A, then play to dummy's KQ of clubs to discard a heart and a diamond.",
+      "par_tricks": 10
+    },
+    {
+      "title": "140. Reduce losers by establishing a side suit",
+      "deal_pbn": "S:AKJ94.A5.743.A65 T65.KQJ9.KQ8.QJ4 Q832.873.AT5.K87 7.T642.J962.T932",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 1 heart loser, 2 diamond losers, and 2 club losers. Establish dummy's club suit by cashing AK of clubs, then ruffing a club to set up the long club. Re-enter dummy with a trump to discard a diamond on the good club.",
+      "par_tricks": 10
+    },
+    {
+      "title": "141. Reduce losers by finesse",
+      "deal_pbn": "S:AKQ84.A63.Q72.75 J95.KQJ8.J85.KQ4 T763.T74.AK3.A83 2.952.T964.JT962",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 1 diamond loser. The diamond queen is a potential loser unless the finesse works. Lead toward the Q from dummy's AK side. With West holding the jack, the queen scores and eliminates a loser.",
+      "par_tricks": 10
+    },
+    {
+      "title": "142. Reduce losers by trumping in dummy",
+      "deal_pbn": "S:AKQT6.A853.74.K5 J83.KQJ.KQ85.874 9742.64.AT3.AQJ3 5.T972.J962.T962",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 2 diamond losers. Draw only 2 rounds of trumps, then play hearts. Ruff the third and fourth hearts in dummy using dummy's remaining trumps. This converts dummy's small trumps into winners.",
+      "par_tricks": 10
+    },
+    {
+      "title": "143. Combining chances to eliminate losers",
+      "deal_pbn": "S:AKJ85.A74.K63.Q5 Q64.QJT8.Q85.KJ4 T932.K63.A74.A83 7.952.JT92.T9762",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 1 heart loser, 1 diamond loser, and 1 club loser (plus possible trump loser). Combine chances: first try the club finesse (lead toward Q). If that loses, fall back on ruffing the diamond loser in dummy. Multiple chances improve the odds.",
+      "par_tricks": 10
+    },
+    {
+      "title": "144. Choosing which loser to attack first",
+      "deal_pbn": "S:AKT85.A63.K74.65 J94.KQJ8.QJ5.KQ4 Q762.T74.A83.A73 3.952.T962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers, 1 diamond loser, and 2 club losers. Must decide which losers to attack first. Timing is key: handle the club losers early by ruffing in dummy before opponents can draw dummy's trumps. Attack urgent losers before they get locked in.",
+      "par_tricks": 10
+    },
+    {
+      "title": "145. Eliminating a loser on a long suit",
+      "deal_pbn": "S:AKJ93.A5.864.A75 T65.KQJ8.KT5.QJ4 Q874.963.AQ73.K3 2.T742.J92.T9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 1 heart loser and 2 diamond losers plus 1 club loser. Dummy has AQ73 of diamonds. After drawing trumps, play diamonds from the top. If diamonds split 3-3, the fourth diamond is established for a club discard. The long suit provides a parking place.",
+      "par_tricks": 10
+    },
+    {
+      "title": "146. Eliminating a loser via loser-on-loser",
+      "deal_pbn": "S:AKQ84.A75.963.K5 J96.KQJ8.KQ4.T87 T753.964.AT5.AQ4 2.T32.J872.J9632",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 2 diamond losers. Instead of ruffing a diamond (risking an overruff), use loser-on-loser: lead a heart from dummy and discard a diamond from hand. You trade one loser for another but gain control of the timing.",
+      "par_tricks": 10
+    },
+    {
+      "title": "147. Eliminating a loser via ruffing finesse",
+      "deal_pbn": "S:AKQT7.A63.85.A74 J84.KQ98.KQ4.KQ5 9653.T74.AT73.83 2.J52.J962.JT962",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 1 diamond loser. Dummy has AT73 of diamonds. Lead the T of diamonds from dummy; if East covers, ruff. If East ducks, discard a heart loser. This ruffing finesse provides an extra chance to eliminate a loser without committing to one line.",
+      "par_tricks": 10
+    },
+    {
+      "title": "148. Avoiding creating an extra loser",
+      "deal_pbn": "S:AKJ95.A74.K63.85 QT3.KQJ8.Q85.KJ4 8764.963.A74.AQ3 2.T52.JT92.T9762",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers, 1 diamond loser, and 1 club loser. The club finesse is tempting but if it loses, defenders cash hearts creating an extra loser. Instead, play diamonds to pitch a club, avoiding the risk of creating additional losers through an unnecessary finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "149. Protecting against bad breaks while handling losers",
+      "deal_pbn": "S:AKQT6.A53.K74.65 J984.KQJ.Q985.K4 7532.876.A63.AQ3 -.T942.JT2.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and 1 club loser. Trumps could break 4-0. Cash the ace of spades first to check the break. When East shows out, finesse against West's J9 through dummy. Handle losers only after confirming the trump situation is under control.",
+      "par_tricks": 10
+    },
+    {
+      "title": "150. Timing loser disposal",
+      "deal_pbn": "S:AKQ85.A74.64.A75 J93.KQJ8.KQ85.Q4 T764.963.AT73.K3 2.T52.J92.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers, 1 diamond loser, and 1 club loser. Must time the loser disposal correctly: discard a diamond on the club K before drawing all trumps, so dummy retains a trump to ruff the last diamond. Drawing trumps too early wastes dummy's ruffing power.",
+      "par_tricks": 10
+    }
+  ]
+}

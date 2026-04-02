@@ -1,0 +1,207 @@
+{
+  "theme": "Combination Plays and Percentage Play",
+  "description": "Techniques for combining multiple chances, choosing between percentage lines, and making optimal decisions based on probability and contract requirements.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "171. Finesse or play for the drop",
+      "deal_pbn": "S:AJT94.AK5.A83.K4 K52.QJ87.T65.J87 Q873.643.KQ7.A53 6.T92.J942.QT962",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South is missing the spade king. With 9 trumps combined, the percentage play is to finesse rather than play for the drop. Lead toward dummy's Q; when West has Kxx, the finesse wins.",
+      "par_tricks": 10
+    },
+    {
+      "title": "172. Combining a finesse with a ruff",
+      "deal_pbn": "S:AKQJ5.A73.K64.74 T84.KQJ8.QT5.KQ5 9763.654.A83.A63 2.T92.J972.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has a heart loser and diamond loser. Combine chances: try the diamond finesse first (lead toward K). If it loses, fall back on ruffing the third heart in dummy. Two chances are better than one.",
+      "par_tricks": 10
+    },
+    {
+      "title": "173. Combining two finesses",
+      "deal_pbn": "S:AKQ85.A74.KJ3.64 J93.KQJ8.Q85.KQ5 T764.963.A74.A73 2.T52.T962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South needs to avoid 2 club losers and a diamond loser. Two finesses available: diamond finesse (lead toward KJ) and club finesse (lead toward dummy's A hoping for split honors). Take both finesses; needing only one to succeed gives about 75% chance.",
+      "par_tricks": 10
+    },
+    {
+      "title": "174. Finesse plus length",
+      "deal_pbn": "S:AKJ83.A5.K874.65 QT5.KQJ8.Q93.KJ4 9742.763.AT52.A3 6.T942.J6.QT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South needs to establish diamonds for discards. Finesse the diamond queen (lead toward K), then if diamonds break 3-2, the long diamond provides an extra trick. Combining the finesse with favorable length gives the best chance.",
+      "par_tricks": 10
+    },
+    {
+      "title": "175. Drop plus ruff",
+      "deal_pbn": "S:AKQJ6.A84.K73.75 T84.KQJ9.Q85.KQ4 9753.763.AT4.A63 2.T52.J962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has a heart loser, possible diamond loser, and club losers. Play for the diamond queen to drop in 2 rounds; if it doesn't, ruff the fourth diamond in dummy. The combined chance of drop or ruff is better than either alone.",
+      "par_tricks": 10
+    },
+    {
+      "title": "176. Cash first then finesse",
+      "deal_pbn": "S:AKJ74.AK5.Q63.74 T85.QJ87.K85.KQ5 Q963.643.AT74.A3 2.T92.J92.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has a diamond loser and club losers. Cash the diamond ace first (might drop a singleton king), then finesse toward the queen. This costs nothing if king is onside and gains when king is singleton offside.",
+      "par_tricks": 10
+    },
+    {
+      "title": "177. Finesse first then fallback line",
+      "deal_pbn": "S:AKQ95.A73.K84.65 J84.KQJ8.QJ5.KQ4 T763.654.A73.A73 2.T92.T962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and club losers. Try the diamond finesse first (toward K). If it wins, discard a heart. If it loses, fall back on establishing a long diamond for a club discard. Take the best chance first, keep fallback available.",
+      "par_tricks": 10
+    },
+    {
+      "title": "178. Play for split honors",
+      "deal_pbn": "S:AKQ73.AT4.Q63.75 JT5.KJ87.K85.KQ4 9864.653.AT74.A3 2.Q92.J92.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South needs to limit heart losers. Missing KQJ of hearts. If honors are split between East and West, lead toward the AT; when one defender plays an honor, duck. Later finesse against the remaining honor. Split honors is more likely than all in one hand.",
+      "par_tricks": 10
+    },
+    {
+      "title": "179. Percentage line with missing queen",
+      "deal_pbn": "S:AKJ94.A53.K84.A5 T65.KQJ8.QT5.J87 Q832.764.A73.K43 7.T92.J962.QT962",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 9 trumps and is missing the queen. With 9 combined, the percentage play favors the finesse over the drop (by a tiny margin). Cash the ace, then lead toward dummy's Q8, inserting the 8 if West plays low. The finesse gains against Txx onside.",
+      "par_tricks": 10
+    },
+    {
+      "title": "180. Percentage line with missing king",
+      "deal_pbn": "S:AQJ84.A53.A74.65 K65.KQJ8.T85.KJ4 T973.764.KQ3.A73 2.T92.J962.QT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South is missing the spade king. With 9 combined trumps, choose between finesse and drop. The finesse is slightly better. Lead toward AQ; when West holds Kxx, the queen wins. Always take the percentage line in a close decision.",
+      "par_tricks": 10
+    },
+    {
+      "title": "181. Restricted choice",
+      "deal_pbn": "S:AKT84.AK5.A74.65 J9.QJT8.QT85.KQ4 Q753.763.K63.A73 62.942.J92.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South cashes the spade ace and East drops the 6. Next cash the king and East plays the 2. Lead toward dummy; West plays the 9. By restricted choice, if the J or 9 dropped on the first round, finesse on the second round - a defender who played one equal is more likely to have been forced to play it.",
+      "par_tricks": 10
+    },
+    {
+      "title": "182. Missing queen-doubleton decisions",
+      "deal_pbn": "S:AKJ73.AK4.A74.65 Q5.QJT8.QT85.KQ4 T9864.763.K3.A73 2.952.J962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 10 trumps combined and is missing Qx. With 10 cards, play for the drop (cash AK) rather than finesse. The queen doubleton will drop more often than the finesse succeeds. West's Qx comes down under the AK.",
+      "par_tricks": 11
+    },
+    {
+      "title": "183. Missing jack-ten combinations",
+      "deal_pbn": "S:AKQ84.AK5.Q73.65 J65.QJT8.KT5.KQ4 9732.763.A864.A3 T.942.J92.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AKQ84 of spades and dummy has 9732. Missing JT65. Cash the AK; if JT split, the suit runs. If one defender shows out, finesse against the remaining honor. With 9 trumps missing JT65, cashing from the top is best.",
+      "par_tricks": 10
+    },
+    {
+      "title": "184. Combining chances in trump suit",
+      "deal_pbn": "S:AKJ94.AK3.A74.65 QT5.QJT8.K85.KQ4 8763.764.Q63.A73 2.952.JT92.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South is missing QT5 of trumps. Cash the ace first (might drop a singleton Q or T). Then lead toward dummy and finesse the J if needed. Combining the chance of a singleton drop with the finesse maximizes the probability of avoiding a trump loser.",
+      "par_tricks": 10
+    },
+    {
+      "title": "185. Combining chances in side suit",
+      "deal_pbn": "S:AKQJ5.A74.K84.65 T84.KQJ8.QT5.KQ4 9763.653.A73.A73 2.T92.J962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 2 heart losers and possible diamond loser. In diamonds, combine chances: cash the K and A (might drop the queen), and if not, the 4th diamond might be good if they break 3-3. Multiple chances in the side suit improve the odds over a single finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "186. Avoiding low-percentage brilliance",
+      "deal_pbn": "S:AKQ85.A74.K63.75 JT3.KQJ8.Q85.KQ4 9764.653.AT74.A3 2.T92.J92.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "A fancy squeeze or endplay might gain an extra trick but risks the contract. The simple line of drawing trumps and playing on diamonds is high-percentage. Avoid flashy plays that reduce your overall chance of making the contract.",
+      "par_tricks": 10
+    },
+    {
+      "title": "187. Choose line based on contract needs",
+      "deal_pbn": "S:AKJ84.AK3.Q74.65 QT5.QJT8.K85.KQ4 9763.764.A63.A73 2.952.JT92.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 4S, South needs 10 tricks. The diamond finesse is risky but offers overtricks. The safer line of cashing DA then playing toward Q guarantees the contract when K is onside or doubleton. Choose the line that meets the contract goal, not the one with the highest expected tricks.",
+      "par_tricks": 10
+    },
+    {
+      "title": "188. Take safest line for contract",
+      "deal_pbn": "S:AKQJ5.A74.K83.65 T84.KQJ8.QT5.KQ4 9763.653.A74.A73 2.T92.J962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South can see 9 top tricks. For the 10th, the safest line is to draw trumps and play diamonds. Cash DK and DA; if the queen drops, claim. If not, ruff the fourth diamond. This safe line virtually guarantees the contract.",
+      "par_tricks": 10
+    },
+    {
+      "title": "189. Take best line for overtrick",
+      "deal_pbn": "S:AKQ95.AK4.K73.65 JT3.QJT8.Q85.KQ4 8764.763.AT64.A3 2.952.J92.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Contract is safe with 10 tricks. For an overtrick, finesse the diamond queen through West. If it works, 11 tricks. At matchpoints, the overtrick matters. When the contract is secure, shift focus to maximizing tricks.",
+      "par_tricks": 11
+    },
+    {
+      "title": "190. Play for the field vs matchpoint overtrick",
+      "deal_pbn": "S:AKJ84.AK3.K74.65 QT5.QJT8.Q85.KQ4 9763.764.AT63.A3 2.952.J92.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "At matchpoints, most declarers will make 10 tricks. For a top score, try the diamond finesse for an overtrick. At IMPs, settle for 10 safe tricks. The venue and scoring method should influence your choice of line.",
+      "par_tricks": 10
+    }
+  ]
+}

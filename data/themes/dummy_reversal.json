@@ -1,0 +1,87 @@
+{
+  "theme": "Dummy Reversal",
+  "description": "Hands teaching the dummy reversal technique — ruffing in the long trump hand to generate extra tricks, using dummy's trumps for drawing and control.",
+  "difficulty": 5,
+  "hands": [
+    {
+      "title": "241. Basic dummy reversal",
+      "deal_pbn": "S:AKQ73.A6.8654.A5 JT98.KQJ.KQ9.KQ6 542.T987.A7.JT98 6.5432.JT32.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Instead of ruffing in dummy, ruff diamonds in hand three times. Dummy's remaining trumps draw the last enemy trumps for ten tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "242. Ruff losers in hand instead of dummy",
+      "deal_pbn": "S:AKQ73.A6.8654.A6 JT98.KQJ.KQ9.KQ5 542.T987.A7.JT98 6.5432.JT32.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Normally you ruff in the short hand (dummy). Here, reverse the plan: ruff in hand to generate more total tricks than standard play allows.",
+      "par_tricks": null
+    },
+    {
+      "title": "243. Shorten hand trumps intentionally",
+      "deal_pbn": "S:AKQ73.A65.865.A6 JT98.KQJ.KQ9.KQ5 542.T987.A7.JT98 6.432.JT432.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff a heart in hand intentionally to shorten your trumps. After three ruffs, dummy has more trumps — dummy draws the remaining trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "244. Use dummy's long trumps for control",
+      "deal_pbn": "S:AKQ73.A65.864.A6 JT98.KQJ.KQ9.KQ5 542.T987.A7.JT98 6.432.JT532.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After shortening your hand by ruffing, use dummy's remaining trumps to draw the opponents' last trumps and maintain control.",
+      "par_tricks": null
+    },
+    {
+      "title": "245. Count trump length for reversal",
+      "deal_pbn": "S:AKQ73.A65.86.A65 JT98.KQJ.KQ9.KQ7 542.T987.A74.JT8 6.432.JT532.9432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count: you start with five trumps, dummy has three. After ruffing twice in hand, you have three trumps — same as dummy. Verify this is safe.",
+      "par_tricks": null
+    },
+    {
+      "title": "246. When dummy reversal is superior to normal play",
+      "deal_pbn": "S:AKQ73.A65.86.A64 JT98.KQJ.KQ9.KQ7 542.T987.A74.JT8 6.432.JT532.9532",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Normal play yields nine tricks. The dummy reversal — ruffing twice in hand and drawing trumps from dummy — produces the vital tenth trick.",
+      "par_tricks": null
+    },
+    {
+      "title": "247. Entry planning in dummy reversal",
+      "deal_pbn": "S:AKQ73.A65.864.A5 JT98.KQJ.KQ9.KQ6 542.T987.A7.JT98 6.432.JT532.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Each ruff in hand requires re-entering dummy afterward. Plan entries carefully — the diamond ace and club entries must be timed precisely.",
+      "par_tricks": null
+    },
+    {
+      "title": "248. Avoid over-shortening the wrong hand",
+      "deal_pbn": "S:AKQ73.A65.864.A6 JT98.KQJ.KQ9.KQ5 542.T987.A7.JT98 6.432.JT532.7432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruffing too many times in hand can cost control. If you ruff four times, you have only one trump left and defenders may regain the lead. Limit to three ruffs.",
+      "par_tricks": null
+    }
+  ]
+}

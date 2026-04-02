@@ -1,0 +1,107 @@
+{
+  "theme": "Declarer Play by Contract Type",
+  "description": "Techniques and strategies tailored to different contract types, from partscores through grand slams, in both notrump and suit contracts.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "301. Partscore play",
+      "deal_pbn": "S:KJ874.A63.K74.65 QT5.KQJ8.Q85.KQ4 A932.T74.A63.A73 6.952.JT92.JT982",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In a partscore, just aim for 8 tricks. South has a comfortable 2S. Draw trumps carefully (cash A then lead toward KJ), establish your tricks, and don't take unnecessary risks. Making the partscore is the goal - overtricks are a bonus.",
+      "par_tricks": 8
+    },
+    {
+      "title": "302. Game contract planning",
+      "deal_pbn": "S:AKQ85.A74.KJ3.65 JT3.KQJ8.Q85.KQ4 9764.653.AT74.A3 2.T92.962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 4S, plan for 10 tricks at the start. Count winners: 5 spades, 1 heart, 4 diamonds = 10. Draw trumps, then cash diamonds (finesse the J if needed). Game contract planning means having a clear roadmap before playing card one.",
+      "par_tricks": 10
+    },
+    {
+      "title": "303. Small slam technique",
+      "deal_pbn": "S:AKQJ5.AK3.AK4.65 T84.QJT8.Q85.KQ4 9763.764.T73.A73 2.952.J962.JT982",
+      "contract": "6S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 6S, South needs 12 tricks. Count: 5 spades, 2 hearts, 2 diamonds, 1 club = 10. Need 2 more. Ruff two diamonds in dummy after drawing trumps. In a small slam, minimize risk - take the safest line to 12 tricks even if it means foregoing a grand.",
+      "par_tricks": 12
+    },
+    {
+      "title": "304. Grand slam technique",
+      "deal_pbn": "S:AKQJ5.AK3.AK7.A5 T84.QJT8.Q85.KQ4 9763.764.T43.873 2.952.J962.JT962",
+      "contract": "7S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 7S, South must take all 13 tricks. Count: 5 spades, 2 hearts, 3 diamonds (if they break 3-3), 1 club = 11. Need diamond break or ruffing plan. Draw trumps, test diamonds. In a grand slam, you cannot afford any safety play that concedes a trick.",
+      "par_tricks": 13
+    },
+    {
+      "title": "305. Notrump partscore",
+      "deal_pbn": "S:KJ4.A74.KJ83.653 QT85.KQJ8.Q5.KQ4 A93.653.AT74.A72 762.T92.962.JT98",
+      "contract": "1NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 1NT, South needs just 7 tricks. Count winners: 2 spades, 1 heart, 4 diamonds = 7. Establish diamonds first by leading toward the KJ. In notrump partscores, identify your longest combined suit and develop it immediately. No need for risky plays.",
+      "par_tricks": 7
+    },
+    {
+      "title": "306. Notrump game",
+      "deal_pbn": "S:KJ4.AQ5.KQJ83.65 QT85.KJ87.T5.KQ4 A93.T64.A974.A73 762.932.62.JT982",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 3NT, South needs 9 tricks. Diamonds provide 5 tricks. Add spade A, spade K (via finesse), heart A, club A = 9. Win the opening lead, knock out the diamond T, and run diamonds. In notrump game, establish your long suit before cashing winners elsewhere.",
+      "par_tricks": 9
+    },
+    {
+      "title": "307. Major-suit game",
+      "deal_pbn": "S:AKQ85.A74.K63.75 JT3.KQJ8.QT5.KQ4 9764.653.A874.A3 2.T92.J92.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 4S, draw trumps (3 rounds), then develop diamonds for a discard. Major-suit games benefit from ruffing power. After trumps are drawn, play DK and DA, then ruff the fourth diamond if needed. The major-suit fit provides flexibility.",
+      "par_tricks": 10
+    },
+    {
+      "title": "308. Minor-suit game",
+      "deal_pbn": "S:A74.653.AKQJ5.65 KQJ8.KQJ8.T4.KQ4 T53.A74.9873.A73 962.T92.62.JT982",
+      "contract": "5D",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "5D requires 11 tricks - harder than 3NT. Count: 5 diamonds, 1 spade, 1 heart, 1 club = 8. Need 3 more from ruffs or establishment. Ruff two hearts in hand and establish a spade trick. Minor-suit games demand more tricks, so plan carefully.",
+      "par_tricks": 11
+    },
+    {
+      "title": "309. Slam in trumps",
+      "deal_pbn": "S:AKQJ5.AK4.AK3.65 T84.QJT8.Q85.KQ4 9763.763.T74.A73 2.952.J962.JT982",
+      "contract": "6S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 6S, South needs 12 tricks. Count: 5 spades, 2 hearts, 2 diamonds, 1 club = 10. Ruff two clubs in dummy for tricks 11-12. In a trump slam, dummy's ruffing power is a key source of extra tricks. Draw only enough trumps to prevent overruffs.",
+      "par_tricks": 12
+    },
+    {
+      "title": "310. Slam in notrump",
+      "deal_pbn": "S:AKJ.AK4.AKQ83.65 QT85.QJT8.T5.KQ4 943.763.J974.A73 762.952.62.JT982",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In 6NT, South needs 12 tricks with no ruffing power. Count: 3 spades (finesse J), 2 hearts, 5 diamonds (if they break), 1 club = 11. Need the spade finesse or diamond break for the 12th trick. In notrump slams, every trick must come from high cards or long suits.",
+      "par_tricks": 12
+    }
+  ]
+}

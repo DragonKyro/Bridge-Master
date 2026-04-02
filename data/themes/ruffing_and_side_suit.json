@@ -1,0 +1,197 @@
+{
+  "theme": "Ruffing and Side-Suit Management",
+  "description": "Techniques for ruffing losers, managing side suits for discards, and advanced plays like dummy reversal and loser-on-loser.",
+  "difficulty": 2,
+  "hands": [
+    {
+      "title": "118. Ruffing losers in dummy",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT7.J9 QT62.T874.A5.K63 95.2.J9432.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff diamond losers in dummy using dummy's small trumps. Each ruff in the short hand gains an extra trick.",
+      "par_tricks": null
+    },
+    {
+      "title": "119. Ruffing losers in hand",
+      "deal_pbn": "S:A74.AKJ53.86.A53 KJ83.Q96.KQT7.J2 QT62.T874.A5.K64 95.2.J9432.QT987",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff a club loser in the South hand. While ruffing in the long hand does not usually gain, here it is needed to avoid losing too many club tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "120. Setting up a ruff",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT4.J9 QT62.T874.A5.K63 95.2.J9732.QT874",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Play Ace and another diamond to set up a ruff in dummy. You must lose one diamond first to be able to ruff the next one.",
+      "par_tricks": null
+    },
+    {
+      "title": "121. Giving yourself a ruffing entry",
+      "deal_pbn": "S:A74.AKJ53.86.A53 KJ83.Q96.KQT4.J2 QT62.T874.A5.K64 95.2.J9732.QT987",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Use a diamond ruff in dummy as an entry to reach dummy's winners. The ruff serves double duty: eliminating a loser and providing entry.",
+      "par_tricks": null
+    },
+    {
+      "title": "122. Ruffing before drawing trumps",
+      "deal_pbn": "S:A74.AKJ53.863.A5 KJ83.Q96.KQT4.J9 QT62.T874.A5.K63 95.2.J972.QT8742",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff a diamond in dummy before drawing trumps. If you draw trumps first, dummy has no trumps left for the ruff.",
+      "par_tricks": null
+    },
+    {
+      "title": "123. High ruff vs low ruff",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT4.93 QT62.T874.A53.KJ 95.2.J972.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff with the Ten of hearts in dummy rather than a small trump, to prevent an overruff. The high ruff costs nothing since the Ten would not win a trick otherwise.",
+      "par_tricks": null
+    },
+    {
+      "title": "124. Overruffing",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT4.J9 QT62.T874.A53.K3 95.2.J972.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "When a defender ruffs with a small trump, overruff with a higher trump to win the trick. Basic but essential technique.",
+      "par_tricks": null
+    },
+    {
+      "title": "125. Avoiding being overruffed",
+      "deal_pbn": "S:A74.AKJ53.86.A53 KJ83.Q96.KQT4.J2 QT62.T874.A53.K9 95.2.J972.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff high enough that no defender can overruff. Consider what trumps the opponents hold before choosing which trump to ruff with.",
+      "par_tricks": null
+    },
+    {
+      "title": "126. Ruff-sluff basics",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT7.93 QT65.T874.A53.KJ 92.2.J942.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "If a defender leads a suit where both declarer and dummy are void, declarer gets a ruff-sluff: ruff in one hand and discard a loser from the other.",
+      "par_tricks": null
+    },
+    {
+      "title": "127. Ruffing to establish a suit",
+      "deal_pbn": "S:A7.AKJ53.8654.A5 KJ83.Q96.KQT.J93 QT62.T874.A73.K2 954.2.J92.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff diamonds in dummy to establish the long diamonds. After two ruffs, the remaining diamonds are winners for discards.",
+      "par_tricks": null
+    },
+    {
+      "title": "128. Ruffing the third round of a suit",
+      "deal_pbn": "S:A74.AKJ53.865.A5 KJ83.Q96.KQT4.93 QT62.T874.A73.KJ 95.2.J92.QT87642",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Play Ace and a diamond, losing one. When you regain the lead, ruff the third diamond in dummy. A common and effective technique.",
+      "par_tricks": null
+    },
+    {
+      "title": "129. Dummy reversal basics",
+      "deal_pbn": "S:A74.AKJ53.865.A5 KJ83.Q96.KQT4.93 QT65.T874.A7.KJ2 92.2.J932.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Ruff diamonds in the long hand (South) repeatedly, then draw trumps using dummy's trumps. This reverses the normal roles: dummy becomes the master hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "130. Ruffing to shorten trumps intentionally",
+      "deal_pbn": "S:A74.AKJ53.865.A9 KJ83.Q96.KQT4.53 QT65.T874.A7.KJ2 92.2.J932.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Shorten your trump holding intentionally by ruffing, reducing to the same length as a defender's trumps. This is preparation for a trump coup or endplay.",
+      "par_tricks": null
+    },
+    {
+      "title": "131. Avoiding premature ruffs",
+      "deal_pbn": "S:A74.AKJ53.865.A5 KJ83.Q96.KQT4.92 QT65.T874.A7.KJ3 92.2.J932.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Do not ruff a trick that you do not need to ruff. Discarding a loser may be better than ruffing, especially when it shortens your trump holding dangerously.",
+      "par_tricks": null
+    },
+    {
+      "title": "132. Using a side suit as a source of discards",
+      "deal_pbn": "S:A74.AKJ53.86.A52 KJ83.Q96.KQT7.93 QT65.T874.A5.KJ4 92.2.J9432.QT876",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Establish dummy's club suit as a source of discards. After drawing trumps, play clubs to discard diamond losers from the South hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "133. Throwing losers on winners",
+      "deal_pbn": "S:A74.AKJ53.86.A53 KJ83.Q96.KQT7.92 QT65.T874.A5.KJ4 92.2.J9432.QT876",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash dummy's club winners to throw diamond losers from the South hand. This is the simplest discard technique: pitch losers on established winners.",
+      "par_tricks": null
+    },
+    {
+      "title": "134. Loser-on-loser play",
+      "deal_pbn": "S:A74.AKJ53.862.A5 KJ83.Q96.KQT7.93 QT65.T874.A5.KJ2 92.2.J943.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Instead of ruffing a losing trick, discard another loser from the opposite hand. This loser-on-loser play avoids an overruff and loses only one trick instead of risking two.",
+      "par_tricks": null
+    },
+    {
+      "title": "135. Discarding from the right hand",
+      "deal_pbn": "S:A74.AKJ53.862.A9 KJ83.Q96.KQT7.53 QT65.T874.A5.KJ2 92.2.J943.QT8764",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Choose which hand to discard from carefully. Discard from the hand that has losers in suits you cannot protect, keeping guards in critical suits.",
+      "par_tricks": null
+    },
+    {
+      "title": "136. Discard timing",
+      "deal_pbn": "S:A74.AKJ53.862.A5 KJ83.Q96.KQT4.93 QT65.T874.A53.KJ 92.2.J97.QT87642",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Time your discards correctly. Take discards on established winners before the defense can ruff them. Delay draws if needed to cash discard sources first.",
+      "par_tricks": null
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "theme": "Finesse Themes",
+  "description": "A comprehensive collection of finesse techniques from basic to advanced, teaching declarer play through the art of the finesse.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "36. Simple Finesse",
+      "deal_pbn": "S:AQ532.K74.A63.85 KJ4.QJ32.T84.T63 876.A865.KQ5.A74 T9.T9.J972.KQJ92",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Lead toward the AQ of spades hoping the King is with West. West holds Kxx so the finesse wins. Simple beginner finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "37. Taking a Finesse Toward an Honor",
+      "deal_pbn": "S:AQ764.A85.K73.64 K53.QJT6.J84.QJ5 T82.K74.AQ65.A73 J9.932.T92.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Lead from dummy toward AQ of spades. West has the King so the finesse succeeds. Execute from the correct side by entering dummy first.",
+      "par_tricks": 10
+    },
+    {
+      "title": "38. Repeated Finesse",
+      "deal_pbn": "S:AQJ74.A85.K64.63 K85.QJT6.J73.QJ5 T63.K74.AQ85.A74 92.932.T92.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "AQJ of spades opposite small cards. Finesse twice through West who holds Kxx. Enter dummy, finesse the Queen, return to dummy, finesse the Jack.",
+      "par_tricks": 10
+    },
+    {
+      "title": "39. Two-Way Finesse",
+      "deal_pbn": "S:AJ74.A86.KQ5.A63 Q853.KJT.J84.QJ5 KT62.Q74.A73.T74 9.9532.T962.K982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "AJ in South, KT in North in spades. Can finesse either way for the Queen. With no information, choose to finesse West. West holds Qxxx.",
+      "par_tricks": 10
+    },
+    {
+      "title": "40. Marked Finesse from the Auction",
+      "deal_pbn": "S:AJ973.A85.K64.63 KQ5.KQJ6.QJ3.QJ5 T64.T74.A852.A74 82.932.T97.KT982",
+      "contract": "2S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West opened 1NT showing 15-17 HCP. The spade King and Queen must be with West. Finesse accordingly by leading toward AJ.",
+      "par_tricks": 8
+    },
+    {
+      "title": "41. Finesse Through the Dangerous Opponent",
+      "deal_pbn": "S:AQ764.A85.K63.64 K53.QJT6.QJ4.QJ5 T82.K74.A752.A73 J9.932.T98.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "East is the dangerous opponent who can lead through your diamond holding. Finesse spades through West so that if it loses, West cannot profitably attack diamonds.",
+      "par_tricks": 10
+    },
+    {
+      "title": "42. Avoiding a Finesse Because Odds Favor Another Line",
+      "deal_pbn": "S:AKT94.A85.K63.64 Q5.QJT6.QJ84.QJ5 8763.K74.A75.A73 J2.932.T92.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With 9 spades between the hands missing Qx, play AK to drop the Queen rather than finesse. The drop is the percentage play with 9 cards.",
+      "par_tricks": 10
+    },
+    {
+      "title": "43. Ruffing Finesse",
+      "deal_pbn": "S:AKQJ5.87.8643.64 74.KQJ6.QJT5.QJ5 T63.AT94.A72.A73 982.532.K9.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "North has AT9 of hearts with the lead. Lead the Ace then Ten. If East covers with King, ruff in hand. If East ducks, discard a loser. A ruffing finesse against East's King.",
+      "par_tricks": 10
+    },
+    {
+      "title": "44. Backwards Finesse",
+      "deal_pbn": "S:AJ974.A85.K63.64 K53.QJT6.QJ4.QJ5 T62.K74.A852.A73 Q8.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Instead of the normal finesse of the Jack, lead the Jack from hand. If West covers with King, win the Ace and the Ten in dummy is promoted. A backwards finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "45. Deep Finesse",
+      "deal_pbn": "S:AQT74.A85.K63.64 KJ3.QJT6.QJ4.QJ5 865.K74.A852.A73 92.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Finesse the Ten of spades on the first round, a deep finesse against West's Jack. Then finesse the Queen against the King. Two tricks gained by finessing low first.",
+      "par_tricks": 10
+    },
+    {
+      "title": "46. First-Round Finesse",
+      "deal_pbn": "S:AQ753.A86.K63.64 K84.QJT9.QJ4.QJ5 T62.K74.A852.A73 J9.532.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Take the spade finesse immediately on the first round. No reason to delay. Lead to the Queen at trick two to test if the King is onside.",
+      "par_tricks": 10
+    },
+    {
+      "title": "47. Second-Round Finesse",
+      "deal_pbn": "S:A9753.A85.K63.64 KJ4.QJT6.QJ4.QJ5 T62.K74.A852.A73 Q8.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash the Ace of spades first, then lead toward dummy to finesse on the second round. This gains when the King or Queen is singleton.",
+      "par_tricks": 10
+    },
+    {
+      "title": "48. Delayed Finesse",
+      "deal_pbn": "S:AQ874.A85.K63.64 K53.QJT9.QJ4.QJ5 T62.K74.A852.A73 J9.632.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Delay the spade finesse. First gather information by playing side suits. After discovering West has length in hearts and diamonds, the King is more likely with West. Then finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "49. When Not to Finesse",
+      "deal_pbn": "S:AQ9876.A8.K63.64 K5.QJT65.QJ4.QJ5 T43.K74.A852.A73 J2.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With AQ9876, play the Ace first. If the King drops doubleton from West, no finesse needed. With 8 cards, playing for the drop of a doubleton King is nearly as good and avoids risk.",
+      "par_tricks": 11
+    },
+    {
+      "title": "50. Finesse for the Queen",
+      "deal_pbn": "S:AKJ74.A85.K63.64 Q85.QJT6.QJ4.QJ5 T63.K74.A852.A73 92.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "AKJ opposite small. Finesse the Jack for the missing Queen. With 8 cards play the Ace first (in case Queen is singleton), then finesse.",
+      "par_tricks": 10
+    },
+    {
+      "title": "51. Finesse for the Jack",
+      "deal_pbn": "S:AKQ74.A85.K63.64 J85.QJT6.QJ4.T53 T63.K74.A852.AQ7 92.932.T97.KJ982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Clubs: AQ7 in dummy opposite 64 in hand. Finesse the Queen for the missing Jack of clubs. Also in spades with AKQ, cash from top to drop the Jack.",
+      "par_tricks": 11
+    },
+    {
+      "title": "52. Double Finesse",
+      "deal_pbn": "S:AQT74.A85.K63.64 KJ3.QJ96.QJ4.QJ5 865.KT4.A852.A73 92.732.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "AQT opposite small in spades. Finesse the Ten first (loses to Jack), return to dummy, finesse the Queen (wins against King). Two finesses in one suit for maximum tricks.",
+      "par_tricks": 10
+    },
+    {
+      "title": "53. Multiple Finesse Decisions in One Hand",
+      "deal_pbn": "S:AQ874.AQ5.K63.64 K53.KJ6.QJ84.QJ5 T62.T74.A52.AKT3 J9.9832.T97.9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Multiple finesses available: spade AQ, heart AQ, club AKT. Decide which finesses to take and in what order. Here both major suit finesses work as West has both Kings.",
+      "par_tricks": 11
+    },
+    {
+      "title": "54. Combining a Finesse with Another Chance",
+      "deal_pbn": "S:AQ874.A85.KQ3.64 K53.QJT6.J84.QJ5 T62.K74.A652.A73 J9.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Try diamonds first (KQ hoping Ace drops or J falls). If that does not produce the needed trick, fall back on the spade finesse. Combine chances for best odds.",
+      "par_tricks": 10
+    },
+    {
+      "title": "55. Finesse as Safety Play",
+      "deal_pbn": "S:AJT74.A85.K63.64 KQ85.QJ6.QJ4.QJ5 963.KT4.A852.A73 2.9732.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With AJT9 opposite small, finesse the Jack as a safety play. If it loses to the Queen, you still have AT over the King. Guarantees only one loser in the suit.",
+      "par_tricks": 10
+    },
+    {
+      "title": "56. Restricted Choice and the Finesse Decision",
+      "deal_pbn": "S:AT9743.A85.K6.64 QJ.QJT6.QJ43.QJ5 862.K74.A852.A73 K5.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Play the Ace, East drops the King. By restricted choice, East is twice as likely to have started with Kx as KQ. Finesse the Nine on the next round rather than playing for the drop of the Queen.",
+      "par_tricks": 11
+    },
+    {
+      "title": "57. Finesse After Discovering Defender Length",
+      "deal_pbn": "S:AJ974.A8.K632.64 KQ5.QJT65.Q4.QJ5 T63.K74.A85.AKT3 82.932.JT97.9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Play side suits first. Discover West has 5 hearts and 2 diamonds. With only 3 spades possible for West vs 2 for East, finesse through West who is more likely to hold the King.",
+      "par_tricks": 10
+    },
+    {
+      "title": "58. Finesse in Trumps",
+      "deal_pbn": "S:AQT74.A85.K63.64 K85.QJT6.QJ4.QJ5 963.K74.A852.A73 J2.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Trump suit is spades with AQT opposite small. Enter dummy and lead toward the AQT. Finesse the Ten, then the Queen. Standard trump finesse technique.",
+      "par_tricks": 10
+    },
+    {
+      "title": "59. Avoiding Unnecessary Trump Finesse",
+      "deal_pbn": "S:AKT974.A8.K63.64 Q5.QJT65.QJ4.QJ5 863.K74.A852.A73 J2.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With AKT974 of trumps, do not finesse. Cash the Ace and King. The Queen drops doubleton from West. Taking an unnecessary finesse risks losing to a singleton Jack offside.",
+      "par_tricks": 11
+    },
+    {
+      "title": "60. Losing Finesse vs Percentage Play",
+      "deal_pbn": "S:AQT74.A85.K63.64 KJ5.QJT6.QJ4.Q53 963.K74.A852.AJ7 82.932.T97.KT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The spade finesse of the Queen loses to the King but the Ten finesse works against the Jack. Consider whether the finesse line or an alternative percentage play (like elimination and throw-in) is better.",
+      "par_tricks": 10
+    }
+  ]
+}

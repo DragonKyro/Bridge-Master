@@ -1,0 +1,109 @@
+{
+  "theme": "Basic Counting Themes",
+  "description": "Hands that develop the habit of counting: tricks, entries, hand shape, high cards, and trumps. These are the building blocks of good declarer play.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Counting top tricks",
+      "deal_pbn": "S:AKQ.AK4.AK5.8765 JT98.QJT.QJT.AKQ 7654.987.987.JT9 32.6532.6432.432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Before playing a card, count your top tricks: 3 spades (AKQ), 2 hearts (AK), 2 diamonds (AK) = 7 sure tricks. You need 2 more for 3NT. Counting top tricks first tells you how many you still need to develop. Look to clubs or length tricks for the remaining 2.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting missing tricks",
+      "deal_pbn": "S:AKQ.A87.QJT9.A65 JT98.KQJ.A87.KQJ 7654.654.K654.87 32.T932.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Count top tricks: 3 spades, 1 heart (A), 1 club (A) = 5 sure tricks. You need 4 more. The diamond suit (QJT9 opposite K654) can provide them once the A is driven out. Counting the gap between what you have and what you need focuses your plan on the right suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting the opponents' likely winners",
+      "deal_pbn": "S:A65.AK8.QJT98.A3 KQJ9.QJT.A76.865 T874.976.K54.KQJ 32.5432.32.T9742",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the spade K. Count the opponents' likely winners: they can set up 3-4 spade tricks once your A is gone, and they hold the diamond A. If West gets in with the diamond A, they cash spades. You must count their tricks too and race to set up your diamonds before they run spades.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting entries",
+      "deal_pbn": "S:A65.A87.A65.QJT9 KQJ9.KQJ.QJT.876 T874.654.K987.AK 32.T932.432.5432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You need to reach dummy to cash the club AK. Count entries to dummy: the diamond K is one entry, but only if you keep it. Plan carefully: use the diamond A from hand first, then cross to dummy with the diamond K to cash clubs. Counting entries prevents stranding winners in the wrong hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting the hand shape",
+      "deal_pbn": "S:AKQ87.A87.K65.A3 JT96.KQJ.QJT.T65 5432.654.A987.K8 -.T932.432.QJ9742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West plays the heart K. East follows with the 2 then the 3. From the bidding and play, if West has 4 spades and 3 hearts, that leaves 6 cards in the minors. Inferring defenders' shape helps you guess where missing honors sit. Count their distribution as cards appear.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting missing high cards",
+      "deal_pbn": "S:AKQ.AK8.QJT9.876 JT98.QJT.A87.AKQ 7654.976.K654.J5 32.5432.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You need to drive out the diamond A. West holds the club AKQ and the diamond A (from the bidding). That is 16 HCP in West's hand. Counting the missing high cards and their probable location helps you plan the play and decide which opponent to keep off lead.",
+      "par_tricks": null
+    },
+    {
+      "title": "Using the auction to place missing honors",
+      "deal_pbn": "S:AQ5.AQ5.8765.A65 KJ9.KJ9.AKQ.QJT9 T8764.T876.JT9.K 32.432.432.87432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West opened 1NT (15-17 HCP). That means West holds most of the missing honors. With AQ5 in spades and AQ5 in hearts, finesse toward West for the K in both majors. The auction tells you where the missing honors are. Use bidding information to place key cards before choosing your finesses.",
+      "par_tricks": null
+    },
+    {
+      "title": "Using defender signals or play to infer distribution",
+      "deal_pbn": "S:AKQJ.A87.K65.A65 T976.KQJ.QJT.QJT 8543.654.A987.K8 2.T932.432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West leads the heart K. East plays the 2 (low = odd number). If East has 4 hearts (T932), West has 3 (KQJ). After drawing trumps, you see West had 4 spades. That gives West 4 spades, 3 hearts, and 6 minor-suit cards. Use defenders' signals and the cards they play to build a picture of the hidden hands.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting outstanding trumps",
+      "deal_pbn": "S:AKQJ5.A87.K65.A6 T976.KQJ.QJT.QJT 843.654.A987.K85 2.T932.432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 5 trumps (AKQJ5) and dummy has 3 (843). That is 8 trumps, so the opponents hold 5. After cashing AK of spades, both defenders follow. That accounts for 4 of their trumps; one remains. Always count the outstanding trumps so you know when it is safe to stop drawing them.",
+      "par_tricks": null
+    },
+    {
+      "title": "Counting side-suit losers",
+      "deal_pbn": "S:AKQJT.A87.654.A6 9876.KQJ.AKQ.QJT 5432.654.JT9.K85 -.T932.8732.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "In spades you have no losers. In hearts you have 2 losers (87 after the A). In diamonds you have 3 losers (654 with no honors working). In clubs, the A and K cover your holdings. Total side-suit losers = 5, but you can afford only 3. Plan to ruff diamond losers in dummy or discard them on club winners.",
+      "par_tricks": null
+    }
+  ]
+}

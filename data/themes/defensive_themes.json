@@ -1,0 +1,367 @@
+{
+  "theme": "Defensive Themes",
+  "description": "A collection of hands illustrating key defensive concepts, from basic third-hand-high plays to advanced squeeze-breaking and endplay defense.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "249. Third hand high",
+      "deal_pbn": "S:AQJ85.K73.Q94.K6 T74.JT84.T63.J83 K62.A95.AK72.A54 93.Q62.J85.QT972",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the 4 of hearts. East must play the queen (third hand high) to force declarer's king. If East plays low, declarer wins cheaply and has time to set up spades. By playing the queen, East drives out the king and the defense can later cash heart tricks when they regain the lead.",
+      "par_tricks": null
+    },
+    {
+      "title": "250. Second hand low",
+      "deal_pbn": "S:KQJ94.A73.K85.K6 T73.KQJ8.T94.J83 A62.T95.AQ72.A54 85.642.J63.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer leads a low diamond toward dummy. West should play low (second hand low), forcing declarer to guess. If West hops up with the ten, declarer easily finesses and takes all the diamond tricks. By playing low smoothly, West gives declarer a losing option.",
+      "par_tricks": null
+    },
+    {
+      "title": "251. Cover an honor with an honor",
+      "deal_pbn": "S:AJT94.A73.K85.K6 K73.QJ84.T94.J83 Q62.T95.AQ72.A54 85.K62.J63.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer leads the queen of spades from dummy. East must cover with the king. If East ducks, declarer lets the queen ride and picks up the suit without loss. By covering, East promotes West's possible intermediate cards and forces declarer to use two honors on one trick.",
+      "par_tricks": null
+    },
+    {
+      "title": "252. When not to cover an honor",
+      "deal_pbn": "S:AJT94.A73.K85.K6 852.QJ84.T94.J83 Q63.T95.AQ72.A54 K7.K62.J63.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer leads the queen of spades from dummy. East should NOT cover because dummy has the QJ sequence visible. East should wait and cover the last of the equals. If East covers the queen, declarer wins the ace and finesses against nothing. By ducking, East may score the king later.",
+      "par_tricks": null
+    },
+    {
+      "title": "253. Opening lead from sequences",
+      "deal_pbn": "S:AQ5.874.KJ85.K64 K83.KQJ93.T94.83 JT74.A65.AQ72.A5 962.T2.63.QJT972",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KQJ93 of hearts and should lead the king of hearts, the top of the solid sequence. This is a textbook opening lead that sets up the heart suit safely while retaining communication. Leading from a sequence avoids giving away tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "254. Opening lead from broken honors",
+      "deal_pbn": "S:AQ5.874.KJ85.K64 K83.KJT93.T94.83 JT74.A65.AQ72.A5 962.Q2.63.QJT972",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KJT93 of hearts, a broken sequence (KJT with the queen missing). West should lead the jack, the top of the interior sequence. This lead will trap the queen if it sits over the jack, and establishes the suit efficiently.",
+      "par_tricks": null
+    },
+    {
+      "title": "255. Passive opening lead",
+      "deal_pbn": "S:KQJ5.Q87.K85.KJ4 T83.JT93.T94.873 A974.A65.AQ72.A5 62.K42.J63.QT962",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West has no good attacking lead. With no sequence and no partner's suit to lead, West should choose a passive lead — the jack of hearts (top of a near-sequence JT9). A passive lead avoids giving declarer a free trick while waiting for the defense to develop naturally.",
+      "par_tricks": null
+    },
+    {
+      "title": "256. Aggressive opening lead",
+      "deal_pbn": "S:KJ5.QJ87.K85.KJ4 QT83.93.AT94.873 A974.A654.Q72.A5 62.KT2.J63.QT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Against a suit contract, West sees dummy will have plenty of tricks. West must attack with the ten of diamonds, leading through declarer's likely king toward East's possible honors. An aggressive lead is needed when the defense must cash or establish tricks quickly before declarer draws trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "257. Lead through strength",
+      "deal_pbn": "S:KJ5.AJ87.KQ5.KJ4 QT83.93.AT94.873 A974.K654.872.A5 62.QT2.J63.QT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "East is on lead at some point during the defense. Dummy (North) has strong holdings. East should lead through dummy's strength — leading a club through dummy's ace toward West's possible honors. This forces declarer to play before the strong hand, potentially trapping honors.",
+      "par_tricks": null
+    },
+    {
+      "title": "258. Lead up to weakness",
+      "deal_pbn": "S:KJ5.AJ87.KQ5.KJ4 A983.93.T974.873 QT74.K654.862.A5 62.QT2.AJ3.QT962",
+      "contract": "4H",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West is on lead and should lead up to declarer's weakness. Leading a diamond up to declarer's KQ, toward East's AJ, traps declarer's honors. The principle: lead toward the hand that will play last (the strong defender), making declarer guess before seeing the defense's play.",
+      "par_tricks": null
+    },
+    {
+      "title": "259. Attacking notrump",
+      "deal_pbn": "S:AQ5.874.KJ85.KQ4 K83.KQJ93.94.873 JT74.A65.AQT2.A5 962.T2.763.JT962",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Against notrump, West should attack with the king of hearts from KQJ93. The defense's goal in notrump is to establish their long suit before declarer can take nine tricks. West's solid heart sequence is the ideal attack — it sets up winners without giving away tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "260. Leading against suit contracts",
+      "deal_pbn": "S:AQJ85.K73.Q9.K64 T74.JT84.T63.J83 K62.A95.AK72.AT5 93.Q62.J854.Q972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Against a suit contract, West should lead the jack of hearts — top of a sequence. Against suits, the priority is: partner's suit, a sequence, or a singleton. Underlead of aces is dangerous in suit contracts. The JT84 holding provides a safe sequence lead that may establish tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "261. Singleton opening lead",
+      "deal_pbn": "S:AQJ85.K73.Q94.K6 T74.JT84.6.JT983 K62.A95.AKT72.A5 93.Q62.J853.Q742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds a singleton 6 of diamonds. Against a suit contract, leading the singleton diamond gives West the chance to ruff when East gains the lead and returns a diamond. This is especially effective when West holds trump entries or expects partner to gain the lead quickly.",
+      "par_tricks": null
+    },
+    {
+      "title": "262. Doubleton opening lead",
+      "deal_pbn": "S:AQJ85.K73.Q94.K6 T74.JT84.63.JT83 K62.A95.AKT72.A5 93.Q62.J85.Q9742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds the doubleton 63 of diamonds. Leading a doubleton hopes to get a ruff on the third round. This is less reliable than a singleton lead but can work when partner has an ace and can give you a ruff. West leads the 6 (top of doubleton).",
+      "par_tricks": null
+    },
+    {
+      "title": "263. Top of sequence lead",
+      "deal_pbn": "S:AQ5.874.KJ85.KQ4 K83.KQJ93.94.T73 JT74.A65.AQT2.A5 962.T2.763.J9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KQJ93 in hearts. The correct lead is the king — the top of a three-card sequence. This conventional lead tells partner that West also holds the queen and jack. It establishes heart tricks safely and partner knows the layout from the lead card.",
+      "par_tricks": null
+    },
+    {
+      "title": "264. Fourth-best lead",
+      "deal_pbn": "S:AQ5.87.KJT85.KQ4 K83.KT963.94.T73 JT74.A54.AQ72.A5 962.QJ2.63.J9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds KT963 in hearts with no solid sequence. The correct lead is the 6 — fourth best from the longest and strongest suit. Partner can apply the Rule of 11 (11-6=5, so five cards higher than the 6 are outside West's hand) to determine the right play.",
+      "par_tricks": null
+    },
+    {
+      "title": "265. Attitude signals",
+      "deal_pbn": "S:AQ5.874.KJT5.KQ4 K83.KQJ93.94.T73 JT74.A65.AQ82.A5 962.T2.763.J9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts. East plays the 2 (low = discouraging). This tells West that East has no help in hearts and West should switch suits. If East had the ten or higher support, East would play a high card to encourage. Attitude signals help the defense find the right suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "266. Count signals",
+      "deal_pbn": "S:KQJ95.A73.K85.K6 T83.JT84.T94.J83 A74.K95.AQ72.A54 62.Q62.J63.QT972",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer plays spades. East signals count by playing the 6 then the 2 (high-low = even count, showing two spades). This tells West how many spades declarer holds. Count signals help the defense know when to take their ace (hold up) and when declarer's suit is about to run.",
+      "par_tricks": null
+    },
+    {
+      "title": "267. Suit preference signals",
+      "deal_pbn": "S:AKQJ5.K73.Q94.K6 T874.JT8.6.JT983 62.A95.AKT732.A5 93.Q642.J85.Q742",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the singleton 6 of diamonds. East wins the ace (if not in dummy) and returns a diamond for West to ruff. East returns a HIGH diamond as a suit preference signal for the higher-ranking side suit (hearts), or a LOW diamond for the lower-ranking suit (clubs). This tells West what to lead after ruffing.",
+      "par_tricks": null
+    },
+    {
+      "title": "268. Returning partner's suit",
+      "deal_pbn": "S:AQ5.874.KJT85.K4 K83.KQJ93.94.T73 JT74.A65.AQ72.A5 962.T2.63.QJ9862",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts against 3NT. East plays the ten (encouraging). When East later gains the lead, East must return a heart — partner's suit. Returning partner's led suit is a fundamental defensive principle. East returns the 2 (original fourth best or remaining low card) to help West count the suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "269. Switching to the killing suit",
+      "deal_pbn": "S:KQJ95.A7.K85.K64 T83.JT84.AT94.83 A74.K95.Q72.AJ75 62.Q632.J63.QT92",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the jack of hearts. Declarer wins and plays spades. When East gains the lead, East can see that hearts won't produce enough tricks. East must switch to the killing suit — diamonds through declarer's king, up to West's AT. The defense needs to find the right suit before declarer takes nine tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "270. Forcing declarer",
+      "deal_pbn": "S:AKQJ5.73.Q954.K6 T874.KQJ8.T6.J83 62.A95.AK72.AT54 93.T642.J83.Q972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts and continues hearts. The forcing defense aims to make declarer ruff repeatedly, reducing declarer's trump length below the defenders'. If declarer ruffs twice, West may end up with more trumps. This is effective when a defender holds four trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "271. Promoting partner's trump trick",
+      "deal_pbn": "S:AKQT5.K73.Q94.K6 J874.JT8.63.JT83 62.A95.AKT72.A54 93.Q642.J85.Q972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "The defense cashes side-suit winners and then leads a suit where both declarer and West can ruff. If East leads a card that declarer must ruff high, West's J874 of trumps may be promoted — the jack becomes a winner. This trump promotion play creates an extra trick from seemingly worthless trumps.",
+      "par_tricks": null
+    },
+    {
+      "title": "272. Holding up an ace on defense",
+      "deal_pbn": "S:KQJ95.87.K85.K64 T83.KQJ4.AT4.983 A74.A93.Q972.A75 62.T652.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer plays spades to establish the suit. West holds up the ace of diamonds if declarer attacks that suit, but here the key is West ducking spades on defense. By holding up a key card, the defense can cut declarer's communication to dummy's established winners.",
+      "par_tricks": null
+    },
+    {
+      "title": "273. Duck defense to cut declarer's communication",
+      "deal_pbn": "S:KQJ95.87.K85.K64 A83.KQJ4.T94.983 T74.A93.AQ72.A75 62.T652.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer leads spades to establish the suit. West ducks the ace of spades twice, winning only on the third round. This exhausts dummy's spade entries and declarer cannot reach the established spade winners. Ducking on defense mirrors declarer's hold-up technique.",
+      "par_tricks": null
+    },
+    {
+      "title": "274. Defensive counting",
+      "deal_pbn": "S:AKQ95.87.K85.K64 T83.KQJ4.T94.983 J74.A93.AQ72.A75 62.T652.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "By counting declarer's tricks and shape, the defense can determine the correct moment to take their winners. West counts: declarer has shown 5 spades, and if declarer has 2 hearts, 3 diamonds, 3 clubs, that's 13 cards. Knowing the exact layout helps the defense find the winning play.",
+      "par_tricks": null
+    },
+    {
+      "title": "275. Placing declarer's shape",
+      "deal_pbn": "S:AKQ95.87.K85.K64 T83.KQJ4.J94.983 J74.A93.AQT2.A75 62.T652.763.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "From the bidding (1S-1NT-3NT), West infers declarer has 5 spades. As the play develops, West counts cards in each suit to place declarer's exact shape (likely 5-2-3-3). This tells West which suit to attack and when to cash out. Placing declarer's shape is the foundation of expert defense.",
+      "par_tricks": null
+    },
+    {
+      "title": "276. Defending finesses",
+      "deal_pbn": "S:AKJ95.87.K85.K64 QT3.KQJ4.T94.983 874.A93.AQ72.A75 62.T652.J63.QJT2",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer finesses in spades, leading toward the AKJ. West must play low smoothly when declarer finesses the jack. If West hesitates or plays the queen, declarer gains information. Good defenders play at an even tempo. If West is in the right seat, the queen should be played only when it can set up a trick for partner.",
+      "par_tricks": null
+    },
+    {
+      "title": "277. Avoid helping declarer establish a suit",
+      "deal_pbn": "S:AKJ95.87.K85.K64 T83.KQJ4.Q94.983 Q74.A93.AT72.A75 62.T652.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West should avoid leading diamonds, which would help declarer establish that suit by picking up the queen. Instead, West attacks hearts where the defense has a natural sequence. A common error is leading from a queen into declarer's AKJ or similar tenaces. Don't do declarer's work for them.",
+      "par_tricks": null
+    },
+    {
+      "title": "278. Exit safely on defense",
+      "deal_pbn": "S:AKJ5.A87.K85.K64 QT3.KQJ4.T94.983 874.953.AQ72.A75 962.T62.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After cashing heart winners, West must exit safely — not into declarer's tenaces. West should exit with a neutral card (a club or a diamond spot) rather than a spade into declarer's AKJ. Safe exit is crucial: if West leads a spade, declarer gets a free finesse.",
+      "par_tricks": null
+    },
+    {
+      "title": "279. Endplay defense",
+      "deal_pbn": "S:AKJ5.A87.KT5.K64 QT3.KQJ4.984.983 874.953.AQ72.A75 962.T62.J63.QJT2",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer is trying to endplay West by stripping West's safe exit cards and then throwing West in with a heart. West must recognize the endplay attempt and unblock or jettison cards early to avoid being thrown in. Keeping an exit card in a neutral suit prevents the endplay.",
+      "par_tricks": null
+    },
+    {
+      "title": "280. Breaking up squeezes",
+      "deal_pbn": "S:AKQJ5.A8.KT5.K64 T83.KQJ94.984.93 974.T53.AQ72.A75 62.762.J63.QJT82",
+      "contract": "6NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Declarer needs 12 tricks and may try to squeeze West in hearts and diamonds. West can break up the squeeze by attacking declarer's communications early — leading a suit that disrupts the squeeze matrix. A squeeze requires entries and timing; removing entries prevents it.",
+      "par_tricks": null
+    },
+    {
+      "title": "281. Discarding safely",
+      "deal_pbn": "S:AKQJ5.A87.KT5.K4 T83.KQJ9.984.963 974.T53.AQ72.A75 62.642.J63.QJT82",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "As declarer runs spades, West must discard carefully. West should keep hearts (the established suit) and the diamond guard. Discarding a heart gives up the suit; discarding all diamonds lets declarer take the rest. The discipline of safe discarding — protecting the right suits — is critical.",
+      "par_tricks": null
+    },
+    {
+      "title": "282. Falsecarding basics",
+      "deal_pbn": "S:AKQ95.87.KT5.K64 J83.KQJ4.984.983 T74.A93.AQ72.A75 62.T652.J63.QJT2",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West holds J83 in trumps. When declarer leads the ace and king, West should falsecard by dropping the jack under the ace. This may convince declarer that East started with Jx and that the suit has split 2-2, causing declarer to play for the drop instead of finessing against East's remaining cards.",
+      "par_tricks": null
+    },
+    {
+      "title": "283. Defensive unblock",
+      "deal_pbn": "S:AQ5.874.KJT85.K4 K83.KQJ93.94.T73 JT74.A6.AQ72.A65 962.T52.63.QJ982",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts. East must unblock by dropping the ten under the king. This allows West to continue with the queen and then low to East's remaining hearts. Without the unblock, West's suit may become blocked — West cashes KQJ but can't reach East's established small hearts.",
+      "par_tricks": null
+    },
+    {
+      "title": "284. Lead-directing inferences from bidding",
+      "deal_pbn": "S:AQ5.874.KJT85.K4 K83.KQJ93.94.T73 JT74.A65.AQ72.65 962.T2.63.AQJ982",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "East overcalled 2C during the auction, directing West to lead a club. West should lead the ten of clubs (top of a doubleton in partner's suit) rather than the heart suit. Bidding inferences are the most reliable guide to opening leads — partner's bid suit is usually the best attack.",
+      "par_tricks": null
+    }
+  ]
+}

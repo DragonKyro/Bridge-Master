@@ -1,0 +1,216 @@
+{
+  "theme": "Error Prevention Themes",
+  "description": "Hands that teach declarer to avoid the most common mistakes. Each hand demonstrates a specific error and the correct technique to prevent it.",
+  "difficulty": 1,
+  "hands": [
+    {
+      "title": "Don't block your own winners",
+      "deal_pbn": "S:A65.A87.AK.QJT98 KQJ9.KQJ.QJT9.A7 T874.654.8765.K6 32.T932.432.5432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have QJT98 of clubs in hand and K6 in dummy. If you carelessly cash the K first, you block the suit because you cannot get back to hand to cash the remaining winners. Play the Q from hand first; overtake with the K later only when dummy has no other entry. Unblock by playing high from the short side first.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't cash the wrong winner first",
+      "deal_pbn": "S:A65.A87.AKQJT.87 KQJ9.KQJ.987.AKQ T874.654.654.JT9 32.T932.32.65432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have AKQJT of diamonds but only 87 of clubs. If you cash the club winners in dummy first, you use up entries. Instead, cash your diamond winners first (starting with the long hand) and only then use entries wisely. Cashing the wrong suit first can leave you stranded.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't draw trumps too soon",
+      "deal_pbn": "S:AKQJT.A76.654.A6 9876.KQJ.AKQ.QJT 5432.854.JT9.K85 -.T932.8732.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 2 heart losers and 3 diamond losers. Dummy has only 4 trumps. If you draw all trumps immediately, you cannot ruff your heart loser in dummy. Instead, ruff a heart in dummy first, then draw trumps. Don't draw trumps when you need dummy's trumps for ruffing.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't postpone drawing trumps too long",
+      "deal_pbn": "S:AKQJ9.A65.K87.A6 T876.KQJ.QJT.QJT 5432.987.A65.K85 -.T432.9432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have plenty of winners but must draw trumps promptly. If you start cashing side-suit winners without pulling trumps, a defender may ruff one of your winners. With no need to ruff in dummy, draw trumps first to prevent the opponents from ruffing your good tricks.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't waste entries",
+      "deal_pbn": "S:A65.A87.A65.QJT9 KQJ9.KQJ.KQJ.876 T874.654.987.AK5 32.T932.T432.432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Dummy has AK5 of clubs and you have QJT9. You need to establish and cash clubs. Dummy's entries are limited (diamond 9-8-7 provides no entry). Use the club A and K carefully. Do not waste an entry to dummy by playing a card there when you do not need to be in that hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't finesse when you have enough tricks",
+      "deal_pbn": "S:AKQ.AKQ.KQJ9.876 JT98.JT9.AT8.AKQ 7654.876.7654.J5 32.5432.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You have 3 spades, 3 hearts = 6 top tricks. Diamonds KQJ9 opposite 7654 can provide 3 more if you just drive out the A. You do not need to finesse the T. Cashing KQJ forces out the A and gives you 9 tricks safely. Never take an unnecessary finesse when a safe line guarantees your contract.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't attack the wrong suit",
+      "deal_pbn": "S:A65.A87.QJT98.A3 KQJ9.KQJ.A76.876 T874.654.K54.KQJ 32.T932.32.T9542",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You need 4 more tricks after counting 5 top winners. Diamonds (QJT98 opposite K54) can provide them once the A is driven out. Do not waste time attacking clubs (KQJ opposite A3) for only 2 extra tricks when diamonds provide 4. Attack the suit that gives you enough tricks to make your contract.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't ignore a side loser",
+      "deal_pbn": "S:AKQJT.A87.654.A6 9876.KQJ.AKQ.KQJ 5432.654.JT9.T85 -.T932.8732.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "After drawing trumps, you have 3 diamond losers. Do not ignore them. Look for a way to discard one on a club winner or ruff one in dummy. Beginners often focus on trump play and forget about side-suit losers that will defeat the contract. Count and address every loser.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't lose trump control",
+      "deal_pbn": "S:AKQ76.A65.654.A6 JT98.KQJ.AKQ.KQJ 5432.987.JT9.T85 -.T432.8732.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West leads the heart K. If you ruff hearts repeatedly, you may end up with fewer trumps than a defender. After winning the heart A, draw trumps efficiently. If the defense forces you to ruff, you risk losing trump control. Maintain more trumps than the opponents to keep control of the hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't help the defense set up their suit",
+      "deal_pbn": "S:A65.A87.QJT98.K6 KQJ9.KQJ.A76.875 T874.654.K54.AQJ 32.T932.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West leads the spade K. If you duck twice hoping to exhaust East's spades, you actually help West establish the suit while keeping entries. Win the spade A at the right moment and attack diamonds. Do not give the defense extra tempo to set up their long suit.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't let the dangerous hand in",
+      "deal_pbn": "S:A65.A87.KJ98.A65 KQJ97.KQJ.Q76.87 T84.654.AT54.KQJ 32.T932.32.T9432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West leads the spade K and has the long spade suit. West is the dangerous hand. In diamonds you have KJ98 opposite AT54. You can finesse the Q either way. Finesse through East (the safe hand) by leading the J from hand. If East wins the Q, East has no spade to return. Keep the dangerous hand off lead.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't forget to count trumps",
+      "deal_pbn": "S:AKQJ5.A87.K65.A6 T976.KQJ.QJ4.QJT 843.654.A98.K852 2.T932.T732.9743",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "You hold 5 trumps and dummy has 4. The opponents have 4 trumps. After playing AKQ of spades, if both defenders follow to all three rounds, all their trumps are drawn. But if one shows out on the third round, one trump remains. Always count the opponents' trumps and do not assume they are all gone.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't forget to count the hand",
+      "deal_pbn": "S:AKQ87.A87.K6.A65 JT96.KQJ.QJT.QJT 5432.654.A987.K8 -.T932.5432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "As play progresses, count the defenders' hands. If West shows up with 4 spades, 3 hearts, and 3 diamonds, West has 3 clubs. This tells you everything about the remaining cards. Counting the complete hand lets you play the end position perfectly instead of guessing.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't throw away a stopper",
+      "deal_pbn": "S:A65.A87.QJT98.K3 KQJ9.KQJ.A76.876 T874.654.K54.AQJ 32.T932.32.T9542",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "West leads the spade K. Your spade A is your only stopper. Do not discard or play it prematurely on another trick. Hold the stopper as long as needed to maintain control. Throwing away a stopper lets the defense run their suit when they regain the lead.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't strand established winners",
+      "deal_pbn": "S:A65.A87.A65.QJT9 KQJ9.KQJ.QJT.A76 T874.654.K987.K8 32.T932.432.5432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "You establish clubs (QJT9 opposite K8) but dummy's only entry is the diamond K. If you use the diamond K too early, you strand the club K in dummy. Plan your entries: keep the diamond K as a later entry to reach dummy's club K after the A is driven out. Stranding winners is a common and costly error.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't take a line that can never gain",
+      "deal_pbn": "S:AKQ.AK8.QJT98.87 JT98.QJT.A76.AKQ 7654.976.K54.JT9 32.5432.32.65432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "You need 4 diamond tricks. The A is missing. Finessing the K gains nothing since if West has the A, playing the K loses to it anyway. The correct line is to lead toward the KQJ and drive out the A. Do not take a finesse that cannot gain. Think about what happens if the finesse wins AND if it loses.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't assume favorable breaks",
+      "deal_pbn": "S:AKQ87.A87.AK.A65 JT96.KQJ.QJT9.QJ 5432.654.876.KT8 -.T932.5432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "You have 9 trumps between the two hands. The 4 missing trumps will split 2-2 only 40% of the time, and 3-1 about 50% of the time. Do not plan on a 2-2 break. Cash the AK first; if both follow, draw the last trumps. If someone shows out, adjust your plan. Always consider what happens with bad breaks.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't use the last entry too early",
+      "deal_pbn": "S:A65.A87.A65.QJT9 KQJ9.KQJ.KQJ.A76 T874.654.987.K85 32.T932.T432.432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "Dummy's only entry is the club K. You need to drive out the club A first, then use the club K to reach dummy's established clubs. If you lead to the K first, West wins the A and your clubs in dummy are stranded. Preserve your last entry until the suit is established. Timing entries correctly is essential.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't miss a safety play",
+      "deal_pbn": "S:AKQ87.A65.AK6.A6 JT96.KQJ.QJT.QJT 5432.987.987.K85 -.T432.5432.97432",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "difficulty": 3,
+      "notes": "You have 9 trumps and need to lose at most 3 tricks. With AKQJ missing 4 trumps, cash the A first. If both follow, cash the K. But if East shows out, you know West has JT9 remaining. A safety play of leading low toward the 5432 limits your trump losers. Always consider a safety play when you can afford one loser but not two.",
+      "par_tricks": null
+    },
+    {
+      "title": "Don't rush before making a plan",
+      "deal_pbn": "S:A65.AK87.QJT9.A6 KQJ9.QJT.A87.KQJ T874.654.K654.87 32.932.32.T95432",
+      "contract": "3NT",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the spade K. The temptation is to play quickly from dummy. STOP. Count winners: 1 spade, 2 hearts, 1 club = 4 top tricks. You need 5 from diamonds. Plan: win the A, attack diamonds to drive out the A, then cash your 9 tricks. Rushing at trick one without a plan is the most common beginner error.",
+      "par_tricks": null
+    }
+  ]
+}

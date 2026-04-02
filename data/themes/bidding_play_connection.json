@@ -1,0 +1,107 @@
+{
+  "theme": "Bidding-Play Connection Themes",
+  "description": "Hands that teach how to use information from the auction — bids, passes, doubles, and lead choices — to guide declarer play decisions. Every hand demonstrates inferring card placement from bidding clues.",
+  "difficulty": 3,
+  "hands": [
+    {
+      "title": "341. Using the auction to place the queen",
+      "deal_pbn": "S:AKJ85.A73.K94.K6 T74.KQJ8.T63.J83 Q62.T95.AQ72.A54 93.642.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West opened 1H showing heart values. Declarer needs to find the queen of diamonds. Since West opened the bidding and has shown KQJ in hearts plus likely side values, West is more likely to hold the diamond queen (if West needs more points for the opening). However, here the DJ is with East. The auction helps narrow the location of missing honors by counting known HCP.",
+      "par_tricks": null
+    },
+    {
+      "title": "342. Using the auction to locate length",
+      "deal_pbn": "S:AKJ85.A73.K94.A6 T4.KQJ84.T63.J83 Q962.T5.AQ72.K54 73.962.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West overcalled 2H, showing five or more hearts. This tells declarer that West has at most 8 cards in the other three suits. When considering finesses or suit breaks, declarer adjusts probabilities: West is shorter in the minors, so missing minor-suit honors are more likely with East. Use length inferences to guide your play.",
+      "par_tricks": null
+    },
+    {
+      "title": "343. Inferring shortness from bidding",
+      "deal_pbn": "S:AKJ85.A73.KQ4.K6 QT74.KQJ8.96.J83 962.T95.AT72.A54 3.642.J853.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "East raised West's hearts enthusiastically despite few HCP, suggesting a short suit somewhere — likely a singleton spade (East has only the 3 of spades). When opponents raise freely with minimal values, suspect distributional support. Declarer should plan to draw trumps knowing about the potential bad break and play accordingly.",
+      "par_tricks": null
+    },
+    {
+      "title": "344. Planning from the opening lead plus auction",
+      "deal_pbn": "S:AKJ85.A73.KQ4.K6 T974.KQJ8.96.J83 Q62.T95.AT72.A54 3.642.J853.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts (showing KQJ or KQ). Combined with West's 1H opening, declarer knows West has at least KQJ in hearts. At trick one, declarer should plan the entire hand: count winners, identify losers, and use the auction plus lead to place key cards. The lead confirms the heart position and helps declarer plan entries and finesses.",
+      "par_tricks": null
+    },
+    {
+      "title": "345. Lead-directed inferences",
+      "deal_pbn": "S:AKJ85.A73.KQ4.K6 QT94.KQJ8.96.J83 762.T95.AT72.A54 3.642.J853.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West leads the king of hearts rather than a spade. This tells declarer that West likely does NOT have the ace of spades (West would have preferred an ace lead if holding one). Since West chose hearts, the spade honors are more likely with East or split. Use the lead choice to infer what West does NOT hold.",
+      "par_tricks": null
+    },
+    {
+      "title": "346. Choosing line based on overcaller's likely shape",
+      "deal_pbn": "S:AKJ85.A73.K94.K6 3.KQJ84.QT63.J83 QT62.T95.A72.A54 974.62.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West overcalled 2H showing 5+ hearts. With 5 hearts, West likely has a 1-5-4-3 or 2-5-3-3 shape. Declarer adjusts the play: since West is short in spades (likely singleton or doubleton), the spade finesse through West is less attractive. Instead, play for the drop in spades or finesse the other way. The overcall shapes declarer's entire plan.",
+      "par_tricks": null
+    },
+    {
+      "title": "347. Playing bridge hands from bidding clues",
+      "deal_pbn": "S:AKJ85.A73.K94.K6 QT74.KQJ8.63.J83 962.T95.AQT2.A54 3.642.J875.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West opened 1H and rebid 2S (showing four spades). This reveals West has 4 spades and 4+ hearts. Declarer now knows the spade break is 4-1, not 3-2. This completely changes the trump play: instead of cashing AK hoping for 3-2, declarer should finesse against West's queen. Bidding clues are the most valuable information in bridge.",
+      "par_tricks": null
+    },
+    {
+      "title": "348. Using preemptive auction info",
+      "deal_pbn": "S:AKJ85.A73.K94.A6 T4.642.QT8653.83 Q962.KT5.A7.KJ54 73.QJ98.J2.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West preempted 3D, showing a 7-card diamond suit with limited high cards. Declarer can place 6-7 diamonds with West, meaning West has only 6-7 cards in the other suits. Missing queens and jacks are therefore more likely with East. The preempt precisely maps out West's shape and helps declarer finesse in the right direction.",
+      "par_tricks": null
+    },
+    {
+      "title": "349. Using no-trump opening ranges",
+      "deal_pbn": "S:AJ985.A73.K94.K6 KQ4.KQJ8.T63.J83 T62.T95.AQ72.A54 73.642.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West opened 1NT (15-17 HCP). Declarer counts West's known points: KQJ of hearts (7), and needs 8-10 more HCP. This means West almost certainly holds the spade king and possibly the diamond queen. Declarer should finesse spades through West and play West for diamond honors. The NT range precisely limits West's hand.",
+      "par_tricks": null
+    },
+    {
+      "title": "350. Using takeout double implications",
+      "deal_pbn": "S:AKJ85.A73.KQ4.K6 QT74.KJ8.T96.J83 962.Q95.A732.A54 3.T642.J85.QT972",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "West made a takeout double of 1S, promising support for the unbid suits and shortness in spades. This tells declarer that West has at most 2 spades (likely singleton or void) and 4+ cards in hearts, diamonds, and clubs. Declarer should finesse East for spade length and place side-suit honors with West who promised opening values. The double reveals distribution and strength.",
+      "par_tricks": null
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "theme": "Safety Plays",
+  "description": "Techniques for giving up a small chance of an overtrick to protect against bad breaks and ensure the contract, including trump safety plays, suit safety plays, and communication preservation.",
+  "difficulty": 4,
+  "hands": [
+    {
+      "title": "191. Basic safety play in one suit",
+      "deal_pbn": "S:A7643.AK5.AK3.75 KJ8.QJT8.T85.KQ4 QT952.763.Q74.A3 -.942.J962.JT9862",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has 9 spades missing KJ8. The safety play is to cash the ace first, guarding against KJ8 all offside. If East shows out, finesse West's KJ through dummy's QT. This gives up the chance of dropping a singleton K offside but protects against 3-0 break.",
+      "par_tricks": 10
+    },
+    {
+      "title": "192. Give up an extra chance to guard against bad break",
+      "deal_pbn": "S:A9743.AK5.AK4.75 KJ85.QJT8.T8.KQ4 QT62.763.Q75.A63 -.942.J9632.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "With 9 spades missing KJ85, a 4-0 break is possible. Cash the ace to check. If East shows out, lead low toward QT6 to finesse twice against West. You give up the overtrick when spades are 2-2 but guarantee the contract against any 3-1 or 4-0 break.",
+      "par_tricks": 10
+    },
+    {
+      "title": "193. Safety play to protect contract",
+      "deal_pbn": "S:AKQ63.A74.K83.65 T84.KQJ8.QT5.KQ4 J975.653.A74.A73 2.T92.J962.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South can count 10 tricks if spades break 3-2. The safety play is to cash AK of spades rather than finessing. Even if a spade is lost, the contract is safe with 10 tricks. No need to risk a finesse when the straightforward line protects the contract.",
+      "par_tricks": 10
+    },
+    {
+      "title": "194. Safety play in trumps",
+      "deal_pbn": "S:AQ964.AK5.AK3.75 KJT8.QJT8.T8.KQ4 7532.763.Q74.A63 -.942.J9652.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AQ964 opposite 7532. Missing KJT8. Cash the ace first to guard against KJT8 all with West. If all follow, lead toward the queen. If East shows out on the ace, lead low from dummy and finesse the 9 to pick up West's remaining JT8. Safety first in trumps.",
+      "par_tricks": 10
+    },
+    {
+      "title": "195. Safety play against dangerous break",
+      "deal_pbn": "S:AKJ75.AK4.A83.65 QT84.QJT8.T5.KQ4 9632.763.KQ74.A3 -.952.J962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AKJ75 opposite 9632. Missing QT84. A 4-0 break with West is dangerous. Cash the ace first. If East shows out, lead toward dummy's 963 and finesse the J against West's QT8. The safety play limits trump losers to one even with a bad break.",
+      "par_tricks": 10
+    },
+    {
+      "title": "196. Safety play with missing queen",
+      "deal_pbn": "S:AKT84.AK5.A73.65 QJ65.QJT8.T8.KQ4 9732.763.KQ54.A3 -.942.J962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AKT84 opposite 9732 - missing QJ65. Cash the ace first. If East shows out, lead toward dummy's 973 and insert the T on the way back, pinning the J. The safety play guards against QJ65 all in one hand while still picking up the suit.",
+      "par_tricks": 10
+    },
+    {
+      "title": "197. Safety play with missing honor doubleton",
+      "deal_pbn": "S:AJT94.AK5.A73.65 KQ.QJT8.T854.KQ4 8753.763.KQ2.A73 62.942.J96.JT982",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AJT94 opposite 8753 - missing KQ62. Lead low from dummy toward the AJT. If East plays low, insert the T. If West wins with K or Q doubleton, the remaining honor drops under the ace. This safety play handles KQ tight with West or split honors.",
+      "par_tricks": 10
+    },
+    {
+      "title": "198. Preserve communication while making safety play",
+      "deal_pbn": "S:AJ974.AK5.A73.65 KT85.QJT8.T8.KQ4 Q632.763.KQ54.A3 -.942.J962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "South has AJ974 opposite Q632. The safety play is to cash the ace, then lead toward the Q. But keep communication: use the club ace as a later entry to dummy. Dont waste dummy entries on the safety play when you need them for other suits.",
+      "par_tricks": 10
+    },
+    {
+      "title": "199. Difference between percentage play and safety play",
+      "deal_pbn": "S:AKJ84.AK5.A73.65 QT95.QJT8.T8.KQ4 7632.763.KQ54.A3 -.942.J962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Percentage play: finesse the J (works when Q is onside = 50%). Safety play: cash AK (loses only to QT95 onside = rare). At IMPs in a game contract, the safety play is correct - give up the finesse to guard against 4-0 break. At matchpoints, the finesse might be right.",
+      "par_tricks": 10
+    },
+    {
+      "title": "200. When safety play costs an overtrick",
+      "deal_pbn": "S:AKT63.AK5.A74.65 QJ84.QJT8.T8.KQ4 9752.763.KQ53.A3 -.942.J962.JT9872",
+      "contract": "4S",
+      "declarer": "S",
+      "dealer": "S",
+      "vulnerability": "None",
+      "notes": "Cash the spade ace (safety play). If spades are 2-2, you make an overtrick by simply cashing AK. But the safety play of cashing A first and leading toward dummy costs an overtrick when spades are 2-2 and the finesse would have worked. Accept this cost at IMPs; reconsider at matchpoints.",
+      "par_tricks": 10
+    }
+  ]
+}
