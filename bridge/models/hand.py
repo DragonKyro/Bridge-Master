@@ -59,11 +59,15 @@ class Hand:
     # --- Display ---
 
     def pbn_string(self) -> str:
-        """PBN-style string: 'S.H.D.C' with ranks high-to-low per suit."""
+        """PBN-style string: 'S.H.D.C' with ranks high-to-low per suit.
+        Uses 'T' for ten (PBN standard), not '10'."""
         parts = []
         for suit in reversed(list(Suit)):  # spades, hearts, diamonds, clubs
             ranks = self.suit_cards(suit)
-            parts.append("".join(c.rank.symbol for c in ranks))
+            parts.append("".join(
+                "T" if c.rank == Rank.TEN else c.rank.symbol
+                for c in ranks
+            ))
         return ".".join(parts)
 
     def display(self) -> str:

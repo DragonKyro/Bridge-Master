@@ -11,6 +11,11 @@ Existing bridge software and literature typically illustrate one hand per techni
 - **370 teaching hands** across 22 themed categories, from beginner to advanced
 - **GUI application** — Built with arcade 3.x, card images rendered on a green felt table
 - **Themed hand collections** — Hands grouped by technique for deliberate practice
+- **Card animations** — Cards animate from hand to table with ease-out motion
+- **Hover highlighting** — Valid cards glow and lift on hover; invalid cards don't react
+- **Trick display** — All 4 cards stay visible for 1 second after each trick completes
+- **Trick history** — Compact panel in bottom-left shows all completed tricks with bridge orientation (N/E/S/W), color-coded by winning side
+- **Scrollable theme browser** — Mouse wheel, arrow keys, and visual scrollbar for navigating 22 theme categories
 - **Hand editor** — Graphical editor for constructing and curating teaching deals
 - **PBN support** — Import/export in standard Portable Bridge Notation format
 - **Play mode** — Play through themed hands interactively, controlling declarer and dummy
@@ -22,6 +27,16 @@ Existing bridge software and literature typically illustrate one hand per techni
 conda activate arcade
 python bridge.py
 ```
+
+## Controls (Play mode)
+
+| Key | Action |
+|-----|--------|
+| Click card | Play a valid card (highlighted on hover) |
+| U | Undo last play |
+| N | Toggle teaching notes |
+| Left/Right | Page through trick history |
+| ESC | Return to menu |
 
 ## Validate hands
 

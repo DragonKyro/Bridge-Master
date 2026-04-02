@@ -20,6 +20,7 @@ A repetition-based bridge training tool. Hands are grouped by theme (technique) 
 - Use `conda activate arcade` then `python bridge.py` to run
 - Card image keys: rank + suit lowercase (e.g. `as.png`, `10h.png`, `kd.png`)
 - Arcade 3.x API: use `arcade.Text` objects (not `arcade.draw_text`), `self.clear()` (not `arcade.start_render()`), `arcade.draw_rect_filled` with `arcade.XYWH`, `on_show_view()` (not `on_show()`)
+- Arcade 3.x: individual sprites have no `.draw()` method — always use `SpriteList.draw()`. For single sprites, wrap in a temp `SpriteList`.
 
 ## Validation
 - Run `python -X utf8 -m bridge.utils.validate` to validate all 370 hands
@@ -30,6 +31,14 @@ Beginner through advanced: absolute beginner, basic counting, entries, finesses,
 
 ## GUI views
 - **MenuView** — Main menu with Play, Edit, Browse, Quit buttons
-- **ThemeBrowserView** — Lists theme collections, click to play
-- **PlayView** — Play hands: click cards for declarer/dummy, defense auto-plays
+- **ThemeBrowserView** — Scrollable list of theme collections with scrollbar; mouse wheel, Up/Down, PageUp/PageDown to scroll
+- **PlayView** — Play hands with card animations, hover highlighting on valid cards, 1s trick pause, trick history panel (bottom-left), undo support
 - **EditorView** — Assign cards from palette to hands, set metadata, save to collection
+
+## PlayView animation architecture
+- Cards animate from hand to trick center with ease-out motion
+- `_anim_card` tracks which card is mid-flight so `_rebuild_sprites()` excludes it from trick_sprites (prevents duplicate)
+- On trick completion: only `_rebuild_hand_sprites()` is called (not full rebuild) to preserve the 3 earlier trick cards on screen
+- `_place_card_in_trick()` adds the 4th card after animation, then 1s pause shows all 4 cards
+- `_finish_trick()` does full rebuild after pause ends
+- Hover: shifts the actual sprite in-place before SpriteList.draw(), restores after; no copy created
