@@ -83,10 +83,12 @@ class MenuView(arcade.View):
             arcade.close_window()
         elif action == "play":
             from .theme_browser_view import ThemeBrowserView
-            self.window.show_view(ThemeBrowserView(mode="play"))
+            from ..progress import ProgressTracker
+            self.window.show_view(ThemeBrowserView(mode="play", progress=ProgressTracker()))
         elif action == "list":
             from .theme_browser_view import ThemeBrowserView
-            self.window.show_view(ThemeBrowserView(mode="browse"))
+            from ..progress import ProgressTracker
+            self.window.show_view(ThemeBrowserView(mode="browse", progress=ProgressTracker()))
         elif action == "edit":
             from .editor_view import EditorView
             self.window.show_view(EditorView())

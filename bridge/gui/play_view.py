@@ -18,6 +18,7 @@ from ..models.card import Card, Suit
 from ..models.deal import Direction
 from ..models.game import GameState, Contract
 from ..formats.collection import ThemeCollection
+from ..progress import ProgressTracker
 
 
 DATA_DIR = Path("data/themes")
@@ -26,14 +27,17 @@ DATA_DIR = Path("data/themes")
 class PlayView(arcade.View):
     """Play through a themed collection of bridge hands."""
 
-    def __init__(self, theme_file: str):
+    def __init__(self, theme_file: str, progress: ProgressTracker | None = None,
+                 start_index: int = 0):
         super().__init__()
         self.theme_file = theme_file
+        self.progress = progress or ProgressTracker()
         self.collection = ThemeCollection.load(DATA_DIR / f"{theme_file}.json")
-        self.hand_index = 0
+        self.hand_index = start_index
         self.game: GameState | None = None
         self.message = ""
         self.show_notes = False
+        self._hand_marked_done = False
 
         # Sprite lists
         self.south_sprites: arcade.SpriteList = arcade.SpriteList()
@@ -114,7 +118,7 @@ class PlayView(arcade.View):
             anchor_x="center", anchor_y="center", bold=True,
         )
         self.hint_text = arcade.Text(
-            "Click anywhere for next hand  |  N = Notes  |  ESC = Menu",
+            "Click to return to hand list  |  N = Notes  |  ESC = Back",
             SCREEN_WIDTH // 2, TRICK_CENTER_Y - 25,
             TEXT_COLOR, FONT_SIZE_SMALL,
             anchor_x="center", anchor_y="center",
@@ -125,9 +129,9 @@ class PlayView(arcade.View):
             anchor_x="center", anchor_y="center",
         )
         self.notes_text = arcade.Text(
-            "", 30, 45,
+            "", SCREEN_WIDTH - 540, 45,
             (200, 200, 255), FONT_SIZE_SMALL,
-            anchor_y="center", multiline=True, width=SCREEN_WIDTH - 350,
+            anchor_y="center", multiline=True, width=520,
         )
 
         # Trick history panel texts (bottom-left corner)
@@ -161,6 +165,7 @@ class PlayView(arcade.View):
         self._trick_paused = False
         self._anim_card = None
         self._hovered_card = None
+        self._hand_marked_done = False
         self._rebuild_sprites()
         self._update_valid_cards()
 
@@ -494,6 +499,10 @@ class PlayView(arcade.View):
             self.status_text.draw()
 
             if self.game.is_finished:
+                # Mark completed on first finish
+                if not self._hand_marked_done:
+                    self.progress.mark_completed(self.theme_file, self.hand_index)
+                    self._hand_marked_done = True
                 if self.game.made:
                     self.result_text.text = "CONTRACT MADE!"
                     self.result_text.color = (100, 255, 100)
@@ -519,7 +528,9 @@ class PlayView(arcade.View):
         if self.show_notes and self.hand_index < len(self.collection.hands):
             entry = self.collection.hands[self.hand_index]
             if entry.notes:
-                rect = arcade.XYWH(SCREEN_WIDTH // 2 - 140, 45, SCREEN_WIDTH - 340, 70)
+                notes_w = 560
+                notes_cx = SCREEN_WIDTH - notes_w // 2 - 10
+                rect = arcade.XYWH(notes_cx, 45, notes_w, 70)
                 arcade.draw_rect_filled(rect, (0, 0, 0, 200))
                 self.notes_text.text = entry.notes
                 self.notes_text.draw()
@@ -606,8 +617,8 @@ class PlayView(arcade.View):
         if self._animating or self._trick_paused:
             return
         if key == arcade.key.ESCAPE:
-            from .menu_view import MenuView
-            self.window.show_view(MenuView())
+            from .hand_select_view import HandSelectView
+            self.window.show_view(HandSelectView(self.theme_file, self.progress))
         elif key == arcade.key.U:
             self._undo()
         elif key == arcade.key.N:
@@ -644,12 +655,13 @@ class PlayView(arcade.View):
         if self._animating or self._trick_paused:
             return
         if not self.game:
-            from .menu_view import MenuView
-            self.window.show_view(MenuView())
+            from .hand_select_view import HandSelectView
+            self.window.show_view(HandSelectView(self.theme_file, self.progress))
             return
         if self.game.is_finished:
-            self.hand_index += 1
-            self._load_hand()
+            # Return to hand selection
+            from .hand_select_view import HandSelectView
+            self.window.show_view(HandSelectView(self.theme_file, self.progress))
             return
         current = self.game.current_player
         if not current.is_ns:

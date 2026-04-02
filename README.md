@@ -15,10 +15,11 @@ Existing bridge software and literature typically illustrate one hand per techni
 - **Hover highlighting** — Valid cards glow and lift on hover; invalid cards don't react
 - **Trick display** — All 4 cards stay visible for 1 second after each trick completes
 - **Trick history** — Compact panel in bottom-left shows all completed tricks with bridge orientation (N/E/S/W), color-coded by winning side
+- **Progress tracking** — Completed hands saved to disk; themes and hands show completion status with green highlights
+- **Hand selection** — Pick any hand within a theme; resume next incomplete with R key
 - **Scrollable theme browser** — Mouse wheel, arrow keys, and visual scrollbar for navigating 22 theme categories
 - **Hand editor** — Graphical editor for constructing and curating teaching deals
 - **PBN support** — Import/export in standard Portable Bridge Notation format
-- **Play mode** — Play through themed hands interactively, controlling declarer and dummy
 - **Validation utilities** — Verify hand correctness (52 cards, no duplicates, valid suits)
 
 ## Quick start
@@ -36,7 +37,7 @@ python bridge.py
 | U | Undo last play |
 | N | Toggle teaching notes |
 | Left/Right | Page through trick history |
-| ESC | Return to menu |
+| ESC | Return to hand selection |
 
 ## Validate hands
 
@@ -57,6 +58,8 @@ data/
   themes/       22 JSON theme collections (370 hands total)
 cards/          Card image assets (100x140 PNG)
 bridge.py       GUI entry point
+data/
+  progress.json   Saved completion progress (auto-created)
 ```
 
 ## Theme categories

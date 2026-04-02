@@ -31,9 +31,15 @@ Beginner through advanced: absolute beginner, basic counting, entries, finesses,
 
 ## GUI views
 - **MenuView** — Main menu with Play, Edit, Browse, Quit buttons
-- **ThemeBrowserView** — Scrollable list of theme collections with scrollbar; mouse wheel, Up/Down, PageUp/PageDown to scroll
-- **PlayView** — Play hands with card animations, hover highlighting on valid cards, 1s trick pause, trick history panel (bottom-left), undo support
+- **ThemeBrowserView** — Scrollable theme list with completion status (green=done, count shown); scrollbar
+- **HandSelectView** — Scrollable list of hands within a theme; shows DONE status; R to resume next incomplete
+- **PlayView** — Play hands with card animations, hover highlighting, 1s trick pause, trick history panel (bottom-left), undo; marks hand complete on finish; ESC returns to hand selection
 - **EditorView** — Assign cards from palette to hands, set metadata, save to collection
+
+## Progress tracking
+- `bridge/progress.py` — `ProgressTracker` saves completed hand indices per theme to `data/progress.json`
+- Flow: Theme Browser → Hand Selection → Play → (mark done) → Hand Selection
+- Completed themes shown green with "ALL DONE"; partial themes show "X/Y" count
 
 ## PlayView animation architecture
 - Cards animate from hand to trick center with ease-out motion
