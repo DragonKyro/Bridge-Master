@@ -1,118 +1,52 @@
 # Bridge Master
 
-A repetition-based bridge training tool for studying the play of the cards.
+Declarer-play training in the browser, made for playing on a phone: the 540 deals of Fred Gitelman's **Bridge Master** (as published on Bridge Base Online), against defenders who — like the original — shift their cards to beat any line but the best one.
 
-## Motivation
-
-Existing bridge software and literature typically illustrate one hand per technique. It's difficult to internalize a concept without sufficient repetition. Bridge Master groups hands by theme so you can practice the same technique (finesses, squeezes, endplays, etc.) across many different deals until it becomes second nature.
+**Play:** https://dragonkyro.github.io/Bridge-Master/ (add it to your home screen; it works offline).
 
 ## Features
 
-- **370 teaching hands** across 22 themed categories, from beginner to advanced
-- **GUI application** — Built with arcade 3.x, card images rendered on a green felt table
-- **Themed hand collections** — Hands grouped by technique for deliberate practice
-- **Card animations** — Cards animate from hand to table with ease-out motion
-- **Hover highlighting** — Valid cards glow and lift on hover; invalid cards don't react
-- **Trick display** — All 4 cards stay visible for 1 second after each trick completes
-- **Trick history** — Compact panel in bottom-left shows all completed tricks with bridge orientation (N/E/S/W), color-coded by winning side
-- **Progress tracking** — Completed hands saved to disk; themes and hands show completion status with green highlights
-- **Hand selection** — Pick any hand within a theme; resume next incomplete with R key
-- **Scrollable theme browser** — Mouse wheel, arrow keys, and visual scrollbar for navigating 22 theme categories
-- **Hand editor** — Graphical editor for constructing and curating teaching deals
-- **PBN support** — Import/export in standard Portable Bridge Notation format
-- **Validation utilities** — Verify hand correctness (52 cards, no duplicates, valid suits)
+- **540 deals** in 5 levels (Beginner → World Class) and their A–D sets, each with the auction, the opening lead and the full commentary.
+- **Rigged defence.** Follow the solution and the defenders play BBO's scripted defence. Leave it and they play double dummy — and, while the key part of the hand is still in progress, switch to any of BBO's alternative layouts that fits every card you've seen and beats your line. Only the right line makes. Every deal is tested: the solution always makes.
+- **Solution player.** BBO's step-by-step review: the four hands, the cards the commentary is talking about lit up, the trick in the middle, the commentary growing a phrase at a time. Autoplay, step, or scrub.
+- **Stars.** Gold for a clean solve, silver if you used undo or had looked at the solution. Saved on the device; sign in with Google to keep phone and computer in step.
+- **Offline.** The whole app — every deal and the solver — is cached after the first visit. Progress made offline syncs when you reconnect.
+- **The table.** Cards drawn in code (four-colour or red/black), hands that deal in and close up, your card flying from the hand, the defenders' cards flipping in from their seats, the winning card lighting up before the trick sweeps off, a trick meter, synthesized sounds. One-tap play or tap-to-raise, three paces, reduced-motion support.
 
-## Quick start
+## How the rigging works
 
-```bash
-conda activate arcade
-python bridge.py
-```
+BBO's review of each deal is a narrative: the right line, then "notice that if…" side lines and alternative layouts ("if East had held…"). The build step (`scripts/build-deals.ts`) reconstructs every position of that review, picks the solution (the longest review line that still makes double dummy), and keeps the alternative layouts on which the solution still makes. During play:
 
-## Controls (Play mode)
+- On the solution, defenders play the review's cards.
+- Off it, the defenders use **DDS** (Bo Haglund's double-dummy solver, compiled to WebAssembly) and choose the most natural of the best cards.
+- If you go off the solution while the critical part of the hand is still being played, the app checks the alternative layouts that fit everything you've seen. If one of them beats your line and your current one doesn't, the defenders "had" that one all along.
 
-| Key | Action |
-|-----|--------|
-| Click card | Play a valid card (highlighted on hover) |
-| U | Undo last play |
-| N | Toggle teaching notes |
-| Left/Right | Page through trick history |
-| ESC | Return to hand selection |
-
-## Validate hands
+## Development
 
 ```bash
-python -X utf8 -m bridge.utils.validate
+npm install
+npm run dev          # http://localhost:5173/Bridge-Master/
+npm run test:run     # unit tests + every deal played with real DDS (~30 s)
+npm run build        # type-check, build, service worker → dist/
+npm run deals        # rebuild src/data from data/bbo_bridgemaster
 ```
 
-## Project structure
+Stack: TypeScript, React 19, Zustand, Vite, Vitest, `bridge-dds` (DDS in WebAssembly, in a Web Worker), Firebase Auth + Firestore (lazy-loaded), `vite-plugin-pwa`.
 
-```
-bridge/
-  models/       Core classes: Card, Hand, Deal, Trick, GameState, Contract
-  formats/      PBN parser/writer, JSON themed collections
-  editor/       Hand editor logic
-  gui/          Arcade GUI views (menu, play, editor, theme browser)
-  utils/        Validation utilities
-data/
-  themes/       22 JSON theme collections (370 hands total)
-cards/          Card image assets (100x140 PNG)
-bridge.py       GUI entry point
-data/
-  progress.json   Saved completion progress (auto-created)
-```
+Layout: `src/bridge` (cards, PBN, play rules) · `src/dd` (solver + worker) · `src/game` (script tracking, rigging, defence) · `src/data` (generated deal files) · `src/store` (table, progress, prefs) · `src/net` (sign-in and sync) · `src/ui` (pages, table, solution player, card art, styles). See `CLAUDE.md` for the details.
 
-## Theme categories
+## Deploying
 
-| Category | Hands | Difficulty |
-|----------|-------|------------|
-| Absolute Beginner Declarer Play | 10 | Beginner |
-| Basic Counting | 10 | Beginner |
-| Entries and Communications | 15 | Beginner-Intermediate |
-| Finesse Themes | 25 | Beginner-Advanced |
-| Suit Establishment | 20 | Beginner-Intermediate |
-| Hold-Up Play and Ducking | 15 | Beginner-Advanced |
-| Trump Basics | 22 | Beginner-Advanced |
-| Ruffing and Side-Suit Management | 19 | Beginner-Advanced |
-| Loser Handling | 14 | Beginner-Advanced |
-| Notrump Play | 20 | Beginner-Advanced |
-| Combination Plays | 20 | Beginner-Advanced |
-| Safety Plays | 10 | Intermediate-Advanced |
-| Endplay and Elimination | 15 | Advanced |
-| Squeeze Foundations | 15 | Advanced |
-| Trump Coups | 10 | Advanced |
-| Dummy Reversal | 8 | Advanced |
-| Defensive Themes | 36 | Beginner-Advanced |
-| Opening Lead | 16 | Beginner-Intermediate |
-| Declarer Play by Contract Type | 10 | Beginner-Advanced |
-| Suit Combinations | 30 | Beginner-Advanced |
-| Bidding-Play Connection | 10 | Intermediate |
-| Error Prevention | 20 | Beginner-Intermediate |
+Pushing to `main` runs `.github/workflows/deploy.yml` (tests, build, GitHub Pages). One-time setup:
 
-## Data format
+1. GitHub repo → Settings → Pages → Source: **GitHub Actions**.
+2. Firebase console (project `github-games-e7c7d`) → Authentication → Sign-in method → enable **Google**; Authentication → Settings → Authorized domains → add `dragonkyro.github.io`.
+3. Firestore rules: `npm run deploy:rules` (already deployed).
 
-Hands are stored in JSON theme collections:
+## Data
 
-```json
-{
-  "theme": "Finesse Themes",
-  "description": "Practice taking finesses...",
-  "difficulty": 3,
-  "hands": [
-    {
-      "title": "Simple Finesse",
-      "deal_pbn": "S:AKQ.JT9.876.5432 ...",
-      "contract": "4H",
-      "declarer": "S",
-      "notes": "Lead toward the queen..."
-    }
-  ]
-}
-```
+`data/bbo_bridgemaster/` holds the scraped deals (`scripts/scrape_bbo_bridgemaster.py`). `data/themes/` and `bridge_themes.csv` are an earlier set of made-up themed hands, kept for later.
 
-Also supports PBN (Portable Bridge Notation) for import/export.
+## Credits
 
-## Requirements
-
-- Python 3.11+
-- arcade 3.x (via conda: `conda activate arcade`)
+Deals, auctions and commentary: Fred Gitelman's Bridge Master, via Bridge Base Online. Double-dummy analysis: DDS by Bo Haglund and Soren Hein, via the `bridge-dds` package (Apache 2.0). Card art adapted from the tractor project.

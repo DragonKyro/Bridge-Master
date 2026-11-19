@@ -1,10 +1,12 @@
+node_modules
+dist
+.vite
+.firebase
+coverage
+*.log
+.DS_Store
 __pycache__/
 *.pyc
-*.pyo
 .env
 .venv/
-*.egg-info/
-dist/
-build/
-.pytest_cache/
 data/progress.json

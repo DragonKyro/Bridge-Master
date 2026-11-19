@@ -1,0 +1,38 @@
+{
+  "name": "bridge-master",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:run": "vitest run --passWithNoTests",
+    "typecheck": "tsc",
+    "deals": "vite-node scripts/build-deals.ts",
+    "deploy:rules": "npx -y firebase-tools@latest deploy --only firestore:rules --project github-games-e7c7d"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0",
+    "bridge-dds": "^1.4.0",
+    "firebase": "^13.4.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.3",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "jsdom": "^25.0.1",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.6",
+    "vite-node": "^2.1.9",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^2.1.9"
+  }
+}
