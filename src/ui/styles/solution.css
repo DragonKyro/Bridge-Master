@@ -1,0 +1,129 @@
+/* The solution player. */
+
+.solution-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 180;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: calc(8px + var(--safe-top)) 8px calc(8px + var(--safe-bottom));
+  background: rgba(3, 8, 6, 0.72);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  animation: fade-in 200ms ease both;
+}
+.solution {
+  width: min(100%, 640px);
+  max-height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: modal-in 380ms var(--spring) both;
+}
+.solution-head { display: flex; align-items: flex-start; justify-content: space-between; padding: 14px 14px 6px 18px; }
+.solution-head h2 { font-size: 22px; }
+.solution-head .muted { font-size: 13px; font-weight: 600; }
+
+.solution-board {
+  position: relative;
+  margin: 4px 10px 0;
+  padding: 12px 6px;
+  border-radius: 16px;
+  background: radial-gradient(ellipse 80% 70% at 50% 50%, var(--felt-hi) 0%, var(--felt) 60%, var(--felt-lo) 100%);
+  box-shadow: inset 0 0 0 1px rgba(233, 196, 106, 0.2), inset 0 0 40px rgba(0, 0, 0, 0.4);
+}
+.solution-board .hand-text { background: rgba(0, 0, 0, 0.22); }
+.solution-board .deal-diagram { gap: 6px 4px; }
+
+.solution-trick {
+  --w: clamp(32px, 9vw, 48px);
+  position: relative;
+  width: calc(var(--w) * 2.7);
+  height: calc(var(--w) * 1.55 * 2.1);
+}
+.solution-trick-card {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: var(--w);
+  height: calc(var(--w) * 1.55);
+  margin: calc(var(--w) * -0.775) 0 0 calc(var(--w) * -0.5);
+  animation: sol-card 360ms var(--spring) both;
+}
+.sol-N { translate: 0 calc(var(--w) * -0.78); --from: 0 calc(var(--w) * -1.4); }
+.sol-S { translate: 0 calc(var(--w) * 0.78); --from: 0 calc(var(--w) * 1.4); }
+.sol-W { translate: calc(var(--w) * -0.86) 0; --from: calc(var(--w) * -1.6) 0; }
+.sol-E { translate: calc(var(--w) * 0.86) 0; --from: calc(var(--w) * 1.6) 0; }
+@keyframes sol-card { from { opacity: 0; transform: translate(var(--from)) scale(0.8); } }
+.solution-score {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 12px;
+  font-weight: 650;
+  white-space: nowrap;
+  color: var(--fg-muted);
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.25);
+}
+.solution-score b { color: var(--gold-hi); }
+.solution-score .sol-def { color: var(--danger); }
+
+.solution-text {
+  flex: 1 1 auto;
+  min-height: 92px;
+  overflow: auto;
+  padding: 12px 18px 4px;
+  font-size: 15.5px;
+  line-height: 1.55;
+}
+.solution-text p { margin: 0 0 10px; }
+.sol-old { color: rgba(243, 239, 227, 0.72); }
+.sol-fresh { color: #fffaf0; animation: fresh-in 520ms var(--ease-out) both; }
+@keyframes fresh-in { from { opacity: 0; filter: blur(3px); } }
+
+.solution-controls { padding: 6px 14px 12px; border-top: 1px solid var(--line); }
+.solution-controls input[type='range'] {
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--gold) 0%, var(--gold) var(--p), rgba(255, 255, 255, 0.1) var(--p));
+  margin: 10px 0 6px;
+}
+.solution-controls input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff7da;
+  box-shadow: 0 0 0 3px rgba(233, 196, 106, 0.5), 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+.solution-controls input[type='range']::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border: none;
+  border-radius: 50%;
+  background: #fff7da;
+  box-shadow: 0 0 0 3px rgba(233, 196, 106, 0.5);
+}
+.solution-buttons { display: flex; align-items: center; justify-content: center; gap: 4px; }
+.solution-play {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  color: #2a1c00;
+  background: linear-gradient(180deg, #fbe3a0 0%, #e9c46a 45%, #cf9f3c 100%);
+  box-shadow: 0 3px 0 #8d6518, 0 8px 18px rgba(0, 0, 0, 0.35);
+}
+.solution-play:hover:not(:disabled) { background: linear-gradient(180deg, #fff0bf 0%, #efcd78 45%, #d6a947 100%); }
+.solution-notes { margin-left: 8px; cursor: pointer; color: var(--fg-muted); }
+.solution-notes.is-on { color: var(--gold-hi); border-color: var(--line-strong); }
+
+@media (max-width: 420px) {
+  .solution-board .hand-text { font-size: 13px; min-width: 0; padding: 5px 6px; }
+  .solution-board .hand-text-ranks { gap: 1px; }
+}

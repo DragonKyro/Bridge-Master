@@ -35,12 +35,31 @@ import urllib.request
 from pathlib import Path
 import websocket
 
-# Allow importing bridge package from repo root
 REPO_ROOT = Path(__file__).resolve().parent.parent
-if str(REPO_ROOT) not in sys.path:
-    sys.path.insert(0, str(REPO_ROOT))
 
-from bridge.utils.validate import validate_deal_pbn
+
+def validate_deal_pbn(deal_pbn: str, title: str = "") -> list[str]:
+    """Check a PBN deal ("S:hand hand hand hand"): 13 cards each, 52 distinct. Returns issues."""
+    label = f"[{title}] " if title else ""
+    try:
+        _, rest = deal_pbn.split(":", 1)
+        hands = rest.split()
+        if len(hands) != 4:
+            return [f"{label}expected 4 hands, got {len(hands)}"]
+        issues, cards = [], []
+        for h in hands:
+            suits = h.split(".")
+            if len(suits) != 4:
+                return [f"{label}bad hand {h!r}"]
+            hand = [s + r for s, ranks in zip("SHDC", suits) for r in ranks]
+            if len(hand) != 13:
+                issues.append(f"{label}hand {h!r} has {len(hand)} cards (need 13)")
+            cards.extend(hand)
+        if len(set(cards)) != 52:
+            issues.append(f"{label}{len(set(cards))} unique cards (need 52)")
+        return issues
+    except Exception as e:  # noqa: BLE001
+        return [f"{label}Parse error: {e}"]
 
 
 LEVEL_CONFIG = {
