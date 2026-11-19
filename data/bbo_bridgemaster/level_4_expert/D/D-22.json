@@ -1,0 +1,992 @@
+{
+  "title": "Level 4 (Expert) - D-22",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-22",
+  "deal_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.75 Q4.654.654.QT432 KJT985..T87.J986",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "3H",
+    "Pass",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C7",
+  "par_tricks": 9,
+  "notes": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds.\n\nSouth still has access to only 8 top tricks (the ♠A, 5 diamonds, and 2 clubs) and the spade position is grim. East is certain to have the ♠K sitting over dummy's ♠Q because if West held the ♠K, along with 7 solid hearts missing only the ♥Q, he would have opened the bidding with 1♥ (or 4♥), not 3♥. The good news about West holding 7 hearts is that if East gains the lead he will not have a heart to lead through South's ♥Q.\n\nSouth's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q to enjoy dummy's ♣Q, his 9th trick.",
+  "commentary_paragraphs": [
+    "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds.",
+    "South still has access to only 8 top tricks (the ♠A, 5 diamonds, and 2 clubs) and the spade position is grim. East is certain to have the ♠K sitting over dummy's ♠Q because if West held the ♠K, along with 7 solid hearts missing only the ♥Q, he would have opened the bidding with 1♥ (or 4♥), not 3♥. The good news about West holding 7 hearts is that if East gains the lead he will not have a heart to lead through South's ♥Q.",
+    "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q to enjoy dummy's ♣Q, his 9th trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "S9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.75 Q4.654.654.QT432 KJT985..T87.J986",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.5 Q4.654.654.QT432 KJT985..T87.J986",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.5 Q4.654.654.QT432 KJT985..T87.J986",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract)"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.5 Q4.654.654.QT43 KJT985..T87.J986",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract)"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.Q32.AKQ32.AK 76.AKJT987.J9.5 Q4.654.654.QT43 KJT985..T87.J98",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract)"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.Q32.AKQ32.A 76.AKJT987.J9.5 Q4.654.654.QT43 KJT985..T87.J98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract)"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.Q32.AKQ32.A 76.AKJT987.J9.5 Q4.654.654.QT43 KJT985..T87.J98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.Q32.AKQ32. 76.AKJT987.J9.5 Q4.654.654.QT43 KJT985..T87.J98",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.Q32.AKQ32. 76.AKJT987.J9. Q4.654.654.QT43 KJT985..T87.J98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.Q32.AKQ32. 76.AKJT987.J9. Q4.654.654.QT4 KJT985..T87.J98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.Q32.AKQ32. 76.AKJT987.J9. Q4.654.654.QT4 KJT985..T87.J9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.Q32.AKQ32. 76.AKJT987.J9. Q4.654.654.QT4 KJT985..T87.J9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.Q32.KQ32. 76.AKJT987.J9. Q4.654.654.QT4 KJT985..T87.J9",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A32.Q32.KQ32. 76.AKJT987.J. Q4.654.654.QT4 KJT985..T87.J9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A32.Q32.KQ32. 76.AKJT987.J. Q4.654.65.QT4 KJT985..T87.J9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A32.Q32.KQ32. 76.AKJT987.J. Q4.654.65.QT4 KJT985..T8.J9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.J. Q4.654.65.QT4 KJT985..T8.J9",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.. Q4.654.65.QT4 KJT985..T8.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.. Q4.654.6.QT4 KJT985..T8.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.. Q4.654.6.QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣7 against 3NT. South gratefully wins West's club opening lead in hand (gratefully because a spade lead or a high heart lead and a spade shift defeats the contract) and unblocks his other high club. Both defenders follow to 2 rounds of diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.. Q4.654.6.QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South still has access to only 8 top tricks (the ♠A, 5 diamonds, and 2 clubs) and the spade position is grim. East is certain to have the ♠K sitting over dummy's ♠Q"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A32.Q32.Q32. K6.AKJT987.. Q4.654.6.QT4 JT9875..T.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ],
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South still has access to only 8 top tricks (the ♠A, 5 diamonds, and 2 clubs) and the spade position is grim. East is certain to have the ♠K sitting over dummy's ♠Q because if West held the ♠K, along with 7 solid hearts missing only the ♥Q, he would have opened the bidding with 1♥ (or 4♥), not 3♥. The good news about West holding 7 hearts is that if East gains the lead he will not have a heart to lead through South's ♥Q."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A32.Q32.Q32. 76.AKJT987.. Q4.654.6.QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKJT987.. Q4.654.6.QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654.6.QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654..QT4 KJT985..T.J9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HJ",
+        "N": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654..QT4 KJT985...J9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HJ",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654..QT4 KJT985...J9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HJ",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "9"
+          ],
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654..QT4 KJT985...J9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HJ",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A32.Q32.Q3. 76.AKT987.. Q4.654..QT4 JT985...J9",
+      "trick_cards": {
+        "E": "SK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.Q32.Q3. 76.AKT987.. Q4.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "SA",
+        "E": "SK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.Q32.Q3. 7.AKT987.. Q4.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "E": "SK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32.Q32.Q3. 7.AKT987.. Q.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S4",
+        "E": "SK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:32.Q32.Q3. 7.AKT987.. Q.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S4",
+        "E": "SK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:32.Q32.3. 7.AKT987.. Q.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:32.Q32.3. 7.AKT98.. Q.654..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:32.Q32.3. 7.AKT98.. Q.65..QT4 JT985...J9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:32.Q32.3. 7.AKT98.. Q.65..QT4 JT98...J9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:32.Q32.. 7.AKT98.. Q.65..QT4 JT98...J9",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:32.Q32.. 7.AKT9.. Q.65..QT4 JT98...J9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "H8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:32.Q32.. 7.AKT9.. Q.6..QT4 JT98...J9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "H8",
+        "N": "H5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:32.Q32.. 7.AKT9.. Q.6..QT4 JT9...J9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "H8",
+        "N": "H5",
+        "E": "S8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:32.Q32.. 7.AKT9.. Q.6..QT4 JT9...J9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "H8",
+        "N": "H5",
+        "E": "S8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:3.Q32.. 7.AKT9.. Q.6..QT4 JT9...J9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:3.Q32.. .AKT9.. Q.6..QT4 JT9...J9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:3.Q32.. .AKT9.. .6..QT4 JT9...J9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:3.Q32.. .AKT9.. .6..QT4 JT...J9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:3.Q32.. .AKT9.. .6..QT4 JT...J9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to hope that East was dealt the outstanding diamond. South should attempt the gambit of giving East an undeserved diamond trick. South will get at least 2 tricks in return regardless of what East returns. The ♠K is as good as anything, but South can win the ♠A and cash his last 2 diamonds. South then crosses to the ♠Q to enjoy dummy's ♣Q, his 9th trick."
+    }
+  ]
+}

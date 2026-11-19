@@ -1,0 +1,862 @@
+{
+  "title": "Level 1 (Beginner) - A-22",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-22",
+  "deal_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.QJT9 987.32.K654.5432 32.K987.QJT9.876",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 10,
+  "notes": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs). South could potentially develop his game-going trick in diamonds if that suit divides 3-3. If the defensive diamonds are 4-2, however, this approach will fail.\n\nSouth has a near certain way of coming to a tenth trick. He can trump a heart in the dummy. South must give the defense 2 heart tricks before drawing trump.\n\nSouth plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts, North will still have a trump remaining to take care of South's third heart loser. A diamond trick must be surrendered at the end, but the contract is secure.\n\nNotice that an initial trump lead would put the defenders one step ahead in the race to exhaust North's trumps. West can hardly be blamed, however, for leading from his attractive club holding.",
+  "commentary_paragraphs": [
+    "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs). South could potentially develop his game-going trick in diamonds if that suit divides 3-3. If the defensive diamonds are 4-2, however, this approach will fail.",
+    "South has a near certain way of coming to a tenth trick. He can trump a heart in the dummy. South must give the defense 2 heart tricks before drawing trump.",
+    "South plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts, North will still have a trump remaining to take care of South's third heart loser. A diamond trick must be surrendered at the end, but the contract is secure.",
+    "Notice that an initial trump lead would put the defenders one step ahead in the race to exhaust North's trumps. West can hardly be blamed, however, for leading from his attractive club holding."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.QJT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.JT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.JT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.876",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs). South could potentially develop his game-going trick in diamonds"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.987.JT 987.32.K654.543 32.K987.QJT.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs). South could potentially develop his game-going trick in diamonds if that suit divides 3-3."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q which South wins. South has 9 top tricks (5 in spades, 2 in diamonds, and 2 in clubs). South could potentially develop his game-going trick in diamonds if that suit divides 3-3. If the defensive diamonds are 4-2, however, this approach will fail."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way of coming to a tenth trick. He can trump a heart"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way of coming to a tenth trick. He can trump a heart in the dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way of coming to a tenth trick. He can trump a heart in the dummy. South must give the defense 2 heart tricks"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way of coming to a tenth trick. He can trump a heart in the dummy. South must give the defense 2 heart tricks before drawing trump."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJT.654.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South plays hearts."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJT.65.A32.A 654.AQJT.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South plays hearts."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJT.65.A32.A 654.AQJ.87.JT9 987.32.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South plays hearts."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJT.65.A32.A 654.AQJ.87.JT9 987.3.K654.543 32.K987.QJT9.87",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HT",
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South plays hearts."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJT.65.A32.A 654.AQJ.87.JT9 987.3.K654.543 32.K98.QJT9.87",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HT",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJT.65.A32.A 654.AQJ.87.JT9 987.3.K654.543 32.K98.QJT9.87",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HT",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJT.65.A32.A 65.AQJ.87.JT9 987.3.K654.543 32.K98.QJT9.87",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQJT.65.A32.A 65.AQJ.87.JT9 98.3.K654.543 32.K98.QJT9.87",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQJT.65.A32.A 65.AQJ.87.JT9 98.3.K654.543 3.K98.QJT9.87",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S7",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQJ.65.A32.A 65.AQJ.87.JT9 98.3.K654.543 3.K98.QJT9.87",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S4",
+        "N": "S7",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQJ.6.A32.A 65.AQJ.87.JT9 98.3.K654.543 3.K98.QJT9.87",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQJ.6.A32.A 65.AQ.87.JT9 98.3.K654.543 3.K98.QJT9.87",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQJ.6.A32.A 65.AQ.87.JT9 98..K654.543 3.K98.QJT9.87",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQJ.6.A32.A 65.AQ.87.JT9 98..K654.543 3.K9.QJT9.87",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQJ.6.A32.A 6.AQ.87.JT9 98..K654.543 3.K9.QJT9.87",
+      "trick_cards": {
+        "W": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQJ.6.A32.A 6.AQ.87.JT9 9..K654.543 3.K9.QJT9.87",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQJ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKQ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKQ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AKQ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts, North will still have a trump remaining"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AKQ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts, North will still have a trump remaining to take care of South's third heart loser."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AKQ.6.A32.A 6.AQ.87.JT9 9..K654.543 .K9.QJT9.87",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South plays hearts. The defense will play trumps at each opportunity, but South is one step ahead. By the time he has made North void in hearts, North will still have a trump remaining to take care of South's third heart loser. A diamond trick must be surrendered at the end, but the contract is secure."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.QJT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Notice that an initial trump lead"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.QJT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Notice that an initial trump lead would put the defenders one step ahead in the race to exhaust North's trumps."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AKQJT.654.A32.AK 654.AQJT.87.QJT9 987.32.K654.5432 32.K987.QJT9.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Notice that an initial trump lead would put the defenders one step ahead in the race to exhaust North's trumps. West can hardly be blamed, however, for leading from his attractive club holding."
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "title": "Level 3 (Advanced) - D-15",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-15",
+  "deal_pbn": "S:K32.A32.A2.AQJ32 QJT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. South has 5 sure winners outside of clubs (the ♠A, ♠K, ♥A, ♦A, and ♦K). South should look for the safest possible way to ensure 4 club winners.\n\nIt would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small, South plays the ♣Q or ♣J.\n\nIf clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy and lead another club toward the South hand. The recommended line of play allows South to make the contract any time it is possible to do so.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. South has 5 sure winners outside of clubs (the ♠A, ♠K, ♥A, ♦A, and ♦K). South should look for the safest possible way to ensure 4 club winners.",
+    "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small, South plays the ♣Q or ♣J.",
+    "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy and lead another club toward the South hand. The recommended line of play allows South to make the contract any time it is possible to do so."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 QJT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "K"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has 5 sure winners outside of clubs (the ♠A, ♠K, ♥A, ♦A, and ♦K)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has 5 sure winners outside of clubs (the ♠A, ♠K, ♥A, ♦A, and ♦K). South should look for the safest possible way to ensure 4 club winners."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K3.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K3.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.A32.A2.AQJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.A32.A2.AQJ32 JT98.Q7.QT976.K A5.654.K543.654 7.KJT98.J8.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976.K A5.654.K543.654 7.KJT98.J8.T987",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976.7 A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976. A5.654.K543.654 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976. A5.654.K543.65 7.KJT98.J8.KT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976. A5.654.K543.65 7.KJT98.J8.KT9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.A32.A2.QJ32 JT98.Q7.QT976. A5.654.K543.65 7.KJT98.J8.KT9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT976. A5.654.K543.65 7.KJT98.J8.KT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.K543.65 7.KJT98.J8.KT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.65 7.KJT98.J8.KT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.65 7.KJT98.J.KT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.65 7.KJT98.J.KT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT9",
+      "trick_cards": {
+        "N": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT9",
+      "trick_cards": {
+        "N": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.A32.A.QJ32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small, South plays the ♣Q or ♣J."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:32.A32.A.J32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to duck the first round of spades as a heart shift from West would not be welcome. South should win the ♠K at trick 1 and lay down the ♣A (to guard against a singleton ♣K with West). When both defenders follow small, South should cross to the dummy in diamonds and lead a second round of clubs toward the closed hand. When East follows small, South plays the ♣Q or ♣J."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:32.A32.A.J32 JT98.Q7.QT9.T A5.654.543.6 7.KJT98.J7.K",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, South will have no further problems."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:32.A32.A.J32 JT98.Q7.QT97. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.A32.A.J32 JT98.Q7.QT9. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "D7",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.A32.A.J32 JT98.Q7.QT9. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "D7",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:3.A32.A.J32 JT98.Q7.QT9. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:3.A32.A.J32 JT9.Q7.QT9. A5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:3.A32.A.J32 JT9.Q7.QT9. 5.654.543.6 7.KJT98.J.KT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:3.A32.A.J32 JT9.Q7.QT9. 5.654.543.6 .KJT98.J.KT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:3.A32.A.J32 JT9.Q7.QT9. 5.654.543.6 .KJT98.J.KT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy and lead another club toward the South hand."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K32.A32.A2.AQJ32 JT98.Q7.QT976.7 A54.654.K543.654 76.KJT98.J8.KT98",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-2, South will have no further problems. If West discards on the second round of clubs, South can cross back to the dummy and lead another club toward the South hand. The recommended line of play allows South to make the contract any time it is possible to do so."
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "title": "Level 4 (Expert) - A-13",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-13",
+  "deal_pbn": "S:AKQ.432.K432.A32 J765.765.J976.76 432.AKQ.AQT8.K54 T98.JT98.5.QJT98",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H5",
+  "par_tricks": 12,
+  "notes": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades, 3 hearts, and 2 clubs). The early diamond play may reveal options in the suit.\n\nWest's play of the ♦9 gives South a 2 way finesse in diamonds. Either opponent may be played for 4 diamonds to the ♦J. West's play of the ♦9 from 4 diamonds to the ♦J is a well known mandatory falsecard. South should attempt to get a count on the hand to decide how to continue in diamonds.\n\nIn order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs and at least 3 cards in both spades and hearts. East will not have room for 4 diamonds in his hand. South will know to cash the ♦K next.\n\nIf the count does not reveal who to play for 4 diamonds, the odds favour playing a strong West player for length in diamonds and a weak West player for a singleton ♦9.",
+  "commentary_paragraphs": [
+    "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades, 3 hearts, and 2 clubs). The early diamond play may reveal options in the suit.",
+    "West's play of the ♦9 gives South a 2 way finesse in diamonds. Either opponent may be played for 4 diamonds to the ♦J. West's play of the ♦9 from 4 diamonds to the ♦J is a well known mandatory falsecard. South should attempt to get a count on the hand to decide how to continue in diamonds.",
+    "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs and at least 3 cards in both spades and hearts. East will not have room for 4 diamonds in his hand. South will know to cash the ♦K next.",
+    "If the count does not reveal who to play for 4 diamonds, the odds favour playing a strong West player for length in diamonds and a weak West player for a singleton ♦9."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.432.K432.A32 J765.765.J976.76 432.AKQ.AQT8.K54 T98.JT98.5.QJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.432.K432.A32 J765.76.J976.76 432.AKQ.AQT8.K54 T98.JT98.5.QJT98",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.432.K432.A32 J765.76.J976.76 432.AK.AQT8.K54 T98.JT98.5.QJT98",
+      "trick_cards": {
+        "W": "H5",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.432.K432.A32 J765.76.J976.76 432.AK.AQT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "W": "H5",
+        "N": "HQ",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.AQT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.AQT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades, 3 hearts,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the opening heart lead and cash 1 of dummy's top diamonds. 4 tricks in diamonds are needed (to go with 3 spades, 3 hearts, and 2 clubs). The early diamond play may reveal options in the suit."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9.5.QJT98",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West's play of the ♦9"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ.43.K432.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's play of the ♦9"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J976.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's play of the ♦9"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's play of the ♦9"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's play of the ♦9 gives South a 2 way finesse in diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's play of the ♦9 gives South a 2 way finesse in diamonds. Either opponent may be played for 4 diamonds to the ♦J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's play of the ♦9 gives South a 2 way finesse in diamonds. Either opponent may be played for 4 diamonds to the ♦J. West's play of the ♦9 from 4 diamonds to the ♦J is a well known mandatory falsecard."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's play of the ♦9 gives South a 2 way finesse in diamonds. Either opponent may be played for 4 diamonds to the ♦J. West's play of the ♦9 from 4 diamonds to the ♦J is a well known mandatory falsecard. South should attempt to get a count on the hand to decide how to continue in diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K54 T98.JT9..QJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K5 T98.JT9..QJT98",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ.43.K43.A32 J765.76.J76.76 432.AK.QT8.K5 T98.JT9..QJT9",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQ.43.K43.A3 J765.76.J76.76 432.AK.QT8.K5 T98.JT9..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQ.43.K43.A3 J765.76.J76.7 432.AK.QT8.K5 T98.JT9..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQ.43.K43.A3 J765.76.J76.7 432.AK.QT8.K5 T98.JT9..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQ.43.K43.A3 J765.76.J76.7 432.AK.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.76.J76.7 432.AK.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.AK.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.A.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.A.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.A.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "9"
+          ],
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs and at least 3 cards in both spades and hearts."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.A.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs and at least 3 cards in both spades and hearts. East will not have room for 4 diamonds in his hand."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6.J76.7 432.A.QT8.K5 T98.T9..QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "In order to get as complete a count as possible, South should duck a round of clubs. When South regains the lead he can cash all of his tricks outside of diamonds. On the given lie of the cards, East will show up with 5 clubs and at least 3 cards in both spades and hearts. East will not have room for 4 diamonds in his hand. South will know to cash the ♦K next."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKQ.4.K43.A3 J76.6.J76.97 432.A.QT8.K5 T985.T9..QJT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the count does not reveal who to play for 4 diamonds, the odds favour playing a strong West player for length in diamonds"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AKQ.4.K43.A3 J765.6..QJT9 432.A.QT8.K5 T98.T9.J76.7",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the count does not reveal who to play for 4 diamonds, the odds favour playing a strong West player for length in diamonds and a weak West player for a singleton ♦9."
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+{
+  "title": "Level 3 (Advanced) - D-10",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-10",
+  "deal_pbn": "S:Q32.AJ.Q32.AQJT2 J8765.7654.AK4.7 AT9.K3.JT987.654 K4.QT982.65.K983",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S6",
+  "par_tricks": 9,
+  "notes": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K, South should unblock the ♠Q from his hand!\n\nThe contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry, but the only other possible entries are in the spade suit (South will not be able to use the diamond suit as the defense is about to get the hearts going). West is very likely to have the ♠J and South should plan to finesse against that card to create and extra dummy entry.\n\nEast's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard means that South's unblock of the ♠Q at trick 1 was necessary - a third dummy entry will be required to pick up the clubs and North's ♠A is still available for that purpose.\n\nNote that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A. West's fine blocking play defeats the contract by denying South the dummy entries required to pick up the club suit.",
+  "commentary_paragraphs": [
+    "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K, South should unblock the ♠Q from his hand!",
+    "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry, but the only other possible entries are in the spade suit (South will not be able to use the diamond suit as the defense is about to get the hearts going). West is very likely to have the ♠J and South should plan to finesse against that card to create and extra dummy entry.",
+    "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard means that South's unblock of the ♠Q at trick 1 was necessary - a third dummy entry will be required to pick up the clubs and North's ♠A is still available for that purpose.",
+    "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A. West's fine blocking play defeats the contract by denying South the dummy entries required to pick up the club suit."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J8765.7654.AK4.7 AT9.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT9.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT9.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "J"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "9",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 K4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K, South should unblock the ♠Q from his hand!"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 3NT. South should play low from the dummy since the contract will require 2 spade tricks (along with 2 heart tricks and hopefully 5 club tricks if that finesse is working). When East wins the ♠K, South should unblock the ♠Q from his hand!"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "9",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry, but the only other possible entries are in the spade suit"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry, but the only other possible entries are in the spade suit (South will not be able to use the diamond suit as the defense is about to get the hearts going)."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The contract will require East to have the ♣K and if East was dealt 4 clubs then South will need 3 dummy entries for 3 club finesses. The ♥K is 1 entry, but the only other possible entries are in the spade suit (South will not be able to use the diamond suit as the defense is about to get the hearts going). West is very likely to have the ♠J and South should plan to finesse against that card to create and extra dummy entry."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.765.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K983",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.A.Q32.AJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:3.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. A.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. A.3.JT987.65 .Q982.65.K98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "ST",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. A.3.JT987.65 .Q982.65.K98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "ST",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. A.3.JT987.6 .Q982.65.K98",
+      "trick_cards": {
+        "N": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:3.A.Q32.AJT2 J87.765.AK4. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:3.A.Q32.AT2 J87.765.AK4. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:3.A.Q32.AT2 J87.765.AK4. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:3.A.Q32.AT2 J87.765.AK. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "D4",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:3.A.Q32.AT2 J87.765.AK. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "D4",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard means that South's unblock of the ♠Q at trick 1 was necessary"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:3.A.Q32.AT2 J87.765.AK. A.3.JT987.6 .Q982.65.K9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "D4",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "2"
+          ],
+          "S": [
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "6"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "9"
+          ]
+        }
+      },
+      "commentary": "East's heart return is won in the dummy and South continues with a successful club finesse. The time has come to finesse West for the ♠J. When that wins South finesses again in clubs. West's discard means that South's unblock of the ♠Q at trick 1 was necessary - a third dummy entry will be required to pick up the clubs and North's ♠A is still available for that purpose."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q32.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q3.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q3.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.QT982.65.K983",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q3.AJ.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.7654.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.765.AK4.7 AT.K3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.654 4.Q982.65.K983",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K983",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:Q3.A.Q32.AQJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:Q3.A.Q32.AJT2 J875.765.AK4.7 AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:Q3.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:Q3.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:Q.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:Q.A.Q32.AJT2 J875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:Q.A.Q32.AJT2 875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J,"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:Q.A.Q32.AJT2 875.765.AK4. AT.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:Q.A.Q32.AJT2 875.765.AK4. T.3.JT987.65 4.Q982.65.K98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SJ",
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:Q.A.Q32.AJT2 875.765.AK4. T.3.JT987.65 .Q982.65.K98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:Q.A.Q32.AJT2 875.765.AK4. T.3.JT987.65 .Q982.65.K98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Note that if South does not play the ♠Q under East's ♠K at trick 1, the contract can no longer be made in the above layout. East's heart return is won in dummy and South finesses in clubs. If South tries to create a third dummy entry by leading his remaining small spade towards dummy for a finesse against the ♠J, West can play the ♠J, forcing dummy's ♠A. West's fine blocking play defeats the contract by denying South the dummy entries required to pick up the club suit."
+    }
+  ]
+}

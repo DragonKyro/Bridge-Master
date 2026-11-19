@@ -1,0 +1,784 @@
+{
+  "title": "Level 1 (Beginner) - B-17",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-17",
+  "deal_pbn": "S:K32.AK2.AKQ.Q432 654.T987.654.KJ5 AQJ.43.32.AT9876 T987.QJ65.JT987.",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 12,
+  "notes": "West leads the ♥10 against 6NT. South should win the opening heart lead and play on clubs. South can afford to lose 1 trick in clubs, but not 2. The only problem can occur when one defender has all 3 outstanding clubs.\n\nThere are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North. A club is led towards South's ♣Q, holding East to 1 club trick.\n\nAlternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q and later finesse against West's other club honour.",
+  "commentary_paragraphs": [
+    "West leads the ♥10 against 6NT. South should win the opening heart lead and play on clubs. South can afford to lose 1 trick in clubs, but not 2. The only problem can occur when one defender has all 3 outstanding clubs.",
+    "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North. A club is led towards South's ♣Q, holding East to 1 club trick.",
+    "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q and later finesse against West's other club honour."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "CK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.AK2.AKQ.Q432 654.T987.654.KJ5 AQJ.43.32.AT9876 T987.QJ65.JT987.",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.AK2.AKQ.Q432 654.987.654.KJ5 AQJ.43.32.AT9876 T987.QJ65.JT987.",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.AK2.AKQ.Q432 654.987.654.KJ5 AQJ.43.32.AT9876 T987.QJ65.JT987.",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.AK2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ65.JT987.",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.AK2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.K2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.K2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead and play on clubs. South can afford to lose 1 trick in clubs, but not 2."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.K2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. South should win the opening heart lead and play on clubs. South can afford to lose 1 trick in clubs, but not 2. The only problem can occur when one defender has all 3 outstanding clubs."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.K2.AKQ.Q432 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ5 AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ AQJ.4.32.AT9876 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ AQJ.4.32.AT987 T987.QJ6.JT987.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.654.KJ AQJ.4.32.AT987 T987.QJ6.JT98.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.987654. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.98765. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.98765. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.98765. AQJ.4.32.T9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.98765. AQJ.4.32.T9876 T987.QJ6.JT.KJ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K32.K2.AKQ.Q43 654.987.98765. AQJ.4.32.T9876 T987.QJ6.JT.KJ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "There are two ways to play the club suit to guarantee only 1 loser, regardless of how that suit divides. First, South can start by leading a small club out of his hand. If West follows with the ♣5, a low club is played from dummy. If West discards on South's club lead, the ♣A is played from North. A club is led towards South's ♣Q, holding East to 1 club trick."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K32.K2.AKQ.Q432 654.987.987654. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 654.987.987654. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQJ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQ.4.32.AT9876 T987.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQ.4.32.AT9876 T98.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQ.4.32.AT9876 T98.QJ6.JT.KJ5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQ.4.32.AT987 T98.QJ6.JT.KJ5",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.987654. AQ.4.32.AT987 T98.QJ6.JT.KJ5",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.654.KJ5 AQ.4.32.AT987 T98.QJ6.JT987.",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.654.KJ5 AQ.4.32.AT987 T98.QJ6.JT98.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K3.K2.AKQ.Q432 65.987.654.KJ5 AQ.4.32.AT987 T98.QJ6.JT98.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K3.K2.AKQ.432 65.987.654.KJ5 AQ.4.32.AT987 T98.QJ6.JT98.",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K3.K2.AKQ.432 65.987.654.J5 AQ.4.32.AT987 T98.QJ6.JT98.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CK",
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:K3.K2.AKQ.432 65.987.654.J5 AQ.4.32.AT987 T98.QJ6.JT98.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CK",
+        "N": "C6",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "J",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South can cross to dummy in spades and play a club towards his ♣Q. If East plays any club, South has an easy time. If East discards, South can play either a low club or the ♣Q and later finesse against West's other club honour."
+    }
+  ]
+}

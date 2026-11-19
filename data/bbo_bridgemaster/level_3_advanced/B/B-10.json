@@ -1,0 +1,1645 @@
+{
+  "title": "Level 3 (Advanced) - B-10",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-10",
+  "deal_pbn": "S:KQJT9.32.AJT.A32 A.K7.98765.98765 8765.654.KQ2.KT4 432.AQJT98.43.QJ",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "2H",
+    "2S",
+    "3H",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning.\n\nSouth should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K making the ♣10 high.\n\nIf East has a singleton ♣J or ♣Q, South can cash the ♣A dropping East's honour. A finessing position now exists over West's club honour.\n\nBefore playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence.\n\nIf East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning.",
+    "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K making the ♣10 high.",
+    "If East has a singleton ♣J or ♣Q, South can cash the ♣A dropping East's honour. A finessing position now exists over West's club honour.",
+    "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence.",
+    "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 50,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 51,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 52,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 58,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 59,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 60,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 61,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 64,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 65,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 68,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 69,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 70,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 71,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 72,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 73,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 74,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 75,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 78,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 79,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 80,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 81,
+      "seat": "E",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT9.32.AJT.A32 A.K7.98765.98765 8765.654.KQ2.KT4 432.AQJT98.43.QJ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT9.32.AJT.A32 A.7.98765.98765 8765.654.KQ2.KT4 432.AQJT98.43.QJ",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT9.32.AJT.A32 A.7.98765.98765 8765.654.KQ2.KT4 432.AQJT98.43.QJ",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT9.32.AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.AQJT98.43.QJ",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT9.32.AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.QJT98.43.QJ",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT9.3.AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.QJT98.43.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT9.3.AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.QJT98.43.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT9.3.AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.JT98.43.QJ",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT9..AJT.A32 A.7.98765.98765 8765.65.KQ2.KT4 432.JT98.43.QJ",
+      "trick_cards": {
+        "S": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT9..AJT.A32 A..98765.98765 8765.65.KQ2.KT4 432.JT98.43.QJ",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJT9..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.JT98.43.QJ",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJT9..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.JT98.43.QJ",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJT9..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJT9..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJT..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "S": "S9",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJT..AJT.A32 A..98765.98765 8765.6.KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "S": "S9",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJT..AJT.A32 ..98765.98765 8765.6.KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SA",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT..AJT.A32 ..98765.98765 8765..KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SA",
+        "N": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT..AJT.A32 ..98765.98765 8765..KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SA",
+        "N": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJT..AJT.A32 ..8765.98765 8765..KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "W": "D9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJT..AJT.A32 ..8765.98765 8765..KQ2.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "W": "D9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJT..AJT.A32 ..8765.98765 8765..KQ.KT4 432.T98.43.QJ",
+      "trick_cards": {
+        "W": "D9",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJT..AJT.A32 ..8765.98765 8765..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "W": "D9",
+        "N": "D2",
+        "E": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJT..AJ.A32 ..8765.98765 8765..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "S": "DT",
+        "W": "D9",
+        "N": "D2",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart opening lead is overtaken by East. East cashes a second round of hearts and continues a third round. South ruffs and West overruffs. West returns a diamond, South winning."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJT..AJ.A32 ..8765.98765 8765..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "S": "DT",
+        "W": "D9",
+        "N": "D2",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT..AJ.A32 ..8765.98765 8765..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT..AJ.A32 ..876.98765 8765..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT..AJ.A32 ..876.98765 876..KQ.KT4 432.T98.4.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT..AJ.A32 ..876.98765 876..KQ.KT4 43.T98.4.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:JT..AJ.A32 ..876.98765 876..KQ.KT4 43.T98.4.QJ",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:JT..AJ.A32 ..876.9876 876..KQ.KT4 43.T98.4.QJ",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:JT..AJ.A32 ..876.9876 87..KQ.KT4 43.T98.4.QJ",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:JT..AJ.A32 ..876.9876 87..KQ.KT4 4.T98.4.QJ",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5",
+        "N": "S6",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:T..AJ.A32 ..876.9876 87..KQ.KT4 4.T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:T..AJ.A32 ..876.987 87..KQ.KT4 4.T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:T..AJ.A32 ..876.987 8..KQ.KT4 4.T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:T..AJ.A32 ..876.987 8..KQ.KT4 .T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:T..AJ.A32 ..876.987 8..KQ.KT4 .T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:T..AJ.A32 ..876.987 8..KQ.KT4 .T98.4.QJ",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:T..AJ.32 ..876.987 8..KQ.KT4 .T98.4.QJ",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:T..AJ.32 ..876.98 8..KQ.KT4 .T98.4.QJ",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:T..AJ.32 ..876.98 8..KQ.KT .T98.4.QJ",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:T..AJ.32 ..876.98 8..KQ.KT .T98.4.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:T..AJ.3 ..876.98 8..KQ.KT .T98.4.Q",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:T..AJ.3 ..876.9 8..KQ.KT .T98.4.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:T..AJ.3 ..876.9 8..KQ.T .T98.4.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:T..AJ.3 ..876.9 8..KQ.T .T98.4.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:T..AJ.3 ..876.9 8..KQ.T .T98.4.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should draw trump noting that East started with 3 spades. South must somehow avoid the loss of a club trick. There are 2 possible ways this might be accomplished. If East has the doubleton ♣QJ, they will drop under the ♣A and ♣K making the ♣10 high."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:T..AJ.A32 ..86.Q987 8..KQ.KT4 .T98.74.J",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♣J or ♣Q,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:T..AJ.A32 ..86.Q987 8..KQ.KT4 .T98.74.J",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S7",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:T..AJ.32 ..86.Q987 8..KQ.KT4 .T98.74.J",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT4 .T98.74.J",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.J",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.J",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A dropping East's honour."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A dropping East's honour."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♣J or ♣Q, South can cash the ♣A dropping East's honour. A finessing position now exists over West's club honour."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Before playing a second round of clubs,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:T..AJ.32 ..86.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:T..A.32 ..86.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:T..A.32 ..8.Q98 8..KQ.KT .T98.74.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:T..A.32 ..8.Q98 8..K.KT .T98.74.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6",
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:T..A.32 ..8.Q98 8..K.KT .T98.7.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:T..A.32 ..8.Q98 8...KT .T98.7.",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:T..A.32 ..8.Q98 8...KT .T98..",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:T...32 ..8.Q98 8...KT .T98..",
+      "trick_cards": {
+        "S": "DA",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:T...32 ...Q98 8...KT .T98..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:T...32 ...Q98 8...KT .T98..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:T...32 ...Q98 8...KT .T98..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:T...3 ...Q98 8...KT .T98..",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:T...3 ...Q9 8...KT .T98..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:T...3 ...Q9 8...K .T98..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:T...3 ...Q9 8...K .T9..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CT",
+        "E": "H8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Before playing a second round of clubs, South should probe the diamond distribution by cashing 2 more rounds of that suit. When East follows to both rounds of diamonds, he is counted for 3 spades, 6 hearts, 3 diamonds, and therefore a singleton club. South will be able to finesse the ♣10 with complete confidence."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:T..A.32 ..87.98 8...KT .T98..Q",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East discards on the third round of diamonds,"
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:T..A.32 ..87.98 8...KT .T9..Q",
+      "trick_cards": {
+        "N": "DK",
+        "E": "H8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds,"
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:T...32 ..87.98 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "DA",
+        "N": "DK",
+        "E": "H8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds,"
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:T...32 ..8.98 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DK",
+        "E": "H8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds,"
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:T...32 ..8.98 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DK",
+        "E": "H8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:T...32 ..8.98 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DK",
+        "E": "H8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:T...3 ..8.98 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:T...3 ..8.9 8...KT .T9..Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:T...3 ..8.9 8...T .T9..Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:T...3 ..8.9 8...T .T9..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East discards on the third round of diamonds, he must have 2 clubs. His distribution is 3 spades, 6 hearts, 2 diamonds, and 2 clubs. South will know to cash the ♣K on the second round, hoping East was dealt the doubleton ♣QJ."
+    }
+  ]
+}

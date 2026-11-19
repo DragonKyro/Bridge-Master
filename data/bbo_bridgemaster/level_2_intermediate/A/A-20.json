@@ -1,0 +1,584 @@
+{
+  "title": "Level 2 (Intermediate) - A-20",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-20",
+  "deal_pbn": "S:A2.AKQJT9.2.QJT9 JT987.5.K765.876 Q3.432.AQJT98.A5 K654.876.43.K432",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "2D",
+    "Pass",
+    "3C",
+    "Pass",
+    "3H",
+    "Pass",
+    "3S",
+    "Pass",
+    "4C",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K. South should win the ♠A.\n\nSouth has finessing possibilities in both clubs and diamonds. If South takes a ruffing finesse in diamonds he can guarantee the contract.\n\nSouth should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K, but dummy will have plenty of diamond winners for South's club discards. The ♣A acts as an entry to those tricks.",
+  "commentary_paragraphs": [
+    "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K. South should win the ♠A.",
+    "South has finessing possibilities in both clubs and diamonds. If South takes a ruffing finesse in diamonds he can guarantee the contract.",
+    "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K, but dummy will have plenty of diamond winners for South's club discards. The ♣A acts as an entry to those tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 JT987.5.K765.876 Q3.432.AQJT98.A5 K654.876.43.K432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South might as well cover the ♠J"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 Q3.432.AQJT98.A5 K654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South might as well cover the ♠J"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 Q3.432.AQJT98.A5 K654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 K654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 K654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K. South should win the ♠A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South might as well cover the ♠J with the ♠Q at trick 1. Unfortunately, East can cover with the ♠K. South should win the ♠A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ],
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "5"
+          ],
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has finessing possibilities in both clubs and diamonds."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has finessing possibilities in both clubs and diamonds. If South takes a ruffing finesse in diamonds he can guarantee the contract."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.AKQJT9.2.QJT9 T987.5.K765.876 3.432.AQJT98.A5 654.876.43.K432",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.JT9.2.QJT9 T9..K765.876 3..AQJT98.A5 654..43.K432",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "S8",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K765.876 3..AQJT98.A5 654..43.K432",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..AQJT98.A5 654..43.K432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..QJT98.A5 654..43.K432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..QJT98.A5 654..4.K432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..QJT98.A5 654..4.K432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..JT98.A5 654..4.K432",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..JT98.A5 654..4.K432",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.JT9..QJT9 T9..K76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.JT9..QJT9 T9..K76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "S": "S2",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.JT9..QJT9 T9..K76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "S": "S2",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.JT9..QJT9 T9..76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.JT9..QJT9 T9..76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K, but dummy will have plenty of diamond winners for South's club discards."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.JT9..QJT9 T9..76.876 3..JT98.A5 654...K432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. South next plays his ♦2 to the ♦A. Another diamond is played from dummy, South discarding the ♠2 if East doesn't cover. West can win the ♦K, but dummy will have plenty of diamond winners for South's club discards. The ♣A acts as an entry to those tricks."
+    }
+  ]
+}

@@ -1,0 +1,1002 @@
+{
+  "title": "Level 4 (Expert) - D-6",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-6",
+  "deal_pbn": "S:QJT.AK.QT9.AKJT9 A765.QJT98.A32.5 432.32.KJ876.432 K98.7654.54.Q876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥Q against 3NT. West's heart opening lead is won by South. Even if the defenders have to take their ♦A on the first or second round, South will have only 8 tricks (2 hearts, 4 diamonds, and 2 clubs). South will still need an extra club trick (presumably by finessing against the ♣Q) for his 9th trick.\n\nSouth should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case). West discards a spade revealing that South must finesse again in order to pick up the clubs.\n\nSouth leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick and South can repeat the club finesse to come to 9 tricks.\n\nPlaying dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit. The diamond suit is now unblocked and South will emerge with an overtrick (or 2 overtricks if the defenders fail to cash their 2 spade winners now).\n\nIt is correct for South to play dummy's ♦K on the second round of the suit. If diamonds are 3-2, the ♦A is more likely to be with the 3-card holding than with the doubleton. The fact that West could still have 4 diamonds to the ♦A further bolsters the argument in favor of playing dummy's ♦K.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 3NT. West's heart opening lead is won by South. Even if the defenders have to take their ♦A on the first or second round, South will have only 8 tricks (2 hearts, 4 diamonds, and 2 clubs). South will still need an extra club trick (presumably by finessing against the ♣Q) for his 9th trick.",
+    "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case). West discards a spade revealing that South must finesse again in order to pick up the clubs.",
+    "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick and South can repeat the club finesse to come to 9 tricks.",
+    "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit. The diamond suit is now unblocked and South will emerge with an overtrick (or 2 overtricks if the defenders fail to cash their 2 spade winners now).",
+    "It is correct for South to play dummy's ♦K on the second round of the suit. If diamonds are 3-2, the ♦A is more likely to be with the 3-card holding than with the doubleton. The fact that West could still have 4 diamonds to the ♦A further bolsters the argument in favor of playing dummy's ♦K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT.AK.QT9.AKJT9 A765.QJT98.A32.5 432.32.KJ876.432 K98.7654.54.Q876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT.AK.QT9.AKJT9 A765.JT98.A32.5 432.32.KJ876.432 K98.7654.54.Q876",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT.AK.QT9.AKJT9 A765.JT98.A32.5 432.32.KJ876.432 K98.7654.54.Q876",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT.AK.QT9.AKJT9 A765.JT98.A32.5 432.3.KJ876.432 K98.7654.54.Q876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT.AK.QT9.AKJT9 A765.JT98.A32.5 432.3.KJ876.432 K98.765.54.Q876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT.A.QT9.AKJT9 A765.JT98.A32.5 432.3.KJ876.432 K98.765.54.Q876",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT.A.QT9.AKJT9 A8765.JT98.A3.5 432.3.KJ876.432 K9.765.542.Q876",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South. Even if the defenders have to take their ♦A on the first or second round, South will have only 8 tricks (2 hearts, 4 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT.A.QT9.AKJT9 A8765.JT98.A3.5 432.3.KJ876.432 K9.765.542.Q876",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's heart opening lead is won by South. Even if the defenders have to take their ♦A on the first or second round, South will have only 8 tricks (2 hearts, 4 diamonds, and 2 clubs). South will still need an extra club trick (presumably by finessing against the ♣Q) for his 9th trick."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT.A.QT9.AKJT9 A765.JT98.A32.Q 432.3.KJ876.432 K98.765.54.8765",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32.Q 432.3.KJ876.432 K98.765.54.8765",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q)."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32.5 432.3.KJ876.432 K98.765.54.Q876",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32. 432.3.KJ876.432 K98.765.54.Q876",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32. 432.3.KJ876.43 K98.765.54.Q876",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32. 432.3.KJ876.43 K98.765.54.Q87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT.A.QT9.KJT9 A765.JT98.A32. 432.3.KJ876.43 K98.765.54.Q87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A32. 432.3.KJ876.43 K98.765.54.Q87",
+      "trick_cards": {
+        "S": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.KJ876.43 K98.765.54.Q87",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.K876.43 K98.765.54.Q87",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D2",
+        "N": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.K876.43 K98.765.5.Q87",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D2",
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.K876.43 K98.765.5.Q87",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D2",
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case)."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.K876.4 K98.765.5.Q87",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case)."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT.A.QT.KJT9 A765.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case)."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT.A.QT.KT9 A765.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case)."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT.A.QT.KT9 A765.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case). West discards a spade"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT.A.QT.KT9 A76.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case). West discards a spade"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT.A.QT.KT9 A76.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should lead the ♣A or ♣K at trick 2 (in case West has a singleton ♣Q). When both defenders follow small, South should lead either the ♦Q and overtake with dummy's ♦K, or lead the ♦10 or ♦9 and overtake with dummy's ♦J. When this wins, South should finesse against the ♣Q with East (South needs this finesse in any case). West discards a spade revealing that South must finesse again in order to pick up the clubs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT.A.QT.KT9 A76.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South leads another diamond and West follows small"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A3. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South leads another diamond and West follows small"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South leads another diamond and West follows small"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.876.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.876.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South leads another diamond and West follows small leaving South with a decision as to which diamond should be played from the dummy. The ♦K will be the winning play if West started with 3 or 4 diamonds to the ♦A. It will win the trick and South can repeat the club finesse to come to 9 tricks."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.876.4 K98.765.A.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.876.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.876.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.K876.4 K98.765.A.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.K87.4 K98.765.A.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.K87.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.K87.4 K98.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K on the second round will be fatal if East was dealt a doubleton ♦A. With the diamond suit blocked South will have no hope of coming to 9 tricks. South could have made his contract on this layout by playing a low diamond from dummy on the second round of the suit. The diamond suit is now unblocked and South will emerge with an overtrick (or 2 overtricks if the defenders fail to cash their 2 spade winners now)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.A. 432.3.K876.4 K98.765.5.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "It is correct for South to play dummy's ♦K on the second round of the suit. If diamonds are 3-2, the ♦A is more likely to be with the 3-card holding"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT.A.T.KT9 A76.JT98.5. 432.3.K876.4 K98.765.A.Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is correct for South to play dummy's ♦K on the second round of the suit. If diamonds are 3-2, the ♦A is more likely to be with the 3-card holding than with the doubleton."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT.A.T.KT9 A6.JT98.A5. 432.3.K876.4 K987.765..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "It is correct for South to play dummy's ♦K on the second round of the suit. If diamonds are 3-2, the ♦A is more likely to be with the 3-card holding than with the doubleton. The fact that West could still have 4 diamonds to the ♦A further bolsters the argument in favor of playing dummy's ♦K."
+    }
+  ]
+}

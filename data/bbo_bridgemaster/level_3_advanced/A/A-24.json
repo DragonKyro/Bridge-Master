@@ -1,0 +1,850 @@
+{
+  "title": "Level 3 (Advanced) - A-24",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-24",
+  "deal_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.KT98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 10,
+  "notes": "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks, 1 diamond trick, and 1 club trick. Dummy's diamond suit will eventually be able to take care of some of South's losers.\n\nSouth should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers, South should duck. South doesn't mind losing a club trick as long as East wins that trick.\n\nAfter gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins. Dummy's diamonds will be good for 2 spade discards. South will be assured of losing only 1 spade trick.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks, 1 diamond trick, and 1 club trick. Dummy's diamond suit will eventually be able to take care of some of South's losers.",
+    "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers, South should duck. South doesn't mind losing a club trick as long as East wins that trick.",
+    "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins. Dummy's diamonds will be good for 2 spade discards. South will be assured of losing only 1 spade trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "D6"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.KT98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks, 1 diamond trick,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks, 1 diamond trick, and 1 club trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ],
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 4♥. South must avoid losing 2 spades tricks, 1 diamond trick, and 1 club trick. Dummy's diamond suit will eventually be able to take care of some of South's losers."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.J3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.Q7654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.7654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:432.AQJT9.A76.A2 QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.7654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers, South should duck."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:432.AQJT9.A76.A QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.7654",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers, South should duck."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:432.AQJT9.A76.A QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.7654",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should make every effort to keep West off lead. As long as West never obtains the lead to play spades through North's ♠K, the contract will be safe. South should begin his campaign of avoidance by covering West's club lead with the ♣J. When East covers, South should duck. South doesn't mind losing a club trick as long as East wins that trick."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:432.AQJT9.A76.A QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.7654",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:432.AQJT9.A76.A QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.765",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:432.AQJT9.A76. QT98.54.Q54.K98 K5.K876.KJT98.3 AJ76.32.32.765",
+      "trick_cards": {
+        "S": "CA",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:432.AQJT9.A76. QT98.54.Q54.K9 K5.K876.KJT98.3 AJ76.32.32.765",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:432.AQJT9.A76. QT98.54.Q54.K9 K5.K876.KJT98. AJ76.32.32.765",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C3",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:432.AQJT9.A76. QT98.54.Q54.K9 K5.K876.KJT98. AJ76.32.32.765",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C3",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:432.QJT9.A76. QT98.54.Q54.K9 K5.K876.KJT98. AJ76.32.32.765",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:432.QJT9.A76. QT98.5.Q54.K9 K5.K876.KJT98. AJ76.32.32.765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:432.QJT9.A76. QT98.5.Q54.K9 K5.K87.KJT98. AJ76.32.32.765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:432.QJT9.A76. QT98.5.Q54.K9 K5.K87.KJT98. AJ76.3.32.765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H6",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:432.JT9.A76. QT98.5.Q54.K9 K5.K87.KJT98. AJ76.3.32.765",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:432.JT9.A76. QT98..Q54.K9 K5.K87.KJT98. AJ76.3.32.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:432.JT9.A76. QT98..Q54.K9 K5.K8.KJT98. AJ76.3.32.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:432.JT9.A76. QT98..Q54.K9 K5.K8.KJT98. AJ76..32.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:432.JT9.A76. QT98..Q54.K9 K5.K8.KJT98. AJ76..32.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:432.JT9.76. QT98..Q54.K9 K5.K8.KJT98. AJ76..32.765",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:432.JT9.76. QT98..Q5.K9 K5.K8.KJT98. AJ76..32.765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:432.JT9.76. QT98..Q5.K9 K5.K8.KJT9. AJ76..32.765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D4",
+        "N": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:432.JT9.76. QT98..Q5.K9 K5.K8.KJT9. AJ76..3.765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D4",
+        "N": "D8",
+        "E": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:432.JT9.7. QT98..Q5.K9 K5.K8.KJT9. AJ76..3.765",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:432.JT9.7. QT98..Q.K9 K5.K8.KJT9. AJ76..3.765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:432.JT9.7. QT98..Q.K9 K5.K8.KT9. AJ76..3.765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:432.JT9.7. QT98..3.K9 K5.K8.KT9. AJ76..Q.765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:432.JT9.7. QT98..3.K9 K5.K8.KT9. AJ76...765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:432.JT9.7. QT98..3.K9 K5.K8.KT9. AJ76...765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins. Dummy's diamonds will be good"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:432.JT9.7. QT98..3.K9 K5.K8.KT9. AJ76...765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins. Dummy's diamonds will be good for 2 spade discards."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:432.JT9.7. QT98..3.K9 K5.K8.KT9. AJ76...765",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D5",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After gaining the lead, South should draw trump and finesse West for the ♦Q. Again, South doesn't mind if East wins. Dummy's diamonds will be good for 2 spade discards. South will be assured of losing only 1 spade trick."
+    }
+  ]
+}

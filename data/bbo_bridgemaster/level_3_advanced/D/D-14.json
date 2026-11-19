@@ -1,0 +1,932 @@
+{
+  "title": "Level 3 (Advanced) - D-14",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-14",
+  "deal_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T8765.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2S",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "D6",
+  "par_tricks": 9,
+  "notes": "West leads the ♦6 against 3NT. South has only 6 top tricks (4 spade tricks and 2 diamond tricks given the lead). Clubs is an obvious source of extra tricks, but South must play carefully to guard against a 4-1 club break. The contract is almost certain if South times the play correctly.\n\nWest's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10.\n\nSouth continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J, not caring if West is able to win the ♣A (as West cannot effectively attack diamonds from his side of the table).\n\nIf West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick. South has 8 tricks in the bag and can revert to clubs in order to establish his 9th trick.\n\nIf West was dealt the ♥A he will take South's ♥Q, but as before, West will be unable to effectively attack diamonds. South will have time to develop his 9th trick in clubs before the defense is able to get the diamonds going.",
+  "commentary_paragraphs": [
+    "West leads the ♦6 against 3NT. South has only 6 top tricks (4 spade tricks and 2 diamond tricks given the lead). Clubs is an obvious source of extra tricks, but South must play carefully to guard against a 4-1 club break. The contract is almost certain if South times the play correctly.",
+    "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10.",
+    "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J, not caring if West is able to win the ♣A (as West cannot effectively attack diamonds from his side of the table).",
+    "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick. South has 8 tricks in the bag and can revert to clubs in order to establish his 9th trick.",
+    "If West was dealt the ♥A he will take South's ♥Q, but as before, West will be unable to effectively attack diamonds. South will have time to develop his 9th trick in clubs before the defense is able to get the diamonds going."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T8765.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦6 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 3NT. South has only 6 top tricks (4 spade tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 3NT. South has only 6 top tricks (4 spade tricks and 2 diamond tricks given the lead)."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 3NT. South has only 6 top tricks (4 spade tricks and 2 diamond tricks given the lead). Clubs is an obvious source of extra tricks, but South must play carefully to guard against a 4-1 club break. The contract is almost certain if South times the play correctly."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432.J.KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432..KQ654 762.AT.K432.AT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKJ9.Q65.AQ9.J32 543.J987.T875.7 QT8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKJ9.Q65.Q9.J32 543.J987.T875.7 QT8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKJ9.Q65.Q9.J32 543.J987.T875.7 QT8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 543.J987.T875.7 QT8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 QT8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ654 762.AT.432.AT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ654 76.AT.432.AT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "ST",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's diamond lead is covered by dummy's ♦J, East's ♦K, and won by South with the ♦A. South should cross to the dummy in spades by overtaking either the ♠J with the ♠Q or the ♠9 with the ♠10."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ654 76.AT.432.AT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "ST",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South continues with a low club from dummy toward his ♣J."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT98",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South continues with a low club from dummy toward his ♣J."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT98",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract)."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKJ.Q65.Q9.J32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875.A Q8.K432..KQ65 76.AT.432.T97",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J, not caring if West is able to win the ♣A"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875. Q8.K432..KQ65 76.AT.432.T97",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CA",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J, not caring if West is able to win the ♣A"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875. Q8.K432..KQ65 76.AT.432.T97",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CA",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "T",
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South continues with a low club from dummy toward his ♣J. If East was dealt the ♣A, he must duck (or South will have enough club tricks for his contract). South plays the ♣J, not caring if West is able to win the ♣A (as West cannot effectively attack diamonds from his side of the table)."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875.7 Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875. Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKJ.Q65.Q9.32 54.J987.T875. Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C7",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.Q65.Q9.32 54.J987.T875. Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. Q8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K432..KQ65 76.AT.432.AT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K432..KQ65 7.AT.432.AT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K432..KQ65 7.AT.432.AT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K43..KQ65 7.AT.432.AT9",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K43..KQ65 7.AT.432.AT9",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners),"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K43..KQ65 7.A.432.AT9",
+      "trick_cards": {
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners),"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK.Q65.Q9.32 5.J987.T875. 8.K43..KQ65 7.A.432.AT9",
+      "trick_cards": {
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK.65.Q9.32 5.J987.T875. 8.K43..KQ65 7.A.432.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.65.Q9.32 5.J98.T875. 8.K43..KQ65 7.A.432.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.65.Q9.32 5.J98.T875. 8.K43..KQ65 7.A.432.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West follows with a small club under South's ♣J, South should cross again in spades in order to lead a heart toward the ♥Q. If East has the ♥A he must duck (or South will have 9 certain winners), allowing South's ♥Q to win the trick. South has 8 tricks in the bag and can revert to clubs in order to establish his 9th trick."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.65.Q9.32 5.AJ7.T8752. 8.K43..KQ65 7.98.43.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♥A he will take South's ♥Q,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK.65.Q9.32 5.J7.T8752. 8.K43..KQ65 7.98.43.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HA",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West was dealt the ♥A he will take South's ♥Q,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK.65.Q9.32 5.J7.T8752. 8.K43..KQ65 7.98.43.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HA",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "T",
+            "8",
+            "7",
+            "5",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♥A he will take South's ♥Q, but as before, West will be unable to effectively attack diamonds."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK.65.Q9.32 5.J7.T8752. 8.K43..KQ65 7.98.43.AT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HA",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♥A he will take South's ♥Q, but as before, West will be unable to effectively attack diamonds. South will have time to develop his 9th trick in clubs before the defense is able to get the diamonds going."
+    }
+  ]
+}

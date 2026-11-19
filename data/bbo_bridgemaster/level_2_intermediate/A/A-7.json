@@ -1,0 +1,506 @@
+{
+  "title": "Level 2 (Intermediate) - A-7",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-7",
+  "deal_pbn": "S:2.A32.KQJ9876.32 Q65.KQJT9.A32.A4 AKJ3.654.T.KQJT9 T9874.87.54.8765",
+  "contract": "5D",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "5D",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 11,
+  "notes": "South must lose tricks to the ♦A and the ♣A. West's heart lead has created 2 heart losers.\n\nSouth must try to dispose of his 2 heart losers immediately. If South leads either diamonds or clubs first, West will win and cash the setting tricks in hearts.\n\nSouth can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q. When that finesse works, South can get rid of both of his heart losers on North's ♠A and ♠K. South thus makes his contract losing tricks to only the ♦A and ♣A.",
+  "commentary_paragraphs": [
+    "South must lose tricks to the ♦A and the ♣A. West's heart lead has created 2 heart losers.",
+    "South must try to dispose of his 2 heart losers immediately. If South leads either diamonds or clubs first, West will win and cash the setting tricks in hearts.",
+    "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q. When that finesse works, South can get rid of both of his heart losers on North's ♠A and ♠K. South thus makes his contract losing tricks to only the ♦A and ♣A."
+  ],
+  "play_sequence": [
+    {
+      "step": 2,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.A32.KQJ9876.32 Q65.KQJT9.A32.A4 AKJ3.654.T.KQJT9 T9874.87.54.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must lose tricks to the ♦A and the ♣A."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.A32.KQJ9876.32 Q65.KQJT9.A32.A4 AKJ3.654.T.KQJT9 T9874.87.54.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.A32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.654.T.KQJT9 T9874.87.54.8765",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.A32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.87.54.8765",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.A32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must lose tricks to the ♦A and the ♣A. West's heart lead has created 2 heart losers."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must try to dispose of his 2 heart losers immediately."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South must try to dispose of his 2 heart losers immediately. If South leads either diamonds"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South must try to dispose of his 2 heart losers immediately. If South leads either diamonds or clubs first,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South must try to dispose of his 2 heart losers immediately. If South leads either diamonds or clubs first, West will win and cash the setting tricks in hearts."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.32.KQJ9876.32 Q65.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AKJ3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T9874.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T987.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T987.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T987.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q. When that finesse works, South can get rid of both of his heart losers"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T987.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q. When that finesse works, South can get rid of both of his heart losers on North's ♠A and ♠K."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.32.KQJ9876.32 Q6.QJT9.A32.A4 AK3.65.T.KQJT9 T987.7.54.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can discard 1 of his heart losers on dummy's top spades. However, one discard is not enough. South must risk the spade finesse. South leads low to dummy's ♠J at trick 2, playing West for the ♠Q. When that finesse works, South can get rid of both of his heart losers on North's ♠A and ♠K. South thus makes his contract losing tricks to only the ♦A and ♣A."
+    }
+  ]
+}

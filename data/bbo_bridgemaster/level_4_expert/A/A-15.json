@@ -1,0 +1,853 @@
+{
+  "title": "Level 4 (Expert) - A-15",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-15",
+  "deal_pbn": "S:KQT98.K32.432.A2 76.T.8765.T98765 AJ2.87654.AQ.KQJ 543.AQJ9.KJT9.43",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 10,
+  "notes": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff, he will return a diamond through North's tenace putting the contract at risk.\n\nIf South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart.\n\nAfter drawing trump North has a club winner and a heart winner to take care of South's losing diamonds. Dummy has an entry in clubs to reach these winners.",
+  "commentary_paragraphs": [
+    "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff, he will return a diamond through North's tenace putting the contract at risk.",
+    "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart.",
+    "After drawing trump North has a club winner and a heart winner to take care of South's losing diamonds. Dummy has an entry in clubs to reach these winners."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQT98.K32.432.A2 76.T.8765.T98765 AJ2.87654.AQ.KQJ 543.AQJ9.KJT9.43",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQT98.K32.432.A2 76..8765.T98765 AJ2.87654.AQ.KQJ 543.AQJ9.KJT9.43",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQT98.K32.432.A2 76..8765.T98765 AJ2.87654.AQ.KQJ 543.AQJ9.KJT9.43",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQT98.K32.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.AQJ9.KJT9.43",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQT98.K32.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.QJ9.KJT9.43",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQT98.K3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.QJ9.KJT9.43",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQT98.K3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.QJ9.KJT9.43",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQT98.K3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQT98.K3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQT98.3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQT98.3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQT98.3.432.A2 7..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQT98.3.432.A2 7..8765.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQT98.3.432.A2 7..8765.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff, he will return a diamond"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQT98.3.432.A2 7..876.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff, he will return a diamond"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQT98.3.432.A2 7..876.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's opening heart lead goes to the ♥A. East returns the ♥Q and it looks natural for South to try to win the ♥K. If West is able to ruff, he will return a diamond through North's tenace putting the contract at risk."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQT98.K3.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQT98.K.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQT98.K.432.A2 76..8765.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQT98.K.432.A2 76..876.T98765 AJ2.8765.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQT98.K.432.A2 76..876.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D5",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQT98.K.432.A2 76..876.T98765 AJ2.876.AQ.KQJ 543.J9.KJT9.43",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D5",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQT98.K.432.A2 76..876.T98765 AJ2.876.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQT98..432.A2 76..876.T98765 AJ2.876.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQT98..432.A2 76..876.T98765 AJ2.876.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQT98..432.A2 7..876.T98765 AJ2.876.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQT98..432.A2 7..876.T98765 AJ2.87.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "N": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQT98..432.A2 7..876.T98765 AJ2.87.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S6",
+        "N": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQT98..432.A2 7..87.T98765 AJ2.87.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQT98..432.A2 7..87.T98765 AJ2.87.AQ.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQT98..432.A2 7..87.T98765 AJ2.87.Q.KQJ 543.9.KJT9.43",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQT98..432.A2 7..87.T98765 AJ2.87.Q.KQJ 543.9.KJT.43",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQT98..43.A2 7..87.T98765 AJ2.87.Q.KQJ 543.9.KJT.43",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQT98..43.A2 7..87.T98765 AJ2.87.Q.KQJ 543.9.KJT.43",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "H": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQT98..43.A2 7..87.T98765 AJ2.8.Q.KQJ 543.9.KJT.43",
+      "trick_cards": {
+        "N": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQT98..43.A2 7..87.T98765 AJ2.8.Q.KQJ 543..KJT.43",
+      "trick_cards": {
+        "N": "H7",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQT9..43.A2 7..87.T98765 AJ2.8.Q.KQJ 543..KJT.43",
+      "trick_cards": {
+        "S": "S8",
+        "N": "H7",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQT9..43.A2 7..8.T98765 AJ2.8.Q.KQJ 543..KJT.43",
+      "trick_cards": {
+        "S": "S8",
+        "W": "D7",
+        "N": "H7",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South ducks at trick 2 the contract is almost certain. West will discard and East will continue hearts giving West a ruff. South can win West's diamond shift in dummy and ruff a heart."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQT9..43.A2 7..8.T98765 AJ2.8.Q.KQJ 543..KJT.43",
+      "trick_cards": {
+        "S": "S8",
+        "W": "D7",
+        "N": "H7",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After drawing trump"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q..43.A2 ..8.T987 .8.Q.KQJ ..KJT.43",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C6",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ],
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "After drawing trump North has a club winner and a heart winner"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q..43.A2 ..8.T987 .8.Q.KQJ ..KJT.43",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C6",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After drawing trump North has a club winner and a heart winner to take care of South's losing diamonds."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q..43.A2 ..8.T987 .8.Q.KQJ ..KJT.43",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C6",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "After drawing trump North has a club winner and a heart winner to take care of South's losing diamonds. Dummy has an entry in clubs to reach these winners."
+    }
+  ]
+}

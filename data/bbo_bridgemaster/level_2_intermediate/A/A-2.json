@@ -1,0 +1,870 @@
+{
+  "title": "Level 2 (Intermediate) - A-2",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-2",
+  "deal_pbn": "S:432.A32.K32.AKQJ QT87.654.654.876 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C8",
+  "par_tricks": 12,
+  "notes": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts and diamonds, and 4 clubs). South must look towards spades for trick number 12.\n\nAfter winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10 and at least 1 of the ♠K and ♠Q. On the given lie of the cards East wins the ♠K.\n\nSouth wins the return in hand. He leads another spade, playing the ♠J when West follows low. If all goes according to plan, the ♠J will hold and South will have 12 tricks.\n\nThe alternative plan, leading a low spade to the ♠J will work only if West has both the ♠K and ♠Q. This plan is inferior to the recommended line as it requires West to have 2 specific cards (the ♠K and ♠Q). The recommended line only requires West having 1 specific card (the ♠10) and at least 1 of 2 other cards (the ♠K and ♠Q).",
+  "commentary_paragraphs": [
+    "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts and diamonds, and 4 clubs). South must look towards spades for trick number 12.",
+    "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10 and at least 1 of the ♠K and ♠Q. On the given lie of the cards East wins the ♠K.",
+    "South wins the return in hand. He leads another spade, playing the ♠J when West follows low. If all goes according to plan, the ♠J will hold and South will have 12 tricks.",
+    "The alternative plan, leading a low spade to the ♠J will work only if West has both the ♠K and ♠Q. This plan is inferior to the recommended line as it requires West to have 2 specific cards (the ♠K and ♠Q). The recommended line only requires West having 1 specific card (the ♠10) and at least 1 of 2 other cards (the ♠K and ♠Q)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.876 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣8 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts and diamonds,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts and diamonds, and 4 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣8 against 6NT. South has 11 top tricks (the ♠A, 3 each in hearts and diamonds, and 4 clubs). South must look towards spades for trick number 12."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.5432 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.A32.K32.AKQJ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.A32.K32.AKQ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:432.A32.K32.AKQ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:43.A32.K32.AKQ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead, South should lead a spade"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:43.A32.K32.AKQ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:43.A32.K32.AKQ QT87.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ9.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10 and at least 1 of the ♠K and ♠Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 K65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10 and at least 1 of the ♠K and ♠Q. On the given lie of the cards East wins the ♠K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning the opening lead, South should lead a spade intending to play the ♠9 from dummy if West follows low. Hopefully, West will have the ♠10 and at least 1 of the ♠K and ♠Q. On the given lie of the cards East wins the ♠K."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South wins the return in hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 AJ.KQJ.AQJ.543 65.T987.T987.",
+      "trick_cards": {
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:43.A32.K32.AK QT8.654.654.76 AJ.KQJ.AQJ.543 65.T987.T987.",
+      "trick_cards": {
+        "S": "CQ",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:43.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.543 65.T987.T987.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:43.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "N": "C3",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:43.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "N": "C3",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South wins the return in hand. He leads another spade,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:4.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand. He leads another spade,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:4.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:4.A32.K32.AK QT8.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J when West follows low."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:4.A32.K32.AK QT.654.654.7 AJ.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J when West follows low."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:4.A32.K32.AK QT.654.654.7 A.KQJ.AQJ.54 65.T987.T987.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J when West follows low."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:4.A32.K32.AK QT.654.654.7 A.KQJ.AQJ.54 6.T987.T987.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J when West follows low."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:4.A32.K32.AK QT.654.654.7 A.KQJ.AQJ.54 6.T987.T987.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South wins the return in hand. He leads another spade, playing the ♠J when West follows low. If all goes according to plan, the ♠J will hold and South will have 12 tricks."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:432.A32.K32.AKQ KQ87.654.654.76 AJ9.KQJ.AQJ.543 T65.T987.T987.T",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The alternative plan, leading a low spade"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ87.654.654.76 AJ9.KQJ.AQJ.543 T65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The alternative plan, leading a low spade"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ8.654.654.76 AJ9.KQJ.AQJ.543 T65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The alternative plan, leading a low spade"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ8.654.654.76 AJ9.KQJ.AQJ.543 T65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "The alternative plan, leading a low spade to the ♠J"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ8.654.654.76 A9.KQJ.AQJ.543 T65.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The alternative plan, leading a low spade to the ♠J"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ8.654.654.76 A9.KQJ.AQJ.543 T6.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The alternative plan, leading a low spade to the ♠J"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:43.A32.K32.AKQ KQ8.654.654.76 A9.KQJ.AQJ.543 T6.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The alternative plan, leading a low spade to the ♠J will work only if West has both the ♠K and ♠Q. This plan is inferior to the recommended line as it requires West to have 2 specific cards (the ♠K and ♠Q)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 A9.KQJ.AQJ.543 K6.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The alternative plan, leading a low spade to the ♠J will work only if West has both the ♠K and ♠Q. This plan is inferior to the recommended line as it requires West to have 2 specific cards (the ♠K and ♠Q). The recommended line only requires West having 1 specific card (the ♠10)"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:43.A32.K32.AKQ QT8.654.654.76 A9.KQJ.AQJ.543 K6.T987.T987.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The alternative plan, leading a low spade to the ♠J will work only if West has both the ♠K and ♠Q. This plan is inferior to the recommended line as it requires West to have 2 specific cards (the ♠K and ♠Q). The recommended line only requires West having 1 specific card (the ♠10) and at least 1 of 2 other cards (the ♠K and ♠Q)."
+    }
+  ]
+}

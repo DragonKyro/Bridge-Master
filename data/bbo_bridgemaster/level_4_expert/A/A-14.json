@@ -1,0 +1,1162 @@
+{
+  "title": "Level 4 (Expert) - A-14",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-14",
+  "deal_pbn": "S:432.A2.5432.AKQJ 76.K876.76.T9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "4NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 12,
+  "notes": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks, and 4 club tricks). A twelfth trick will be available if either the defensive spades or diamonds break 3-3.\n\nSouth can also come to a twelfth trick with a squeeze if either defender has length in both spades and diamonds. The squeeze will be a simple 2 suit squeeze. A squeeze of this type can only mature when declarer has all of the tricks except for 1. As South starts with 2 losers it is necessary for South to rectify the count.\n\nRectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1.\n\nSouth can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner. If East has a spade stopper as well as his known diamond guard, he will be forced to surrender a trick with his discard.\n\nIf West had started with guards in both spades and diamonds, the squeeze will operate with equal effectiveness. West will be squeezed on the play of the ♣A.\n\nNothing will be lost by playing this way if spades were always 3-3. If South's fourth diamond isn't good after the ♥A and clubs are cashed, South tries the spades and hopes for the best.",
+  "commentary_paragraphs": [
+    "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks, and 4 club tricks). A twelfth trick will be available if either the defensive spades or diamonds break 3-3.",
+    "South can also come to a twelfth trick with a squeeze if either defender has length in both spades and diamonds. The squeeze will be a simple 2 suit squeeze. A squeeze of this type can only mature when declarer has all of the tricks except for 1. As South starts with 2 losers it is necessary for South to rectify the count.",
+    "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1.",
+    "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner. If East has a spade stopper as well as his known diamond guard, he will be forced to surrender a trick with his discard.",
+    "If West had started with guards in both spades and diamonds, the squeeze will operate with equal effectiveness. West will be squeezed on the play of the ♣A.",
+    "Nothing will be lost by playing this way if spades were always 3-3. If South's fourth diamond isn't good after the ♥A and clubs are cashed, South tries the spades and hopes for the best."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 46,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 47,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "SJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.T9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a club against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks, and 4 club tricks)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks, and 4 club tricks). A twelfth trick will be available if either the defensive spades"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads a club against 6NT. There are 11 top tricks (3 spade tricks, the ♥A, 3 diamond tricks, and 4 club tricks). A twelfth trick will be available if either the defensive spades or diamonds break 3-3."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can also come to a twelfth trick with a squeeze if either defender has length in both spades and diamonds. The squeeze will be a simple 2 suit squeeze. A squeeze of this type can only mature when declarer has all of the tricks except for 1. As South starts with 2 losers it is necessary for South to rectify the count."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.432 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.5",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:432.A2.5432.AKQJ 76.K876.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:432.A2.5432.AKQ 76.K876.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:432.A2.5432.AKQ 76.K876.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K876.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K87.76.9876 AKQ5.543.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K87.76.9876 AKQ5.54.AKQ.43 JT98.QJT9.JT98.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K87.76.9876 AKQ5.54.AKQ.43 JT98.QJT.JT98.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H3",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Rectifying the count involves deliberately losing 1 or more tricks in order to correct the loser count for a squeeze. After winning the club lead, South should duck a heart trick, reducing his loser count to 1."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K87.76.9876 AKQ5.54.AKQ.43 JT98.QJT.JT98.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H3",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can win any return"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:432.A.5432.AKQ 76.K87.76.9876 AKQ5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:43.A.5432.AKQ 76.K87.76.9876 AKQ5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AKQ5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AK5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AK5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.876.987 AK5.54.AKQ.43 T98.QJT.JT9.6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AK5.54.AKQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AK5.54.KQ.43 T98.QJT.JT98.",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:43.A.5432.AKQ 7.K87.76.9876 AK5.54.KQ.43 T98.QJT.JT9.",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:43.A.543.AKQ 7.K87.76.9876 AK5.54.KQ.43 T98.QJT.JT9.",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:43.A.543.AKQ 7.K87.7.9876 AK5.54.KQ.43 T98.QJT.JT9.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:43.A.543.AKQ 7.K87.7.9876 AK5.54.Q.43 T98.QJT.JT9.",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:43.A.543.AKQ 7.K87.7.9876 AK5.54.Q.43 T98.QJT.JT.",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:43.A.54.AKQ 7.K87.7.9876 AK5.54.Q.43 T98.QJT.JT.",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:43.A.54.AKQ 7.K87..9876 AK5.54.Q.43 T98.QJT.JT.",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:43.A.54.AKQ 7.K87..9876 AK5.54..43 T98.QJT.JT.",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:43.A.54.AKQ 7.K87..9876 AK5.54..43 T98.QJT.J.",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:43.A.5.AKQ 7.K87..9876 AK5.54..43 T98.QJT.J.",
+      "trick_cards": {
+        "S": "D4",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:43.A.5.AKQ 7.K87..987 AK5.54..43 T98.QJT.J.",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:43.A.5.AKQ 7.K87..987 AK5.54..43 T98.QJT.J.",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:43.A.5.AKQ 7.K87..987 AK5.54..43 T98.QJT.J.",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:43..5.A 7.K8..9 AK5.5.. T98..J.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:43..5. 7.K8..9 AK5.5.. T98..J.",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:43..5. 7.K8.. AK5.5.. T98..J.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:43..5. 7.K8.. AK5... T98..J.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:43..5. 7.K8.. AK5... T98..J.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner. If East has a spade stopper"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:43..5. 7.K8.. AK5... T98..J.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can win any return and cash dummy's diamonds. If diamonds prove to be 3-3, South has his twelfth trick. When one of the opponents has 4 or more diamonds, South runs his heart and club winners. A heart is pitched from North on the last club winner. If East has a spade stopper as well as his known diamond guard, he will be forced to surrender a trick with his discard."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:43.A.5432.AKQ 987.K.9876.98 AK5.54.AKQ.43 T.QJT87.JT.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ],
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West had started with guards in both spades and diamonds, the squeeze will operate with equal effectiveness."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:43..5.A 987..9. AK5.5.. T.QJT..",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West had started with guards in both spades and diamonds, the squeeze will operate with equal effectiveness. West will be squeezed on the play of the ♣A."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:43.A.5432.AKQ 87.K7.76.9876 AK5.54.AKQ.43 T9.QJT8.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Nothing will be lost by playing this way if spades were always 3-3."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:43.A.5432.AKQ 87.K7.76.9876 AK5.54.AKQ.43 T9.QJT8.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Nothing will be lost by playing this way if spades were always 3-3. If South's fourth diamond isn't good"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:43.A.5432.AKQ 87.K7.76.9876 AK5.54.AKQ.43 T9.QJT8.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Nothing will be lost by playing this way if spades were always 3-3. If South's fourth diamond isn't good after the ♥A and clubs are cashed,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:43.A.5432.AKQ 87.K7.76.9876 AK5.54.AKQ.43 T9.QJT8.JT98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SQ",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Nothing will be lost by playing this way if spades were always 3-3. If South's fourth diamond isn't good after the ♥A and clubs are cashed, South tries the spades and hopes for the best."
+    }
+  ]
+}

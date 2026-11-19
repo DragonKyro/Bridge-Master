@@ -1,0 +1,630 @@
+{
+  "title": "Level 1 (Beginner) - B-18",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-18",
+  "deal_pbn": "S:K32.AKQ.AKQ.5432 T9.T987.T987.AQ6 AQJ.32.32.KJT987 87654.J654.J654.",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 12,
+  "notes": "West leads the ♥10 against 6NT. After winning the opening heart lead, South is faced with playing the club suit for 1 loser. As the ♣A must always be lost, South cannot afford to lose a trick to the ♣Q.\n\nIf South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club. Playing the ♣K from dummy will work for only one distribution of the defenders' clubs, when East has a singleton ♣Q.\n\nPlaying a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand and again lead clubs through West.",
+  "commentary_paragraphs": [
+    "West leads the ♥10 against 6NT. After winning the opening heart lead, South is faced with playing the club suit for 1 loser. As the ♣A must always be lost, South cannot afford to lose a trick to the ♣Q.",
+    "If South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club. Playing the ♣K from dummy will work for only one distribution of the defenders' clubs, when East has a singleton ♣Q.",
+    "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand and again lead clubs through West."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.AKQ.AKQ.5432 T9.T987.T987.AQ6 AQJ.32.32.KJT987 87654.J654.J654.",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.AKQ.AKQ.5432 T9.987.T987.AQ6 AQJ.32.32.KJT987 87654.J654.J654.",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.AKQ.AKQ.5432 T9.987.T987.AQ6 AQJ.32.32.KJT987 87654.J654.J654.",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.AKQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J654.J654.",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.AKQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.KQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.KQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead, South is faced with playing the club suit for 1 loser."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.KQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After winning the opening heart lead, South is faced with playing the club suit for 1 loser. As the ♣A must always be lost, South cannot afford to lose a trick to the ♣Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.KQ.AKQ.5432 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South leads a low club out of his hand"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a low club out of his hand"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ6 AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KJT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.A AQJ.3.32.KJT987 7654.J65.J654.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club. Playing the ♣K from dummy will work for only one distribution of the defenders' clubs, when East has a singleton ♣Q."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.A AQJ.3.32.JT987 7654.J65.J654.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club. Playing the ♣K from dummy will work for only one distribution of the defenders' clubs, when East has a singleton ♣Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.A AQJ.3.32.JT987 7654.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a low club out of his hand and West follows with the ♣6, South must decide whether to play dummy's ♣K or a low club. Playing the ♣K from dummy will work for only one distribution of the defenders' clubs, when East has a singleton ♣Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.Q AQJ.3.32.KJT987 7654.J65.J654.A",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.Q AQJ.3.32.KT987 7654.J65.J654.A",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T98.987.T987.Q AQJ.3.32.KT987 7654.J65.J654.A",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KT987 87654.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KT987 8765.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.32.KT987 8765.J65.J654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.3.KT987 8765.J65.J654.",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K32.KQ.AKQ.543 T9.987.T987.AQ AQJ.3.3.KT987 8765.J65.J65.",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K32.KQ.AK.543 T9.987.T987.AQ AQJ.3.3.KT987 8765.J65.J65.",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K32.KQ.AK.543 T9.987.T98.AQ AQJ.3.3.KT987 8765.J65.J65.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K32.KQ.AK.543 T9.987.T98.AQ AQJ.3.3.KT987 8765.J65.J65.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing a club other than the ♣K from dummy is a superior play because it works in two cases. This play will succeed when East has the singleton ♣A and when West has all 3 clubs. In the latter case, East will discard. South can cross back to his hand and again lead clubs through West."
+    }
+  ]
+}

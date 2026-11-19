@@ -1,0 +1,719 @@
+{
+  "title": "Level 1 (Beginner) - A-4",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-4",
+  "deal_pbn": "S:32.AK32.AQJT.QT9 JT98.54.654.8765 KQ.JT98.K987.AKJ A7654.Q76.32.432",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "After East wins the ♠A, and returns a spade, South's only possible loser is in the trump suit. South must avoid losing a trick to the ♥Q.\n\nSouth has 2 ways to play the heart suit worth considering. He could cash the ♥A and ♥K hoping for the ♥Q to be doubleton or singleton.\n\nAlternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q by leading North's hearts through East.\n\nThe correct play is to take the heart finesse after cashing either the ♥A or ♥K. A famous bridge saying, 8 ever, 9 never, can help you remember this play. When you have 8 cards between the two hands, missing just the Queen, finesse (as in this hand). When there are 9 cards between the 2 hands, play for the drop.",
+  "commentary_paragraphs": [
+    "After East wins the ♠A, and returns a spade, South's only possible loser is in the trump suit. South must avoid losing a trick to the ♥Q.",
+    "South has 2 ways to play the heart suit worth considering. He could cash the ♥A and ♥K hoping for the ♥Q to be doubleton or singleton.",
+    "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q by leading North's hearts through East.",
+    "The correct play is to take the heart finesse after cashing either the ♥A or ♥K. A famous bridge saying, 8 ever, 9 never, can help you remember this play. When you have 8 cards between the two hands, missing just the Queen, finesse (as in this hand). When there are 9 cards between the 2 hands, play for the drop."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AK32.AQJT.QT9 JT98.54.654.8765 KQ.JT98.K987.AKJ A7654.Q76.32.432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After East wins the ♠A,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AK32.AQJT.QT9 T98.54.654.8765 KQ.JT98.K987.AKJ A7654.Q76.32.432",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ A7654.Q76.32.432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ 7654.Q76.32.432",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:3.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ 7654.Q76.32.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:3.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ 7654.Q76.32.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After East wins the ♠A, and returns a spade,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:3.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A, and returns a spade,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T98.54.654.8765 K.JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A, and returns a spade,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 K.JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A, and returns a spade,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After East wins the ♠A, and returns a spade,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After East wins the ♠A, and returns a spade, South's only possible loser is in the trump suit."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After East wins the ♠A, and returns a spade, South's only possible loser is in the trump suit. South must avoid losing a trick to the ♥Q."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has 2 ways to play the heart suit worth considering."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has 2 ways to play the heart suit worth considering. He could cash the ♥A and ♥K"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.Q4.654.8765 .JT98.K987.AKJ 765.765.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 2 ways to play the heart suit worth considering. He could cash the ♥A and ♥K hoping for the ♥Q to be doubleton"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.Q.654.87654 .JT98.K987.AKJ 765.7654.32.32",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 2 ways to play the heart suit worth considering. He could cash the ♥A and ♥K hoping for the ♥Q to be doubleton or singleton."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT98.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.Q.654.87654 .JT98.K987.AKJ 765.7654.32.32",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q),"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT9.K987.AKJ 765.Q76.32.432",
+      "trick_cards": {
+        "N": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q),"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AK32.AQJT.QT9 T9.54.654.8765 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q),"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.K32.AQJT.QT9 T9.54.654.8765 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q),"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.K32.AQJT.QT9 T9.5.654.8765 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q),"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.K32.AQJT.QT9 T9.5.654.8765 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.8765 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .JT9.K987.AKJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .JT9.K987.KJ 765.Q7.32.432",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .JT9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .JT9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .JT9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q by leading North's hearts"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .T9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q by leading North's hearts"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .T9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Alternatively, South could cash the ♥A or ♥K (in case West has a singleton ♥Q), travel to the dummy, and finesse East for the ♥Q by leading North's hearts through East."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .T9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The correct play is to take the heart finesse"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.K32.AQJT.QT T9.5.654.876 .T9.K987.KJ 765.Q7.32.43",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The correct play is to take the heart finesse after cashing either the ♥A or ♥K. A famous bridge saying, 8 ever, 9 never, can help you remember this play. When you have 8 cards between the two hands, missing just the Queen, finesse (as in this hand). When there are 9 cards between the 2 hands, play for the drop."
+    }
+  ]
+}

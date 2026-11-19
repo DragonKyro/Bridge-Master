@@ -1,0 +1,827 @@
+{
+  "title": "Level 2 (Intermediate) - C-21",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-21",
+  "deal_pbn": "S:KQJT98.A32.A5.AK 3.987.J9876.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+  "contract": "6Sx",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "D6",
+  "par_tricks": 12,
+  "notes": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds, and 2 clubs). The only possible danger is that East may be ruffing one of South's diamond tricks.\n\nA low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J. Dummy's remaining diamond honours will take care of South's 2 heart losers.",
+  "commentary_paragraphs": [
+    "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds, and 2 clubs). The only possible danger is that East may be ruffing one of South's diamond tricks.",
+    "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J. Dummy's remaining diamond honours will take care of South's 2 heart losers."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "C8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J9876.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦6 against 6♠ doubled."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds, and 2 clubs). The only possible danger is that East may be ruffing"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦6 against 6♠ doubled. East's double of a freely bid slam is a Lightner double, calling for an unusual lead, usually dummy's first bid suit. West obediently leads a diamond. South seems to have at least 12 top tricks (6 spades, the ♥A, 3 diamonds, and 2 clubs). The only possible danger is that East may be ruffing one of South's diamond tricks."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT432.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT43.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT43.32 7654.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT43.32 765.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJT98.A32.A5.AK 3.987.J987.7654 A2.654.KQT43.32 765.KQJT..QJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJT98.A32.5.AK 3.987.J987.7654 A2.654.KQT43.32 765.KQJT..QJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJT98.A32.5.AK 3.987.J987.7654 A2.654.KQT43.32 765.KQJT..QJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT98.A32.5.AK 3.987.J987.7654 A2.654.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT98.32.5.AK 3.987.J987.7654 A2.654.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJT98.32.5.AK 3.98.J987.7654 A2.654.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJT98.32.5.AK 3.98.J987.7654 A2.65.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJT98.32.5.AK 3.98.J987.7654 A2.65.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJT9.32.5.AK 3.98.J987.7654 A2.65.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJT9.32.5.AK .98.J987.7654 A2.65.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJT9.32.5.AK .98.J987.7654 2.65.KQT43.32 765.QJT..QJT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S3",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJT9.32.5.AK .98.J987.7654 2.65.KQT43.32 76.QJT..QJT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S3",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJT9.32.5.AK .98.J987.7654 .65.KQT43.32 76.QJT..QJT98",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQJT9.32.5.AK .98.J987.7654 .65.KQT43.32 7.QJT..QJT98",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT9.32.5.AK .98.J987.7654 .65.KQT43.32 7.QJT..QJT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT9.32.5.AK .98.J987.765 .65.KQT43.32 7.QJT..QJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C4",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:JT9.32.5.AK .98.J987.765 .65.KQT43.32 7.QJT..QJT98",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:JT9.32.5.AK .98.J987.76 .65.KQT43.32 7.QJT..QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:JT9.32.5.AK .98.J987.76 .65.KQT43.3 7.QJT..QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:JT9.32.5.AK .98.J987.76 .65.KQT43.3 .QJT..QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5",
+        "N": "C2",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:JT9.32.5.AK .98.J987.76 .65.KQT43.3 .QJT..QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C5",
+        "N": "C2",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:JT9.32..AK .98.J987.76 .65.KQT43.3 .QJT..QJT98",
+      "trick_cards": {
+        "S": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:JT9.32..AK .98.J98.76 .65.KQT43.3 .QJT..QJT98",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:JT9.32..AK .98.J98.76 .65.KQ43.3 .QJT..QJT98",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:JT9.32..AK .98.J98.76 .65.KQ43.3 .QJT..QJT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DT",
+        "E": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:JT9.32..AK .98.J98.76 .65.KQ43.3 .QJT..QJT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DT",
+        "E": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J. Dummy's remaining diamond honours"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:JT9.32..AK .98.J98.76 .65.KQ43.3 .QJT..QJT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DT",
+        "E": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "A low diamond should be played from dummy at trick 1. When East ruffs, South must be careful to unblock the ♦A. South can win any return, draw trump, and take the marked finesse against West's ♦J. Dummy's remaining diamond honours will take care of South's 2 heart losers."
+    }
+  ]
+}

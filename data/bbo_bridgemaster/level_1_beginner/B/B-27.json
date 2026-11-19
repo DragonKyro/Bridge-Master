@@ -1,0 +1,533 @@
+{
+  "title": "Level 1 (Beginner) - B-27",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-27",
+  "deal_pbn": "S:2.AKQJT9.AK432.A QJT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 13,
+  "notes": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry.\n\nSouth can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds. The rest of South's hand is high.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry.",
+    "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds. The rest of South's hand is high."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.AKQJT9.AK432.A QJT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 7NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 7NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 AK.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 A.432.765.KQJ32 76543.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.AKQJT9.AK432.A JT98.765.8.T987 A.432.765.KQJ32 7654.8.QJT9.654",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SK",
+        "E": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AKQJT9.AK432.A JT98.765.8.T987 A.432.765.KQJ32 7654.8.QJT9.654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SK",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 7NT. South has more than enough tricks for his grand slam. The problem is one of communication between the two hands. The club suit is blocked and West's spade lead has taken out dummy's only side entry."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AKQJT9.AK432.A JT98.765.8.T987 A.432.765.KQJ32 7654.8.QJT9.654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SK",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AKQJT9.AK432.A JT98.765.8.T987 .432.765.KQJ32 7654.8.QJT9.654",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AKQJT9.AK432.A JT98.765.8.T987 .432.765.KQJ32 765.8.QJT9.654",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AKQJT9.AK432. JT98.765.8.T987 .432.765.KQJ32 765.8.QJT9.654",
+      "trick_cards": {
+        "S": "CA",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AKQJT9.AK432. JT9.765.8.T987 .432.765.KQJ32 765.8.QJT9.654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "S8",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AKQJT9.AK432. JT9.765.8.T987 .432.765.KQJ32 765.8.QJT9.654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "S8",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AKQJT9.AK432. JT9.765.8.T987 .432.765.QJ32 765.8.QJT9.654",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AKQJT9.AK432. JT9.765.8.T987 .432.765.QJ32 765.8.QJT9.65",
+      "trick_cards": {
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AKQJT9.AK43. JT9.765.8.T987 .432.765.QJ32 765.8.QJT9.65",
+      "trick_cards": {
+        "S": "D2",
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AKQJT9.AK43. JT9.765.8.T98 .432.765.QJ32 765.8.QJT9.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "C7",
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKQJT9.AK43. JT9.765.8.T98 .432.765.J32 765.8.QJT9.65",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKQJT9.AK43. JT9.765.8.T98 .432.765.J32 765.8.QJT9.6",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AKQJT9.AK4. JT9.765.8.T98 .432.765.J32 765.8.QJT9.6",
+      "trick_cards": {
+        "S": "D3",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AKQJT9.AK4. JT9.765.8.T9 .432.765.J32 765.8.QJT9.6",
+      "trick_cards": {
+        "S": "D3",
+        "W": "C8",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AKQJT9.AK4. JT9.765.8.T9 .432.765.32 765.8.QJT9.6",
+      "trick_cards": {
+        "N": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AKQJT9.AK4. JT9.765.8.T9 .432.765.32 765.8.QJT9.",
+      "trick_cards": {
+        "N": "CJ",
+        "E": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AKQJT9.AK. JT9.765.8.T9 .432.765.32 765.8.QJT9.",
+      "trick_cards": {
+        "S": "D4",
+        "N": "CJ",
+        "E": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKQJT9.AK. JT9.765.8.T .432.765.32 765.8.QJT9.",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C9",
+        "N": "CJ",
+        "E": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKQJT9.AK. JT9.765.8.T .432.765.32 765.8.QJT9.",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C9",
+        "N": "CJ",
+        "E": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can unblock his winners by discarding his ♣A on dummy's second spade winner. South can now cash the ♣K, ♣Q, and ♣J discarding South's 3 small diamonds. The rest of South's hand is high."
+    }
+  ]
+}

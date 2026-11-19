@@ -1,0 +1,847 @@
+{
+  "title": "Level 3 (Advanced) - B-19",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-19",
+  "deal_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.AK765 987.AQ94.543.QJT 432.K.KQJT987.98",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "3D",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 10,
+  "notes": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A.\n\nSouth must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice, the count on the hand is known. East started with 3 spades, 7 diamonds (for his preempt), and 2 clubs. He must have exactly 1 heart.\n\nGiven that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A. When East co-operates by dropping the ♥K, South can take 4 heart tricks by finessing against West's ♥10.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A.",
+    "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice, the count on the hand is known. East started with 3 spades, 7 diamonds (for his preempt), and 2 clubs. He must have exactly 1 heart.",
+    "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A. When East co-operates by dropping the ♥K, South can take 4 heart tricks by finessing against West's ♥10."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.AK765 987.AQ94.543.QJT 432.K.KQJT987.98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.A765 987.AQ94.543.QJT 432.K.KQJT987.98",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.A765 987.AQ94.543.QJT 432.K.KQJT987.98",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.A765 987.AQ94.543.QJ 432.K.KQJT987.98",
+      "trick_cards": {
+        "W": "CK",
+        "N": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT.J32.A2.432 65.T8765.6.A765 987.AQ94.543.QJ 432.K.KQJT987.8",
+      "trick_cards": {
+        "W": "CK",
+        "N": "CT",
+        "E": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT.J32.A2.43 65.T8765.6.A765 987.AQ94.543.QJ 432.K.KQJT987.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "CT",
+        "E": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT.J32.A2.43 65.T8765.6.765 987.AQ94.543.QJ 432.K.KQJT987.8",
+      "trick_cards": {
+        "W": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT.J32.A2.43 65.T8765.6.765 987.AQ94.543.Q 432.K.KQJT987.8",
+      "trick_cards": {
+        "W": "CA",
+        "N": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT.J32.A2.43 65.T8765.6.765 987.AQ94.543.Q 432.K.KQJT987.",
+      "trick_cards": {
+        "W": "CA",
+        "N": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT.J32.A2.4 65.T8765.6.765 987.AQ94.543.Q 432.K.KQJT987.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CA",
+        "N": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT.J32.A2.4 65.T8765.6.765 987.AQ94.543.Q 432.K.KQJT987.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CA",
+        "N": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT.J32.A2.4 65.T8765.6.76 987.AQ94.543.Q 432.K.KQJT987.",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJT.J32.A2.4 65.T8765.6.76 987.AQ94.543. 432.K.KQJT987.",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJT.J32.A2.4 65.T8765.6.76 987.AQ94.543. 43.K.KQJT987.",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ",
+        "E": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJT.J32.A2. 65.T8765.6.76 987.AQ94.543. 43.K.KQJT987.",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C5",
+        "N": "CQ",
+        "E": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJT.J32.A2. 65.T8765.6.76 987.AQ94.543. 43.K.KQJT987.",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C5",
+        "N": "CQ",
+        "E": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJT.J32.A2. 65.T8765.6.76 987.AQ94.543. 43.K.QJT987.",
+      "trick_cards": {
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJT.J32.A2. 65.T8765.6.76 987.AQ94.543. 43.K.QJT987.",
+      "trick_cards": {
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJT.J32.2. 65.T8765.6.76 987.AQ94.543. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "DA",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJT.J32.2. 65.T8765..76 987.AQ94.543. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJT.J32.2. 65.T8765..76 987.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♠. The defense gets off to a good start, cashing 2 rounds of clubs and taking a club ruff. East switches to diamonds. South must win the ♦A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJT.J32.2. 65.T8765..76 987.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJT.J32.2. 65.T8765..76 987.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJT.J32.2. 65.T8765..76 987.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJT.J32.2. 6.T8765..76 987.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJT.J32.2. 6.T8765..76 98.AQ94.54. 43.K.QJT987.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJT.J32.2. 6.T8765..76 98.AQ94.54. 4.K.QJT987.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S7",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT.J32.2. 6.T8765..76 98.AQ94.54. 4.K.QJT987.",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT.J32.2. 6.T8765..76 98.AQ94.54. 4.K.QJT987.",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 98.AQ94.54. 4.K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. 4.K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice, the count on the hand is known. East started with 3 spades, 7 diamonds (for his preempt), and 2 clubs."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must hope that North's fourth heart can provide a discard for South's diamond loser. South should begin by drawing trump. When East follows twice, the count on the hand is known. East started with 3 spades, 7 diamonds (for his preempt), and 2 clubs. He must have exactly 1 heart."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT.J32.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT.J3.2. .T8765..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT.J3.2. .T876..76 9.AQ94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT.J3.2. .T876..76 9.Q94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT.J3.2. .T876..76 9.Q94.54. .K.QJT987.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A. When East co-operates by dropping the ♥K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT.J3.2. .T876..76 9.Q94.54. ..QJT987.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A. When East co-operates by dropping the ♥K,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT.J3.2. .T876..76 9.Q94.54. ..QJT987.",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Given that hearts are 5-1, the only hope is that East's heart is the ♥K. South should play a heart to the ♥A. When East co-operates by dropping the ♥K, South can take 4 heart tricks by finessing against West's ♥10."
+    }
+  ]
+}

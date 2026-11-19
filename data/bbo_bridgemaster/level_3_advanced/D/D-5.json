@@ -1,0 +1,1230 @@
+{
+  "title": "Level 3 (Advanced) - D-5",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-5",
+  "deal_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T954.43.K74 432.AJ3.AQ2.QT32 T76.K876.8765.65",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H4",
+  "par_tricks": 9,
+  "notes": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit. West would later win a trick with the ♣K and cash the setting trick in spades.\n\nSouth can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs, but when West wins the ♣K he cannot attack spades without giving South his 9th trick (South has already won a trick with the ♥A and can win 4 diamond tricks and 3 club tricks).\n\nIf West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West. South's remaining spades are a stopper, however, as long as West is on lead.\n\nIf, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K to play a spade, but South has his 9 tricks established and a certain stopper in spades (since East cannot gain the lead again).",
+  "commentary_paragraphs": [
+    "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit. West would later win a trick with the ♣K and cash the setting trick in spades.",
+    "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs, but when West wins the ♣K he cannot attack spades without giving South his 9th trick (South has already won a trick with the ♥A and can win 4 diamond tricks and 3 club tricks).",
+    "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West. South's remaining spades are a stopper, however, as long as West is on lead.",
+    "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K to play a spade, but South has his 9 tricks established and a certain stopper in spades (since East cannot gain the lead again)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 52,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "ST"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T954.43.K74 432.AJ3.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ3.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ3.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 T76.876.8765.65",
+      "trick_cards": {
+        "W": "H4",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 T76.876.8765.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 T76.876.8765.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "Q",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "S": "SJ",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 A98.T95.43.K74 432.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 A98.T95.43.K74 43.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 98.T95.43.K74 43.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "W": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 98.T95.43.K74 4.AJ.AQ2.QT32 76.876.8765.65",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K5.Q.KJT9.AJ98 98.T95.43.K74 4.AJ.AQ2.QT32 7.876.8765.65",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K.Q.KJT9.AJ98 98.T95.43.K74 4.AJ.AQ2.QT32 7.876.8765.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "SA",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K.Q.KJT9.AJ98 9.T95.43.K74 4.AJ.AQ2.QT32 7.876.8765.65",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K.Q.KJT9.AJ98 9.T95.43.K74 .AJ.AQ2.QT32 7.876.8765.65",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K.Q.KJT9.AJ98 9.T95.43.K74 .AJ.AQ2.QT32 .876.8765.65",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.Q.KJT9.AJ98 9.T95.43.K74 .AJ.AQ2.QT32 .876.8765.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.Q.KJT9.AJ98 9.T95.43.K74 .AJ.AQ2.QT32 .876.8765.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "7",
+            "4"
+          ],
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 3NT. Its seems natural to play a low heart from dummy at trick 1, but in the above layout that would be a fatal mistake. East would win the ♥K and switch to a spade. West would win and clear the suit. West would later win a trick with the ♣K and cash the setting trick in spades."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.AJ3.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.QT32 T76.K876.8765.65",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJ5.Q2.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.QT32 T76.K76.8765.65",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.QT32 T76.K76.8765.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.QT32 T76.K76.8765.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.T32 T76.K76.8765.65",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ98 AQ98.T95.43.K74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.K74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.K74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "7",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs, but when West wins the ♣K"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs, but when West wins the ♣K"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "5"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "Q",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by winning West's heart opening lead with dummy's ♥A. South finesses in clubs, but when West wins the ♣K he cannot attack spades without giving South his 9th trick (South has already won a trick with the ♥A and can win 4 diamond tricks and 3 club tricks)."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "4"
+          ],
+          "D": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.4 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.4 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.4 432.J3.AQ2.T3 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.4 432.J3.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ AQ98.T95.43.4 432.J3.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ AQ98.T95.43.4 432.J3.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C7",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T95.43.4 432.J3.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J3.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 T76.K76.8765.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 T76.76.8765.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 T76.76.8765.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KJ5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:K5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "S": "SJ",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:K5..KJT9.AJ AQ98.T9.43.4 432.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "S": "SJ",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "Q",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:K5..KJT9.AJ A98.T9.43.4 432.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:K5..KJT9.AJ A98.T9.43.4 43.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:K5..KJT9.AJ A98.T9.43.4 43.J.AQ2.T3 76.76.8765.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "5"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West exits passively in a minor, South wins and plays the ♥Q to knock out the ♥K. East's spade return is covered by South and won cheaply by West. South's remaining spades are a stopper, however, as long as West is on lead."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T95.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T9.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T9.43.74 432.J3.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 T76.K76.8765.6",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KJ5.Q.KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 T76.76.8765.6",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:KJ5..KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 T76.76.8765.6",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:KJ5..KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 T76.76.8765.6",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K to play a spade,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:KJ5..KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 76.76.8765.6",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K to play a spade,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:KJ5..KJT9.AJ9 AQ98.T9.43.74 432.J.AQ2.T32 76.76.8765.6",
+      "trick_cards": {
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If, instead of switching to a minor after winning the ♣K, West continues hearts, the result is the same. East wins the ♥K to play a spade, but South has his 9 tricks established and a certain stopper in spades (since East cannot gain the lead again)."
+    }
+  ]
+}

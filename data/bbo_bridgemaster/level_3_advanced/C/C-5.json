@@ -1,0 +1,731 @@
+{
+  "title": "Level 3 (Advanced) - C-5",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-5",
+  "deal_pbn": "S:KQ32.A432.6.JT98 JT98.QT98.A.Q654 A.K65.KQJ5432.32 7654.J7.T987.AK7",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3H",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades and 2 hearts). If diamonds are 3-2, South will have enough tricks once the ♦A is driven out.\n\nThere is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy. If West has a singleton ♦A, dummy's diamonds will be established for 6 tricks.\n\nIf West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out, the ♥K will act as an entry to the established diamonds.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades and 2 hearts). If diamonds are 3-2, South will have enough tricks once the ♦A is driven out.",
+    "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy. If West has a singleton ♦A, dummy's diamonds will be established for 6 tricks.",
+    "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out, the ♥K will act as an entry to the established diamonds."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "D6"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ32.A432.6.JT98 JT98.QT98.A.Q654 A.K65.KQJ5432.32 7654.J7.T987.AK7",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ32.A432.6.JT98 T98.QT98.A.Q654 A.K65.KQJ5432.32 7654.J7.T987.AK7",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ32.A432.6.JT98 T98.QT98.A.Q654 A.K65.KQJ5432.32 7654.J7.T987.AK7",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ32.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 7654.J7.T987.AK7",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ32.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades and 2 hearts)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.AT.Q65 .K65.KQJ5432.32 765.J7.987.AK74",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades and 2 hearts). If diamonds are 3-2, South will have enough tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.AT.Q65 .K65.KQJ5432.32 765.J7.987.AK74",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's opening lead is won in dummy with the ♠A. There are only 5 top tricks (3 spades and 2 hearts). If diamonds are 3-2, South will have enough tricks once the ♦A is driven out."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K65.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K6.KQJ5432.32 765.J7.T987.AK7",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ3.A432.6.JT98 T98.QT98.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ3.432.6.JT98 T98.QT98.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ3.432.6.JT98 T98.QT9.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ3.432.6.JT98 T98.QT9.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy. If West has a singleton ♦A,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q654 .K6.KQJ5432.32 765.J.T987.AK7",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "There is only one 4-1 diamond break that South can pick up without risk. South should cross to the ♥A at trick 2 and lead a diamond towards the dummy. If West has a singleton ♦A, dummy's diamonds will be established for 6 tricks."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.AT.Q65 .K6.KQJ5432.32 765.J.987.AK74",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQJ5432.32 765.J.987.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQJ5432.32 765.J.987.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQ5432.32 765.J.987.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT",
+        "N": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQ5432.32 765.J.98.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQ5432.32 765.J.98.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.KQ5432.32 765.J.98.AK74",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DT",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.K5432.32 765.J.98.AK74",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ3.432..JT98 T98.QT9.A.Q65 .K6.K5432.32 765.J.9.AK74",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ3.43..JT98 T98.QT9.A.Q65 .K6.K5432.32 765.J.9.AK74",
+      "trick_cards": {
+        "S": "H2",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ3.43..JT98 T98.QT9..Q65 .K6.K5432.32 765.J.9.AK74",
+      "trick_cards": {
+        "S": "H2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ3.43..JT98 T98.QT9..Q65 .K6.K5432.32 765.J.9.AK74",
+      "trick_cards": {
+        "S": "H2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out, the ♥K will act as an entry"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ3.43..JT98 T98.QT9..Q65 .K6.K5432.32 765.J.9.AK74",
+      "trick_cards": {
+        "S": "H2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first diamond play, an honour should be played from the dummy. In this case, South must now hope that diamonds are 3-2. After the ♦A is forced out, the ♥K will act as an entry to the established diamonds."
+    }
+  ]
+}

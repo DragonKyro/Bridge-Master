@@ -1,0 +1,890 @@
+{
+  "title": "Level 1 (Beginner) - A-23",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-23",
+  "deal_pbn": "S:A32.A32.KQJT.AQJ KQJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A). South can develop 1 or 2 extra trick in clubs. Even if the club finesse is working, South will still have to play on diamonds to come to enough tricks.\n\nThe diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3 and East has the ♦A. If West has 5 spades and the ♦A the contract has no hope even if East has the ♣K.\n\nSouth now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A and cash his 9 tricks.\n\nThe contract would still be secure if the defensive spades were divided 4-4. In this case, East would still have a spade left upon winning the ♦A but the defense would only have 4 tricks available. The contract would be safe without risking the club finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A). South can develop 1 or 2 extra trick in clubs. Even if the club finesse is working, South will still have to play on diamonds to come to enough tricks.",
+    "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3 and East has the ♦A. If West has 5 spades and the ♦A the contract has no hope even if East has the ♣K.",
+    "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A and cash his 9 tricks.",
+    "The contract would still be secure if the defensive spades were divided 4-4. In this case, East would still have a spade left upon winning the ♦A but the defense would only have 4 tricks available. The contract would be safe without risking the club finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ KQJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A). South can develop 1 or 2 extra trick in clubs."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.T98 54.KQJT.9876.432 876.987.A32.K765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A). South can develop 1 or 2 extra trick in clubs. Even if the club finesse is working,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.T98 54.KQJT.9876.432 876.987.A32.K765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. South only has 6 top tricks (the ♠A, 4 heart tricks, and the ♣A). South can develop 1 or 2 extra trick in clubs. Even if the club finesse is working, South will still have to play on diamonds to come to enough tricks."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 54.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 5.KQJT.9876.432 876.987.A32.8765",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.A32.KQJT.AQJ QJT9.654.54.KT9 5.KQJT.9876.432 87.987.A32.8765",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A3.A32.KQJT.AQJ QJT9.654.54.KT9 5.KQJT.9876.432 87.987.A32.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A3.A32.KQJT.AQJ JT9.654.54.KT9 5.KQJT.9876.432 87.987.A32.8765",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A3.A32.KQJT.AQJ JT9.654.54.KT9 .KQJT.9876.432 87.987.A32.8765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A3.A32.KQJT.AQJ JT9.654.54.KT9 .KQJT.9876.432 8.987.A32.8765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.A32.KQJT.AQJ JT9.654.54.KT9 .KQJT.9876.432 8.987.A32.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.432 8.987.A32.8765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 8.987.A32.8765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3 and East has the ♦A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.765.A4.T98 .KQJT.9876.43 .984.532.K765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3 and East has the ♦A. If West has 5 spades and the ♦A the contract has no hope"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.765.A4.T98 .KQJT.9876.43 .984.532.K765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The diamond suit will provide enough tricks for the contract regardless of who has the ♣K. South should hold up the ♠A for three rounds to exhaust East of his spades in case that suit is 5-3 and East has the ♦A. If West has 5 spades and the ♦A the contract has no hope even if East has the ♣K."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.A32.KQJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C2",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South now knocks out the ♦A."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.54.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.9876.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.A32.8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.32.8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.32.8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.32.876",
+      "trick_cards": {
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.A32.QJT.AQJ T9.654.5.KT9 .KQJT.987.43 .987.32.876",
+      "trick_cards": {
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.A32.QJT.QJ T9.654.5.KT9 .KQJT.987.43 .987.32.876",
+      "trick_cards": {
+        "S": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.A32.QJT.QJ T9.654.5.K9 .KQJT.987.43 .987.32.876",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.A32.QJT.QJ T9.654.5.K9 .KQJT.987.4 .987.32.876",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.A32.QJT.QJ T9.654.5.K9 .KQJT.987.4 .987.32.876",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South now knocks out the ♦A. If East wins the ♦A and returns a club, South should rise with the ♣A and cash his 9 tricks."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.A32.QJT.AQJ T.654.5.KT98 .KQJT.987.43 9.987.32.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The contract would still be secure if the defensive spades were divided 4-4."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.A32.QJT.AQJ T.654.5.KT98 .KQJT.987.43 9.987.32.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The contract would still be secure if the defensive spades were divided 4-4. In this case, East would still have a spade left"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.A32.QJT.AQJ T.654.5.KT98 .KQJT.987.43 9.987.32.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The contract would still be secure if the defensive spades were divided 4-4. In this case, East would still have a spade left upon winning the ♦A but the defense would only have 4 tricks available."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.A32.QJT.AQJ T.654.5.KT98 .KQJT.987.43 9.987.32.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D6",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The contract would still be secure if the defensive spades were divided 4-4. In this case, East would still have a spade left upon winning the ♦A but the defense would only have 4 tricks available. The contract would be safe without risking the club finesse."
+    }
+  ]
+}

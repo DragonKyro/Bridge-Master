@@ -1,0 +1,1310 @@
+{
+  "title": "Level 3 (Advanced) - C-22",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-22",
+  "deal_pbn": "S:KQ32.A32..JT9876 JT98.98.K9876.54 A.7654.AQJT32.AQ 7654.KQJT.54.K32",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1S",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A). Playing on diamonds will risk defeat when that suit is 5-2. It seems that South should play on clubs, but there are serious entry problems.\n\nIf South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick. South lacks the hand entries to establish and cash his long clubs. At the same time, dummy now lacks the entries to establish and cash the diamonds.\n\nSouth can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks, the ♥A, at least 3 diamond tricks, and 2 club tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A). Playing on diamonds will risk defeat when that suit is 5-2. It seems that South should play on clubs, but there are serious entry problems.",
+    "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick. South lacks the hand entries to establish and cash his long clubs. At the same time, dummy now lacks the entries to establish and cash the diamonds.",
+    "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks, the ♥A, at least 3 diamond tricks, and 2 club tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 47,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 49,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 50,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 51,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 55,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ32.A32..JT9876 JT98.98.K9876.54 A.7654.AQJT32.AQ 7654.KQJT.54.K32",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ32.A32..JT9876 T98.98.K9876.54 A.7654.AQJT32.AQ 7654.KQJT.54.K32",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ32.A32..JT9876 T98.98.K9876.54 A.7654.AQJT32.AQ 7654.KQJT.54.K32",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ32.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 7654.KQJT.54.K32",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ32.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A)."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A). Playing on diamonds"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A). Playing on diamonds will risk defeat when that suit is 5-2."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won in the dummy. South has 6 top tricks (3 spades, the ♥A, the ♦A, and the ♣A). Playing on diamonds will risk defeat when that suit is 5-2. It seems that South should play on clubs, but there are serious entry problems."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South cashes the ♣A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.Q 765.KQJT.54.K32",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.Q 765.KQJT.54.K3",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.54 .7654.AQJT32.Q 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.Q 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.Q 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South cashes the ♣A and continues with the ♣Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32. 765.KQJT.54.K3",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A and continues with the ♣Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32. 765.KQJT.54.K3",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32. 765.KQJT.54.K",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ3.A32..JT98 T98.98.K9876.5 .7654.AQJT32. 765.KQJT.54.K",
+      "trick_cards": {
+        "S": "C7",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ3.A32..JT98 T98.98.K9876. .7654.AQJT32. 765.KQJT.54.K",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ3.A32..JT98 T98.98.K9876. .7654.AQJT32. 765.KQJT.54.K",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick. South lacks the hand entries to establish and cash his long clubs."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ3.A32..JT98 T98.98.K9876. .7654.AQJT32. 765.KQJT.54.K",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South cashes the ♣A and continues with the ♣Q, the defense might be able to duck this trick. South lacks the hand entries to establish and cash his long clubs. At the same time, dummy now lacks the entries to establish and cash the diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.AQ 765.KQJT.54.K32",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K32",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K32",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K32",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K3",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.K32",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ3.A32..JT9876 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.32",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.54 .7654.AQJT32.A 765.KQJT.54.32",
+      "trick_cards": {
+        "S": "C6",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.KQJT.54.32",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.KQJT.54.32",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQ3.32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KQ3.32..JT987 T98.9.K9876.5 .7654.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KQ3.32..JT987 T98.9.K9876.5 .765.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KQ3.32..JT987 T98.9.K9876.5 .765.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade)."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:Q3.32..JT987 T98.9.K9876.5 .765.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade)."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:Q3.32..JT987 T9.9.K9876.5 .765.AQJT32.A 765.QJT.54.32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade)."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:Q3.32..JT987 T9.9.K9876.5 .765.AQJT32. 765.QJT.54.32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade)."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:Q3.32..JT987 T9.9.K9876.5 .765.AQJT32. 76.QJT.54.32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "CA",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade)."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.AQJT32.A 765.KQJT.54.K3",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.QJT32.A 765.KQJT.54.K3",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KQ3.A32..JT987 T98.98.K9876.5 .7654.QJT32.A 765.KQJT.5.K3",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KQ3.A3..JT987 T98.98.K9876.5 .7654.QJT32.A 765.KQJT.5.K3",
+      "trick_cards": {
+        "S": "H2",
+        "N": "DA",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:KQ3.A3..JT987 T98.98.K987.5 .7654.QJT32.A 765.KQJT.5.K3",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KQ3.A3..JT987 T98.98.K987.5 .7654.QJT32.A 765.KQJT.5.K3",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KQ3.A3..JT987 T98.98.K987.5 .7654.JT32.A 765.KQJT.5.K3",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KQ3.A3..JT987 T98.98.K987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.K987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks, the ♥A,"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks, the ♥A, at least 3 diamond tricks,"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:KQ3.A..JT987 T98.98.987.5 .7654.JT32.A 765.KQJT..K3",
+      "trick_cards": {
+        "S": "H3",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can guarantee the contract by leading the ♣Q before cashing the ♣A. As before, the defense must duck (if the defense wins and plays hearts, South can discard the ♣A on a top spade). After the ♣Q holds, South switches to diamonds, conceding a trick to the ♦K. The ♣A is an entry to the dummy, and the ♥A is an entry to the closed hand. South will score 3 spade tricks, the ♥A, at least 3 diamond tricks, and 2 club tricks."
+    }
+  ]
+}

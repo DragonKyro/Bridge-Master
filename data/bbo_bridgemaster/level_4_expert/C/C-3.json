@@ -1,0 +1,732 @@
+{
+  "title": "Level 4 (Expert) - C-3",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-3",
+  "deal_pbn": "S:32.A432.A432.AK2 T987.QJ987.K.QJT AKQJ.5.QJ65.6543 654.KT6.T987.987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs). At least 1 extra trick can be developed in diamonds. There is a danger that a trick will have to be lost to the ♦K after which the defense may be able to cash enough heart tricks to defeat the contract.\n\nSouth should hold up the ♥A until the fourth round. If West started with 5 or more hearts, South should start diamonds by cashing the ♦A. This is a safety play against West having a singleton ♦K.\n\nIf East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds. If West wins the ♦K, he will have no hearts to play.\n\nIf hearts turn out to be 4-4, the contract is not in danger. South doesn't mind losing a trick to the ♦K as only 4 tricks will be available for the defense.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs). At least 1 extra trick can be developed in diamonds. There is a danger that a trick will have to be lost to the ♦K after which the defense may be able to cash enough heart tricks to defeat the contract.",
+    "South should hold up the ♥A until the fourth round. If West started with 5 or more hearts, South should start diamonds by cashing the ♦A. This is a safety play against West having a singleton ♦K.",
+    "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds. If West wins the ♦K, he will have no hearts to play.",
+    "If hearts turn out to be 4-4, the contract is not in danger. South doesn't mind losing a trick to the ♦K as only 4 tricks will be available for the defense."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.QJ987.K.QJT AKQJ.5.QJ65.6543 654.KT6.T987.987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ.5.QJ65.6543 654.KT6.T987.987",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ.5.QJ65.6543 654.KT6.T987.987",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.KT6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs). At least 1 extra trick can be developed in diamonds."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs). At least 1 extra trick can be developed in diamonds. There is a danger that a trick will have to be lost to the ♦K"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. West's opening lead has hit South's weak spot. There are 8 top tricks (4 spades, the ♥A, the ♦A, and 2 clubs). At least 1 extra trick can be developed in diamonds. There is a danger that a trick will have to be lost to the ♦K after which the defense may be able to cash enough heart tricks to defeat the contract."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.A432.A432.AK2 T987.J987.K.QJT AKQJ..QJ65.6543 654.K6.T987.987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H5",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should hold up the ♥A until the fourth round."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32..A432.AK2 T987.J.K.QJT AKQJ..QJ65.6 65..T987.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "C5",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should hold up the ♥A until the fourth round."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32..A432.AK2 T987.J.K.QJT AKQJ..QJ65.6 65..T987.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "C5",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should hold up the ♥A until the fourth round. If West started with 5 or more hearts,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32..A432.AK2 T987.J.K.QJT AKQJ..QJ65.6 65..T987.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "C5",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should hold up the ♥A until the fourth round. If West started with 5 or more hearts, South should start diamonds by cashing the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32..432.AK2 T987.J.K.QJT AKQJ..QJ65.6 65..T987.987",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should hold up the ♥A until the fourth round. If West started with 5 or more hearts, South should start diamonds by cashing the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32..432.AK2 T987.J.K.QJT AKQJ..QJ65.6 65..T987.987",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should hold up the ♥A until the fourth round. If West started with 5 or more hearts, South should start diamonds by cashing the ♦A. This is a safety play against West having a singleton ♦K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32..A432.AK2 T987..87.QJT AKQJ..QJ65.6 65.8.KT9.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S4",
+        "N": "C5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East began with 5 or more hearts,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32..A432.AK2 T987..87.QJT AKQJ..QJ65.6 65.8.KT9.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S4",
+        "N": "C5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:3..A432.AK2 T987..87.QJT AKQJ..QJ65.6 65.8.KT9.987",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQJ..QJ65.6 65.8.KT9.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQ..QJ65.6 65.8.KT9.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQ..QJ65.6 6.8.KT9.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQ..QJ65.6 6.8.KT9.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQ..J65.6 6.8.KT9.987",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:3..A432.AK2 T98..87.QJT AKQ..J65.6 6.8.KT.987",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:3..A43.AK2 T98..87.QJT AKQ..J65.6 6.8.KT.987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:3..A43.AK2 T98..K7.QJT AKQ..J65.6 6.8.T8.987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds. If West wins the ♦K,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:3..A43.AK2 T98..7.QJT AKQ..J65.6 6.8.T8.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds. If West wins the ♦K,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:3..A43.AK2 T98..7.QJT AKQ..J65.6 6.8.T8.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "If East began with 5 or more hearts, the contract can be guaranteed by crossing in spades and finessing in diamonds. If West wins the ♦K, he will have no hearts to play."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32..A432.AK2 T987..K7.QJT AKQJ..QJ65.6 654..T98.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "C5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If hearts turn out to be 4-4, the contract is not in danger."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32..A432.AK2 T987..K7.QJT AKQJ..QJ65.6 654..T98.987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "C5",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If hearts turn out to be 4-4, the contract is not in danger. South doesn't mind losing a trick to the ♦K as only 4 tricks will be available for the defense."
+    }
+  ]
+}

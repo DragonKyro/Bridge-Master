@@ -1,0 +1,1321 @@
+{
+  "title": "Level 5 (World Class) - C-18",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-18",
+  "deal_pbn": "S:AK2.A32.Q32.AKQ2 JT987.J6.KJ987.7 Q43.54.A654.6543 65.KQT987.T.JT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "2H",
+    "Dbl",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A. A single hold up will exhaust the West hand of hearts and South will need a small heart in the event that East was dealt 4 cards in clubs.\n\nSouth should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan.\n\nGiven that East was dealt 6 hearts and 4 clubs, West is a big favorite to hold the ♦K. In this case South's best chance for a 9th trick is to play to squeeze East in hearts and clubs. South has 4 losers and must rectify the count down to 1 loser in order for a squeeze against East to mature. South must plan on ducking 3 tricks in diamonds and hope that East is unable to gain the lead in that suit (as he could then run enough heart tricks to defeat the contract).\n\nEast's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West.\n\nWest must lead a spade or a diamond, giving dummy the lead and the play of dummy's remaining winner will squeeze East in hearts and clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A. A single hold up will exhaust the West hand of hearts and South will need a small heart in the event that East was dealt 4 cards in clubs.",
+    "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan.",
+    "Given that East was dealt 6 hearts and 4 clubs, West is a big favorite to hold the ♦K. In this case South's best chance for a 9th trick is to play to squeeze East in hearts and clubs. South has 4 losers and must rectify the count down to 1 loser in order for a squeeze against East to mature. South must plan on ducking 3 tricks in diamonds and hope that East is unable to gain the lead in that suit (as he could then run enough heart tricks to defeat the contract).",
+    "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West.",
+    "West must lead a spade or a diamond, giving dummy the lead and the play of dummy's remaining winner will squeeze East in hearts and clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 46,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 47,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 57,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 58,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 59,
+      "seat": "S",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.A32.Q32.AKQ2 JT987.J6.KJ987.7 Q43.54.A654.6543 65.KQT987.T.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.A32.Q32.AKQ2 JT987.6.KJ987.7 Q43.54.A654.6543 65.KQT987.T.JT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.A32.Q32.AKQ2 JT987.6.KJ987.7 Q43.54.A654.6543 65.KQT987.T.JT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.A32.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.KQT987.T.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.A32.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.KT987.T.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.A3.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.KT987.T.JT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.A3.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.KT987.T.JT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.A3.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2.3.Q32.AKQ2 JT987.6.KJ987.7 Q43.5.A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2.3.Q32.AKQ2 JT987..KJ987.7 Q43.5.A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2.3.Q32.AKQ2 JT987..KJ987.7 Q43..A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK2.3.Q32.AKQ2 JT987..KJ987.7 Q43..A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. East overtakes West's heart opening lead and South ducks. When East continues hearts South should win the ♥A. A single hold up will exhaust the West hand of hearts and South will need a small heart in the event that East was dealt 4 cards in clubs."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK2.3.Q32.AKQ2 JT987..KJ987.7 Q43..A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK2.3.Q32.KQ2 JT987..KJ987.7 Q43..A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK2.3.Q32.KQ2 JT987..KJ987. Q43..A654.6543 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK2.3.Q32.KQ2 JT987..KJ987. Q43..A654.654 65.T987.T.JT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK2.3.Q32.KQ2 JT987..KJ987. Q43..A654.654 65.T987.T.JT9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ987. Q43..A654.654 65.T987.T.JT9",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT98..KJ9.JT9 Q43..A654.654 765.T987.T87.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT98..KJ9.JT Q43..A654.654 765.T987.T87.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT98..KJ9.JT Q43..A654.65 765.T987.T87.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT98..KJ9.JT Q43..A654.65 765.T98.T87.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C4",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT98..KJ9.JT Q43..A654.65 765.T98.T87.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C4",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T"
+          ],
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ987. Q43..A654.654 65.T987.T.JT9",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.654 65.T987.T.JT9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should test the clubs by cashing 2 rounds (9 tricks will be easy if both opponents follow). If East discards on the second round, marking West with a club stopper, South will have to guess which defender was dealt the ♦K and eventually either endplay West by exiting in clubs or endplay East by exiting in hearts. When West unexpectedly discards on the second round of clubs, East has the defensive club guard and South must change his plan."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Given that East was dealt 6 hearts and 4 clubs, West is a big favorite to hold the ♦K."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T"
+          ],
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Given that East was dealt 6 hearts and 4 clubs, West is a big favorite to hold the ♦K. In this case South's best chance for a 9th trick is to play to squeeze East in hearts and clubs."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Given that East was dealt 6 hearts and 4 clubs, West is a big favorite to hold the ♦K. In this case South's best chance for a 9th trick is to play to squeeze East in hearts and clubs. South has 4 losers and must rectify the count down to 1 loser in order for a squeeze against East to mature. South must plan on ducking 3 tricks in diamonds and hope that East is unable to gain the lead in that suit (as he could then run enough heart tricks to defeat the contract)."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK2.3.Q32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK2.3.32.Q2 JT987..KJ98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK2.3.32.Q2 JT987..J98. Q43..A654.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK2.3.32.Q2 JT987..J98. Q43..A65.65 65.T987.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK2.3.32.Q2 JT987..J98. Q43..A65.65 65.T987..JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK2.3.32.Q2 JT987..J98. Q43..A65.65 65.T987..JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK2.3.32.Q2 T987..J98. Q43..A65.65 65.T987..JT",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK2.3.32.Q2 T987..J98. Q4..A65.65 65.T987..JT",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK2.3.32.Q2 T987..J98. Q4..A65.65 6.T987..JT",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A2.3.32.Q2 T987..J98. Q4..A65.65 6.T987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A2.3.32.Q2 T987..J98. Q4..A65.65 6.T987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A2.3.3.Q2 T987..J98. Q4..A65.65 6.T987..JT",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West)."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A2.3.3.Q2 T987..J9. Q4..A65.65 6.T987..JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West)."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A2.3.3.Q2 T987..J9. Q4..A6.65 6.T987..JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West)."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A2.3.3.Q2 T987..J9. Q4..A6.65 6.T98..JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West)."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A2.3.3.Q2 T987..J9. Q4..A6.65 6.T98..JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A2.3.3.Q2 987..J9. Q4..A6.65 6.T98..JT",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A2.3.3.Q2 987..J9. Q..A6.65 6.T98..JT",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A2.3.3.Q2 987..J9. Q..A6.65 .T98..JT",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:2.3.3.Q2 987..J9. Q..A6.65 .T98..JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:2.3.3.Q2 987..J9. Q..A6.65 .T98..JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:2.3..Q2 987..J9. Q..A6.65 .T98..JT",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:2.3..Q2 987..J. Q..A6.65 .T98..JT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:2.3..Q2 987..J. Q..A.65 .T98..JT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:2.3..Q2 987..J. Q..A.65 .T9..JT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "D6",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "East's most likely distribution is 2614 (even more so given West's early diamond discard, likely from 5) and South can succeed as long as East's singleton diamond is not the ♦K. South should lead the ♦Q and duck in dummy when West covers. West shifts to a spade which South must win in his hand. Next South should duck a second diamond trick (hopefully to West). West continues spades and again South must win in his hand. A third diamond trick should be ducked to West."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:2.3..Q2 987..J. Q..A.65 .T9..JT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "D6",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ],
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:2.3..Q2 87..J. Q..A.65 .T9..JT",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:2.3..Q2 87..J. ..A.65 .T9..JT",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:2.3..Q2 87..J. ..A.65 .T..JT",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SQ",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:.3..Q2 87..J. ..A.65 .T..JT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "SQ",
+        "E": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:.3..Q2 87..J. ..A.65 .T..JT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "SQ",
+        "E": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 4,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "T"
+          ],
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West must lead a spade or a diamond, giving dummy the lead and the play of dummy's remaining winner will squeeze East in hearts and clubs."
+    }
+  ]
+}

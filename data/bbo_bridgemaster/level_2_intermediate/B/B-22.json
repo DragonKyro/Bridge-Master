@@ -1,0 +1,807 @@
+{
+  "title": "Level 2 (Intermediate) - B-22",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-22",
+  "deal_pbn": "S:KJ2.AJ2.AQ2.5432 QT943.Q76.K76.87 A.T543.J43.KQJT9 8765.K98.T985.A6",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S3",
+  "par_tricks": 9,
+  "notes": "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks. 4 additional tricks can be developed in clubs once the ♣A is dislodged. The diamond suit can be counted on for the ninth trick.\n\nSouth should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q, the defensive spades will be established. If West also has the ♦K, that card will act as an entry to cash the spades.\n\nAdmittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2. If East has the ♦K, the finesse will win. South can turn his attention to clubs.\n\nIf West has the ♦K, he can win the diamond finesse, but cannot attack South's spade holding from his side of the table. Again, South will be able to knock out the ♣A and take 9 tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks. 4 additional tricks can be developed in clubs once the ♣A is dislodged. The diamond suit can be counted on for the ninth trick.",
+    "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q, the defensive spades will be established. If West also has the ♦K, that card will act as an entry to cash the spades.",
+    "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2. If East has the ♦K, the finesse will win. South can turn his attention to clubs.",
+    "If West has the ♦K, he can win the diamond finesse, but cannot attack South's spade holding from his side of the table. Again, South will be able to knock out the ♣A and take 9 tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KJ2.AJ2.AQ2.5432 QT943.Q76.K76.87 A.T543.J43.KQJT9 8765.K98.T985.A6",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KJ2.AJ2.AQ2.5432 QT94.Q76.K76.87 A.T543.J43.KQJT9 8765.K98.T985.A6",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KJ2.AJ2.AQ2.5432 QT94.Q76.K76.87 A.T543.J43.KQJT9 8765.K98.T985.A6",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 which South is forced to win in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KJ2.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 8765.K98.T985.A6",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 which South is forced to win in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KJ2.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 which South is forced to win in dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 which South is forced to win in dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks. 4 additional tricks can be developed in clubs"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks. 4 additional tricks can be developed in clubs once the ♣A is dislodged."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 which South is forced to win in dummy. South has 2 spade tricks, the ♥A, and the ♦A in top tricks. 4 additional tricks can be developed in clubs once the ♣A is dislodged. The diamond suit can be counted on for the ninth trick."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.QJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should not make the mistake of playing on clubs at trick 2."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.QJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.QJT9 765.K98.T985.6",
+      "trick_cards": {
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.87 .T543.J43.QJT9 765.K98.T985.6",
+      "trick_cards": {
+        "S": "C2",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 765.K98.T985.6",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 765.K98.T985.6",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q, the defensive spades will be established."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q, the defensive spades will be established. If West also has the ♦K,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJ.AJ2.AQ2.543 QT94.Q76.K76.8 .T543.J43.QJT9 76.K98.T985.6",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should not make the mistake of playing on clubs at trick 2. East might win the ♣A and play another spade through South's holding. If West has the ♠Q, the defensive spades will be established. If West also has the ♦K, that card will act as an entry to cash the spades."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J43.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J4.KQJT9 765.K98.T985.A6",
+      "trick_cards": {
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJ.AJ2.AQ2.5432 QT94.Q76.K76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.K76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.765.87 .T543.J4.KQJT9 765.K98.KT9.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2. If East has the ♦K, the finesse will win."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.65.87 .T543.J4.KQJT9 765.K98.KT9.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2. If East has the ♦K, the finesse will win."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.65.87 .T543.J4.KQJT9 765.K98.KT9.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Admittedly, South is unlucky to go down after playing clubs at trick 2. However, South can virtually guarantee his contract by taking the diamond finesse at trick 2. If East has the ♦K, the finesse will win. South can turn his attention to clubs."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.K76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦K, he can win the diamond finesse,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦K, he can win the diamond finesse,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦K, he can win the diamond finesse, but cannot attack South's spade holding"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦K, he can win the diamond finesse, but cannot attack South's spade holding from his side of the table."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KJ.AJ2.A2.5432 QT94.Q76.76.87 .T543.J4.KQJT9 765.K98.T95.A6",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦K, he can win the diamond finesse, but cannot attack South's spade holding from his side of the table. Again, South will be able to knock out the ♣A and take 9 tricks."
+    }
+  ]
+}

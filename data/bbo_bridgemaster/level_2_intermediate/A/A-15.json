@@ -1,0 +1,446 @@
+{
+  "title": "Level 2 (Intermediate) - A-15",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-15",
+  "deal_pbn": "S:A2.AK2.QJT9.QJT9 JT9.QJT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "South has 8 top tricks (2 spade tricks, 2 heart tricks, and 4 club tricks). The ninth trick can eventually come from diamonds once the ♦A and ♦K are knocked out.\n\nAt first glance, it appears that South should allow West to win the first heart trick. If West has 5 hearts and the ♦A and ♦K are split, this hold up play will effectively shut out the defensive heart potential.\n\nUnfortunately, the defense has even more potential in spades. West will not continue hearts, but will shift to spades. The contract will then have almost no chance of making.\n\nSouth cannot make his contract on the above lie of the cards. He should not risk his contract (by playing the ♥2) when hearts were dealt 4-3 or when East was dealt 2 hearts and both the ♦A and ♦K.\n\nSouth should win the opening lead and play on diamonds, hoping for a favorable lie of the cards, as above.",
+  "commentary_paragraphs": [
+    "South has 8 top tricks (2 spade tricks, 2 heart tricks, and 4 club tricks). The ninth trick can eventually come from diamonds once the ♦A and ♦K are knocked out.",
+    "At first glance, it appears that South should allow West to win the first heart trick. If West has 5 hearts and the ♦A and ♦K are split, this hold up play will effectively shut out the defensive heart potential.",
+    "Unfortunately, the defense has even more potential in spades. West will not continue hearts, but will shift to spades. The contract will then have almost no chance of making.",
+    "South cannot make his contract on the above lie of the cards. He should not risk his contract (by playing the ♥2) when hearts were dealt 4-3 or when East was dealt 2 hearts and both the ♦A and ♦K.",
+    "South should win the opening lead and play on diamonds, hoping for a favorable lie of the cards, as above."
+  ],
+  "play_sequence": [
+    {
+      "step": 4,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.QJT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "A",
+            "K"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ],
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 spade tricks, 2 heart tricks, and 4 club tricks)."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.QJT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 spade tricks, 2 heart tricks, and 4 club tricks). The ninth trick can eventually come from diamonds"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.QJT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 spade tricks, 2 heart tricks, and 4 club tricks). The ninth trick can eventually come from diamonds once the ♦A and ♦K are knocked out."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.QJT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.K87.54 K3.543.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.76.A6.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A2.AK.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A2.AK.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ],
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick. If West has 5 hearts and the ♦A and ♦K are split,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A2.AK.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "At first glance, it appears that South should allow West to win the first heart trick. If West has 5 hearts and the ♦A and ♦K are split, this hold up play will effectively shut out the defensive heart potential."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A2.AK.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Unfortunately, the defense has even more potential in spades. West will not continue hearts, but will shift to spades. The contract will then have almost no chance of making."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.K87.54 K3.54.5432.AK32 Q87654.6.A6.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South cannot make his contract on the above lie of the cards."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT98.JT6.A87.54 K3.54.5432.AK32 Q7654.98.K6.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South cannot make his contract on the above lie of the cards. He should not risk his contract (by playing the ♥2) when hearts were dealt 4-3"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "K"
+          ],
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South cannot make his contract on the above lie of the cards. He should not risk his contract (by playing the ♥2) when hearts were dealt 4-3 or when East was dealt 2 hearts and both the ♦A and ♦K."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.AK2.QJT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.A2.QJT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A2.A2.QJT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead and play on diamonds,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A2.A2.JT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead and play on diamonds,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A2.A2.JT9.QJT9 JT9.JT98.876.54 K3.54.5432.AK32 Q87654.6.AK.876",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead and play on diamonds, hoping for a favorable lie of the cards, as above."
+    }
+  ]
+}

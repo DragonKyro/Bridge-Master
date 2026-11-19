@@ -1,0 +1,798 @@
+{
+  "title": "Level 1 (Beginner) - A-3",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-3",
+  "deal_pbn": "S:AKQJT9.AK2.AK.K2 432.J9876.QT98.8 87.43.432.A76543 65.QT5.J765.QJT9",
+  "contract": "7S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3C",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "7S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S2",
+  "par_tricks": 13,
+  "notes": "West's trump lead is won by South. South's only possible loser is the ♥2. North's ♣A solidifies the rest of South's hand.\n\nNorth's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2 and trumps it in the dummy.\n\nSouth should return to his hand to draw the remaining trumps. South can easily take the balance of the tricks.",
+  "commentary_paragraphs": [
+    "West's trump lead is won by South. South's only possible loser is the ♥2. North's ♣A solidifies the rest of South's hand.",
+    "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2 and trumps it in the dummy.",
+    "South should return to his hand to draw the remaining trumps. South can easily take the balance of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S2"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "C9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT9.AK2.AK.K2 432.J9876.QT98.8 87.43.432.A76543 65.QT5.J765.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's trump lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT9.AK2.AK.K2 43.J9876.QT98.8 87.43.432.A76543 65.QT5.J765.QJT9",
+      "trick_cards": {
+        "W": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's trump lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT9.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 65.QT5.J765.QJT9",
+      "trick_cards": {
+        "W": "S2",
+        "N": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's trump lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT9.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's trump lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT9.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West's trump lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's trump lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's trump lead is won by South. South's only possible loser is the ♥2."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's trump lead is won by South. South's only possible loser is the ♥2. North's ♣A solidifies the rest of South's hand."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump can be used to take care of South's ♥2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT.AK2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S2",
+        "N": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT.K2.AK.K2 43.J9876.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJT.K2.AK.K2 43.J987.QT98.8 8.43.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJT.K2.AK.K2 43.J987.QT98.8 8.4.432.A76543 6.QT5.J765.QJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJT.K2.AK.K2 43.J987.QT98.8 8.4.432.A76543 6.QT.J765.QJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJT.K2.AK.K2 43.J987.QT98.8 8.4.432.A76543 6.QT.J765.QJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJT.2.AK.K2 43.J987.QT98.8 8.4.432.A76543 6.QT.J765.QJT9",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJT.2.AK.K2 43.J98.QT98.8 8.4.432.A76543 6.QT.J765.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJT.2.AK.K2 43.J98.QT98.8 8..432.A76543 6.QT.J765.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJT.2.AK.K2 43.J98.QT98.8 8..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJT.2.AK.K2 43.J98.QT98.8 8..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J98.QT98.8 8..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 8..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 8..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2 and trumps it in the dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 ..432.A76543 6.Q.J765.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2 and trumps it in the dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 ..432.A76543 6..J765.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "S8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "North's remaining trump can be used to take care of South's ♥2. South should immediately cash the ♥A and ♥K. South leads the ♥2 and trumps it in the dummy."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 ..432.A76543 6..J765.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "S8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should return to his hand"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 ..43.A76543 6..J765.QJT9",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQJT..AK.K2 43.J9.QT98.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQJT..K.K2 43.J9.QT98.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQJT..K.K2 43.J9.QT9.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQJT..K.K2 43.J9.QT9.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQJT..K.K2 43.J9.QT9.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQJT..K.K2 4.J9.QT9.8 ..43.A76543 6..J76.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQJT..K.K2 4.J9.QT9.8 ..43.A7654 6..J76.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S3",
+        "N": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQJT..K.K2 4.J9.QT9.8 ..43.A7654 ..J76.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S3",
+        "N": "C3",
+        "E": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT..K.K2 4.J9.QT9.8 ..43.A7654 ..J76.QJT9",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT..K.K2 .J9.QT9.8 ..43.A7654 ..J76.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT..K.K2 .J9.QT9.8 ..43.A765 ..J76.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT..K.K2 .J9.QT9.8 ..43.A765 ..J76.QJT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT..K.K2 .J9.QT9.8 ..43.A765 ..J76.QJT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should return to his hand to draw the remaining trumps. South can easily take the balance of the tricks."
+    }
+  ]
+}

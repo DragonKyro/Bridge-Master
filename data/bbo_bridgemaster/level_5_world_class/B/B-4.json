@@ -1,0 +1,757 @@
+{
+  "title": "Level 5 (World Class) - B-4",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "B-4",
+  "deal_pbn": "S:AK32.2.KQ2.AK432 QJT.QJT987.543.8 654.A3.AJT98.765 987.K654.76.QJT9",
+  "contract": "5C",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "2S",
+    "Pass",
+    "3C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3H",
+    "Pass",
+    "5C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 11,
+  "notes": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A. South's spade losers can eventually be discarded on dummy's diamonds. The only possible problem is a 4-1 trump break.\n\nSouth can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing.\n\nSouth ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand, draw the outstanding trumps, and take the balance.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A. South's spade losers can eventually be discarded on dummy's diamonds. The only possible problem is a 4-1 trump break.",
+    "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing.",
+    "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand, draw the outstanding trumps, and take the balance."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "ST"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK32.2.KQ2.AK432 QJT.QJT987.543.8 654.A3.AJT98.765 987.K654.76.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 5♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK32.2.KQ2.AK432 QJT.JT987.543.8 654.A3.AJT98.765 987.K654.76.QJT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 5♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK32.2.KQ2.AK432 QJT.JT987.543.8 654.A3.AJT98.765 987.K654.76.QJT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK32.2.KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K654.76.QJT9",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK32.2.KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A. South's spade losers can eventually be discarded on dummy's diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 5♣. West's heart lead is won with the ♥A. South's spade losers can eventually be discarded on dummy's diamonds. The only possible problem is a 4-1 trump break."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.765 987.K65.76.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.76 987.K65.76.QJT9",
+      "trick_cards": {
+        "N": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK32..KQ2.AK432 QJT.JT987.543.8 654.3.AJT98.76 987.K65.76.QJT",
+      "trick_cards": {
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK32..KQ2.AK43 QJT.JT987.543.8 654.3.AJT98.76 987.K65.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK32..KQ2.AK43 QJT.JT987.543. 654.3.AJT98.76 987.K65.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK32..KQ2.AK43 QJT.JT987.543. 654.3.AJT98.76 987.K65.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK32..KQ2.AK43 QJT.JT987.543. 654.3.AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK32..KQ2.AK4 QJT.JT987.543. 654.3.AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK32..KQ2.AK4 QJT.JT98.543. 654.3.AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "H7",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK32..KQ2.AK4 QJT.JT98.543. 654..AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make an interesting safety play that allows him to maintain trump control and be able to enjoy the diamonds. South should duck the first round of trumps. The defense must play hearts to cause any problem, South ruffing."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK32..KQ2.AK4 QJT.JT98.543. 654..AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South ducks a second round of trumps."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT98.543. 654..AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT9.543. 654..AJT98.76 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C4",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT9.543. 654..AJT98.7 987.K6.76.QJT",
+      "trick_cards": {
+        "S": "C4",
+        "W": "H8",
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT9.543. 654..AJT98.7 987.K6.76.QJ",
+      "trick_cards": {
+        "S": "C4",
+        "W": "H8",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT9.543. 654..AJT98.7 987.K6.76.QJ",
+      "trick_cards": {
+        "S": "C4",
+        "W": "H8",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK32..KQ2.AK QJT.JT9.543. 654..AJT98.7 987.K.76.QJ",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT9.543. 654..AJT98.7 987.K.76.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT.543. 654..AJT98.7 987.K.76.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H9",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT.543. 654..AJT98. 987.K.76.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H9",
+        "N": "C7",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT.543. 654..AJT98. 987.K.76.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H9",
+        "N": "C7",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT.543. 65..AJT98. 987.K.76.QJ",
+      "trick_cards": {
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK3..KQ2.AK QJT.JT.543. 65..AJT98. 98.K.76.QJ",
+      "trick_cards": {
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A3..KQ2.AK QJT.JT.543. 65..AJT98. 98.K.76.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A3..KQ2.AK QJ.JT.543. 65..AJT98. 98.K.76.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A3..KQ2.AK QJ.JT.543. 65..AJT98. 98.K.76.QJ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South ducks a second round of trumps. North's trump will be able to handle another heart force. South will be able to cross to his hand, draw the outstanding trumps, and take the balance."
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "title": "Level 4 (Expert) - A-6",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-6",
+  "deal_pbn": "S:AKQ5.432.432.K32 JT98.876.QJT98.4 432.A5.5.AQJT987 76.KQJT9.AK76.65",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "1S",
+    "2H",
+    "3C",
+    "Pass",
+    "4C",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H6",
+  "par_tricks": 10,
+  "notes": "West leads a heart against 4♠. The main danger on this hand is a 4-2 trump break. South has an interesting safety play available to guard against this possibility.\n\nSouth should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts and diamonds, but South will later be able to draw trump and run dummy's clubs.\n\nIt is true that South might go down by playing this way when spades are 3-3 and clubs are 3-0. However, the odds of a 3-0 club break are far less than those of a 4-2 spade break.",
+  "commentary_paragraphs": [
+    "West leads a heart against 4♠. The main danger on this hand is a 4-2 trump break. South has an interesting safety play available to guard against this possibility.",
+    "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts and diamonds, but South will later be able to draw trump and run dummy's clubs.",
+    "It is true that South might go down by playing this way when spades are 3-3 and clubs are 3-0. However, the odds of a 3-0 club break are far less than those of a 4-2 spade break."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.876.QJT98.4 432.A5.5.AQJT987 76.KQJT9.AK76.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads a heart against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.87.QJT98.4 432.A5.5.AQJT987 76.KQJT9.AK76.65",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a heart against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.87.QJT98.4 432.A5.5.AQJT987 76.KQJT9.AK76.65",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads a heart against 4♠. The main danger on this hand is a 4-2 trump break. South has an interesting safety play available to guard against this possibility."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.87.QJT98.4 432.A5.5.AQJT987 76.KQJT9.AK76.65",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.87.QJT98.4 432.5.5.AQJT987 76.KQJT9.AK76.65",
+      "trick_cards": {
+        "W": "H6",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ5.432.432.K32 JT98.87.QJT98.4 432.5.5.AQJT987 76.QJT9.AK76.65",
+      "trick_cards": {
+        "W": "H6",
+        "N": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ5.43.432.K32 JT98.87.QJT98.4 432.5.5.AQJT987 76.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ5.43.432.K32 JT98.87.QJT98.4 432.5.5.AQJT987 76.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HA",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ5.43.432.K32 JT98.87.QJT98.4 43.5.5.AQJT987 76.QJT9.AK76.65",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead and immediately duck a spade."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ5.43.432.K32 JT98.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead and immediately duck a spade."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ.43.432.K32 JT98.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the heart lead and immediately duck a spade."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the heart lead and immediately duck a spade."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts and diamonds,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts and diamonds, but South will later be able to draw trump"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should win the heart lead and immediately duck a spade. North's remaining trumps can take care of heart or diamond forces by the defenders. The defense can cash a trick in hearts and diamonds, but South will later be able to draw trump and run dummy's clubs."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ.43.432.K32 T9.87.KJT9.654 43.5.5.AQJT987 J7.QJT9.AQ876.",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It is true that South might go down by playing this way when spades are 3-3"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ.43.432.K32 T9.87.KJT9.654 43.5.5.AQJT987 J7.QJT9.AQ876.",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "It is true that South might go down by playing this way when spades are 3-3 and clubs are 3-0. However, the odds of a 3-0 club break are far less"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ.43.432.K32 JT9.87.QJT98.4 43.5.5.AQJT987 7.QJT9.AK76.65",
+      "trick_cards": {
+        "S": "S5",
+        "W": "S8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "It is true that South might go down by playing this way when spades are 3-3 and clubs are 3-0. However, the odds of a 3-0 club break are far less than those of a 4-2 spade break."
+    }
+  ]
+}

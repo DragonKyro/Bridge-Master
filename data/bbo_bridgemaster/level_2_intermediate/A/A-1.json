@@ -1,0 +1,312 @@
+{
+  "title": "Level 2 (Intermediate) - A-1",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-1",
+  "deal_pbn": "S:KQJ.J432.AQJT.32 9876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "2D",
+    "Pass",
+    "2H",
+    "Pass",
+    "3C",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S9",
+  "par_tricks": 9,
+  "notes": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts, and the ♦A). 3 extra tricks could be taken in diamonds if the finesse works. Dummy's 3 entries mean that even if East has 4 diamonds to the King the suit can still be picked up.\n\nIf the diamond finesse fails, however, the contract will be in trouble. South will not have time to establish the clubs as the defense will be able to cash enough spades to set the contract by the time that suit is established.\n\nSouth can make his contract regardless of the position of the ♦K by playing clubs at tricks 2 and 4. The defense has no way to prevent South from establishing enough club tricks to ensure the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts, and the ♦A). 3 extra tricks could be taken in diamonds if the finesse works. Dummy's 3 entries mean that even if East has 4 diamonds to the King the suit can still be picked up.",
+    "If the diamond finesse fails, however, the contract will be in trouble. South will not have time to establish the clubs as the defense will be able to cash enough spades to set the contract by the time that suit is established.",
+    "South can make his contract regardless of the position of the ♦K by playing clubs at tricks 2 and 4. The defense has no way to prevent South from establishing enough club tricks to ensure the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 9876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠9 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts, and the ♦A)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts, and the ♦A). 3 extra tricks could be taken in diamonds if the finesse works."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 8765.QT98.8.654 A.AK.5432.QJT987 T432.765.K976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against 3NT. South has only 6 top tricks (3 spades, 2 hearts, and the ♦A). 3 extra tricks could be taken in diamonds if the finesse works. Dummy's 3 entries mean that even if East has 4 diamonds to the King the suit can still be picked up."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse fails, however, the contract will be in trouble."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse fails, however, the contract will be in trouble. South will not have time to establish the clubs"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "T",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse fails, however, the contract will be in trouble. South will not have time to establish the clubs as the defense will be able to cash enough spades to set the contract by the time that suit is established."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can make his contract regardless of the position of the ♦K"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make his contract regardless of the position of the ♦K by playing clubs at tricks 2 and 4."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJ.J432.AQJT.32 876.QT98.K8.654 A.AK.5432.QJT987 T5432.765.976.AK",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make his contract regardless of the position of the ♦K by playing clubs at tricks 2 and 4. The defense has no way to prevent South from establishing enough club tricks to ensure the contract."
+    }
+  ]
+}

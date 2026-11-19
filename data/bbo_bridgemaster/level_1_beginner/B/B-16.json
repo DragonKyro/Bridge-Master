@@ -1,0 +1,474 @@
+{
+  "title": "Level 1 (Beginner) - B-16",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-16",
+  "deal_pbn": "S:K32.KQJ.AKQ.Q432 654.T987.7654.J9 AQJ.32.32.AT8765 T987.A654.JT98.K",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 12,
+  "notes": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit, South must play the club suit for no losers.\n\nSouth has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs, while leading the ♣Q works on only one distribution. Therefore, cashing the ♣A is the correct play.",
+  "commentary_paragraphs": [
+    "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit, South must play the club suit for no losers.",
+    "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs, while leading the ♣Q works on only one distribution. Therefore, cashing the ♣A is the correct play."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.KQJ.AKQ.Q432 654.T987.7654.J9 AQJ.32.32.AT8765 T987.A654.JT98.K",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.KQJ.AKQ.Q432 654.987.7654.J9 AQJ.32.32.AT8765 T987.A654.JT98.K",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.KQJ.AKQ.Q432 654.987.7654.J9 AQJ.32.32.AT8765 T987.A654.JT98.K",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.KQJ.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.A654.JT98.K",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.KQJ.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.654.JT98.K",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.KQ.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.654.JT98.K",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "HT",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.KQ.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.654.JT98.K",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "HT",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.KQ.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.987.7654.J9 AQJ.3.32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ.3.32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ..32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ..32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 6NT. After the defense takes the ♥A and continues the suit, South must play the club suit for no losers."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.K9 AQJ..32.AT8765 T987.65.JT98.J",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ..32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32.K.AKQ.Q432 7654.98.7654.K AQJ..32.AT8765 T98.65.JT98.J9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32.K.AKQ.Q432 7654.98.7654.K AQJ..32.AT8765 T98.65.JT98.J9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ..32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.K9 AQJ..32.AT8765 T987.65.JT98.J",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs, while leading the ♣Q works on only one distribution."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32.K.AKQ.Q432 654.98.7654.J9 AQJ..32.AT8765 T987.65.JT98.K",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has two alternatives. First, he can lead the ♣Q, playing East to have a singleton ♣J. Second, he can cash the ♣A playing either defender to have a singleton ♣K. Cashing the ♣A works on two distributions of the defenders' clubs, while leading the ♣Q works on only one distribution. Therefore, cashing the ♣A is the correct play."
+    }
+  ]
+}

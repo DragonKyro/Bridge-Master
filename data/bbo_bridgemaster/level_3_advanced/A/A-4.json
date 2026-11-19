@@ -1,0 +1,777 @@
+{
+  "title": "Level 3 (Advanced) - A-4",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-4",
+  "deal_pbn": "S:A5432..KQJT.KQJT T.AK.76543.76543 876.765432.A2.A2 KQJ9.QJT98.98.98",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West's heart lead should be trumped by South. South's only possible losers are in the trump suit. South must hold his trump losers to 3 while, at the same time, avoid losing control of the hand.\n\nIf spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A and start playing diamonds and clubs.\n\nThe defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts, South continues playing diamonds and clubs. South is always able to stay one step ahead in the battle for trump control.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West's heart lead should be trumped by South. South's only possible losers are in the trump suit. South must hold his trump losers to 3 while, at the same time, avoid losing control of the hand.",
+    "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A and start playing diamonds and clubs.",
+    "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts, South continues playing diamonds and clubs. South is always able to stay one step ahead in the battle for trump control."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "H4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A5432..KQJT.KQJT T.AK.76543.76543 876.765432.A2.A2 KQJ9.QJT98.98.98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A5432..KQJT.KQJT T.A.76543.76543 876.765432.A2.A2 KQJ9.QJT98.98.98",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A5432..KQJT.KQJT T.A.76543.76543 876.765432.A2.A2 KQJ9.QJT98.98.98",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart lead should be trumped by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A5432..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT98.98.98",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart lead should be trumped by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A5432..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart lead should be trumped by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A543..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's heart lead should be trumped by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A543..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart lead should be trumped by South. South's only possible losers are in the trump suit. South must hold his trump losers to 3 while, at the same time, avoid losing control of the hand."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A543..KQJT.KQJT .AQ.76543.76543 876.76543.A2.A2 KQJT9.JT9.98.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If spades are 5-0 the contract has no chance."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A543..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A543..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:543..KQJT.KQJT T.A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 876.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 87.76543.A2.A2 KQJ9.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ],
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "2"
+          ],
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If spades are 5-0 the contract has no chance. South can ensure his contract as long as trumps are no worse than 4-1. South should cash the ♠A and start playing diamonds and clubs."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:543..KQJT.KQJT .A.76543.76543 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.76543 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.7654 87.76543.A2.A2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.7654 87.76543.A2.2 KQJ.QJT9.98.98",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C3",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.7654 87.76543.A2.2 KQJ.QJT9.98.9",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C3",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.7654 87.76543.A2. KQJ.QJT9.98.9",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:543..KQJT.KQJ .A.76543.7654 87.76543.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:543..KQJT.KQ .A.76543.7654 87.76543.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:543..KQJT.KQ .A.76543.765 87.76543.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C4",
+        "N": "C2",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.765 87.76543.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.76 87.76543.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.76 87.7654.A2. KQJ.QJT9.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "H3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.76 87.7654.A2. KQ.QJT9.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "H3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.76 87.7654.A2. KQ.QJT9.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "H3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:543..KQJT.Q .A.76543.76 87.7654.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:54..KQJT.Q .A.76543.76 87.7654.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "S": "S3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:54..KQJT.Q ..76543.76 87.7654.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "HA",
+        "E": "HQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:54..KQJT.Q ..76543.76 87.765.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "HA",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:54..KQJT.Q ..76543.76 87.765.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "HA",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ],
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts, South continues playing diamonds and clubs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:54..KQJT.Q ..76543.76 87.765.A2. KQ.JT9.98.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "HA",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The defense will be able to take 3 trump tricks, but they will not be able to draw all of South's trumps. If the defense ruffs a minor suit winner and forces South in hearts, South continues playing diamonds and clubs. South is always able to stay one step ahead in the battle for trump control."
+    }
+  ]
+}

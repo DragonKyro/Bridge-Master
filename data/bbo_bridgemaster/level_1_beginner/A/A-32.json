@@ -1,0 +1,641 @@
+{
+  "title": "Level 1 (Beginner) - A-32",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-32",
+  "deal_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K765 AK432.AK32.654.Q QJT98.J7.KQT.432",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "2H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C5",
+  "par_tricks": 9,
+  "notes": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick. That, along with 2 tricks in spades, 2 in hearts, and the ♦A, brings South's total up to 7.\n\nDummy's spades may provide an extra trick or two barring a bad break. The contract can be ensured, however, without depending on spades. South should turn his attention to clubs where the ♣K is the only high club out.\n\nOn most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy. On this deal, if South lets dummy's ♣Q hold, the contract will be in danger.\n\nSouth requires 2 hand entries, 1 to knock out the ♣K and another to cash the long clubs. Unfortunately, there is only 1 outside entry, the ♦A.\n\nSouth must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged, the ♦A is an entry to the long clubs. South ends up taking 4 club tricks and making the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick. That, along with 2 tricks in spades, 2 in hearts, and the ♦A, brings South's total up to 7.",
+    "Dummy's spades may provide an extra trick or two barring a bad break. The contract can be ensured, however, without depending on spades. South should turn his attention to clubs where the ♣K is the only high club out.",
+    "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy. On this deal, if South lets dummy's ♣Q hold, the contract will be in danger.",
+    "South requires 2 hand entries, 1 to knock out the ♣K and another to cash the long clubs. Unfortunately, there is only 1 outside entry, the ♦A.",
+    "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged, the ♦A is an entry to the long clubs. South ends up taking 4 club tricks and making the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K765 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick. That, along with 2 tricks in spades,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick. That, along with 2 tricks in spades, 2 in hearts,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South is fortunate to have escaped a diamond opening lead. West's choice of a club gives South a second club trick. That, along with 2 tricks in spades, 2 in hearts, and the ♦A, brings South's total up to 7."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Dummy's spades may provide an extra trick or two"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Dummy's spades may provide an extra trick or two barring a bad break."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Dummy's spades may provide an extra trick or two barring a bad break. The contract can be ensured, however, without depending on spades."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Dummy's spades may provide an extra trick or two barring a bad break. The contract can be ensured, however, without depending on spades. South should turn his attention to clubs"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Dummy's spades may provide an extra trick or two barring a bad break. The contract can be ensured, however, without depending on spades. South should turn his attention to clubs where the ♣K is the only high club out."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654.Q QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.432",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:65.654.A32.AJT9 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:65.654.A32.AJT9 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On most deals, declarer would be thrilled to win the first trick with a singleton queen in dummy. On this deal, if South lets dummy's ♣Q hold, the contract will be in danger."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:65.654.A32.AJT9 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South requires 2 hand entries, 1 to knock out the ♣K"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:65.654.A32.AJT9 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South requires 2 hand entries, 1 to knock out the ♣K and another to cash the long clubs."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:65.654.A32.AJT9 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South requires 2 hand entries, 1 to knock out the ♣K and another to cash the long clubs. Unfortunately, there is only 1 outside entry, the ♦A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:65.654.A32.AJT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:65.654.A32.JT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:65.654.A32.JT98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.K76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.76 AK432.AK32.654. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.76 AK432.AK32.65. QJT98.J7.KQT.43",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CK",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.76 AK432.AK32.65. QJT98.J7.KQT.4",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CK",
+        "N": "D4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.76 AK432.AK32.65. QJT98.J7.KQT.4",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CK",
+        "N": "D4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged, the ♦A is an entry"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:65.654.A32.T98 7.QT98.J987.76 AK432.AK32.65. QJT98.J7.KQT.4",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CK",
+        "N": "D4",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South must overtake dummy's ♣Q at trick 1 with the ♣A. After the ♣K is dislodged, the ♦A is an entry to the long clubs. South ends up taking 4 club tricks and making the contract."
+    }
+  ]
+}

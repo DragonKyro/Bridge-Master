@@ -1,0 +1,823 @@
+{
+  "title": "Level 5 (World Class) - A-2",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-2",
+  "deal_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A76.J.T98 5432.KT98.Q432.6 K6.543.A98765.K7",
+  "contract": "5C",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2S",
+    "Pass",
+    "3S",
+    "5C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 11,
+  "notes": "West leads the ♦J against 5♣. If West's diamond lead is a singleton the contract will have no chance. Even if the ♦J is from a doubleton there is not much hope.\n\nEast will have to have a doubleton ♣K. South will have to get to dummy and at the same time not allow a trump promotion via diamond plays from East.\n\nIf South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East. A further diamond lead will promote a trump trick.\n\nSouth's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A the link between the defenders' hands will have been severed. As long as West has the ♥A, South will be able to get to the dummy in hearts to play trumps.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 5♣. If West's diamond lead is a singleton the contract will have no chance. Even if the ♦J is from a doubleton there is not much hope.",
+    "East will have to have a doubleton ♣K. South will have to get to dummy and at the same time not allow a trump promotion via diamond plays from East.",
+    "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East. A further diamond lead will promote a trump trick.",
+    "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A the link between the defenders' hands will have been severed. As long as West has the ♥A, South will be able to get to the dummy in hearts to play trumps."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A76.J.T98 5432.KT98.Q432.6 K6.543.A98765.K7",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 5♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A76..T98 5432.KT98.Q432.6 K6.543.A98765.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 5♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A76..T98 5432.KT98.Q432.6 K6.543.A98765.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 5♣. If West's diamond lead is a singleton the contract will have no chance."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 5♣. If West's diamond lead is a singleton the contract will have no chance. Even if the ♦J is from a doubleton there is not much hope."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will have to have a doubleton ♣K."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "East will have to have a doubleton ♣K. South will have to get to dummy"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East will have to have a doubleton ♣K. South will have to get to dummy and at the same time not allow a trump promotion via diamond plays from East."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1 East will duck."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.QJ2.T.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.QJ2.T.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7.5.T98 5432.KT98.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7.5.T98 5432.KT9.Q43.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HA",
+        "N": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7.5.T98 5432.KT9.Q43.6 K6.654.A987.K7",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HA",
+        "N": "H8",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7..T98 5432.KT9.Q43.6 K6.654.A987.K7",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7..T98 5432.KT9.Q43.6 K6.654.A987.K7",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7..T98 5432.KT9.Q4.6 K6.654.A987.K7",
+      "trick_cards": {
+        "W": "D5",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.QJ.T.AQJ5432 QJT987.7..T98 5432.KT9.Q4.6 K6.654.987.K7",
+      "trick_cards": {
+        "W": "D5",
+        "N": "D3",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.QJ..AQJ5432 QJT987.7..T98 5432.KT9.Q4.6 K6.654.987.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "D5",
+        "N": "D3",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.QJ..AQJ5432 QJT987.7..T98 5432.KT9.Q4.6 K6.654.987.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "D5",
+        "N": "D3",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South plays low from dummy at trick 1 East will duck. South will need to get to dummy in hearts. The defense will win the ♥A and play a second diamond, won by East. A further diamond lead will promote a trump trick."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.Q432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A987.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.A9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.QJ2.KT.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.9876.K7",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.9876.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.9876.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A the link between the defenders' hands will have been severed."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.9876.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A the link between the defenders' hands will have been severed. As long as West has the ♥A, South will be able to get to the dummy in hearts"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A.QJ2.K.AQJ5432 QJT987.A7.5.T98 5432.KT98.432.6 K6.6543.9876.K7",
+      "trick_cards": {
+        "S": "DT",
+        "W": "DJ",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South's only (slim) hope is to play the ♦Q at trick 1. If East ducks, maintaining defensive communications, South will have his dummy entry and be able to draw trump. If East wins the ♦A the link between the defenders' hands will have been severed. As long as West has the ♥A, South will be able to get to the dummy in hearts to play trumps."
+    }
+  ]
+}

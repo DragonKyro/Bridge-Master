@@ -1,0 +1,763 @@
+{
+  "title": "Level 2 (Intermediate) - A-30",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-30",
+  "deal_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.T98.765 AQ2.43.5432.AK43 876.JT98.76.QT98",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DT",
+  "par_tricks": 12,
+  "notes": "West's opening diamond lead is won by South. There are 11 top tricks (4 spades, the ♥A, 4 diamonds, and 2 clubs). Finessing positions exist in both hearts and clubs.\n\nIf South crosses in spades and takes the heart finesse, the contract will have almost no hope if West can win the ♥K. South will be unable to take advantage of East holding the ♣Q.\n\nSouth does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q, North's remaining spade entry can be used to take the heart finesse. The contract will succeed if either the ♥K or ♣Q is favourably placed.",
+  "commentary_paragraphs": [
+    "West's opening diamond lead is won by South. There are 11 top tricks (4 spades, the ♥A, 4 diamonds, and 2 clubs). Finessing positions exist in both hearts and clubs.",
+    "If South crosses in spades and takes the heart finesse, the contract will have almost no hope if West can win the ♥K. South will be unable to take advantage of East holding the ♣Q.",
+    "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q, North's remaining spade entry can be used to take the heart finesse. The contract will succeed if either the ♥K or ♣Q is favourably placed."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.T98.765 AQ2.43.5432.AK43 876.JT98.76.QT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's opening diamond lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.98.765 AQ2.43.5432.AK43 876.JT98.76.QT98",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening diamond lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.98.765 AQ2.43.5432.AK43 876.JT98.76.QT98",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West's opening diamond lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.76.QT98",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening diamond lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KJT9.AQ2.AKQJ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening diamond lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KJT9.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening diamond lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KJT9.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K"
+          ],
+          "S": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's opening diamond lead is won by South. There are 11 top tricks (4 spades, the ♥A, 4 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KJT9.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West's opening diamond lead is won by South. There are 11 top tricks (4 spades, the ♥A, 4 diamonds, and 2 clubs). Finessing positions exist in both hearts"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KJT9.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West's opening diamond lead is won by South. There are 11 top tricks (4 spades, the ♥A, 4 diamonds, and 2 clubs). Finessing positions exist in both hearts and clubs."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KJT9.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DT",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South crosses in spades"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 543.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 AQ2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 876.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South crosses in spades and takes the heart finesse,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.4.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades and takes the heart finesse,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.4.543.AK43 87.JT9.6.QT98",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades and takes the heart finesse,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KJT.A2.AKQ.J2 54.K765.98.765 A2.4.543.AK43 87.JT9.6.QT98",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in spades and takes the heart finesse,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KJT.A2.AKQ.J2 54.K765.98.765 A2.4.543.AK43 87.JT9.6.QT98",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South crosses in spades and takes the heart finesse, the contract will have almost no hope if West can win the ♥K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KJT.A2.AKQ.J2 54.765.98.765 A2.4.543.AK43 87.JT9.6.QT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South crosses in spades and takes the heart finesse, the contract will have almost no hope if West can win the ♥K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KJT.A2.AKQ.J2 54.765.98.765 A2.4.543.AK43 87.JT9.6.QT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South crosses in spades and takes the heart finesse, the contract will have almost no hope if West can win the ♥K. South will be unable to take advantage of East holding the ♣Q."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK43 87.JT98.6.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK4 87.JT98.6.QT98",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.K765.98.765 A2.43.543.AK4 87.JT98.6.QT98",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.8765.98.Q65 A2.43.543.AK4 87.KJT9.6.T987",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJT.AQ2.AKQ.J2 54.8765.98.Q65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.Q65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.Q65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q, North's remaining spade entry"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q, North's remaining spade entry can be used to take the heart finesse."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KJT.AQ2.AKQ.2 54.8765.98.65 A2.43.543.AK4 87.KJT9.6.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South does better to play clubs before hearts. By leading a low club from the dummy, South will immediately succeed when East has the ♣Q. If West wins the ♣J with the ♣Q, North's remaining spade entry can be used to take the heart finesse. The contract will succeed if either the ♥K or ♣Q is favourably placed."
+    }
+  ]
+}

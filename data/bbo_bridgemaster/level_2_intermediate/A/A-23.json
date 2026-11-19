@@ -1,0 +1,1029 @@
+{
+  "title": "Level 2 (Intermediate) - A-23",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-23",
+  "deal_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.JT9876.765.765 6543.432.AK4.A43 AT98.5.JT98.JT98",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3C",
+    "Pass",
+    "3S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥J which South wins. South's only possible losers are in the trump suit. South should try to draw trump as quickly as possible. If spades break 3-2, no special technique is required. South can start by leading the ♠K, ♠Q, or ♠J out of his hand.\n\nIf West has 4 spades to the ♠A, nothing can be done. West will always get 2 trump tricks.\n\nIf East has 4 spades to the ♠A, South should be able to play trumps for 1 loser by leading spades from dummy towards South's holding three times, if necessary.\n\nSouth should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds, the defense may be able to get a diamond ruff when the ♠A is won.\n\nSouth should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out, South can cross in diamonds and repeat the spade finesse a third time.",
+  "commentary_paragraphs": [
+    "West leads the ♥J which South wins. South's only possible losers are in the trump suit. South should try to draw trump as quickly as possible. If spades break 3-2, no special technique is required. South can start by leading the ♠K, ♠Q, or ♠J out of his hand.",
+    "If West has 4 spades to the ♠A, nothing can be done. West will always get 2 trump tricks.",
+    "If East has 4 spades to the ♠A, South should be able to play trumps for 1 loser by leading spades from dummy towards South's holding three times, if necessary.",
+    "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds, the defense may be able to get a diamond ruff when the ♠A is won.",
+    "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out, South can cross in diamonds and repeat the spade finesse a third time."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.JT9876.765.765 6543.432.AK4.A43 AT98.5.JT98.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.T9876.765.765 6543.432.AK4.A43 AT98.5.JT98.JT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.T9876.765.765 6543.432.AK4.A43 AT98.5.JT98.JT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98.5.JT98.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ2.AKQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J which South wins. South's only possible losers are in the trump suit. South should try to draw trump as quickly as possible."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 87.T9876.76.765 6543.43.AK4.A43 AT9..JT985.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J which South wins. South's only possible losers are in the trump suit. South should try to draw trump as quickly as possible. If spades break 3-2, no special technique is required."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 87.T9876.76.765 6543.43.AK4.A43 AT9..JT985.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J which South wins. South's only possible losers are in the trump suit. South should try to draw trump as quickly as possible. If spades break 3-2, no special technique is required. South can start by leading the ♠K, ♠Q, or ♠J out of his hand."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 AT98.T98.765.76 6543.43.AK4.A43 7.76.JT98.JT985",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West has 4 spades to the ♠A, nothing can be done. West will always get 2 trump tricks."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East has 4 spades to the ♠A,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has 4 spades to the ♠A, South should be able to play trumps for 1 loser"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has 4 spades to the ♠A, South should be able to play trumps for 1 loser by leading spades from dummy"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East has 4 spades to the ♠A, South should be able to play trumps for 1 loser by leading spades from dummy towards South's holding three times, if necessary."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJ2.KQ.Q32.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.765.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 6543.43.AK4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 6543.43.K4.A43 AT98..JT98.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 6543.43.K4.A43 AT98..JT9.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 6543.43.K4.A43 AT98..JT9.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 654.43.K4.A43 AT98..JT9.JT98",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 654.43.K4.A43 AT98..JT9.JT98",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJ2.KQ.Q3.KQ2 7.T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ2 7.T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ2 .T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ2 .T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 .T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 .T9876.7.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 .T9876.7.765 654.43.4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 .T9876.7.765 654.43.4.A43 AT9..JT.JT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 T9.T987..765 654.43.4.A43 A.6.JT7.JT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds, the defense may be able to get a diamond ruff"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJ2.KQ.Q.KQ2 T9.T987..765 654.43.4.A43 A.6.JT7.JT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should be careful in getting to dummy to lead spades. South must take steps to minimize the possibility of a defensive ruff. Suppose South crosses in diamonds first and plays a spade to an honour in the closed hand. If South crosses again in diamonds, the defense may be able to get a diamond ruff when the ♠A is won."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ2 .T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.765 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 654.43.K4.A43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 654.43.K4.43 AT9..JT9.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 654.43.K4.43 AT9..JT9.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 654.43.K4.43 AT9..JT9.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 65.43.K4.43 AT9..JT9.JT9",
+      "trick_cards": {
+        "N": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJ2.KQ.Q3.KQ .T9876.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:J2.KQ.Q3.KQ .T9876.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:J2.KQ.Q3.KQ .T9876.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:J2.KQ.Q3.KQ .T987.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H6",
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:J2.KQ.Q3.KQ .T987.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H6",
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out, South can cross in diamonds"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:J2.KQ.Q3.KQ .T987.76.76 65.43.K4.43 AT..JT9.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H6",
+        "N": "S4",
+        "E": "S9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should cross in clubs on either the first or second trip to the dummy. A defensive ruff is now considerably less likely. South plays spades again towards his hand. If West shows out, South can cross in diamonds and repeat the spade finesse a third time."
+    }
+  ]
+}

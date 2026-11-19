@@ -1,0 +1,904 @@
+{
+  "title": "Level 2 (Intermediate) - A-22",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-22",
+  "deal_pbn": "S:AK.AKQJ.7654.A32 QJT98.765.A9.T98 432.432.KT32.KJ4 765.T98.QJ8.Q765",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q which South wins. South has 8 top tricks (2 in spades, 4 in hearts, and 2 in clubs). South has finessing positions in both diamonds and clubs.\n\nIt is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A and cash out the spades.\n\nIf South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades, but South can take 9 tricks, via the club finesse, without losing the lead.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q which South wins. South has 8 top tricks (2 in spades, 4 in hearts, and 2 in clubs). South has finessing positions in both diamonds and clubs.",
+    "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A and cash out the spades.",
+    "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades, but South can take 9 tricks, via the club finesse, without losing the lead."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "S3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.AKQJ.7654.A32 QJT98.765.A9.T98 432.432.KT32.KJ4 765.T98.QJ8.Q765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.AKQJ.7654.A32 JT98.765.A9.T98 432.432.KT32.KJ4 765.T98.QJ8.Q765",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.AKQJ.7654.A32 JT98.765.A9.T98 432.432.KT32.KJ4 765.T98.QJ8.Q765",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 765.T98.QJ8.Q765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins. South has 8 top tricks (2 in spades, 4 in hearts, and 2 in clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins. South has 8 top tricks (2 in spades, 4 in hearts, and 2 in clubs). South has finessing positions in both diamonds"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins. South has 8 top tricks (2 in spades, 4 in hearts, and 2 in clubs). South has finessing positions in both diamonds and clubs."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T98 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.KJ4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.K4 76.T98.QJ8.Q765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.K4 76.T98.QJ8.765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.K4 76.T98.QJ8.765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKQJ.7654.A3 JT98.765.A9.T9 43.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKQJ.7654.A3 JT9.765.A9.T9 43.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AKQJ.7654.A3 JT9.765.A9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AKQJ.7654.A3 JT9.765.A9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AKQJ.7654.A3 JT9.765.A9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.A9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.A9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.9.T9 4.432.KT32.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.9.T9 4.432.KT3.K4 6.T98.QJ8.765",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DA",
+        "N": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.9.T9 4.432.KT3.K4 6.T98.QJ.765",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DA",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AKQJ.765.A3 JT9.765.9.T9 4.432.KT3.K4 6.T98.QJ.765",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DA",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "It is important that South takes the diamond finesse before the club finesse. If South takes the club finesse first and it loses, East will clear the spades. If West has 5 or more spades, South will no longer be able to take advantage of the ♦A being onside. West will take his ♦A and cash out the spades."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.AKQJ.7654.A32 JT98.765.98.Q65 43.432.KT32.KJ4 76.T98.AQJ.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South leads a diamond to the ♦K at trick 2"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.98.Q65 43.432.KT32.KJ4 76.T98.AQJ.T987",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.KT32.KJ4 76.T98.AQJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 76.T98.AQJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 76.T98.AQJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 76.T98.QJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 76.T98.QJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 76.T98.QJ.T987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 6.T98.QJ.T987",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AKQJ.765.A32 JT98.765.9.Q65 43.432.T32.KJ4 6.T98.QJ.T987",
+      "trick_cards": {
+        "S": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AKQJ.765.A32 JT9.765.9.Q65 43.432.T32.KJ4 6.T98.QJ.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.AKQJ.765.A32 JT9.765.9.Q65 4.432.T32.KJ4 6.T98.QJ.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.AKQJ.765.A32 JT9.765.9.Q65 4.432.T32.KJ4 6.T98.QJ.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South leads a diamond to the ♦K at trick 2 and that finesse loses, South will still be able to make his contract when West has the ♣Q. East will clear spades, but South can take 9 tricks, via the club finesse, without losing the lead."
+    }
+  ]
+}

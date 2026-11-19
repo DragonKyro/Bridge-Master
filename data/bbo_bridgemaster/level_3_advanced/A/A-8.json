@@ -1,0 +1,794 @@
+{
+  "title": "Level 3 (Advanced) - A-8",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-8",
+  "deal_pbn": "S:AK32.AKQ.32.A432 QJT.JT98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "2D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead, South should try to get 2 additional tricks from diamonds.\n\nIf South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A. As dummy has only 1 entry, South will be unable to come to a second diamond trick and the contract will be in trouble.\n\nSouth should duck the first round of diamonds in the dummy. The defense will win cheaply, but the contract will be secure as long as diamonds are 3-2.\n\nSouth must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q. South will not only make his contract (when diamonds are 3-2), but 2 overtricks as well. The recommended line of play will also succeed if either defender was dealt a singleton ♦A.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead, South should try to get 2 additional tricks from diamonds.",
+    "If South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A. As dummy has only 1 entry, South will be unable to come to a second diamond trick and the contract will be in trouble.",
+    "South should duck the first round of diamonds in the dummy. The defense will win cheaply, but the contract will be secure as long as diamonds are 3-2.",
+    "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q. South will not only make his contract (when diamonds are 3-2), but 2 overtricks as well. The recommended line of play will also succeed if either defender was dealt a singleton ♦A."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.JT98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.43.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.7652.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK32.AK.32.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK32.AK.32.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 7 top tricks (2 spades, 3 hearts, and 2 clubs). After winning the heart opening lead, South should try to get 2 additional tricks from diamonds."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK32.AK.32.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South starts by playing a diamond"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by playing a diamond"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.98.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.K7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.K7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.K7654.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.K7654.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A. As dummy has only 1 entry,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.K7654.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South starts by playing a diamond to the ♦K or ♦Q, East will duck holding 2 or 3 diamonds to the ♦A. As dummy has only 1 entry, South will be unable to come to a second diamond trick and the contract will be in trouble."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ7654.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should duck the first round of diamonds in the dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should duck the first round of diamonds in the dummy."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJT.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should duck the first round of diamonds in the dummy. The defense will win cheaply,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the first round of diamonds in the dummy. The defense will win cheaply,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should duck the first round of diamonds in the dummy. The defense will win cheaply, but the contract will be secure as long as diamonds are 3-2."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.Q7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.7",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK32.AK.3.A432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.7",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return in the closed hand,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK32.AK.3.432 QJT.T98.9.JT98 54.4.KQ765.K65 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK32.AK.3.432 QJT.T98.9.JT9 54.4.KQ765.K65 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK32.AK.3.432 QJT.T98.9.JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C5",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK32.AK.3.432 QJT.T98.9.JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C5",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK32.AK.3.432 QJT.T98.9.JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C5",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98.9.JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98.9.JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98..JT9 54.4.KQ765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98..JT9 54.4.K765.K6 9876.765.AJ.7",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98..JT9 54.4.K765.K6 9876.765.J.7",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK32.AK..432 QJT.T98..JT9 54.4.K765.K6 9876.765.J.7",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q. South will not only make his contract (when diamonds are 3-2), but 2 overtricks as well."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK32.AKQ.32.A432 QJT.T98.JT98.98 54.43.KQ7654.K65 9876.7652.A.QJT7",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must be careful to win a club return in the closed hand, preserving the ♣K for a late dummy entry. A diamond is now played to the ♦K or ♦Q. South will not only make his contract (when diamonds are 3-2), but 2 overtricks as well. The recommended line of play will also succeed if either defender was dealt a singleton ♦A."
+    }
+  ]
+}

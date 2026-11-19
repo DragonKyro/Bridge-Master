@@ -1,0 +1,415 @@
+{
+  "title": "Level 1 (Beginner) - A-1",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-1",
+  "deal_pbn": "S:J32.A32.K32.AQ32 KT987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 9,
+  "notes": "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds). The defense has attacked spades, and threatens to take 5 tricks in that suit if South is not careful.\n\nSouth can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play.\n\nOnce South gets on lead he can develop another trick in diamonds if that suit is divided 3-3. South only needs 9 tricks, however, and should take them without surrendering the lead.",
+  "commentary_paragraphs": [
+    "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds). The defense has attacked spades, and threatens to take 5 tricks in that suit if South is not careful.",
+    "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play.",
+    "Once South gets on lead he can develop another trick in diamonds if that suit is divided 3-3. South only needs 9 tricks, however, and should take them without surrendering the lead."
+  ],
+  "play_sequence": [
+    {
+      "step": 4,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:J32.A32.K32.AQ32 KT987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:J32.A32.K32.AQ32 KT987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks and 2 each in hearts"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:J32.A32.K32.AQ32 KT987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:J32.A32.K32.AQ32 KT987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds). The defense has attacked spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds). The defense has attacked spades,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (4 club tricks and 2 each in hearts and diamonds). The defense has attacked spades, and threatens to take 5 tricks in that suit if South is not careful."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can guarantee a stopper in spades"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q4.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q.K54.A654.KJ54 A65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:J32.A32.K32.AQ32 K987.9876.QJT.T Q.K54.A654.KJ54 65.QJT.987.9876",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:J3.A32.K32.AQ32 K987.9876.QJT.T Q.K54.A654.KJ54 65.QJT.987.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J3.A32.K32.AQ32 K987.9876.QJT.T Q.K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J.A32.K32.AQ32 K987.9876.QJT.T Q.K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "S": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J.A32.K32.AQ32 K98.9876.QJT.T Q.K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J.A32.K32.AQ32 K98.9876.QJT.T .K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guarantee a stopper in spades and at the same time ensure developing a ninth trick by simply not playing dummy's ♠Q at trick one. No matter how the defensive spades are distributed, East and West will have no answer to this play."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J.A32.K32.AQ32 K98.9876.QJT.T .K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Once South gets on lead he can develop another trick in diamonds"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J.A32.K32.AQ32 K98.9876.QJT.T .K54.A654.KJ54 5.QJT.987.9876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Once South gets on lead he can develop another trick in diamonds if that suit is divided 3-3. South only needs 9 tricks, however, and should take them without surrendering the lead."
+    }
+  ]
+}

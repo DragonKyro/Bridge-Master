@@ -1,0 +1,760 @@
+{
+  "title": "Level 4 (Expert) - A-10",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-10",
+  "deal_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.8765 AK54.543.KQ32.43 J76.T987.54.QJT9",
+  "contract": "6D",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1S",
+    "Pass",
+    "2NT",
+    "Pass",
+    "4D",
+    "Pass",
+    "4H",
+    "Pass",
+    "4S",
+    "Pass",
+    "6D",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C8",
+  "par_tricks": 12,
+  "notes": "West's club lead is won by South. South's club loser can be ruffed in the dummy leaving the heart suit as the only possible problem. At first glance, it appears that the contract will depend on the heart finesse.\n\nSouth can sometimes make the contract when West has the ♥K by playing for an elimination. South should start by drawing 2 rounds of trumps in the closed hand. When diamonds prove to be 2-2 half of the battle is over.\n\nThe ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2 in dummy.\n\nDummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2 allowing West to win the trick. This play is called a loser-on-loser play.\n\nWest is endplayed. A heart return will eliminate South's heart loser regardless of the position of the ♥K. A club return will concede a ruff and discard.",
+  "commentary_paragraphs": [
+    "West's club lead is won by South. South's club loser can be ruffed in the dummy leaving the heart suit as the only possible problem. At first glance, it appears that the contract will depend on the heart finesse.",
+    "South can sometimes make the contract when West has the ♥K by playing for an elimination. South should start by drawing 2 rounds of trumps in the closed hand. When diamonds prove to be 2-2 half of the battle is over.",
+    "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2 in dummy.",
+    "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2 allowing West to win the trick. This play is called a loser-on-loser play.",
+    "West is endplayed. A heart return will eliminate South's heart loser regardless of the position of the ♥K. A club return will concede a ruff and discard."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.8765 AK54.543.KQ32.43 J76.T987.54.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's club lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.43 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's club lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's club lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's club lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's club lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's club lead is won by South. South's club loser"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's club lead is won by South. South's club loser can be ruffed in the dummy"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West's club lead is won by South. South's club loser can be ruffed in the dummy leaving the heart suit as the only possible problem. At first glance, it appears that the contract will depend on the heart finesse."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can sometimes make the contract when West has the ♥K by playing for an elimination."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can sometimes make the contract when West has the ♥K by playing for an elimination. South should start by drawing 2 rounds of trumps in the closed hand."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can sometimes make the contract when West has the ♥K by playing for an elimination. South should start by drawing 2 rounds of trumps in the closed hand."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can sometimes make the contract when West has the ♥K by playing for an elimination. South should start by drawing 2 rounds of trumps in the closed hand. When diamonds prove to be 2-2 half of the battle is over."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2 in dummy."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♠A and ♠K are cashed and a third round of spades is ruffed. South should next cash the other top club honour and ruff the ♣2 in dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Dummy's last spade is played."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.AQ2.AJT98.AK2 QT98.KJ6.76.765 AK54.543.KQ32.4 J76.T987.54.QJT9",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 T98.9876.76.765 AK54.543.KQ32.4 Q.KJ..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Dummy's last spade is played. If East follows,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 T98.9876.76.765 AK54.543.KQ32.4 .KJ..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 T98.9876.76.765 AK54.543.KQ32.4 .KJ..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2 allowing West to win the trick."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2 allowing West to win the trick."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Dummy's last spade is played. If East follows, South will need the heart finesse to work. When East shows out on the fourth round of spades the contract is certain. South discards the ♥2 allowing West to win the trick. This play is called a loser-on-loser play."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West is endplayed. A heart return"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West is endplayed. A heart return will eliminate South's heart loser"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West is endplayed. A heart return will eliminate South's heart loser regardless of the position of the ♥K."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West is endplayed. A heart return will eliminate South's heart loser regardless of the position of the ♥K. A club return"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.AQ2.AJT98.AK2 QT98.876.76.765 AK54.543.KQ32.4 .KJ9..",
+      "trick_cards": {
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West is endplayed. A heart return will eliminate South's heart loser regardless of the position of the ♥K. A club return will concede a ruff and discard."
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "title": "Level 2 (Intermediate) - B-28",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-28",
+  "deal_pbn": "S:JT9432.AK.AQ2.AK KQ87.QJT.9876.87 65.5432.K543.Q32 A.9876.JT.JT9654",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 10,
+  "notes": "South wins the opening heart lead and must avoid the loss of 4 trump tricks. If trumps are 3-2 there will be no problem. If West has 4 spades including the ♠A, ♠K, and ♠Q the contract will fail.\n\nThe other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy and lead a spade towards the closed hand. This line of play will fail when East started with a singleton spade honour. There are 3 possible singleton spade honours (the ♠A, ♠K, and ♠Q) that East could have.\n\nSouth improves his chances slightly by leading a low spade out of the closed hand. This play will lose when West has a singleton small spade. Since there are only 2 singleton small spades (the ♠8 and ♠7) that West could have, this is a superior line of play.",
+  "commentary_paragraphs": [
+    "South wins the opening heart lead and must avoid the loss of 4 trump tricks. If trumps are 3-2 there will be no problem. If West has 4 spades including the ♠A, ♠K, and ♠Q the contract will fail.",
+    "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy and lead a spade towards the closed hand. This line of play will fail when East started with a singleton spade honour. There are 3 possible singleton spade honours (the ♠A, ♠K, and ♠Q) that East could have.",
+    "South improves his chances slightly by leading a low spade out of the closed hand. This play will lose when West has a singleton small spade. Since there are only 2 singleton small spades (the ♠8 and ♠7) that West could have, this is a superior line of play."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:JT9432.AK.AQ2.AK KQ87.QJT.9876.87 65.5432.K543.Q32 A.9876.JT.JT9654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South wins the opening heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:JT9432.AK.AQ2.AK KQ87.JT.9876.87 65.5432.K543.Q32 A.9876.JT.JT9654",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:JT9432.AK.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.9876.JT.JT9654",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:JT9432.AK.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:JT9432.K.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:JT9432.K.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South wins the opening heart lead and must avoid the loss of 4 trump tricks."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:JT9432.K.AQ2.AK AK.JT.9876.8765 65.543.K543.Q32 Q87.987.JT.JT94",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South wins the opening heart lead and must avoid the loss of 4 trump tricks. If trumps are 3-2 there will be no problem."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:JT9432.K.AQ2.AK AKQ7.JT.98.7654 65.543.K543.Q32 8.987.JT76.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South wins the opening heart lead and must avoid the loss of 4 trump tricks. If trumps are 3-2 there will be no problem. If West has 4 spades including the ♠A, ♠K, and ♠Q the contract will fail."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:JT9432.K.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The other 4-1 trump breaks are the relevant cases."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:JT9432.K.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ87.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 65.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 A.987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 .987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 .987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 .987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy and lead a spade"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 .987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T",
+            "9",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy and lead a spade towards the closed hand."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:T9432.K.AQ2.AK KQ8.JT.9876.87 6.543.K543.Q32 .987.JT.JT9654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The other 4-1 trump breaks are the relevant cases. It seems natural for South to play a high spade at trick 2. South can later cross to the dummy and lead a spade towards the closed hand. This line of play will fail when East started with a singleton spade honour. There are 3 possible singleton spade honours (the ♠A, ♠K, and ♠Q) that East could have."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9432.K.AQ2.AK 7.JT.9876.87654 65.543.K543.Q32 AKQ8.987.JT.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT943.K.AQ2.AK 7.JT.9876.87654 65.543.K543.Q32 AKQ8.987.JT.JT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT943.K.AQ2.AK .JT.9876.87654 65.543.K543.Q32 AKQ8.987.JT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT943.K.AQ2.AK .JT.9876.87654 6.543.K543.Q32 AKQ8.987.JT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:JT943.K.AQ2.AK .JT.9876.87654 6.543.K543.Q32 AKQ.987.JT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S5",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:JT943.K.AQ2.AK .JT.9876.87654 6.543.K543.Q32 AKQ.987.JT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S5",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South improves his chances slightly by leading a low spade out of the closed hand. This play will lose when West has a singleton small spade. Since there are only 2 singleton small spades (the ♠8 and ♠7) that West could have, this is a superior line of play."
+    }
+  ]
+}

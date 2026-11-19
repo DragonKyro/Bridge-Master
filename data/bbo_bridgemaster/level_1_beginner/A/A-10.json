@@ -1,0 +1,678 @@
+{
+  "title": "Level 1 (Beginner) - A-10",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-10",
+  "deal_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "South has 9 top tricks available (3 spades, 3 hearts, 2 diamonds, and the ♣A). North's club suit is the only possible source of extra tricks.\n\nIf South handles the clubs properly, 3 extra tricks can be taken any time West has the ♣K, the ♣Q, or both honours.\n\nAfter winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses South has plenty of hand entries to play clubs through West 2 more times if necessary.\n\nOn the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q, and then forcing out West's ♣K. This would be a poor play as it would fail many times that the double finesse succeeds.",
+  "commentary_paragraphs": [
+    "South has 9 top tricks available (3 spades, 3 hearts, 2 diamonds, and the ♣A). North's club suit is the only possible source of extra tricks.",
+    "If South handles the clubs properly, 3 extra tricks can be taken any time West has the ♣K, the ♣Q, or both honours.",
+    "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses South has plenty of hand entries to play clubs through West 2 more times if necessary.",
+    "On the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q, and then forcing out West's ♣K. This would be a poor play as it would fail many times that the double finesse succeeds."
+  ],
+  "play_sequence": [
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 9 top tricks available (3 spades,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 9 top tricks available (3 spades, 3 hearts,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 9 top tricks available (3 spades, 3 hearts, 2 diamonds,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has 9 top tricks available (3 spades, 3 hearts, 2 diamonds, and the ♣A)."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has 9 top tricks available (3 spades, 3 hearts, 2 diamonds, and the ♣A). North's club suit is the only possible source of extra tricks."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South handles the clubs properly,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South handles the clubs properly, 3 extra tricks can be taken any time West has the ♣K,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South handles the clubs properly, 3 extra tricks can be taken any time West has the ♣K, the ♣Q, or both honours."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.JT9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.T9.876.K765 K32.43.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.8765.QJT9.Q",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AQJ.AKQ2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AT98 T987.876.QJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AT98 T987.876.QJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses South has plenty of hand entries to play clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AT98 T987.876.QJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥J lead South should employ a technique known as a double finesse in his play of the club suit. This play amounts to leading South's clubs towards North's holding and only playing the ♣A if West follows with an honour. If the first finesse loses South has plenty of hand entries to play clubs through West 2 more times if necessary."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AQJ.AK2.A32.432 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K765 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.AJT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.JT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.JT98 T987.876.QJT9.Q",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.JT98 T987.876.QJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T9.876.K76 K32.4.K54.JT98 T987.876.QJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q, and then forcing out West's ♣K."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AQJ.AK2.A32.43 654.T98.876.K6 K32.4.K54.JT98 T987.76.QJT9.Q7",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can also succeed by cashing the ♣A, dropping East's singleton ♣Q, and then forcing out West's ♣K. This would be a poor play as it would fail many times that the double finesse succeeds."
+    }
+  ]
+}

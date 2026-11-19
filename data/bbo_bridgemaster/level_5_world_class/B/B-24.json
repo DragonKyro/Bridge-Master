@@ -1,0 +1,1162 @@
+{
+  "title": "Level 5 (World Class) - B-24",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "B-24",
+  "deal_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.T98 54.432.K4.A76543 32.J765.AQ87.KQJ",
+  "contract": "3S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "2S",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "3S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 9,
+  "notes": "West leads the ♣10 against 3♠. West's club lead is won in dummy. South must avoid the loss of 3 diamond tricks and 2 trump tricks.\n\nIf South crosses in hearts and plays a diamond to the ♦K and ♦A, East will return a trump. If East has the ♦Q, South will have to guess the trump position to make the contract.\n\nSouth can make the contract without guessing by leading the ♦4 from dummy at trick 2. If East has the ♦Q, South will have held his diamond losers to 2. He can afford to lose 2 trump tricks if necessary.\n\nIf West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A, he will not be able to prevent a diamond ruff except by surrendering 1 of his trump tricks.\n\nUpon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A and return a trump. South can either finesse or win the ♠A and be certain of making the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 3♠. West's club lead is won in dummy. South must avoid the loss of 3 diamond tricks and 2 trump tricks.",
+    "If South crosses in hearts and plays a diamond to the ♦K and ♦A, East will return a trump. If East has the ♦Q, South will have to guess the trump position to make the contract.",
+    "South can make the contract without guessing by leading the ♦4 from dummy at trick 2. If East has the ♦Q, South will have held his diamond losers to 2. He can afford to lose 2 trump tricks if necessary.",
+    "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A, he will not be able to prevent a diamond ruff except by surrendering 1 of his trump tricks.",
+    "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A and return a trump. South can either finesse or win the ♠A and be certain of making the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "S2"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.T98 54.432.K4.A76543 32.J765.AQ87.KQJ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.98 54.432.K4.A76543 32.J765.AQ87.KQJ",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 3♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.98 54.432.K4.A76543 32.J765.AQ87.KQJ",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3♠. West's club lead is won in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.98 54.432.K4.76543 32.J765.AQ87.KQJ",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 3♠. West's club lead is won in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJT9876.AK.J32.2 KQ.QT98.T965.98 54.432.K4.76543 32.J765.AQ87.KQ",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 3♠. West's club lead is won in dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ.QT98.T965.98 54.432.K4.76543 32.J765.AQ87.KQ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 3♠. West's club lead is won in dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ.QT98.T965.98 54.432.K4.76543 32.J765.AQ87.KQ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ],
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "4"
+          ],
+          "S": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3♠. West's club lead is won in dummy. South must avoid the loss of 3 diamond tricks and 2 trump tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ.QT98.T965.98 54.432.K4.76543 32.J765.AQ87.KQ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South crosses in hearts"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ.QT98.T965.98 54.43.K4.76543 32.J765.AQ87.KQ",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ.QT98.T965.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AJT9876.A.J32. KQ.QT98.T965.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AJT9876.A.J32. KQ.QT9.T965.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AJT9876.A.J32. KQ.QT9.T965.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T965.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.K4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.4.76543 32.J76.AQ87.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.4.76543 32.J76.Q87.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.4.76543 32.J76.Q87.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A, East will return a trump."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.4.76543 3.J76.Q87.KQ",
+      "trick_cards": {
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A, East will return a trump."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AJT9876.A.J3. KQ.QT9.T96.98 54.43.4.76543 3.J76.Q87.KQ",
+      "trick_cards": {
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ],
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South crosses in hearts and plays a diamond to the ♦K and ♦A, East will return a trump. If East has the ♦Q, South will have to guess the trump position to make the contract."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.T965.9 54.432.K4.76543 .J9765.AQ87.KQ8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CT",
+        "N": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can make the contract without guessing by leading the ♦4 from dummy at trick 2."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.T965.9 54.432.K.76543 .J9765.AQ87.KQ8",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make the contract without guessing by leading the ♦4 from dummy at trick 2."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.T965.9 54.432.K.76543 .J9765.AQ87.KQ8",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can make the contract without guessing by leading the ♦4 from dummy at trick 2. If East has the ♦Q, South will have held his diamond losers to 2."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.T965.9 54.432.K.76543 .J9765.AQ87.KQ8",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can make the contract without guessing by leading the ♦4 from dummy at trick 2. If East has the ♦Q, South will have held his diamond losers to 2. He can afford to lose 2 trump tricks if necessary."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.AQ65.9 54.432.K.76543 .J9765.T987.KQ8",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦Q,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AJT9876.AK.J32. KQ32.QT8.AQ65.9 54.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AJT9876.AK.32. KQ32.QT8.AQ65.9 54.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AJT9876.AK.32. KQ32.QT8.A65.9 54.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AJT9876.AK.32. KQ32.QT8.A65.9 54.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT8.A65.9 54.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "W": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT8.A65.9 5.432.K.76543 .J9765.T98.KQ8",
+      "trick_cards": {
+        "W": "S2",
+        "N": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT8.A65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "W": "S2",
+        "N": "S4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AJT987.AK.32. KQ3.QT8.A65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S2",
+        "N": "S4",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AJT987.AK.32. KQ3.QT8.A65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S2",
+        "N": "S4",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.A65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.A65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.65.9 5.432.K.76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.65.9 5.432..76543 .J976.T98.KQ8",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.65.9 5.432..76543 .J976.T9.KQ8",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AJT987.AK.3. KQ3.QT8.65.9 5.432..76543 .J976.T9.KQ8",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦Q, he cannot afford to play trump from his side of the table without holding South's trump losers to 1. If West has all 4 trumps he can exit with a low trump. South plays a second round of diamonds. If West has the ♦A, he will not be able to prevent a diamond ruff except by surrendering 1 of his trump tricks."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT98.65.98 54.432.K.76543 2.J765.AT98.KQ",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Upon winning the ♦Q, West will exit passively."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT9.65.98 54.432.K.76543 2.J765.AT98.KQ",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT9.65.98 54.43.K.76543 2.J765.AT98.KQ",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AJT9876.AK.32. KQ3.QT9.65.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AJT9876.A.32. KQ3.QT9.65.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AJT9876.A.32. KQ3.QT9.65.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.65.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.65.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43.K.76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43..76543 2.J76.AT98.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43..76543 2.J76.T98.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43..76543 2.J76.T98.KQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A and return a trump."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43..76543 .J76.T98.KQ",
+      "trick_cards": {
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A and return a trump."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:AJT9876.A.3. KQ3.QT9.6.98 54.43..76543 .J76.T98.KQ",
+      "trick_cards": {
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Upon winning the ♦Q, West will exit passively. A diamond is played. For South to have any problem, East must win the ♦A and return a trump. South can either finesse or win the ♠A and be certain of making the contract."
+    }
+  ]
+}

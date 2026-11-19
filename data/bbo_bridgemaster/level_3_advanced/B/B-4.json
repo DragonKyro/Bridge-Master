@@ -1,0 +1,1181 @@
+{
+  "title": "Level 3 (Advanced) - B-4",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-4",
+  "deal_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.JT43.T987 A3.5432.A98.6543 QJT654.76.K765.J",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4C",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy. The contract will be in danger only if clubs are 4-1. In that case, a second diamond trick will be the last hope for the contract.\n\nWhen East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade. South will be unable to enjoy both diamond tricks and the contract will be in jeopardy.\n\nSouth should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy. The contract will be in danger only if clubs are 4-1. In that case, a second diamond trick will be the last hope for the contract.",
+    "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade. South will be unable to enjoy both diamond tricks and the contract will be in jeopardy.",
+    "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 55,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "D4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.JT43.T987 A3.5432.A98.6543 QJT654.76.K765.J",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A98.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A98.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy. The contract will be in danger only if clubs are 4-1."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 6♥. West's diamond lead should be ducked in dummy. The contract will be in danger only if clubs are 4-1. In that case, a second diamond trick will be the last hope for the contract."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.K765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AKQJT9.Q.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AKQJT9.Q.AKQ2 K98.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKQJT9.Q.AKQ2 K98.8.T43.T987 3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKQJT9.Q.AKQ2 K98.8.T43.T987 3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K, South appears to have 12 certain tricks (the ♠A, 6 hearts, 2 diamonds, and 3 clubs). The blockage in diamonds will be trouble if East returns a spade. South will be unable to enjoy both diamond tricks and the contract will be in jeopardy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.AKQJT9.Q2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:2.AKQJT9.2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:2.AKQJT9.2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 QJT654.76.765.J",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:2.AKQJT9.2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:2.AKQJT9.2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K987.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K98.8.T43.T987 A3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K98.8.T43.T987 3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K98.8.T43.T987 3.5432.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K98.8.T43.T987 3.543.A9.6543 JT654.76.765.J",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AKQJT9.2.AKQ2 K98.8.T43.T987 3.543.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.KQJT9.2.AKQ2 K98.8.T43.T987 3.543.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.KQJT9.2.AKQ2 K98..T43.T987 3.543.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.QJT9.2.AKQ2 K98..T43.T987 3.543.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.QJT9.2.AKQ2 K9..T43.T987 3.543.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.QJT9.2.AKQ2 K9..T43.T987 3.54.A9.6543 JT654.7.765.J",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S8",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.QJT9.2.AKQ2 K9..T43.T987 3.54.A9.6543 JT654..765.J",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S8",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.QJT9.2.AKQ2 K9..T43.T987 3.54.A9.6543 JT654..765.J",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S8",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.QJT9.2.KQ2 K9..T43.T987 3.54.A9.6543 JT654..765.J",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.QJT9.2.KQ2 K9..T43.T98 3.54.A9.6543 JT654..765.J",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.QJT9.2.KQ2 K9..T43.T98 3.54.A9.654 JT654..765.J",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.QJT9.2.KQ2 K9..T43.T98 3.54.A9.654 JT654..765.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C3",
+        "E": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T98 3.54.A9.654 JT654..765.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T9 3.54.A9.654 JT654..765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T9 3.54.A9.65 JT654..765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T9 3.54.A9.65 JT65..765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4",
+        "E": "S4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T9 3.54.A9.65 JT65..765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4",
+        "E": "S4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.QJT9.2.Q2 K9..T43.T9 3.54.A9.65 JT65..765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4",
+        "E": "S4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10)."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.QJT9..Q2 K9..T43.T9 3.54.A9.65 JT65..765.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10)."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54.A9.65 JT65..765.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10)."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54.A.65 JT65..765.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "D9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10)."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54.A.65 JT65..76.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "D9",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10)."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54.A.65 JT65..76.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "D9",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54..65 JT65..76.",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:.QJT9..Q2 K9..T4.T9 3.54..65 JT65..7.",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:.QJT9..Q K9..T4.T9 3.54..65 JT65..7.",
+      "trick_cards": {
+        "S": "C2",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:.QJT9..Q K9..T.T9 3.54..65 JT65..7.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D4",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should unblock the ♦Q at trick 1. The spade shift is won in dummy and trumps are drawn. South should test clubs by cashing 2 rounds. If clubs are 4-1, South can finesse West for the ♦10 (his ♦J lead virtually guarantees the ♦10). Dummy's diamond will provide a discard for South's club loser."
+    }
+  ]
+}

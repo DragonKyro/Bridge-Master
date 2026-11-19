@@ -1,0 +1,911 @@
+{
+  "title": "Level 1 (Beginner) - B-28",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-28",
+  "deal_pbn": "S:J32.A.QJ2.KQJT98 KQT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+  "contract": "5C",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2C",
+    "Pass",
+    "3C",
+    "Pass",
+    "5C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 11,
+  "notes": "West leads the ♠K against 5♣. South's only possible losers are in spades and diamonds. The contract will be in danger only if East has the ♦K and the defenders can take 2 spade tricks.\n\nWest's ♠K lead shows the ♠Q. If South wins the ♠A in dummy, East will later be able to lead a spade through South's ♠J if he can win the ♦K. The ♠J will be trapped and the contract will fail.\n\nSouth can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse.\n\nEast can win the ♦K, but the ♠A stops that suit. North's long diamond can take care of South's second spade loser.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 5♣. South's only possible losers are in spades and diamonds. The contract will be in danger only if East has the ♦K and the defenders can take 2 spade tricks.",
+    "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy, East will later be able to lead a spade through South's ♠J if he can win the ♦K. The ♠J will be trapped and the contract will fail.",
+    "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse.",
+    "East can win the ♦K, but the ♠A stops that suit. North's long diamond can take care of South's second spade loser."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "SA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 KQT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 5♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 5♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ],
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 5♣. South's only possible losers are in spades and diamonds."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ],
+          "S": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 5♣. South's only possible losers are in spades and diamonds. The contract will be in danger only if East has the ♦K and the defenders can take 2 spade tricks."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's ♠K lead shows the ♠Q."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 54.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 54.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 54.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ],
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy, East will later be able to lead a spade through South's ♠J if he can win the ♦K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 54.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's ♠K lead shows the ♠Q. If South wins the ♠A in dummy, East will later be able to lead a spade through South's ♠J if he can win the ♦K. The ♠J will be trapped and the contract will fail."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A54.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A5.32.AT98.A432 9876.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J32.A.QJ2.KQJT98 QT.QJT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.QJT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.JT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.JT98.7654.5 A5.32.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.JT98.7654.5 A5.3.AT98.A432 987.K7654.K3.76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:J3.A.QJ2.KQJT98 QT.JT98.7654.5 A5.3.AT98.A432 987.K765.K3.76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:J3..QJ2.KQJT98 QT.JT98.7654.5 A5.3.AT98.A432 987.K765.K3.76",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:J3..QJ2.KQJT98 QT.JT98.7654.5 A5.3.AT98.A432 987.K765.K3.76",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:J3..QJ2.QJT98 QT.JT98.7654.5 A5.3.AT98.A432 987.K765.K3.76",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:J3..QJ2.QJT98 QT.JT98.7654. A5.3.AT98.A432 987.K765.K3.76",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:J3..QJ2.QJT98 QT.JT98.7654. A5.3.AT98.A43 987.K765.K3.76",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:J3..QJ2.QJT98 QT.JT98.7654. A5.3.AT98.A43 987.K765.K3.7",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:J3..QJ2.JT98 QT.JT98.7654. A5.3.AT98.A43 987.K765.K3.7",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:J3..QJ2.JT98 QT.JT9.7654. A5.3.AT98.A43 987.K765.K3.7",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:J3..QJ2.JT98 QT.JT9.7654. A5.3.AT98.A4 987.K765.K3.7",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H8",
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:J3..QJ2.JT98 QT.JT9.7654. A5.3.AT98.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H8",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:J3..QJ2.JT98 QT.JT9.7654. A5.3.AT98.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H8",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.7654. A5.3.AT98.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT98.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT9.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking the opening lead. West is unable to continue spades without giving up the second defensive trick in that suit. West will shift to hearts, South winning the ♥A. South can draw trump and take the diamond finesse."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT9.A4 987.K765.K3.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East can win the ♦K,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT9.A4 987.K765.3.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East can win the ♦K,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT9.A4 987.K765.3.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D8",
+        "E": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East can win the ♦K, but the ♠A stops that suit."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:J3..J2.JT98 QT.JT9.765. A5.3.AT9.A4 98.K765.3.",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East can win the ♦K, but the ♠A stops that suit."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:J..J2.JT98 QT.JT9.765. A5.3.AT9.A4 98.K765.3.",
+      "trick_cards": {
+        "S": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East can win the ♦K, but the ♠A stops that suit."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:J..J2.JT98 Q.JT9.765. A5.3.AT9.A4 98.K765.3.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "ST",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East can win the ♦K, but the ♠A stops that suit."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:J..J2.JT98 Q.JT9.765. 5.3.AT9.A4 98.K765.3.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "ST",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East can win the ♦K, but the ♠A stops that suit."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:J..J2.JT98 Q.JT9.765. 5.3.AT9.A4 98.K765.3.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "ST",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "East can win the ♦K, but the ♠A stops that suit. North's long diamond can take care of South's second spade loser."
+    }
+  ]
+}

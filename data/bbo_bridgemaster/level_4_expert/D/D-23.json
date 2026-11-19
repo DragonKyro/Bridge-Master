@@ -1,0 +1,1931 @@
+{
+  "title": "Level 4 (Expert) - D-23",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-23",
+  "deal_pbn": "S:A5432.J.AK32.K43 98.72.8765.98765 K76.6543.QJT9.Q2 QJT.AKQT98.4.AJT",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "1S",
+    "Pass",
+    "2S",
+    "3H",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H7",
+  "par_tricks": 10,
+  "notes": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff. With the ♣A as a certain loser, South must hope that spades are 3-2 and he must find some way of avoiding a second loser in clubs.\n\nIf South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding) and play a third round of hearts. East must have 6 hearts for his bidding and, if he was dealt 3 spades as well, the third round of hearts will promote a second trump trick for the defense.\n\nIf instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick.\n\nWith a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff as South will then be able to ruff his second club loser in the dummy. In the actual layout East has the remaining trump so West will discard when South ruffs a heart.\n\nSouth tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants. The dummy will have all winners except for the ♣Q. The ♣A will win the third (and last) trick for the defense.",
+  "commentary_paragraphs": [
+    "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff. With the ♣A as a certain loser, South must hope that spades are 3-2 and he must find some way of avoiding a second loser in clubs.",
+    "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding) and play a third round of hearts. East must have 6 hearts for his bidding and, if he was dealt 3 spades as well, the third round of hearts will promote a second trump trick for the defense.",
+    "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick.",
+    "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff as South will then be able to ruff his second club loser in the dummy. In the actual layout East has the remaining trump so West will discard when South ruffs a heart.",
+    "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants. The dummy will have all winners except for the ♣Q. The ♣A will win the third (and last) trick for the defense."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H2"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "S4"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "H2"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 55,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 65,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 66,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 67,
+      "seat": "S",
+      "card": "S4"
+    },
+    {
+      "step": 69,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 72,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 74,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 75,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 76,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 78,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 81,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 83,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 84,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 85,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 86,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 88,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 89,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 90,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 91,
+      "seat": "E",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A5432.J.AK32.K43 98.72.8765.98765 K76.6543.QJT9.Q2 QJT.AKQT98.4.AJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A5432.J.AK32.K43 98.2.8765.98765 K76.6543.QJT9.Q2 QJT.AKQT98.4.AJT",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A5432.J.AK32.K43 98.2.8765.98765 K76.6543.QJT9.Q2 QJT.AKQT98.4.AJT",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A5432.J.AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.AKQT98.4.AJT",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A5432.J.AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.AKT98.4.AJT",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A5432..AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.AKT98.4.AJT",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7",
+        "N": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A5432..AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.AKT98.4.AJT",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7",
+        "N": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A5432..AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A543..AK32.K43 98.2.8765.98765 K76.654.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.654.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "A"
+          ],
+          "S": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff. With the ♣A as a certain loser, South must hope that spades are 3-2"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 4♠. East wins the first trick and plays a second round for South to ruff. With the ♣A as a certain loser, South must hope that spades are 3-2 and he must find some way of avoiding a second loser in clubs."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South plays on clubs before drawing trump,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays on clubs before drawing trump,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays on clubs before drawing trump,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays on clubs before drawing trump,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding)"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.KT98.4.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding)"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.KT98.4.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding) and play a third round of hearts."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.T98.4.JT",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding) and play a third round of hearts."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A543..AK32.K4 98..8765.9876 K76.65.QJT9.2 QJT.T98.4.JT",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South plays on clubs before drawing trump, there is a danger that East will win the ♣A (a card he is marked with on the bidding) and play a third round of hearts. East must have 6 hearts for his bidding and, if he was dealt 3 spades as well, the third round of hearts will promote a second trump trick for the defense."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A54..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A54..AK32.K43 9..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A54..AK32.K43 9..8765.98765 76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A54..AK32.K43 9..8765.98765 76.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A54..AK32.K43 9..8765.98765 7.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A54..AK32.K43 9..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:54..AK32.K43 9..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:54..AK32.K4 ..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.2 Q.KT98.4.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ",
+        "E": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.2 Q.KT98.4.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C5",
+        "N": "CQ",
+        "E": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:54..AK32.K4 ..8765.9876 7.65.QJT9.2 .KT98.4.JT",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:5..AK32.K4 ..8765.9876 7.65.QJT9.2 .KT98.4.JT",
+      "trick_cards": {
+        "S": "S4",
+        "E": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:5..AK32.K4 ..8765.987 7.65.QJT9.2 .KT98.4.JT",
+      "trick_cards": {
+        "S": "S4",
+        "W": "C6",
+        "E": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:5..AK32.K4 ..8765.987 .65.QJT9.2 .KT98.4.JT",
+      "trick_cards": {
+        "S": "S4",
+        "W": "C6",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:5..AK32.K4 ..8765.987 .65.QJT9.2 .KT98.4.JT",
+      "trick_cards": {
+        "S": "S4",
+        "W": "C6",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H2",
+        "N": "H4",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:543..AK32.K43 98..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:543..AK32.K43 9..8765.98765 K76.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:543..AK32.K43 9..8765.98765 K7.65.QJT9.Q2 QJT.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:543..AK32.K43 9..8765.98765 K7.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S6",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:54..AK32.K43 9..8765.98765 K7.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 K7.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q2 QJ.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9",
+        "N": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9",
+        "N": "SK",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q2 Q.KT98.4.AJT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9",
+        "N": "SK",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q Q.KT98.4.AJT",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q Q.KT98.4.AJT",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:54..AK32.K43 ..8765.98765 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "N": "C2",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:54..AK32.43 ..8765.98765 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "CK",
+        "N": "C2",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:54..AK32.43 ..8765.9876 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2",
+        "E": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead South draws 2 rounds of trump before playing a club to the ♣Q, East will win the ♣A and draw dummy's last trump. South will be left with an inescapable second loser in clubs. The solution is to win the second round of trump with dummy's ♠K in order to lead dummy's ♣2. East must duck and South's ♣K will win the trick."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:54..AK32.43 ..8765.9876 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2",
+        "E": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:54..AK32.43 ..8765.9876 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2",
+        "E": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:54..AK3.43 ..8765.9876 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.65.QJT9.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.65.QJT.Q Q.KT98.4.AJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.65.QJT.Q Q.KT98..AJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "D9",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.65.QJT.Q Q.KT98..AJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "D9",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.6.QJT.Q Q.KT98..AJ",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:54..AK3.43 ..876.9876 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:5..AK3.43 ..876.9876 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "S4",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:5..AK3.43 Q..876.876 7.6.QJT.Q .KT9..AJ9",
+      "trick_cards": {
+        "S": "S4",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:5..AK3.43 ..876.876 7.6.QJT.Q .KT9..AJ9",
+      "trick_cards": {
+        "S": "S4",
+        "W": "SQ",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff"
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:5..AK3.43 ..876.876 7.6.QJT.Q .KT9..AJ9",
+      "trick_cards": {
+        "S": "S4",
+        "W": "SQ",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff as South will then be able to ruff his second club loser in the dummy."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:5..AK3.43 ..876.9876 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "S4",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff as South will then be able to ruff his second club loser in the dummy. In the actual layout East has the remaining trump so West will discard when South ruffs a heart."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:5..AK3.43 ..876.987 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "S4",
+        "W": "C6",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With a club trick in the bag, South can get home with a dummy reversal, ruffing dummy's remaining hearts in the South hand. South crosses to the dummy in diamonds and ruffs a heart in the closed hand. If West has the outstanding trump, he is welcome to overruff as South will then be able to ruff his second club loser in the dummy. In the actual layout East has the remaining trump so West will discard when South ruffs a heart."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:5..AK3.43 ..876.987 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "S4",
+        "W": "C6",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:5..AK.43 ..876.987 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJT.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing,"
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q .KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT",
+        "E": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing,"
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q .KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT",
+        "E": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy."
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q Q.KT9..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds."
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q Q.KT..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT",
+        "E": "H9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds."
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:5..AK.43 ..87.987 7.6.QJ.Q Q.KT..AJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DT",
+        "E": "H9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:5..AK.43 ..87.987 7..QJ.Q Q.KT..AJ",
+      "trick_cards": {
+        "N": "H6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal."
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:5..AK.43 ..87.987 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "N": "H6",
+        "E": "HT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal."
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:..AK.43 ..87.987 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "S5",
+        "N": "H6",
+        "E": "HT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal."
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:..AK.43 ..87.98 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "S5",
+        "W": "C7",
+        "N": "H6",
+        "E": "HT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal."
+    },
+    {
+      "step": 87,
+      "hands_pbn": "S:..AK.43 ..87.98 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "S5",
+        "W": "C7",
+        "N": "H6",
+        "E": "HT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants."
+    },
+    {
+      "step": 88,
+      "hands_pbn": "S:..K.43 ..87.98 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants."
+    },
+    {
+      "step": 89,
+      "hands_pbn": "S:..K.43 ..8.98 7..QJ.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants."
+    },
+    {
+      "step": 90,
+      "hands_pbn": "S:..K.43 ..8.98 7..Q.Q Q.K..AJ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants."
+    },
+    {
+      "step": 91,
+      "hands_pbn": "S:..K.43 ..8.98 7..Q.Q .K..AJ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants."
+    },
+    {
+      "step": 92,
+      "hands_pbn": "S:..K.43 ..8.98 7..Q.Q .K..AJ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South tries to cross again in diamonds. If East prevents this by ruffing, South will be able to ruff his second club loser in the dummy. East therefore discards, allowing the dummy to win the second round of diamonds. Dummy's remaining heart is ruffed, completing the dummy reversal. South continues playing diamonds and East is welcome to ruff in whenever he wants. The dummy will have all winners except for the ♣Q. The ♣A will win the third (and last) trick for the defense."
+    }
+  ]
+}

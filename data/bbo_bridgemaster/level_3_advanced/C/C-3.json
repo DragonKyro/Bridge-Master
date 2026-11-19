@@ -1,0 +1,763 @@
+{
+  "title": "Level 3 (Advanced) - C-3",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-3",
+  "deal_pbn": "S:AK2.KQJ.AJ62.AKQ QJT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out. At least 1 more trick can be developed in diamonds. Dummy's blocked clubs might even be reached if the ♦Q provides an entry.\n\nSouth can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy. If the ♦J is allowed to hold, South can knock out the ♥A, making sure of 9 tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out. At least 1 more trick can be developed in diamonds. Dummy's blocked clubs might even be reached if the ♦Q provides an entry.",
+    "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy. If the ♦J is allowed to hold, South can knock out the ♥A, making sure of 9 tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "C9"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ QJT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "6",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out. At least 1 more trick can be developed in diamonds."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out. At least 1 more trick can be developed in diamonds. Dummy's blocked clubs might even be reached"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 spades, the ♦A, and 3 clubs). South can develop 2 more tricks in hearts once the ♥A is knocked out. At least 1 more trick can be developed in diamonds. Dummy's blocked clubs might even be reached if the ♦Q provides an entry."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 3.432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 .432.Q543.JT987 7654.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK2.KQJ.AJ62.AKQ JT98.8765.7.432 .432.Q543.JT987 765.AT9.KT98.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.KQJ.AJ62.AKQ JT98.8765.7.432 .432.Q543.JT987 765.AT9.KT98.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference)."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.KQJ.AJ62.AKQ JT98.8765.7.432 .432.Q543.JT987 765.AT9.KT98.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.KQJ.AJ62.AK JT98.8765.7.432 .432.Q543.JT987 765.AT9.KT98.65",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A2.KQJ.AJ62.AK JT98.8765.7.43 .432.Q543.JT987 765.AT9.KT98.65",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A2.KQJ.AJ62.AK JT98.8765.7.43 .432.Q543.JT98 765.AT9.KT98.65",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C2",
+        "N": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A2.KQJ.AJ62.AK JT98.8765.7.43 .432.Q543.JT98 765.AT9.KT98.6",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C2",
+        "N": "C7",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A2.KQJ.AJ62.A JT98.8765.7.43 .432.Q543.JT98 765.AT9.KT98.6",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A2.KQJ.AJ62.A JT98.8765.7.4 .432.Q543.JT98 765.AT9.KT98.6",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A2.KQJ.AJ62.A JT98.8765.7.4 .432.Q543.JT9 765.AT9.KT98.6",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3",
+        "N": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A2.KQJ.AJ62.A JT98.8765.7.4 .432.Q543.JT9 765.AT9.KT98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3",
+        "N": "C8",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A2.KQJ.AJ62. JT98.8765.7.4 .432.Q543.JT9 765.AT9.KT98.",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A2.KQJ.AJ62. JT98.8765.7. .432.Q543.JT9 765.AT9.KT98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A2.KQJ.AJ62. JT98.8765.7. .432.Q543.JT 765.AT9.KT98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A2.KQJ.AJ62. JT98.8765.7. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A2.KQJ.AJ62. JT98.8765.7. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.7. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.7. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine)."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.7. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q543.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.T98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.T98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.T98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.KT98.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy. If the ♦J is allowed to hold,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.KT9.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy. If the ♦J is allowed to hold,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A2.KQJ.A62. JT98.8765.. .432.Q54.JT 765.AT.KT9.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can in fact guarantee his contract with careful timing. West's opening spade lead is won (ducking makes no difference). South next unblocks the clubs and leads the ♦J (cashing the ♦A first is fine). If the defense wins the ♦K, the ♦Q will be an entry to the clubs in dummy. If the ♦J is allowed to hold, South can knock out the ♥A, making sure of 9 tricks."
+    }
+  ]
+}

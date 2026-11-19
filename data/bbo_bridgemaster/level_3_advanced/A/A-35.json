@@ -1,0 +1,1096 @@
+{
+  "title": "Level 3 (Advanced) - A-35",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-35",
+  "deal_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.T98 A32.65432.A2.A32 987.QJ7.654.7654",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 12,
+  "notes": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts, the ♦A, and 3 clubs. If South can play diamonds for 1 loser he will have enough tricks for his contract.\n\nAfter winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3 the ♦Q and ♦10 are equally likely to work. If diamonds are 4-2, however, the only 4-2 break that can be picked up is West holding the ♦J doubleton.\n\nAlthough the ♦Q after the ♦A is better than a lower diamond, it still is not the proper way to play the suit.\n\nThe correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with or without the ♦J). The other line will succeed when East has the same holdings.\n\nWhen diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q picks up the doubleton ♦K with West. Cashing the ♦A first will not pick up that holding. On all other 4-2 breaks both lines of play work equally well.\n\nThe ♦Q play loses in 1 case that cashing the ♦A succeeds. That is when there is a singleton ♦K with East. That layout, however, is much less likely than West holding the ♦K doubleton.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts, the ♦A, and 3 clubs. If South can play diamonds for 1 loser he will have enough tricks for his contract.",
+    "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3 the ♦Q and ♦10 are equally likely to work. If diamonds are 4-2, however, the only 4-2 break that can be picked up is West holding the ♦J doubleton.",
+    "Although the ♦Q after the ♦A is better than a lower diamond, it still is not the proper way to play the suit.",
+    "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with or without the ♦J). The other line will succeed when East has the same holdings.",
+    "When diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q picks up the doubleton ♦K with West. Cashing the ♦A first will not pick up that holding. On all other 4-2 breaks both lines of play work equally well.",
+    "The ♦Q play loses in 1 case that cashing the ♦A succeeds. That is when there is a singleton ♦K with East. That layout, however, is much less likely than West holding the ♦K doubleton."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D7"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.T98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts, the ♦A,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts, the ♦A, and 3 clubs."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.KJ3.98 A32.65432.A2.A32 987.QJ7.654.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6NT. South has 9 top tricks, 3 spades, 2 hearts, the ♦A, and 3 clubs. If South can play diamonds for 1 loser he will have enough tricks for his contract."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.J43.98 A32.65432.A2.A32 987.QJ7.K65.7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.J43.98 A32.65432.A2.A3 987.QJ7.K65.7654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJ.AK.QT987.KQJ T654.T98.J43.98 A32.65432.A2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J43.98 A32.65432.A2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J43.98 A32.65432.A2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J43.98 A32.65432.A2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "S": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432.A2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432.2.A3 987.QJ7.K65.765",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D3",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432.2.A3 987.QJ7.K6.765",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D3",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432.2.A3 987.QJ7.K6.765",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D3",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K6.765",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K6.765",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K.765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K.765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K.765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J4.98 A32.65432..A3 987.QJ7.K.765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3 the ♦Q"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.K4.98 A32.65432..A3 987.QJ7.J.765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3 the ♦Q and ♦10 are equally likely to work."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJ.AK.QT98.KQ T654.T98.J.987 A32.65432..A3 987.QJ7.K4.65",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After winning West's club opening lead, suppose South begins by cashing the ♦A and leading dummy's small diamond. East follows small. It is correct to play the ♦Q. If diamonds are 3-3 the ♦Q and ♦10 are equally likely to work. If diamonds are 4-2, however, the only 4-2 break that can be picked up is West holding the ♦J doubleton."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J3.987 A32.65432.A2.A3 987.QJ7.K654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Although the ♦Q"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J3.987 A32.65432.A2.A3 987.QJ7.K654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Although the ♦Q after the ♦A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J3.987 A32.65432.A2.A3 987.QJ7.K654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Although the ♦Q after the ♦A is better than a lower diamond,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J3.987 A32.65432.A2.A3 987.QJ7.K654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Although the ♦Q after the ♦A is better than a lower diamond, it still is not the proper way to play the suit."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.KJ3.98 A32.65432.A2.A3 987.QJ7.654.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K53.98 A32.65432.A2.A3 987.QJ7.J64.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "5",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with or without the ♦J)."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.J53.98 A32.65432.A2.A3 987.QJ7.K64.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "5",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "6",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with or without the ♦J). The other line will succeed when East has the same holdings."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.543.98 A32.65432.A2.A3 987.QJ7.KJ6.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The correct way to play diamonds is not intuitive. South should start by leading the ♦Q. When diamonds are 3-3 this play is just as good as cashing the ♦A and playing low to the ♦Q. One line will succeed when West has the ♦K third (with or without the ♦J). The other line will succeed when East has the same holdings."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When diamonds are 4-2,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q picks up the doubleton ♦K with West."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q picks up the doubleton ♦K with West. Cashing the ♦A first"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When diamonds are 4-2, however, leading the ♦Q is better. Leading the ♦Q picks up the doubleton ♦K with West. Cashing the ♦A first will not pick up that holding. On all other 4-2 breaks both lines of play work equally well."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T.T98.J6543.987 A32.65432.A2.A3 987654.QJ7.K.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The ♦Q play loses in 1 case"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T.T98.J6543.987 A32.65432.A2.A3 987654.QJ7.K.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The ♦Q play loses in 1 case that cashing the ♦A succeeds."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T.T98.J6543.987 A32.65432.A2.A3 987654.QJ7.K.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♦Q play loses in 1 case that cashing the ♦A succeeds. That is when there is a singleton ♦K with East. That layout, however, is much less likely than"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQJ.AK.QT987.KQ T654.T98.K3.987 A32.65432.A2.A3 987.QJ7.J654.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The ♦Q play loses in 1 case that cashing the ♦A succeeds. That is when there is a singleton ♦K with East. That layout, however, is much less likely than West holding the ♦K doubleton."
+    }
+  ]
+}

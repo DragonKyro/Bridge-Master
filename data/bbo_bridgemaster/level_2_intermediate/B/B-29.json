@@ -1,0 +1,648 @@
+{
+  "title": "Level 2 (Intermediate) - B-29",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-29",
+  "deal_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ654 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C5",
+  "par_tricks": 9,
+  "notes": "West leads the ♣5 against 3NT. South has 7 top tricks (3 spades, 2 hearts, the ♦A, and the ♣A). South can establish 2 more tricks in diamonds even if West has the ♦K and the finesse loses.\n\nThe only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit and West will cash 3 more club tricks when he wins the ♦K.\n\nSouth can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high giving South a second stopper.\n\nIf the clubs were 4-3, the contract was never in danger. If West was dealt 5 clubs to the ♣K, ♣Q, and ♣J, he would have led the ♣K.",
+  "commentary_paragraphs": [
+    "West leads the ♣5 against 3NT. South has 7 top tricks (3 spades, 2 hearts, the ♦A, and the ♣A). South can establish 2 more tricks in diamonds even if West has the ♦K and the finesse loses.",
+    "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit and West will cash 3 more club tricks when he wins the ♦K.",
+    "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high giving South a second stopper.",
+    "If the clubs were 4-3, the contract was never in danger. If West was dealt 5 clubs to the ♣K, ♣Q, and ♣J, he would have led the ♣K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ654 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "K"
+          ],
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South has 7 top tricks (3 spades, 2 hearts, the ♦A, and the ♣A)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South has 7 top tricks (3 spades, 2 hearts, the ♦A, and the ♣A). South can establish 2 more tricks in diamonds"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. South has 7 top tricks (3 spades, 2 hearts, the ♦A, and the ♣A). South can establish 2 more tricks in diamonds even if West has the ♦K and the finesse loses."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "6",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.3",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.3",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A32.65.AT98.T9 654.87.K43.KJ64 KQJ.AK432.QJ2.A T987.QJT9.765.",
+      "trick_cards": {
+        "S": "C8",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A32.65.AT98.T9 654.87.K43.KJ6 KQJ.AK432.QJ2.A T987.QJT9.765.",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A32.65.AT98.T9 654.87.K43.KJ6 KQJ.AK432.QJ2. T987.QJT9.765.",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A32.65.AT98.T9 654.87.K43.KJ6 KQJ.AK432.QJ2. T987.QJT9.765.",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "6"
+          ],
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The only possible problem is that the defense might be in a position to cash 4 club tricks when West wins the ♦K. If South ducks the opening club lead, East may win the trick with a doubleton honour. East will return the suit and West will cash 3 more club tricks when he wins the ♦K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.A2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "6",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.Q3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A32.65.AT98.T987 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.3",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.3",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KJ64 KQJ.AK432.QJ2.2 T987.QJT9.765.3",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee his contract by playing the ♣A at trick 1. If East has a doubleton honour, he can either play low, blocking the defensive clubs, or play high giving South a second stopper."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K543.KJ6 KQJ.AK432.QJ2.2 T987.QJT9.76.Q4",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If the clubs were 4-3, the contract was never in danger."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A32.65.AT98.T98 654.87.K43.KQJ4 KQJ.AK432.QJ2.2 T987.QJT9.765.6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If the clubs were 4-3, the contract was never in danger. If West was dealt 5 clubs to the ♣K, ♣Q, and ♣J, he would have led the ♣K."
+    }
+  ]
+}

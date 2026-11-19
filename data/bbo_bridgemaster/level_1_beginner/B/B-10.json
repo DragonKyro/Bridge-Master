@@ -1,0 +1,771 @@
+{
+  "title": "Level 1 (Beginner) - B-10",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-10",
+  "deal_pbn": "S:432.KQJT98.2.A32 K76.A.JT987.8765 5.5432.AKQ.KQJT9 AQJT98.76.6543.4",
+  "contract": "5H",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "2S",
+    "3H",
+    "4S",
+    "5H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S6",
+  "par_tricks": 11,
+  "notes": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club. South must lose the ♥A and he is in danger of losing a club ruff to East as well.\n\nSouth can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff. South is now also void in clubs. He can overruff and take the balance of the tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club. South must lose the ♥A and he is in danger of losing a club ruff to East as well.",
+    "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff. South is now also void in clubs. He can overruff and take the balance of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "C9"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "H9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.KQJT98.2.A32 K76.A.JT987.8765 5.5432.AKQ.KQJT9 AQJT98.76.6543.4",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 5♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.KQJT98.2.A32 K7.A.JT987.8765 5.5432.AKQ.KQJT9 AQJT98.76.6543.4",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.KQJT98.2.A32 K7.A.JT987.8765 5.5432.AKQ.KQJT9 AQJT98.76.6543.4",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.KQJT98.2.A32 K7.A.JT987.8765 .5432.AKQ.KQJT9 AQJT98.76.6543.4",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.KQJT98.2.A32 K7.A.JT987.8765 .5432.AKQ.KQJT9 QJT98.76.6543.4",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:43.KQJT98.2.A32 K7.A.JT987.8765 .5432.AKQ.KQJT9 QJT98.76.6543.4",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:43.KQJT98.2.A32 K7.A.JT987.8765 .5432.AKQ.KQJT9 QJT98.76.6543.4",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:43.KQJT98.2.A32 K7.A.JT987.8765 .5432.AKQ.KQJT9 QJT98.76.6543.",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.8765 .5432.AKQ.KQJT9 QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.AKQ.KQJT9 QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.AKQ.KQJT QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.AKQ.KQJT QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club. South must lose the ♥A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.AKQ.KQJT QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 5♥. East wins the opening spade lead and returns a club. South must lose the ♥A and he is in danger of losing a club ruff to East as well."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.AKQ.KQJT QJT98.76.6543.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.KQ.KQJT QJT98.76.6543.",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:43.KQJT98.2.A3 K7.A.JT987.876 .5432.KQ.KQJT QJT98.76.654.",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:43.KQJT98..A3 K7.A.JT987.876 .5432.KQ.KQJT QJT98.76.654.",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:43.KQJT98..A3 K7.A.JT98.876 .5432.KQ.KQJT QJT98.76.654.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:43.KQJT98..A3 K7.A.JT98.876 .5432.Q.KQJT QJT98.76.654.",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:43.KQJT98..A3 K7.A.JT98.876 .5432.Q.KQJT QJT98.76.65.",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:43.KQJT98..A K7.A.JT98.876 .5432.Q.KQJT QJT98.76.65.",
+      "trick_cards": {
+        "S": "C3",
+        "N": "DK",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:43.KQJT98..A K7.A.JT9.876 .5432.Q.KQJT QJT98.76.65.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "D8",
+        "N": "DK",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:43.KQJT98..A K7.A.JT9.876 .5432..KQJT QJT98.76.65.",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:43.KQJT98..A K7.A.JT9.876 .5432..KQJT QJT98.76.6.",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:43.KQJT98.. K7.A.JT9.876 .5432..KQJT QJT98.76.6.",
+      "trick_cards": {
+        "S": "CA",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:43.KQJT98.. K7.A.JT.876 .5432..KQJT QJT98.76.6.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "D9",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:43.KQJT98.. K7.A.JT.876 .5432..KQJT QJT98.76.6.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "D9",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:43.KQJT98.. K7.A.JT.876 .543..KQJT QJT98.76.6.",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:43.KQJT98.. K7.A.JT.876 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:43.KQJT9.. K7.A.JT.876 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "S": "H8",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:43.KQJT9.. K7.A.JT.876 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "S": "H8",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.876 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HA",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.876 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HA",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.87 .543..KQJT QJT98.7.6.",
+      "trick_cards": {
+        "W": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.87 .543..KQJ QJT98.7.6.",
+      "trick_cards": {
+        "W": "C6",
+        "N": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.87 .543..KQJ QJT98..6.",
+      "trick_cards": {
+        "W": "C6",
+        "N": "CT",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:43.KQJT9.. K7..JT.87 .543..KQJ QJT98..6.",
+      "trick_cards": {
+        "W": "C6",
+        "N": "CT",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff. South is now also void in clubs. He can overruff"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:43.KQJT.. K7..JT.87 .543..KQJ QJT98..6.",
+      "trick_cards": {
+        "S": "H9",
+        "W": "C6",
+        "N": "CT",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff. South is now also void in clubs. He can overruff"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:43.KQJT.. K7..JT.87 .543..KQJ QJT98..6.",
+      "trick_cards": {
+        "S": "H9",
+        "W": "C6",
+        "N": "CT",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can prevent this fate by playing dummy's 3 diamond winners, discarding South's 2 remaining clubs, before playing hearts. When West wins the ♥A, he can give East a club ruff. South is now also void in clubs. He can overruff and take the balance of the tricks."
+    }
+  ]
+}

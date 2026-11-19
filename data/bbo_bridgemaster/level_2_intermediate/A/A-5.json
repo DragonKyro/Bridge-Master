@@ -1,0 +1,678 @@
+{
+  "title": "Level 2 (Intermediate) - A-5",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-5",
+  "deal_pbn": "S:A32.A432.AQ.A432 K9876.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks, and the ♣A). The blockage in the diamond suit could spell trouble if that suit is 4-1.\n\nIn order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K. South can win any return and reach dummy's diamond suit with the newly created spade entry.\n\nIf South had won the first trick in dummy, the above position would result after South unblocks the diamonds. South would have no way to get to dummy's remaining diamonds and the contract would fail.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks, and the ♣A). The blockage in the diamond suit could spell trouble if that suit is 4-1.",
+    "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K. South can win any return and reach dummy's diamond suit with the newly created spade entry.",
+    "If South had won the first trick in dummy, the above position would result after South unblocks the diamonds. South would have no way to get to dummy's remaining diamonds and the contract would fail."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "D8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.A432.AQ.A432 K9876.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks, and the ♣A)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks, and the ♣A). The blockage in the diamond suit could spell trouble"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South appears to have at least 10 tricks (2 or 3 in spades, the ♥A, 6 diamond tricks, and the ♣A). The blockage in the diamond suit could spell trouble if that suit is 4-1."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJT.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJ.65.KJ5432.65 54.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.A432.AQ.A432 K986.QJT9.6.QJT QJ.65.KJ5432.65 4.K87.T987.K987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "ST",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.A432.AQ.A432 K986.QJT9.6.QJT QJ.65.KJ5432.65 4.K87.T987.K987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "ST",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.A432.AQ.A432 K986.QJT9.6.QJT QJ.65.KJ5432.65 4.K87.T987.K987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "ST",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.A432.Q.A432 K986.QJT9.6.QJT QJ.65.KJ5432.65 4.K87.T987.K987",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.A432.Q.A432 K986.QJT9..QJT QJ.65.KJ5432.65 4.K87.T987.K987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.A432.Q.A432 K986.QJT9..QJT QJ.65.KJ543.65 4.K87.T987.K987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.A432.Q.A432 K986.QJT9..QJT QJ.65.KJ543.65 4.K87.T98.K987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.A432.Q.A432 K986.QJT9..QJT QJ.65.KJ543.65 4.K87.T98.K987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.A432..A432 K986.QJT9..QJT QJ.65.KJ543.65 4.K87.T98.K987",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.A432..A432 K986.QJT9..QJ QJ.65.KJ543.65 4.K87.T98.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T98.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:3.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:3.A432..A432 986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:3.A432..A432 986.QJT9..QJ Q.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:3.A432..A432 986.QJT9..QJ Q.65.KJ54.65 .K87.T9.K987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:3.A432..A432 986.QJT9..QJ Q.65.KJ54.65 .K87.T9.K987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K. South can win any return and reach dummy's diamond suit"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:3.A432..A432 986.QJT9..QJ Q.65.KJ54.65 .K87.T9.K987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "In order to cater to this possibility, South must win the ♠A at trick 1. South cashes his ♦A and ♦Q. South then gives up a trick to the ♠K. South can win any return and reach dummy's diamond suit with the newly created spade entry."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A3.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South had won the first trick in dummy,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A3.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South had won the first trick in dummy, the above position would result after South unblocks the diamonds."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A3.A432..A432 K986.QJT9..QJ QJ.65.KJ54.65 4.K87.T9.K987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "CT",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South had won the first trick in dummy, the above position would result after South unblocks the diamonds. South would have no way to get to dummy's remaining diamonds and the contract would fail."
+    }
+  ]
+}

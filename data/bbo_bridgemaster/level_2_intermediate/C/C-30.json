@@ -1,0 +1,966 @@
+{
+  "title": "Level 2 (Intermediate) - C-30",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-30",
+  "deal_pbn": "S:32.KQJT9.A32.A32 876.543.54.KQJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2D",
+    "Pass",
+    "3D",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 10,
+  "notes": "West leads the ♣K against 4♥. South's only top losers are the ♥A and the ♠A, but West's club lead has created two more losers.\n\nNorth's diamond suit can be used to discard South's club losers, but if diamonds are played before the defenders' trumps are drawn, they will be able to ruff in before South can discard the club losers.\n\nSouth will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A. South's best chance is to allow West to win the first trick with the ♣K. South doesn't mind losing 1 club trick and if he loses it at trick 1, the defensive communications may be disrupted.\n\nWest will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available. South can win any return, draw trump, and enjoy North's diamond suit.\n\nThe hold up play is more common in a no trump contract. As this hand demonstrates, it can be an effective technique in suit contracts as well.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 4♥. South's only top losers are the ♥A and the ♠A, but West's club lead has created two more losers.",
+    "North's diamond suit can be used to discard South's club losers, but if diamonds are played before the defenders' trumps are drawn, they will be able to ruff in before South can discard the club losers.",
+    "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A. South's best chance is to allow West to win the first trick with the ♣K. South doesn't mind losing 1 club trick and if he loses it at trick 1, the defensive communications may be disrupted.",
+    "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available. South can win any return, draw trump, and enjoy North's diamond suit.",
+    "The hold up play is more common in a no trump contract. As this hand demonstrates, it can be an effective technique in suit contracts as well."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H3"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "H3"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "HA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.KQJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. South's only top losers are the ♥A"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. South's only top losers are the ♥A and the ♠A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. South's only top losers are the ♥A and the ♠A, but West's club lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. South's only top losers are the ♥A and the ♠A, but West's club lead has created two more losers."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used to discard South's club losers,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used to discard South's club losers, but if diamonds are played"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used to discard South's club losers, but if diamonds are played before the defenders' trumps are drawn,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used to discard South's club losers, but if diamonds are played before the defenders' trumps are drawn, they will be able to ruff in"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "North's diamond suit can be used to discard South's club losers, but if diamonds are played before the defenders' trumps are drawn, they will be able to ruff in before South can discard the club losers."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.654 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.87",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.KQJT9.A32.32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.KQJT9.A32.32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.QJT9.A32.32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.QJT9.A32.32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.QJT9.A32.32 876.54.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.QJT9.A32.32 876.54.54.QJT9 KQ.87.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.QJT9.A32.32 876.54.54.QJT9 KQ.87.KQJT9.65 AJT954.2.876.8",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.QJT9.A32.32 876.54.54.QJT9 KQ.87.KQJT9.65 AJT954.2.876.8",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.QJT9.A32.32 876.54.54.QJT9 KQ.87.KQJT9.65 AJT954.2.876.8",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.KQJT9.A32.A32 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A. South's best chance is to allow West to win the first trick with the ♣K."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A. South's best chance is to allow West to win the first trick with the ♣K."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "South will also fail if he wins the ♣A and plays hearts immediately. The defense will win the ♥A and cash 2 club tricks and the ♠A. South's best chance is to allow West to win the first trick with the ♣K. South doesn't mind losing 1 club trick and if he loses it at trick 1, the defensive communications may be disrupted."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.QJT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.JT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.JT9 KQ.876.KQJT9.65 AJT954.A2.876.8",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.8",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.KQJT9.A32.A3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32.KQJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:32.KQJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:32.QJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:32.QJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:32.QJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:32.QJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:32.QJT9.A32.3 876.543.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.876.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.A2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available. South can win any return,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available. South can win any return, draw trump,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West will continue clubs, but South wins the ♣A and plays on trump. The defender who wins the ♥A may also have the ♠A and have started with only 2 clubs. Upon winning the ♥A, he will not have a club left nor will he be able to reach his partner's hand in another suit. It is not a very good chance, but it is the best one available. South can win any return, draw trump, and enjoy North's diamond suit."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:32.QJT9.A32.3 876.54.54.JT9 KQ.87.KQJT9.6 AJT954.2.876.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H3",
+        "N": "H6",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The hold up play is more common in a no trump contract. As this hand demonstrates, it can be an effective technique in suit contracts as well."
+    }
+  ]
+}

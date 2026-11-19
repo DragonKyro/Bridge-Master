@@ -1,0 +1,447 @@
+{
+  "title": "Level 3 (Advanced) - B-23",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-23",
+  "deal_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.JT98 K6.654.765432.A2 T98.K87.T9.Q7654",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♣J against 4♠. South has 2 certain heart losers and 1 certain diamond loser. In order to make the contract, South must play the trump suit for no losers. The ♠Q must be found.\n\nThe normal way to play this spade holding is to cash the ♠K and then finesse against the hoped for ♠Q in East's hand. On this deal, it is correct to cash the ♠A and ♠K, playing West for doubleton ♠Q.\n\nSouth has several inferences that combine to imply that West has the ♠Q. Nothing can be done if the ♠Q is twice guarded. East is marked with the ♣Q after West's lead of the ♣J.\n\nWest must hold the ♥A. If East has the ♥A, that card plus the ♣Q would be enough to respond to his partner's opening bid. As West would have led a heart if he was dealt both the ♥A and ♥K, East must have the ♥K.\n\nAs East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid. As West must have the ♠Q, South should plan to cash the ♠K and ♠A, hoping West has only 2 spades.",
+  "commentary_paragraphs": [
+    "West leads the ♣J against 4♠. South has 2 certain heart losers and 1 certain diamond loser. In order to make the contract, South must play the trump suit for no losers. The ♠Q must be found.",
+    "The normal way to play this spade holding is to cash the ♠K and then finesse against the hoped for ♠Q in East's hand. On this deal, it is correct to cash the ♠A and ♠K, playing West for doubleton ♠Q.",
+    "South has several inferences that combine to imply that West has the ♠Q. Nothing can be done if the ♠Q is twice guarded. East is marked with the ♣Q after West's lead of the ♣J.",
+    "West must hold the ♥A. If East has the ♥A, that card plus the ♣Q would be enough to respond to his partner's opening bid. As West would have led a heart if he was dealt both the ♥A and ♥K, East must have the ♥K.",
+    "As East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid. As West must have the ♠Q, South should plan to cash the ♠K and ♠A, hoping West has only 2 spades."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.JT98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣J against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 4♠. South has 2 certain heart losers"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 4♠. South has 2 certain heart losers and 1 certain diamond loser."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 4♠. South has 2 certain heart losers and 1 certain diamond loser. In order to make the contract, South must play the trump suit for no losers. The ♠Q must be found."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 87.AQJT9.A8.T98 K6.654.765432.A2 QT9.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The normal way to play this spade holding is to cash the ♠K and then finesse against the hoped for ♠Q in East's hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The normal way to play this spade holding is to cash the ♠K and then finesse against the hoped for ♠Q in East's hand. On this deal, it is correct to cash the ♠A and ♠K, playing West for doubleton ♠Q."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has several inferences that combine to imply that West has the ♠Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q97.AQJT9.A8.T9 K6.654.765432.A2 T8.K87.T9.Q87654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has several inferences that combine to imply that West has the ♠Q. Nothing can be done if the ♠Q is twice guarded."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has several inferences that combine to imply that West has the ♠Q. Nothing can be done if the ♠Q is twice guarded. East is marked with the ♣Q after West's lead of the ♣J."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West must hold the ♥A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.KQJT9.A8.T98 K6.654.765432.A2 T98.A87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West must hold the ♥A. If East has the ♥A, that card plus the ♣Q would be enough to respond to his partner's opening bid."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AKQJT9.A8.T9 K6.654.765432.A2 T98.87.T9.Q87654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West must hold the ♥A. If East has the ♥A, that card plus the ♣Q would be enough to respond to his partner's opening bid. As West would have led a heart if he was dealt both the ♥A and ♥K,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West must hold the ♥A. If East has the ♥A, that card plus the ♣Q would be enough to respond to his partner's opening bid. As West would have led a heart if he was dealt both the ♥A and ♥K, East must have the ♥K."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ],
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "As East has the ♥K and ♣Q, West must have the ♠Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 87.AQJT9.A8.T98 K6.654.765432.A2 QT9.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ],
+          "H": [
+            "K"
+          ],
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "As East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "As East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid. As West must have the ♠Q,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "As East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid. As West must have the ♠Q, South should plan to cash the ♠K and ♠A,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AJ5432.32.KQJ.K3 Q7.AQJT9.A8.T98 K6.654.765432.A2 T98.K87.T9.Q7654",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "As East has the ♥K and ♣Q, West must have the ♠Q. If East also had the ♠Q, he would have 7 high card points. He would not have passed West's 1 heart bid. As West must have the ♠Q, South should plan to cash the ♠K and ♠A, hoping West has only 2 spades."
+    }
+  ]
+}

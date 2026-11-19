@@ -1,0 +1,912 @@
+{
+  "title": "Level 4 (Expert) - B-20",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "B-20",
+  "deal_pbn": "S:AKQ32.QT98.A.432 7.AKJ7.KJ43.9876 JT98.432.Q2.AKJT 654.65.T98765.Q5",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Dbl",
+    "Rdbl",
+    "2D",
+    "2H",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A. It seems that the contract depends on the club finesse working.\n\nWest is almost certain to have the ♦K. West's takeout double makes it very likely that he has that card. As a further inference, if East had the ♦K he would probably have switched to a trump instead of a diamond away from the ♦K.\n\nAssuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs. The ♣Q will drop under the ♣A and ♣K.\n\nThe advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs. South will know that the club finesse cannot gain. The ♣A and ♣K will drop East's doubleton ♣Q.\n\nThe above position is known as a show up squeeze. A show up squeeze will make a finesse unnecessary and will allow declarer to have an extra chance of dropping an offside honour when the finesse was losing.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A. It seems that the contract depends on the club finesse working.",
+    "West is almost certain to have the ♦K. West's takeout double makes it very likely that he has that card. As a further inference, if East had the ♦K he would probably have switched to a trump instead of a diamond away from the ♦K.",
+    "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs. The ♣Q will drop under the ♣A and ♣K.",
+    "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs. South will know that the club finesse cannot gain. The ♣A and ♣K will drop East's doubleton ♣Q.",
+    "The above position is known as a show up squeeze. A show up squeeze will make a finesse unnecessary and will allow declarer to have an extra chance of dropping an offside honour when the finesse was losing."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ32.QT98.A.432 7.AKJ7.KJ43.9876 JT98.432.Q2.AKJT 654.65.T98765.Q5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ32.QT98.A.432 7.AJ7.KJ43.9876 JT98.432.Q2.AKJT 654.65.T98765.Q5",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ32.QT98.A.432 7.AJ7.KJ43.9876 JT98.432.Q2.AKJT 654.65.T98765.Q5",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ32.QT98.A.432 7.AJ7.KJ43.9876 JT98.43.Q2.AKJT 654.65.T98765.Q5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ32.QT98.A.432 7.AJ7.KJ43.9876 JT98.43.Q2.AKJT 654.5.T98765.Q5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ32.QT9.A.432 7.AJ7.KJ43.9876 JT98.43.Q2.AKJT 654.5.T98765.Q5",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HK",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ32.QT9.A.432 7.J7.KJ43.9876 JT98.43.Q2.AKJT 654.5.T98765.Q5",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ32.QT9.A.432 7.J7.KJ43.9876 JT98.4.Q2.AKJT 654.5.T98765.Q5",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ32.QT9.A.432 7.J7.KJ43.9876 JT98.4.Q2.AKJT 654..T98765.Q5",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ32.QT.A.432 7.J7.KJ43.9876 JT98.4.Q2.AKJT 654..T98765.Q5",
+      "trick_cards": {
+        "S": "H9",
+        "W": "HA",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ32.QT.A.432 7.J7.KJ43.9876 JT98.4.Q2.AKJT 654..T98765.Q5",
+      "trick_cards": {
+        "S": "H9",
+        "W": "HA",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ32.QT.A.432 7.J.KJ43.9876 JT98.4.Q2.AKJT 654..T98765.Q5",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ32.QT.A.432 7.J.KJ43.9876 JT98..Q2.AKJT 654..T98765.Q5",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ32.QT.A.432 7.J.KJ43.9876 JT98..Q2.AKJT 65..T98765.Q5",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ32.Q.A.432 7.J.KJ43.9876 JT98..Q2.AKJT 65..T98765.Q5",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H7",
+        "N": "H4",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ32.Q.A.432 7.J.KJ43.9876 JT98..Q2.AKJT 65..T98765.Q5",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H7",
+        "N": "H4",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ32.Q.A.432 7.J.KJ43.9876 JT98..Q2.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "E": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ43.9876 JT98..Q2.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "E": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.9876 JT98..Q2.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.9876 JT98..Q.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.9876 JT98..Q.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West cashes 2 top hearts and leads a third round, East ruffing. East's diamond return is won by South with the ♦A. It seems that the contract depends on the club finesse working."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.9876 JT98..Q.AKJT 65..98765.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West is almost certain to have the ♦K. West's takeout double makes it very likely that he has that card."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.J54.9876 JT98..Q.AKJT 65..K9876.Q5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ],
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West is almost certain to have the ♦K. West's takeout double makes it very likely that he has that card. As a further inference, if East had the ♦K he would probably have switched to a trump instead of a diamond away from the ♦K."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.Q876 JT98..Q.AKJT 65..98765.95",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQ32.Q..432 7.J.KJ4.Q876 JT98..Q.AKJT 65..98765.95",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D3",
+        "N": "D2",
+        "E": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.Q..432 ..K.Q87 ..Q.AKJ ..98.95",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HJ",
+        "N": "CT",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:...432 ..K.Q87 ..Q.AKJ ..98.95",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:...432 ..K.Q87 ..Q.AKJ ..98.95",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:...432 ..K.Q8 ..Q.AKJ ..98.95",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:...432 ..K.Q8 ...AKJ ..98.95",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:...432 ..K.Q8 ...AKJ ..9.95",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:...432 ..K.Q8 ...AKJ ..9.95",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "Assuming West has the ♦K, South can make the contract without finessing in clubs by running his winners. On the lead of the ♥Q West will be forced to come down to 2 clubs. The ♣Q will drop under the ♣A and ♣K."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:...432 ..K.987 ..Q.AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:...432 ..K.987 ..Q.AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:...432 ..K.98 ..Q.AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:...432 ..K.98 ...AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:...432 ..K.98 ...AKJ ..9.Q5",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:...432 ..K.98 ...AKJ ..9.Q5",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs. South will know that the club finesse cannot gain."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:...432 ..K.98 ...AKJ ..9.Q5",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The advantage of playing this way is that the contract will make when East has a doubleton ♣Q. On the ♥Q, West will have to come down to 2 clubs. South will know that the club finesse cannot gain. The ♣A and ♣K will drop East's doubleton ♣Q."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.Q..432 ..K.987 ..Q.AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HJ",
+        "N": "CT",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The above position is known as a show up squeeze."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.Q..432 ..K.987 ..Q.AKJ ..98.Q5",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HJ",
+        "N": "CT",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The above position is known as a show up squeeze. A show up squeeze will make a finesse unnecessary and will allow declarer to have an extra chance of dropping an offside honour when the finesse was losing."
+    }
+  ]
+}

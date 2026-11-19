@@ -1,0 +1,657 @@
+{
+  "title": "Level 4 (Expert) - A-25",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-25",
+  "deal_pbn": "S:654.AKQ432.6.A54 JT9.JT9.AQJT98.J A32.65.K5432.K32 KQ87.87.7.QT9876",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2D",
+    "Pass",
+    "2H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DA",
+  "par_tricks": 10,
+  "notes": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2. East might be able to ruff North's ♦K giving the contract almost no hope.\n\nAfter a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves. South should pitch a spade or a club loser. South can later draw trumps and take 10 tricks.\n\nIf East follows at trick 2, South should ruff. This early ruff will put South in a good position if trumps are 4-1. In this case South will need to establish North's diamonds.",
+  "commentary_paragraphs": [
+    "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2. East might be able to ruff North's ♦K giving the contract almost no hope.",
+    "After a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves. South should pitch a spade or a club loser. South can later draw trumps and take 10 tricks.",
+    "If East follows at trick 2, South should ruff. This early ruff will put South in a good position if trumps are 4-1. In this case South will need to establish North's diamonds."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "D6"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:654.AKQ432.6.A54 JT9.JT9.AQJT98.J A32.65.K5432.K32 KQ87.87.7.QT9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:654.AKQ432.6.A54 JT9.JT9.QJT98.J A32.65.K5432.K32 KQ87.87.7.QT9876",
+      "trick_cards": {
+        "W": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:654.AKQ432.6.A54 JT9.JT9.QJT98.J A32.65.K543.K32 KQ87.87.7.QT9876",
+      "trick_cards": {
+        "W": "DA",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:654.AKQ432.6.A54 JT9.JT9.QJT98.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "DA",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT98.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DA",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT98.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DA",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A, and continues diamonds."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A, and continues diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ],
+          "D": [
+            "K"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2. East might be able to ruff North's ♦K"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.543.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DK",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2. East might be able to ruff North's ♦K"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.543.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DK",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A, and continues diamonds. South appears to have 10 tricks as long as trumps break 3-2 (the ♠A, 6 heart tricks, the ♦K, and 2 club tricks). It would be a mistake to play the ♦K at trick 2. East might be able to ruff North's ♦K giving the contract almost no hope."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K543.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After a low diamond is played from dummy,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.87..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy, East might still ruff."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After a low diamond is played from dummy, East might still ruff."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:654.KQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:654.KQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:654.AKQ432..A54 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "5",
+            "4"
+          ],
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves. South should pitch a spade or a club loser."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:654.AKQ432..A5 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "S": "C4",
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves. South should pitch a spade or a club loser."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:654.AKQ432..A5 JT9.JT9.QJT9.J A32.65.K54.K32 KQ87.8..QT9876",
+      "trick_cards": {
+        "S": "C4",
+        "W": "D8",
+        "N": "D3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After a low diamond is played from dummy, East might still ruff. If South overruffs, the defense may have promoted a trump trick for themselves. South should pitch a spade or a club loser. South can later draw trumps and take 10 tricks."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:654.AKQ432..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.J9.J76",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East follows at trick 2,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:654.AKQ432..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.9.J76",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows at trick 2,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:654.AKQ432..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.9.J76",
+      "trick_cards": {
+        "W": "D8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East follows at trick 2, South should ruff."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:654.AKQ43..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.9.J76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows at trick 2, South should ruff."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:654.AKQ43..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.9.J76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East follows at trick 2, South should ruff. This early ruff will put South in a good position if trumps are 4-1."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:654.AKQ43..A54 JT97.8.QT.QT98 A32.65.K54.K32 KQ8.JT97.9.J76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East follows at trick 2, South should ruff. This early ruff will put South in a good position if trumps are 4-1. In this case South will need to establish North's diamonds."
+    }
+  ]
+}

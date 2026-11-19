@@ -1,0 +1,879 @@
+{
+  "title": "Level 5 (World Class) - A-7",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-7",
+  "deal_pbn": "S:.Q4.AK32.KQJ9876 543.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+  "contract": "6C",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "3S",
+    "5C",
+    "Pass",
+    "6C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S3",
+  "par_tricks": 12,
+  "notes": "West leads the ♠3 against 6♣. It looks like a Morton's Fork coup. South will eventually lead the ♥4 placing West on the horns of a dilemma.\n\nIf West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance). If West takes the ♥A, South will have a discard in hearts as well as spades. South will not lose a diamond trick.\n\nThere is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1, East might duck. South would be forced to discard too early, destroying the Morton's Fork.\n\nThe contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K and sets up a spade trick for a heart discard. South will lose only a diamond trick.\n\nIf West takes the ♥A, North has a discard available in hearts for 1 of South's diamonds. North has sufficient trump entries left to set up and also enjoy a spade winner for another diamond discard.",
+  "commentary_paragraphs": [
+    "West leads the ♠3 against 6♣. It looks like a Morton's Fork coup. South will eventually lead the ♥4 placing West on the horns of a dilemma.",
+    "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance). If West takes the ♥A, South will have a discard in hearts as well as spades. South will not lose a diamond trick.",
+    "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1, East might duck. South would be forced to discard too early, destroying the Morton's Fork.",
+    "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K and sets up a spade trick for a heart discard. South will lose only a diamond trick.",
+    "If West takes the ♥A, North has a discard available in hearts for 1 of South's diamonds. North has sufficient trump entries left to set up and also enjoy a spade winner for another diamond discard."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 543.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 6♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠3 against 6♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 6♣. It looks like a Morton's Fork coup. South will eventually lead the ♥4 placing West on the horns of a dilemma."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4"
+          ]
+        },
+        "W": {
+          "H": [
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4"
+          ]
+        },
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance). If West takes the ♥A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ],
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance). If West takes the ♥A, South will have a discard in hearts as well as spades."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West plays low, the ♥K will win. South can discard the ♥Q on dummy's spade winner and concede just a diamond trick (diamonds must be 3-2 for the contract to have a chance). If West takes the ♥A, South will have a discard in hearts as well as spades. South will not lose a diamond trick."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 K2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 K2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1, East might duck."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 K2.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1, East might duck."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 K2.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ],
+          "H": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There is only one possible problem. If North plays dummy's ♠Q or ♠K at trick 1, East might duck. South would be forced to discard too early, destroying the Morton's Fork."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ2.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT9876.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.Q4.AK32.KQJ9876 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.Q4.AK32.KQJ987 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "S": "C6",
+        "W": "S3",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.Q4.AK32.KQJ987 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "S": "C6",
+        "W": "S3",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.Q4.AK32.QJ987 54.AJT98.QJT.32 KQ.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.Q4.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT5 AJT987.765.98.4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.Q4.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.Q4.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.Q4.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.32.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.32.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K and sets up a spade trick for a heart discard."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT9.QJT.3 KQ.32.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The contract can be made if South plays low from dummy at trick 1 and ruffs in the closed hand. South draws 1 round of trumps, making sure to play the ♣5 from dummy, and plays the ♥4. West has to make his decision before South. If West ducks, South wins the ♥K and sets up a spade trick for a heart discard. South will lose only a diamond trick."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.AJT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West takes the ♥A,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K32.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West takes the ♥A,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K3.7654.AT AJT987.765.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA",
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West takes the ♥A,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K3.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West takes the ♥A,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K3.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West takes the ♥A, North has a discard available in hearts for 1 of South's diamonds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K3.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West takes the ♥A, North has a discard available in hearts for 1 of South's diamonds. North has sufficient trump entries left"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.Q.AK32.QJ987 54.JT98.QJT.3 KQ.K3.7654.AT AJT987.76.98.",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HA",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West takes the ♥A, North has a discard available in hearts for 1 of South's diamonds. North has sufficient trump entries left to set up and also enjoy a spade winner for another diamond discard."
+    }
+  ]
+}

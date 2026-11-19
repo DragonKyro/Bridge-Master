@@ -1,0 +1,566 @@
+{
+  "title": "Level 2 (Intermediate) - A-4",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-4",
+  "deal_pbn": "S:432.QJT98.K2.AKQ AK87.7.6543.7654 65.A65432.QJT.32 QJT9.K.A987.JT98",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SA",
+  "par_tricks": 10,
+  "notes": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs. His only concern is to find the ♥K.\n\nOn the above lie of the cards, South can only pick up the hearts by dropping East's singleton ♥K. If West has both outstanding hearts, however, he must be finessed for the ♥K.\n\nPlaying for the drop is actually the percentage play. When you have an 11 card fit missing the King, play for the drop, don't finesse. A 1-1 break is more likely than a 2-0 break.",
+  "commentary_paragraphs": [
+    "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs. His only concern is to find the ♥K.",
+    "On the above lie of the cards, South can only pick up the hearts by dropping East's singleton ♥K. If West has both outstanding hearts, however, he must be finessed for the ♥K.",
+    "Playing for the drop is actually the percentage play. When you have an 11 card fit missing the King, play for the drop, don't finesse. A 1-1 break is more likely than a 2-0 break."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 5,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.QJT98.K2.AKQ AK87.7.6543.7654 65.A65432.QJT.32 QJT9.K.A987.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.QJT98.K2.AKQ K87.7.6543.7654 65.A65432.QJT.32 QJT9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.QJT98.K2.AKQ K87.7.6543.7654 6.A65432.QJT.32 QJT9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.QJT98.K2.AKQ K87.7.6543.7654 6.A65432.QJT.32 JT9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S5",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:43.QJT98.K2.AKQ K87.7.6543.7654 6.A65432.QJT.32 JT9.K.A987.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SA",
+        "N": "S5",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:43.QJT98.K2.AKQ 87.7.6543.7654 6.A65432.QJT.32 JT9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:43.QJT98.K2.AKQ 87.7.6543.7654 .A65432.QJT.32 JT9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:43.QJT98.K2.AKQ 87.7.6543.7654 .A65432.QJT.32 T9.K.A987.JT98",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:4.QJT98.K2.AKQ 87.7.6543.7654 .A65432.QJT.32 T9.K.A987.JT98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SK",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:4.QJT98.K2.AKQ 87.7.6543.7654 .A65432.QJT.32 T9.K.A987.JT98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SK",
+        "N": "S6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A ,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:4.QJT98.K2.AKQ 87.7.654.7654 .A65432.QJT.32 T9.K.A987.JT98",
+      "trick_cards": {
+        "W": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A ,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:4.QJT98.K2.AKQ 87.7.654.7654 .A65432.QJ.32 T9.K.A987.JT98",
+      "trick_cards": {
+        "W": "D3",
+        "N": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A ,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:4.QJT98.K2.AKQ 87.7.654.7654 .A65432.QJ.32 T9.K.987.JT98",
+      "trick_cards": {
+        "W": "D3",
+        "N": "DT",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A ,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:4.QJT98.K.AKQ 87.7.654.7654 .A65432.QJ.32 T9.K.987.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DT",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A ,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:4.QJT98.K.AKQ 87.7.654.7654 .A65432.QJ.32 T9.K.987.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DT",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:4.QJT98.K.AKQ 87.7.654.7654 .A65432.QJ.32 T9.K.987.T98",
+      "trick_cards": {
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.7654 .A65432.QJ.32 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.32 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After the defense cashes 2 spade tricks and the ♦A , South gains the lead in clubs. His only concern is to find the ♥K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can only pick up the hearts"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can only pick up the hearts by dropping East's singleton ♥K."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.K7.54.765 .A65432.QJ.3 T9..9876.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can only pick up the hearts by dropping East's singleton ♥K. If West has both outstanding hearts, however, he must be finessed"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.K7.54.765 .A65432.QJ.3 T9..9876.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can only pick up the hearts by dropping East's singleton ♥K. If West has both outstanding hearts, however, he must be finessed for the ♥K."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Playing for the drop is actually the percentage play. When you have an 11 card fit missing the King, play for the drop, don't finesse."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.7.654.765 .A65432.QJ.3 T9.K.987.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing for the drop is actually the percentage play. When you have an 11 card fit missing the King, play for the drop, don't finesse. A 1-1 break is more likely"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:4.QJT98.K.KQ 87.K7.54.765 .A65432.QJ.3 T9..9876.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing for the drop is actually the percentage play. When you have an 11 card fit missing the King, play for the drop, don't finesse. A 1-1 break is more likely than a 2-0 break."
+    }
+  ]
+}

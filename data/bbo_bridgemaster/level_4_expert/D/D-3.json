@@ -1,0 +1,1764 @@
+{
+  "title": "Level 4 (Expert) - D-3",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-3",
+  "deal_pbn": "S:32.AKT987.2.AJT9 98.Q543.T9843.K8 AK7654.J6.QJ.Q76 QJT.2.AK765.5432",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2H",
+    "Pass",
+    "2S",
+    "Pass",
+    "3C",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DT",
+  "par_tricks": 10,
+  "notes": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff. The contract looks easy as there appear to be only 2 other possible losers (1 each in hearts and clubs). If the club finesse is wrong and hearts are 4-1, however, South has to be careful in order to maintain trump control.\n\nFor example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West, he will be free to run the diamond suit.\n\nSouth can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense and is able to ruff West's diamond return and win the rest of the tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff. The contract looks easy as there appear to be only 2 other possible losers (1 each in hearts and clubs). If the club finesse is wrong and hearts are 4-1, however, South has to be careful in order to maintain trump control.",
+    "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West, he will be free to run the diamond suit.",
+    "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense and is able to ruff West's diamond return and win the rest of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H7"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "H7"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 49,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 50,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 58,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 64,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 65,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 67,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "H3"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 70,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 71,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 72,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 73,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 74,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 75,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 76,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 77,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 78,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 80,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 81,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 82,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 83,
+      "seat": "E",
+      "card": "C4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AKT987.2.AJT9 98.Q543.T9843.K8 AK7654.J6.QJ.Q76 QJT.2.AK765.5432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AKT987.2.AJT9 98.Q543.9843.K8 AK7654.J6.QJ.Q76 QJT.2.AK765.5432",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AKT987.2.AJT9 98.Q543.9843.K8 AK7654.J6.QJ.Q76 QJT.2.AK765.5432",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AKT987.2.AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.AK765.5432",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.AKT987.2.AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.A765.5432",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.AKT987..AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.A765.5432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.AKT987..AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.A765.5432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DJ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.AKT987..AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.9843.K8 AK7654.J6.Q.Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6.Q.Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "7",
+            "6"
+          ],
+          "H": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff. The contract looks easy as there appear to be only 2 other possible losers (1 each in hearts and clubs)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "8"
+          ],
+          "H": [
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "7",
+            "6"
+          ],
+          "H": [
+            "J",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 4♥. East wins the ♦K and continues with the ♦A for South to ruff. The contract looks easy as there appear to be only 2 other possible losers (1 each in hearts and clubs). If the club finesse is wrong and hearts are 4-1, however, South has to be careful in order to maintain trump control."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.KT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.KT98..AJT9 98.Q54.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.KT98..AJT9 98.Q54.984.K8 AK7654.J..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.KT98..AJT9 98.Q54.984.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3",
+        "N": "H6",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.T98..AJT9 98.Q54.984.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.T98..AJT9 98.Q5.984.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.T98..AJT9 98.Q5.984.K8 AK7654...Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.T98..AJT9 98.Q5.984.K8 AK7654...Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.T98..AJT9 98.Q5.984.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "HJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.T98..AJT9 98.Q5.984.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "HJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.98..AJT9 98.Q5.984.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.98..AJT9 98.5.984.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "HT",
+        "W": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.98..AJT9 98.5.984.K8 AK765...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "HT",
+        "W": "HQ",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:32.98..AJT9 98.5.984.K8 AK765...Q76 QJT..7.5432",
+      "trick_cards": {
+        "S": "HT",
+        "W": "HQ",
+        "N": "S4",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:32.98..AJT9 98.5.984.K8 AK765...Q76 QJT..7.5432",
+      "trick_cards": {
+        "S": "HT",
+        "W": "HQ",
+        "N": "S4",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:32.98..AJT9 98.5.84.K8 AK765...Q76 QJT..7.5432",
+      "trick_cards": {
+        "W": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.98..AJT9 98.5.84.K8 AK76...Q76 QJT..7.5432",
+      "trick_cards": {
+        "W": "D9",
+        "N": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.98..AJT9 98.5.84.K8 AK76...Q76 QJT...5432",
+      "trick_cards": {
+        "W": "D9",
+        "N": "S5",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32.9..AJT9 98.5.84.K8 AK76...Q76 QJT...5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "D9",
+        "N": "S5",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:32.9..AJT9 98.5.84.K8 AK76...Q76 QJT...5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "D9",
+        "N": "S5",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9"
+          ]
+        },
+        "W": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:32...AJT9 98.5.84.K8 AK76...Q76 QJT...5432",
+      "trick_cards": {
+        "S": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:32...AJT9 98..84.K8 AK76...Q76 QJT...5432",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:32...AJT9 98..84.K8 AK7...Q76 QJT...5432",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:32...AJT9 98..84.K8 AK7...Q76 QJT...543",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "S6",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:32...AJT9 98..84.K8 AK7...Q76 QJT...543",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "S6",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:3...AJT9 98..84.K8 AK7...Q76 QJT...543",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:3...AJT9 9..84.K8 AK7...Q76 QJT...543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:3...AJT9 9..84.K8 A7...Q76 QJT...543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:3...AJT9 9..84.K8 A7...Q76 QJ...543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SK",
+        "E": "ST"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:3...AJT9 9..84.K8 A7...Q76 QJ...543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SK",
+        "E": "ST"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:3...AJT9 9..84.K8 A7...76 QJ...543",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:3...AJT9 9..84.K8 A7...76 QJ...54",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:3...AJT 9..84.K8 A7...76 QJ...54",
+      "trick_cards": {
+        "S": "C9",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:3...AJT 9..84.8 A7...76 QJ...54",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:3...AJT 9..84.8 A7...76 QJ...54",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "For example, South lays down the ♥A and ♥K and East discards. South drives out the ♥Q, but West's diamond return forces the South hand in trump. South draws West's last trump and crosses to the dummy in spades. When the club finesse loses to West, he will be free to run the diamond suit."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:32.AKT98..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H7",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:32.AKT9..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:32.AKT9..AJT9 98.Q543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.984.K8 AK7654.J6..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.984.K8 AK7654.J..Q76 QJT.2.765.5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HQ",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.984.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HQ",
+        "N": "H6",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.984.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HQ",
+        "N": "H6",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.84.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "W": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.84.K8 AK7654.J..Q76 QJT..765.5432",
+      "trick_cards": {
+        "W": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.84.K8 AK7654...Q76 QJT..765.5432",
+      "trick_cards": {
+        "W": "D9",
+        "N": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:32.AKT9..AJT9 98.543.84.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "W": "D9",
+        "N": "HJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:32.AKT9..AJT 98.543.84.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "C9",
+        "W": "D9",
+        "N": "HJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:32.AKT9..AJT 98.543.84.K8 AK7654...Q76 QJT..76.5432",
+      "trick_cards": {
+        "S": "C9",
+        "W": "D9",
+        "N": "HJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:32.AKT9..AJT 98.543.84.K8 AK7654...Q7 QJT..76.5432",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:32.AKT9..AJT 98.543.84.K8 AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "N": "C6",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:32.AKT9..JT 98.543.84.K8 AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C6",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:32.AKT9..JT 98.543.84.K AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C6",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:32.AKT9..JT 98.543.84.K AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C6",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:32.KT9..JT 98.543.84.K AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:32.KT9..JT 98.54.84.K AK7654...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:32.KT9..JT 98.54.84.K AK765...Q7 QJT..76.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:32.KT9..JT 98.54.84.K AK765...Q7 QJT..7.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3",
+        "N": "S4",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:32.T9..JT 98.54.84.K AK765...Q7 QJT..7.543",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:32.T9..JT 98.5.84.K AK765...Q7 QJT..7.543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:32.T9..JT 98.5.84.K AK76...Q7 QJT..7.543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:32.T9..JT 98.5.84.K AK76...Q7 QJT...543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H4",
+        "N": "S5",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:32.9..JT 98.5.84.K AK76...Q7 QJT...543",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:32.9..JT 98..84.K AK76...Q7 QJT...543",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:32.9..JT 98..84.K AK7...Q7 QJT...543",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5",
+        "N": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:32.9..JT 98..84.K AK7...Q7 QJT...54",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5",
+        "N": "S6",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump."
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:32.9..JT 98..84.K AK7...Q7 QJT...54",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5",
+        "N": "S6",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "T"
+          ]
+        },
+        "W": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense"
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:32.9..J 98..84.K AK7...Q7 QJT...54",
+      "trick_cards": {
+        "S": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense"
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:32.9..J 98..84. AK7...Q7 QJT...54",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense"
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:32.9..J 98..84. AK7...Q QJT...54",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense"
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:32.9..J 98..84. AK7...Q QJT...5",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "C7",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense"
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:32.9..J 98..84. AK7...Q QJT...5",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "C7",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by surrendering a heart trick on the first round of the suit. West can do no better than to win the ♥Q and lead another diamond. South should take the ruff in dummy and return to the ♣A in order to draw the rest of the trump. South then surrenders a club trick to the defense and is able to ruff West's diamond return and win the rest of the tricks."
+    }
+  ]
+}

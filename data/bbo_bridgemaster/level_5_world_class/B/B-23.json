@@ -1,0 +1,989 @@
+{
+  "title": "Level 5 (World Class) - B-23",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "B-23",
+  "deal_pbn": "S:KQ65432.AK32.2.A 8.QJT987.KJT9.98 A7.54.A43.765432 JT9.6.Q8765.KQJT",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3H",
+    "Pass",
+    "3S",
+    "Pass",
+    "4C",
+    "Pass",
+    "4D",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A before leading a second heart to guard against East having a singleton heart.\n\nEast cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A. A trump trick has likely been promoted for East, but he will use it to overruff the dummy when South's last heart is ruffed.\n\nThe only danger remaining is that the defense may be able to promote a second trump trick. South must figure out the best way to return to his hand to minimize this danger. If South returns to the ♣A the contract will fail whenever East has 5 clubs. If South returns to his hand with a diamond ruff the contract will fail whenever East has 7 diamonds.\n\nThe 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low, draw trump, and take the balance.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A before leading a second heart to guard against East having a singleton heart.",
+    "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A. A trump trick has likely been promoted for East, but he will use it to overruff the dummy when South's last heart is ruffed.",
+    "The only danger remaining is that the defense may be able to promote a second trump trick. South must figure out the best way to return to his hand to minimize this danger. If South returns to the ♣A the contract will fail whenever East has 5 clubs. If South returns to his hand with a diamond ruff the contract will fail whenever East has 7 diamonds.",
+    "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low, draw trump, and take the balance."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "D4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ65432.AK32.2.A 8.QJT987.KJT9.98 A7.54.A43.765432 JT9.6.Q8765.KQJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ65432.AK32.2.A 8.JT987.KJT9.98 A7.54.A43.765432 JT9.6.Q8765.KQJT",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ65432.AK32.2.A 8.JT987.KJT9.98 A7.54.A43.765432 JT9.6.Q8765.KQJT",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ65432.AK32.2.A 8.JT987.KJT9.98 A7.5.A43.765432 JT9.6.Q8765.KQJT",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ65432.AK32.2.A 8.JT987.KJT9.98 A7.5.A43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ65432.K32.2.A 8.JT987.KJT9.98 A7.5.A43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ65432.K32.2.A 8.JT987.KJT9.98 A7.5.A43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT9.98 A7.5.A43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7.5.A43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7.5.43.765432 JT9..Q8765.KQJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7.5.43.765432 JT9..Q876.KQJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7.5.43.765432 JT9..Q876.KQJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A before leading a second heart to guard against East having a singleton heart."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7..43.765432 JT9..Q876.KQJT",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. West's opening heart lead is won in the closed hand. South should cross to the ♦A before leading a second heart to guard against East having a singleton heart."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7..43.765432 JT9..Q876.KQJT",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "East cannot gain by ruffing."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7..43.765432 JT9..Q876.KQJT",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "East cannot gain by ruffing. He will discard and South wins."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ65432.K32..A 8.JT987.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "N": "H5",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ65432.32..A 8.JT987.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H5",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ65432.32..A 8.JT98.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ65432.32..A 8.JT98.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ65432.3..A 8.JT98.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ65432.3..A 8.JT9.KJT.98 A7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ65432.3..A 8.JT9.KJT.98 7..43.765432 JT9..Q876.KQJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ65432.3..A 8.JT9.KJT.98 7..43.765432 JT9..Q87.KQJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ65432.3..A 8.JT9.KJT.98 7..43.765432 JT9..Q87.KQJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "East cannot gain by ruffing. He will discard and South wins. South should play a heart and ruff with the ♠A. A trump trick has likely been promoted for East, but he will use it to overruff the dummy when South's last heart is ruffed."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ65432.3..A 8.JT9.KJT.98 7..43.765432 JT9..Q87.KQJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The only danger remaining is that the defense may be able to promote a second trump trick. South must figure out the best way to return to his hand to minimize this danger."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.KJT.9 7..43.765432 JT..Q87.KQJ8",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The only danger remaining is that the defense may be able to promote a second trump trick. South must figure out the best way to return to his hand to minimize this danger. If South returns to the ♣A the contract will fail whenever East has 5 clubs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.T.KJ9 7..43.765432 JT..KQJ87.Q8",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The only danger remaining is that the defense may be able to promote a second trump trick. South must figure out the best way to return to his hand to minimize this danger. If South returns to the ♣A the contract will fail whenever East has 5 clubs. If South returns to his hand with a diamond ruff the contract will fail whenever East has 7 diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.T.KJ9 7..43.765432 JT..KQJ87.Q8",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.KJT.9 7..43.765432 JT..Q87.KQJ8",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.KJT.9 7..43.765432 JT..Q87.KQJ8",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "SA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.KJT.9 7..4.765432 JT..Q87.KQJ8",
+      "trick_cards": {
+        "N": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ65432.3..A 98.JT9.KJT.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ6543.3..A 98.JT9.KJT.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "S2",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ6543.3..A 98.JT9.KJ.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ6543.3..A 98.JT9.KJ.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ6543...A 98.JT9.KJ.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ6543...A 98.JT.KJ.9 7..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ6543...A 98.JT.KJ.9 ..4.765432 JT..Q8.KQJ8",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQ6543...A 98.JT.KJ.9 ..4.765432 J..Q8.KQJ8",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "S7",
+        "E": "ST"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQ6543...A 98.JT.KJ.9 ..4.765432 J..Q8.KQJ8",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "S7",
+        "E": "ST"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KQ6543...A 98.JT.KJ.9 ..4.765432 J..Q.KQJ8",
+      "trick_cards": {
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KQ654...A 98.JT.KJ.9 ..4.765432 J..Q.KQJ8",
+      "trick_cards": {
+        "S": "S3",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KQ654...A 98.JT.K.9 ..4.765432 J..Q.KQJ8",
+      "trick_cards": {
+        "S": "S3",
+        "W": "DJ",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQ654...A 98.JT.K.9 ...765432 J..Q.KQJ8",
+      "trick_cards": {
+        "S": "S3",
+        "W": "DJ",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQ654...A 98.JT.K.9 ...765432 J..Q.KQJ8",
+      "trick_cards": {
+        "S": "S3",
+        "W": "DJ",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The 7-2 diamond break is less likely than the 5-1 club break especially considering the defenders' silence in the bidding. South should return to his hand with a diamond ruff. South's last heart is ruffed in dummy and overruffed by East. On East's diamond return, South can ruff low, draw trump, and take the balance."
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "title": "Level 4 (Expert) - A-29",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-29",
+  "deal_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.KQJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "2S",
+    "Pass",
+    "3H",
+    "Pass",
+    "4C",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 12,
+  "notes": "West leads the ♣K against 6NT. There are 11 top tricks (3 in spades, 4 in hearts, 3 in diamonds, and the ♣A). There are 2 chances. A defender (presumably East) might have started with 4 spades and a singleton club. He can be given a spade trick on the fourth round, establishing a long card for North.\n\nSouth may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count. West will switch to spades ruining the timing for the squeeze.\n\nSouth can succeed by winning the ♣A and squeezing West without the count. South next runs his hearts and diamonds pitching a low spade from North on the penultimate winner.\n\nWest is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick, setting up a winner in the dummy.\n\nSouth has to decide which opponent to play for length in spades. Both lines of play require winning the opening lead with the ♣A. South should next cash the hearts. When West has only 1 heart, he is a favourite to hold long spades and the squeeze without the count is the correct play.\n\nWhen West has 2 hearts, the decision is close, but West should still be played for length in spades. When West has 3 or more hearts, East should be played for length in spades.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 6NT. There are 11 top tricks (3 in spades, 4 in hearts, 3 in diamonds, and the ♣A). There are 2 chances. A defender (presumably East) might have started with 4 spades and a singleton club. He can be given a spade trick on the fourth round, establishing a long card for North.",
+    "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count. West will switch to spades ruining the timing for the squeeze.",
+    "South can succeed by winning the ♣A and squeezing West without the count. South next runs his hearts and diamonds pitching a low spade from North on the penultimate winner.",
+    "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick, setting up a winner in the dummy.",
+    "South has to decide which opponent to play for length in spades. Both lines of play require winning the opening lead with the ♣A. South should next cash the hearts. When West has only 1 heart, he is a favourite to hold long spades and the squeeze without the count is the correct play.",
+    "When West has 2 hearts, the decision is close, but West should still be played for length in spades. When West has 3 or more hearts, East should be played for length in spades."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "C8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.KQJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "W": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6NT. There are 11 top tricks (3 in spades, 4 in hearts, 3 in diamonds, and the ♣A). There are 2 chances."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 987.765.543.QJ9 AKQ32.432.A2.T76 JT65.T98.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "8"
+          ],
+          "S": [
+            "J",
+            "T",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6NT. There are 11 top tricks (3 in spades, 4 in hearts, 3 in diamonds, and the ♣A). There are 2 chances. A defender (presumably East) might have started with 4 spades and a singleton club."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 987.765.543.QJ9 AKQ32.432.A2.T76 JT65.T98.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6NT. There are 11 top tricks (3 in spades, 4 in hearts, 3 in diamonds, and the ♣A). There are 2 chances. A defender (presumably East) might have started with 4 spades and a singleton club. He can be given a spade trick on the fourth round, establishing a long card for North."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "9"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T76 65.T9876.T9876.8",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.8",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:4.AKQJ.KQJ.A543 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:4.AKQJ.KQJ.A543 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count. West will switch to spades"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:4.AKQJ.KQJ.A543 T987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count. West will switch to spades"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:4.AKQJ.KQJ.A543 T987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South may also be able to squeeze West, if West has length in spades as well as clubs. There are 2 losers, but South cannot afford to duck the opening lead in an effort to rectify the count. West will switch to spades ruining the timing for the squeeze."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:4.AKQJ.KQJ.A5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed by winning the ♣A and squeezing West without the count."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed by winning the ♣A and squeezing West without the count."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can succeed by winning the ♣A and squeezing West without the count. South next runs his hearts and diamonds pitching a low spade from North on the penultimate winner."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:4.A..5432 JT98...QJ AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C9",
+        "N": "S2",
+        "E": "H8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:4...5432 JT98...QJ AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:4...5432 JT98...QJ AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner. A spade discard"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:4...5432 JT9...QJ AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:4...5432 JT9...QJ AKQ3...T 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:4...5432 JT9...QJ AKQ3...T 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North)."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:4...5432 JT98...QJ AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:4...5432 JT98...Q AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:4...5432 JT98...Q AKQ3...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:4...5432 JT98...Q AKQ...T7 65.T9.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "CJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:4...5432 JT98...Q AKQ...T7 65.T.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "CJ",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:4...5432 JT98...Q AKQ...T7 65.T.T9.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "CJ",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:4...543 JT98...Q AKQ...T7 65.T.T9.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:4...543 JT98... AKQ...T7 65.T.T9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:4...543 JT98... AKQ...T 65.T.T9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CQ",
+        "N": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:4...543 JT98... AKQ...T 65.T.T.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CQ",
+        "N": "C7",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:4...543 JT98... AKQ...T 65.T.T.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CQ",
+        "N": "C7",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West is squeezed when South leads his last winner. A spade discard gives up a trick immediately (a club is discarded from North). A club discard allows South to pitch a spade from North and give West a club trick, setting up a winner in the dummy."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has to decide which opponent to play for length in spades."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has to decide which opponent to play for length in spades. Both lines of play require winning the opening lead with the ♣A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has to decide which opponent to play for length in spades. Both lines of play require winning the opening lead with the ♣A. South should next cash the hearts."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.5.543.QJ9 AKQ32.432.A2.T7 65.T9876.T9876.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has to decide which opponent to play for length in spades. Both lines of play require winning the opening lead with the ♣A. South should next cash the hearts. When West has only 1 heart, he is a favourite to hold long spades and the squeeze without the count is the correct play."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT987.65.43.QJ9 AKQ32.432.A2.T7 65.T987.T98765.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6",
+            "5"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When West has 2 hearts, the decision is close, but West should still be played for length in spades."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:4.AKQJ.KQJ.5432 JT9.765.765.QJ9 AKQ32.432.A2.T7 8765.T98.T9843.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "When West has 2 hearts, the decision is close, but West should still be played for length in spades. When West has 3 or more hearts, East should be played for length in spades."
+    }
+  ]
+}

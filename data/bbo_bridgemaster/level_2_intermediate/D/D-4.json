@@ -1,0 +1,1436 @@
+{
+  "title": "Level 2 (Intermediate) - D-4",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-4",
+  "deal_pbn": "S:Q432.KQ4.K2.JT98 JT98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "1D",
+    "Pass",
+    "1NT",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K.\n\nIf West, who must have the ♦A given his opening bid, wins the trick there will be no further problems if the East-West diamonds were originally distributed 3-2. If West was dealt a singleton ♦A, however, the contract will fail. On this layout East will have to win a second diamond trick for the defense before South can establish the suit. The defense will then be able to take 3 club tricks to defeat the contract.\n\nCareful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q, and using dummy's ♥A as an entry to dummy's remaining diamond winners.\n\nIf West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit. The dummy's remaining entry can be used to access the rest of the diamonds.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K.",
+    "If West, who must have the ♦A given his opening bid, wins the trick there will be no further problems if the East-West diamonds were originally distributed 3-2. If West was dealt a singleton ♦A, however, the contract will fail. On this layout East will have to win a second diamond trick for the defense before South can establish the suit. The defense will then be able to take 3 club tricks to defeat the contract.",
+    "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q, and using dummy's ♥A as an entry to dummy's remaining diamond winners.",
+    "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit. The dummy's remaining entry can be used to access the rest of the diamonds."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 49,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 53,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 58,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 61,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 62,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 63,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 64,
+      "seat": "W",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 JT98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts)."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ AK.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ7654.432 765.J653.983.765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q432.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ7654.432 76.J653.983.765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ7654.432 76.J653.983.765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ7654.432 76.J653.983.765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ765.432 76.J653.983.765",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.AT.AKQ A.A2.QJ765.432 76.J653.98.765",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987.AT.AKQ A.A2.QJ765.432 76.J653.98.765",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. There are 6 top tricks (3 spades and 3 hearts). The diamond suit has the potential to deliver 5 extra tricks after the ♦A is dislodged. After winning West's spade opening lead in dummy, the natural continuation is to play a low diamond to South's ♦K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987.AT.AKQ A.A2.QJ765.432 76.J653.98.765",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West, who must have the ♦A given his opening bid, wins the trick"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987.T.AKQ A.A2.QJ765.432 76.J653.98.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West, who must have the ♦A given his opening bid, wins the trick"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987.T.AKQ A.A2.QJ765.432 76.J653.98.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West, who must have the ♦A given his opening bid, wins the trick there will be no further problems if the East-West diamonds were originally distributed 3-2."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987..AKQ5 A.A2.QJ765.432 76.J653.T98.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West, who must have the ♦A given his opening bid, wins the trick there will be no further problems if the East-West diamonds were originally distributed 3-2. If West was dealt a singleton ♦A, however, the contract will fail. On this layout East will have to win a second diamond trick for the defense before South can establish the suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q43.KQ4.2.JT98 T98.T987..AKQ5 A.A2.QJ765.432 76.J653.T98.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West, who must have the ♦A given his opening bid, wins the trick there will be no further problems if the East-West diamonds were originally distributed 3-2. If West was dealt a singleton ♦A, however, the contract will fail. On this layout East will have to win a second diamond trick for the defense before South can establish the suit. The defense will then be able to take 3 club tricks to defeat the contract."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.A.AKQ5 A.A2.QJ7654.432 76.J653.T983.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.A.AKQ5 A.A2.QJ7654.432 76.J653.T983.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.A.AKQ5 A.A.QJ7654.432 76.J653.T983.76",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q43.KQ4.K2.JT98 T98.T987.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q43.Q4.K2.JT98 T98.T987.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q43.Q4.K2.JT98 T98.T98.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q43.Q4.K2.JT98 T98.T98.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98.A.AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98..AKQ5 A.A.QJ7654.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98..AKQ5 A.A.QJ765.432 76.J65.T983.76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98..AKQ5 A.A.QJ765.432 76.J65.T98.76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T98..AKQ5 A.A.QJ765.432 76.J65.T98.76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "D4",
+        "E": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T9.T98..AKQ5 A.A.QJ765.432 76.J65.T98.76",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T9.T98..AKQ5 .A.QJ765.432 76.J65.T98.76",
+      "trick_cards": {
+        "W": "S8",
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T9.T98..AKQ5 .A.QJ765.432 7.J65.T98.76",
+      "trick_cards": {
+        "W": "S8",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q4.Q4.K.JT98 T9.T98..AKQ5 .A.QJ765.432 7.J65.T98.76",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q4.Q4.K.JT98 T9.T98..AKQ5 .A.QJ765.432 7.J65.T98.76",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q4.Q4.K.JT98 T9.T98..AKQ5 .A.QJ76.432 7.J65.T98.76",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:Q4.Q4.K.JT98 T9.T98..AKQ5 .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q4.Q4..JT98 T9.T98..AKQ5 .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q4.Q4..JT98 T9.T98..AKQ .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "C5",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q4.Q4..JT98 T9.T98..AKQ .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "C5",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:4.Q4..JT98 T9.T98..AKQ .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:4.Q4..JT98 T.T98..AKQ .A.QJ76.432 7.J65.T9.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:4.Q4..JT98 T.T98..AKQ .A.QJ76.43 7.J65.T9.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S9",
+        "N": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:4.Q4..JT98 T.T98..AKQ .A.QJ76.43 .J65.T9.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S9",
+        "N": "C2",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:4.Q4..JT98 T.T98..AKQ .A.QJ76.43 .J65.T9.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S9",
+        "N": "C2",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Careful play is required to guard against this diamond layout. South should cross to his hand in hearts at trick 2 and start the diamonds by leading the ♦2 toward the dummy. If West has the singleton ♦A he will win the trick and play another spade to the dummy. South can continue by unblocking the ♦K, cashing the ♠Q, and using dummy's ♥A as an entry to dummy's remaining diamond winners."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT9.AKQ A.A.QJ7654.432 76.J865.83.765",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.QJ7654.432 76.J865.83.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.Q7654.432 76.J865.83.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.Q7654.432 76.J865.8.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DJ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.Q7654.432 76.J865.8.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DJ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.Q765.432 76.J865.8.765",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:Q43.Q4.K.JT98 T98.T9.AT.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:Q43.Q4..JT98 T98.T9.AT.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:Q43.Q4..JT98 T98.T9.A.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:Q43.Q4..JT98 T98.T9.A.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T9.A.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A.A.Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A..Q765.432 76.J865..765",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H9",
+        "N": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A..Q765.432 76.J86..765",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H9",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A..Q765.432 76.J86..765",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H9",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A..Q76.432 76.J86..765",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:Q43.Q..JT98 T98.T.A.AKQ A..Q76.432 7.J86..765",
+      "trick_cards": {
+        "N": "D5",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:Q4.Q..JT98 T98.T.A.AKQ A..Q76.432 7.J86..765",
+      "trick_cards": {
+        "S": "S3",
+        "N": "D5",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:Q4.Q..JT98 T98.T..AKQ A..Q76.432 7.J86..765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "DA",
+        "N": "D5",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:Q4.Q..JT98 T98.T..AKQ A..Q76.432 7.J86..765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "DA",
+        "N": "D5",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "7",
+            "6"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 2 or 3 diamonds headed by the ♦A, he will duck the first round of the suit and dummy's ♦Q or ♦J will win the trick. South can continue with a diamond to his ♦K and West will duck again if he is able to. South is now able to cross to the dummy and lead a third round of diamonds to establish the suit. The dummy's remaining entry can be used to access the rest of the diamonds."
+    }
+  ]
+}

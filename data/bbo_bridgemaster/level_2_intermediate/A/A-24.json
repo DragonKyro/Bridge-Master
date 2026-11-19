@@ -1,0 +1,941 @@
+{
+  "title": "Level 2 (Intermediate) - A-24",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-24",
+  "deal_pbn": "S:KQ.A8765.AQ.K432 JT98.4.KJT9.9876 432.QJT9.32.AQJT A765.K32.87654.5",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4D",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club, right into dummy's powerful holding, South should worry about East having been dealt a singleton club.\n\nSouth is in danger of losing tricks to the ♥K and ♦K in addition to the ♠A. South can afford to lose those 3 tricks, but he cannot afford to have West give East a club ruff as well.\n\nSouth should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West, a club ruff will defeat the contract.\n\nTaking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff, leaving the fate of the contract dependent on the diamond finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club, right into dummy's powerful holding, South should worry about East having been dealt a singleton club.",
+    "South is in danger of losing tricks to the ♥K and ♦K in addition to the ♠A. South can afford to lose those 3 tricks, but he cannot afford to have West give East a club ruff as well.",
+    "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West, a club ruff will defeat the contract.",
+    "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff, leaving the fate of the contract dependent on the diamond finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ.A8765.AQ.K432 JT98.4.KJT9.9876 432.QJT9.32.AQJT A765.K32.87654.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ.A8765.AQ.K432 T98.4.KJT9.9876 432.QJT9.32.AQJT A765.K32.87654.5",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT A765.K32.87654.5",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT A765.K32.87654.5",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT 765.K32.87654.5",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT 765.K32.87654.5",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT 765.K32.87654.5",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K.A8765.AQ.K432 T98.4.KJT9.9876 43.QJT9.32.AQJT 765.K32.87654.",
+      "trick_cards": {
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.9876 43.QJT9.32.AQJT 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJT 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club, right into dummy's powerful holding,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. When East wins his ♠A and switches to a club, right into dummy's powerful holding, South should worry about East having been dealt a singleton club."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South is in danger of losing tricks to the ♥K and ♦K in addition to the ♠A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South is in danger of losing tricks to the ♥K and ♦K in addition to the ♠A. South can afford to lose those 3 tricks, but he cannot afford to have West give East a club ruff as well."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT9.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT.32.AQJ 765.K32.87654.",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.4.KJT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K.8765.AQ.K43 T98.4.KJT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K.8765.AQ.K43 T98..KJT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K.8765.AQ.K43 T98..KJT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KJT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.QJT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.K3.87654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "DJ",
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.3.87654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "DJ",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.3.87654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "DJ",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K.876.AQ.K43 T98..KT9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K.876.A.K43 T98..KT9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "S": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K.876.A.K43 T98..KT9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "S": "DQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K.876.A.K43 T98..T9.987 43.JT.32.AQJ 765.3.7654.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K.876.A.K43 T98..T9.987 43.JT.3.AQJ 765.3.7654.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K.876.A.K43 T98..T9.987 43.JT.3.AQJ 765.3.7654.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♥A and concede a heart trick to the ♥K. East wins the ♥K and returns a diamond. East has a trump left, making the diamond finesse too dangerous. Should that finesse lose to the ♦K in West, a club ruff will defeat the contract."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.K4.KJT.987 43.QJT9.32.AQJ 765.32.987654.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Taking an early heart finesse would be wrong as well."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.K4.KJT.987 43.JT9.32.AQJ 765.32.987654.",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:K.A8765.AQ.K43 T98.K4.KJT.987 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.K4.KJT.987 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "S": "H5",
+        "N": "HQ",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.K4.KJT.987 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "S": "H5",
+        "N": "HQ",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.4.KJT.987 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.4.KJT.987 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.4.KJT.98 43.JT9.32.AQJ 765.3.987654.",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.4.KJT.98 43.JT9.32.AQ 765.3.987654.",
+      "trick_cards": {
+        "W": "C7",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:K.A876.AQ.K43 T98.4.KJT.98 43.JT9.32.AQ 765..987654.",
+      "trick_cards": {
+        "W": "C7",
+        "N": "CJ",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:K.A876.AQ.K4 T98.4.KJT.98 43.JT9.32.AQ 765..987654.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "CJ",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:K.A876.AQ.K4 T98.4.KJT.98 43.JT9.32.AQ 765..987654.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "CJ",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Taking an early heart finesse would be wrong as well. If West was dealt the ♥K, East may get a club ruff, leaving the fate of the contract dependent on the diamond finesse."
+    }
+  ]
+}

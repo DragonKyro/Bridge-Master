@@ -1,0 +1,705 @@
+{
+  "title": "Level 2 (Intermediate) - D-9",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-9",
+  "deal_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "Pass",
+    "Pass",
+    "Pass",
+    "1H",
+    "Pass",
+    "2H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 10,
+  "notes": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump and to pass the ♦J for a finesse. On the actual layout, East wins the ♦K, and when the spade finesse loses, the contract fails.\n\nSouth was unlucky to lose both finesses, but given West's initial pass it was possible for South to guarantee the contract. West had shown up with the ♣A and ♣K so he could not have both of the missing Kings as well. With both the ♠K and the ♦K, West would have had at least 13 high card points and he would have opened the bidding.\n\nSouth should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J, and cross to the dummy in hearts. Dummy's 2 diamond winners can then be used to discard South's 2 spade losers.\n\nIf West was dealt the ♦K, he will take South's ♦J. However, South can now be certain that East was dealt the ♠K and he can finesse in that suit in order to make the contract. If West was dealt the ♠K in addition to the ♣A, ♣K, and ♦K that he has already played, he certainly would have opened the bidding.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump and to pass the ♦J for a finesse. On the actual layout, East wins the ♦K, and when the spade finesse loses, the contract fails.",
+    "South was unlucky to lose both finesses, but given West's initial pass it was possible for South to guarantee the contract. West had shown up with the ♣A and ♣K so he could not have both of the missing Kings as well. With both the ♠K and the ♦K, West would have had at least 13 high card points and he would have opened the bidding.",
+    "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J, and cross to the dummy in hearts. Dummy's 2 diamond winners can then be used to discard South's 2 spade losers.",
+    "If West was dealt the ♦K, he will take South's ♦J. However, South can now be certain that East was dealt the ♠K and he can finesse in that suit in order to make the contract. If West was dealt the ♠K in addition to the ♣A, ♣K, and ♦K that he has already played, he certainly would have opened the bidding."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "C5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.A987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.A987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.A987 543.JT98.AQ43.3 T982.5.KT98.J654",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.A987 543.JT98.AQ43.3 T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A987 543.JT98.AQ43.3 T982.5.KT98.J65",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43.3 T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J65",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J6",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J6",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump and to pass the ♦J for a finesse. On the actual layout, East wins the ♦K,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J6",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump and to pass the ♦J for a finesse. On the actual layout, East wins the ♦K,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AQJ.AKQ432.J2.Q K76.76.765.A98 543.JT98.AQ43. T982.5.KT98.J6",
+      "trick_cards": {
+        "W": "C7",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 4♥. West wins the first 2 tricks in clubs and switches to a trump. The straightforward play is to draw a second round of trump and to pass the ♦J for a finesse. On the actual layout, East wins the ♦K, and when the spade finesse loses, the contract fails."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South was unlucky to lose both finesses, but given West's initial pass it was possible for South to guarantee the contract."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.K65.AK987 543.JT98.AQ43.32 T982.5.T987.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "6",
+            "5"
+          ],
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South was unlucky to lose both finesses, but given West's initial pass it was possible for South to guarantee the contract. West had shown up with the ♣A and ♣K so he could not have both of the missing Kings as well. With both the ♠K and the ♦K, West would have had at least 13 high card points and he would have opened the bidding."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses)."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses)."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "T",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J, and cross to the dummy in hearts."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J, and cross to the dummy in hearts."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.765.AK987 543.JT98.AQ43.32 T982.5.KT98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and continue with a low diamond toward the ♦J. If East has the ♦K, he must win the trick (or else South will have avoided a diamond loser and will not mind if the spade finesse loses). If East returns a spade, South can win the ♠A, unblock the ♦J, and cross to the dummy in hearts. Dummy's 2 diamond winners can then be used to discard South's 2 spade losers."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT 76.76.K765.AK987 543.JT98.AQ43.32 KT982.5.T98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♦K, he will take South's ♦J."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT 76.76.K765.AK987 543.JT98.AQ43.32 KT982.5.T98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West was dealt the ♦K, he will take South's ♦J."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT 76.76.K765.AK987 543.JT98.AQ43.32 KT982.5.T98.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "T",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♦K, he will take South's ♦J. However, South can now be certain that East was dealt the ♠K and he can finesse in that suit in order to make the contract."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AQJ.AKQ432.J2.QT K76.76.K65.AK987 543.JT98.AQ43.32 T982.5.T987.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the ♦K, he will take South's ♦J. However, South can now be certain that East was dealt the ♠K and he can finesse in that suit in order to make the contract. If West was dealt the ♠K in addition to the ♣A, ♣K, and ♦K that he has already played, he certainly would have opened the bidding."
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "title": "Level 2 (Intermediate) - A-25",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-25",
+  "deal_pbn": "S:2.AKJT98.AQ.AKQJ KQJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2H",
+    "Pass",
+    "3D",
+    "Pass",
+    "4C",
+    "Pass",
+    "4H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 12,
+  "notes": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry. South must decide whether to finesse in hearts or diamonds.\n\nIf South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K. If the heart finesse loses, South will again need a miracle in diamonds.\n\nSouth should take the diamond finesse at trick 2. If that finesse works, South can give up a trick to the ♥Q, if necessary, and take the rest of the tricks.\n\nIf the diamond finesse loses, South may still make his contract when the ♥Q drops doubleton or singleton.",
+  "commentary_paragraphs": [
+    "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry. South must decide whether to finesse in hearts or diamonds.",
+    "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K. If the heart finesse loses, South will again need a miracle in diamonds.",
+    "South should take the diamond finesse at trick 2. If that finesse works, South can give up a trick to the ♥Q, if necessary, and take the rest of the tricks.",
+    "If the diamond finesse loses, South may still make his contract when the ♥Q drops doubleton or singleton."
+  ],
+  "play_sequence": [
+    {
+      "step": 3,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ KQJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ KQJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts and diamonds."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ KQJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ QJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ QJT.4.J432.T987 A43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 98765.Q765.K5.65",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry. South must decide whether to finesse in hearts"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has a possible loser in both hearts and diamonds. West's spade lead has knocks out dummy's only entry. South must decide whether to finesse in hearts or diamonds."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.3.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South takes the heart finesse,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South takes the heart finesse,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT.4.J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South takes the heart finesse,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT..J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South takes the heart finesse,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT..J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT..J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT..J432.T987 43.3.T9876.432 9876.Q76.K5.65",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT9.Q6.K.T9876 43.3.T9876.432 876.74.J5432.5",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K. If the heart finesse loses,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT9.6.K.T9876 43.3.T9876.432 876.74.J5432.5",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K. If the heart finesse loses,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AKT98.AQ.AKQJ QJT9.6.K.T9876 43.3.T9876.432 876.74.J5432.5",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South takes the heart finesse, he may not be out of the woods, even if East has the ♥Q. East may have started with 4 or 5 hearts, in which case he will still get a heart trick. South will have to hope that East or West has a singleton ♦K. If the heart finesse loses, South will again need a miracle in diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T9876.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should take the diamond finesse at trick 2."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T987.432 9876.Q765.K5.65",
+      "trick_cards": {
+        "N": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take the diamond finesse at trick 2."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AKJT98.AQ.AKQJ QJT.4.J432.T987 43.32.T987.432 9876.Q765.K.65",
+      "trick_cards": {
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take the diamond finesse at trick 2."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.4.J432.T987 43.32.T987.432 9876.Q765.K.65",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take the diamond finesse at trick 2."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.4.J432.T987 43.32.T987.432 9876.Q765.K.65",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should take the diamond finesse at trick 2. If that finesse works,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.4.J43.T987 43.32.T987.432 9876.Q765.K.65",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D2",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take the diamond finesse at trick 2. If that finesse works,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.4.J43.T987 43.32.T987.432 9876.Q765.K.65",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D2",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should take the diamond finesse at trick 2. If that finesse works, South can give up a trick to the ♥Q, if necessary, and take the rest of the tricks."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.Q4.K432.T98 43.32.T987.432 9876.765.J.765",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse loses,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.Q4.432.T98 43.32.T987.432 9876.765.J.765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the diamond finesse loses,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.Q4.432.T98 43.32.T987.432 9876.765.J.765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse loses, South may still make his contract when the ♥Q drops doubleton"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AKJT98.A.AKQJ QJT.Q.432.T987 43.32.T987.432 9876.7654.J.65",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D6",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse loses, South may still make his contract when the ♥Q drops doubleton or singleton."
+    }
+  ]
+}

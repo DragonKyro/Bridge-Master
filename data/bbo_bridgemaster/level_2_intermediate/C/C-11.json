@@ -1,0 +1,757 @@
+{
+  "title": "Level 2 (Intermediate) - C-11",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-11",
+  "deal_pbn": "S:KQ2.AK32.32.K976 JT987.Q7.54.AT84 543.654.AKQJT9.2 A6.JT98.876.QJ53",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and 6 diamonds). His only concern is that the defense may be able to take 4 club tricks to go with their ♠A.\n\nIf South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J. A further club lead from East will sink the contract.\n\nSouth can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick, but South's remaining club holding will act as a stopper as long as West is on lead.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and 6 diamonds). His only concern is that the defense may be able to take 4 club tricks to go with their ♠A.",
+    "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J. A further club lead from East will sink the contract.",
+    "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick, but South's remaining club holding will act as a stopper as long as West is on lead."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "H4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ2.AK32.32.K976 JT987.Q7.54.AT84 543.654.AKQJT9.2 A6.JT98.876.QJ53",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ2.AK32.32.K976 T987.Q7.54.AT84 543.654.AKQJT9.2 A6.JT98.876.QJ53",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ2.AK32.32.K976 T987.Q7.54.AT84 543.654.AKQJT9.2 A6.JT98.876.QJ53",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ2.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 A6.JT98.876.QJ53",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ2.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.QJ53",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.QJ53",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.QJ53",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and 6 diamonds)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "T",
+            "8",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and 6 diamonds). His only concern is that the defense may be able to take 4 club tricks"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT, won by East with the ♠A. East switches to the ♣Q. South has more than enough winners for his contract (2 spades, 2 hearts, and 6 diamonds). His only concern is that the defense may be able to take 4 club tricks to go with their ♠A."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South covers the ♣Q with the ♣K,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T84 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T84 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T8 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T8 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "W": "C4",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ.AK32.32.976 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "W": "C4",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South covers the ♣Q with the ♣K, the contract might fail. On the above layout, for example, West will win the ♣A and return the suit to East's ♣J. A further club lead from East will sink the contract."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ.AK32.32.K976 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT84 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT8 54.654.AKQJT9.2 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.J53",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C4",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ.AK32.32.K97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.AT8 54.654.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.654.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick, but South's remaining club holding will act as a stopper"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQ.AK32.32.97 T987.Q7.54.T8 54.65.AKQJT9. 6.JT98.876.53",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "H4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract by ducking the first round of clubs. Whatever club East continues, South covers as cheaply as possible. West can win this trick, but South's remaining club holding will act as a stopper as long as West is on lead."
+    }
+  ]
+}

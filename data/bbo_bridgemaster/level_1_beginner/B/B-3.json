@@ -1,0 +1,524 @@
+{
+  "title": "Level 1 (Beginner) - B-3",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-3",
+  "deal_pbn": "S:A32.K32.Q32.AK32 T987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 12,
+  "notes": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts, and 2 clubs). The ♦K can knock out the ♦A and establish the ♦Q as trick 9. The other 3 tricks can be taken in clubs if the ♣Q can be picked up.\n\nThere are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above. This play will also work when either West or East has a singleton ♣Q and when East has all 4 clubs. In the latter case, West will show out on the first top club and South can finesse East out of his known ♣Q by leading through him twice from the North hand.\n\nThe alternative play is to finesse East for the ♣Q after cashing one top honour. This line of play gains over the first one when East has 3 clubs to the Queen, but loses to West's Queen doubleton of clubs.\n\nThe mathematics of all of these possibilities favours cashing the top honours. That is, cashing the ♣A and ♣K is slightly more likely to work than taking the second round finesse.\n\nA famous bridge saying can be used to help you remember this play. \"8 ever, 9 never\" means that if North and South have 8 cards in a suit missing only the Queen, it is correct to finesse for the Queen. With 9 cards between the 2 hands, as above, it is correct to play for the drop.",
+  "commentary_paragraphs": [
+    "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts, and 2 clubs). The ♦K can knock out the ♦A and establish the ♦Q as trick 9. The other 3 tricks can be taken in clubs if the ♣Q can be picked up.",
+    "There are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above. This play will also work when either West or East has a singleton ♣Q and when East has all 4 clubs. In the latter case, West will show out on the first top club and South can finesse East out of his known ♣Q by leading through him twice from the North hand.",
+    "The alternative play is to finesse East for the ♣Q after cashing one top honour. This line of play gains over the first one when East has 3 clubs to the Queen, but loses to West's Queen doubleton of clubs.",
+    "The mathematics of all of these possibilities favours cashing the top honours. That is, cashing the ♣A and ♣K is slightly more likely to work than taking the second round finesse.",
+    "A famous bridge saying can be used to help you remember this play. \"8 ever, 9 never\" means that if North and South have 8 cards in a suit missing only the Queen, it is correct to finesse for the Queen. With 9 cards between the 2 hands, as above, it is correct to play for the drop."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.K32.Q32.AK32 T987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts, and 2 clubs). The ♦K can knock out the ♦A and establish the ♦Q as trick 9."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. South has only 8 top tricks (3 spades, 3 hearts, and 2 clubs). The ♦K can knock out the ♦A and establish the ♦Q as trick 9. The other 3 tricks can be taken in clubs if the ♣Q can be picked up."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "There are two alternatives to consider in playing the club suit."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.654.98765.Q KQJ.AQJ.K4.JT987 654.T987.AJT.654",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above. This play will also work when either West or East has a singleton ♣Q"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.7654.98765. KQJ.AQJ.K4.JT987 654.T98.AJT.Q654",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above. This play will also work when either West or East has a singleton ♣Q and when East has all 4 clubs."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.7654.98765. KQJ.AQJ.K4.JT987 654.T98.AJT.Q654",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are two alternatives to consider in playing the club suit. South can cash the ♣A and ♣K hoping clubs are 2-2 as above. This play will also work when either West or East has a singleton ♣Q and when East has all 4 clubs. In the latter case, West will show out on the first top club and South can finesse East out of his known ♣Q by leading through him twice from the North hand."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.754.98765.4 KQJ.AQJ.K4.JT987 654.T986.AJT.Q65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The alternative play is to finesse East for the ♣Q after cashing one top honour. This line of play gains over the first one when East has 3 clubs to the Queen,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The alternative play is to finesse East for the ♣Q after cashing one top honour. This line of play gains over the first one when East has 3 clubs to the Queen, but loses to West's Queen doubleton of clubs."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The mathematics of all of these possibilities favours cashing the top honours. That is, cashing the ♣A and ♣K is slightly more likely to work than taking the second round finesse."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A32.K32.Q32.AK32 987.54.98765.Q4 KQJ.AQJ.K4.JT987 654.T9876.AJT.65",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "A famous bridge saying can be used to help you remember this play. \"8 ever, 9 never\" means that if North and South have 8 cards in a suit missing only the Queen, it is correct to finesse for the Queen. With 9 cards between the 2 hands, as above, it is correct to play for the drop."
+    }
+  ]
+}

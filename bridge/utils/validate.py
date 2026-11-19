@@ -62,9 +62,13 @@ def validate_deal_pbn(deal_pbn: str, title: str = "") -> list[str]:
         if ranks != FULL_SUIT:
             missing = FULL_SUIT - ranks
             if missing:
-                issues.append(f"{label}{suit.letter} missing ranks: {[r.symbol for r in missing]}")
+                issues.append(
+                    f"{label}{suit.letter} missing ranks: {[r.symbol for r in missing]}"
+                )
             if len(suit_cards) != 13:
-                issues.append(f"{label}{suit.letter} has {len(suit_cards)} cards (need 13)")
+                issues.append(
+                    f"{label}{suit.letter} has {len(suit_cards)} cards (need 13)"
+                )
 
     return issues
 
@@ -82,7 +86,7 @@ def validate_collection(path: Path) -> tuple[int, int, list[str]]:
     except Exception as e:
         return 0, 0, [f"JSON parse error: {e}"]
 
-    hands = data.get("hands", [])
+    hands = data.get("hands", [data] if "deal_pbn" in data else [])
     total = len(hands)
     valid = 0
 
@@ -109,13 +113,28 @@ def validate_collection(path: Path) -> tuple[int, int, list[str]]:
 
 def main():
     """CLI entry point for validation."""
-    # Optional: validate a specific file
+    # Optional: validate a specific file or directory
     if len(sys.argv) > 1:
         target = Path(sys.argv[1])
         if not target.exists():
             target = DATA_DIR / sys.argv[1]
         if not target.exists():
             print(f"File not found: {sys.argv[1]}")
+            return
+        if target.is_dir():
+            total_hands = 0
+            total_valid = 0
+            all_issues = []
+            for p in sorted(target.rglob("*.json")):
+                if p.name == "index.json":
+                    continue
+                t, v, iss = validate_collection(p)
+                total_hands += t
+                total_valid += v
+                all_issues.extend(iss)
+            print(f"{target}: {total_valid}/{total_hands} valid")
+            for issue in all_issues[:20]:
+                print(f"  {issue}")
             return
         total, valid, issues = validate_collection(target)
         print(f"{target.name}: {valid}/{total} valid")

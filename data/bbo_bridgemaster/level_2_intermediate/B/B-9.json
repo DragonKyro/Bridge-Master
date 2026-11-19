@@ -1,0 +1,648 @@
+{
+  "title": "Level 2 (Intermediate) - B-9",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-9",
+  "deal_pbn": "S:AK.A432.A65432.2 QJT98.87.T9.K654 32.K65.87.AQT987 7654.QJT9.KQJ.J3",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "3C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3H",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "South wins the opening spade lead and must play on clubs to come to 9 tricks. As South has only 1 more spade stopper, he cannot afford to lose the lead more than once in clubs.\n\nSouth should play a club towards dummy at trick 2. When West follows low, South must decide which club to play from North. The ♣A should not be considered. The choice is between the ♣Q and the ♣10 (or any other low card in clubs).\n\nIf clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same. If both club honours are together South's choice is irrelevant.\n\nIf East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed. If West has 4 clubs to the ♣K, the ♣Q must be played from dummy. The ♣Q is also a winner if East has a singleton ♣J.\n\nSince playing the ♣Q picks up more holdings, South should, therefore, play the ♣Q at trick 2.",
+  "commentary_paragraphs": [
+    "South wins the opening spade lead and must play on clubs to come to 9 tricks. As South has only 1 more spade stopper, he cannot afford to lose the lead more than once in clubs.",
+    "South should play a club towards dummy at trick 2. When West follows low, South must decide which club to play from North. The ♣A should not be considered. The choice is between the ♣Q and the ♣10 (or any other low card in clubs).",
+    "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same. If both club honours are together South's choice is irrelevant.",
+    "If East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed. If West has 4 clubs to the ♣K, the ♣Q must be played from dummy. The ♣Q is also a winner if East has a singleton ♣J.",
+    "Since playing the ♣Q picks up more holdings, South should, therefore, play the ♣Q at trick 2."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.A432.A65432.2 QJT98.87.T9.K654 32.K65.87.AQT987 7654.QJT9.KQJ.J3",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South wins the opening spade lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.A432.A65432.2 JT98.87.T9.K654 32.K65.87.AQT987 7654.QJT9.KQJ.J3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening spade lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 7654.QJT9.KQJ.J3",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening spade lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening spade lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South wins the opening spade lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South wins the opening spade lead and must play on clubs to come to 9 tricks."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South wins the opening spade lead and must play on clubs to come to 9 tricks. As South has only 1 more spade stopper, he cannot afford to lose the lead more than once in clubs."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.A432.A65432.2 JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should play a club"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play a club"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should play a club towards dummy at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K654 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should play a club towards dummy at trick 2. When West follows low,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play a club towards dummy at trick 2. When West follows low,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should play a club towards dummy at trick 2. When West follows low, South must decide which club to play from North."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should play a club towards dummy at trick 2. When West follows low, South must decide which club to play from North. The ♣A should not be considered."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should play a club towards dummy at trick 2. When West follows low, South must decide which club to play from North. The ♣A should not be considered. The choice is between the ♣Q and the ♣10 (or any other low card in clubs)."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.K5 3.K65.87.AQT987 765.QJT9.KQ.J63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "6",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.K5 3.K65.87.AQT987 765.QJT9.KQ.J63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.K5 3.K65.87.AQT987 765.QJT9.KQ.J63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.J5 3.K65.87.AQT987 765.QJT9.KQ.K63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.J5 3.K65.87.AQT987 765.QJT9.KQ.K63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.KJ 3.K65.87.AQT987 765.QJT9.KQ.653",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same. If both club honours are together"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.65 3.K65.87.AQT987 765.QJT9.KQ.KJ3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same. If both club honours are together"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.JT9.65 3.K65.87.AQT987 765.QJT9.KQ.KJ3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3, the ♣Q will work when West has only the ♣K. The ♣10 will work when West has only the ♣J. These 2 chances are the same. If both club honours are together South's choice is irrelevant."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.A432.A65432. JT98.QJT9.T9.5 3.K65.87.AQT987 765.87.KQJ.KJ63",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "6",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.A432.A65432. JT98.QJT9.T9.J 3.K65.87.AQT987 765.87.KQJ.K653",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "6",
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.A432.A65432. JT98.QJT9.T9.K 3.K65.87.AQT987 765.87.KQJ.J653",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "6",
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs, again it doesn't matter what South does."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.J65 3.K65.87.AQT987 765.QJT9.KQJ.K3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed. If West has 4 clubs to the ♣K,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T9.K65 3.K65.87.AQT987 765.QJT9.KQJ.J3",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed. If West has 4 clubs to the ♣K, the ♣Q must be played from dummy."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T.K653 3.K65.87.AQT987 765.QJT9.KQJ9.J",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has 4 clubs, again it doesn't matter what South does. If West has 4 clubs to the ♣J, South cannot succeed. If West has 4 clubs to the ♣K, the ♣Q must be played from dummy. The ♣Q is also a winner if East has a singleton ♣J."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.A432.A65432. JT98.87.T.K653 3.K65.87.AQT987 765.QJT9.KQJ9.J",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Since playing the ♣Q picks up more holdings, South should, therefore, play the ♣Q at trick 2."
+    }
+  ]
+}

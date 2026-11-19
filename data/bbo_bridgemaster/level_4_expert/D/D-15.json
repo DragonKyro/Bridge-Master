@@ -1,0 +1,2027 @@
+{
+  "title": "Level 4 (Expert) - D-15",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-15",
+  "deal_pbn": "S:KQJT98.2.5432.32 54.AQT98.T876.KJ 76.43.AKQJ.A7654 A32.KJ765.9.QT98",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S5",
+  "par_tricks": 10,
+  "notes": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick. If South makes the mistake of continuing spades at trick 2, the contract will fail if the defender with spade length was also dealt a singleton diamond.\n\nIn the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff. Eventually, South will lose a club trick and go down in his contract.\n\nSouth can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand and draw East's last trump.\n\nThe defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before. South will have to lead clubs, but West will gain the lead and give East a diamond ruff.\n\nSouth can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club. South can then draw East's last trump and win the rest of the tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick. If South makes the mistake of continuing spades at trick 2, the contract will fail if the defender with spade length was also dealt a singleton diamond.",
+    "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff. Eventually, South will lose a club trick and go down in his contract.",
+    "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand and draw East's last trump.",
+    "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before. South will have to lead clubs, but West will gain the lead and give East a diamond ruff.",
+    "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club. South can then draw East's last trump and win the rest of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 53,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 59,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 60,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 61,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 63,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 64,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 65,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 66,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 68,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 69,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 70,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 71,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 73,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 73,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 73,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 74,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 76,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 77,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 78,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 79,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 81,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 82,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 83,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 84,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 86,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 87,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 88,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 89,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 91,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 92,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 93,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 94,
+      "seat": "W",
+      "card": "CJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.2.5432.32 54.AQT98.T876.KJ 76.43.AKQJ.A7654 A32.KJ765.9.QT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠5 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.2.5432.32 4.AQT98.T876.KJ 76.43.AKQJ.A7654 A32.KJ765.9.QT98",
+      "trick_cards": {
+        "W": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠5 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.2.5432.32 4.AQT98.T876.KJ 76.43.AKQJ.A7654 A32.KJ765.9.QT98",
+      "trick_cards": {
+        "W": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A32.KJ765.9.QT98",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick. If South makes the mistake of continuing spades at trick 2,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick. If South makes the mistake of continuing spades at trick 2,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "9"
+          ],
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠5 against 4♠. West's trump opening lead is ducked by East and South wins the trick. If South makes the mistake of continuing spades at trick 2, the contract will fail if the defender with spade length was also dealt a singleton diamond."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT9.2.5432.32 .AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT9.2.5432.32 .AQT98.T876.KJ .43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT9.2.5432.32 .AQT98.T876.KJ .43.AKQJ.A7654 3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT9.2.5432.32 .AQT98.T876.KJ .43.AKQJ.A7654 3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT9.2.5432.32 .AQT98.T876.KJ .43.AKQJ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T876.KJ .43.AKQJ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .43.AKQJ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .43.AKQ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .43.AKQ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ],
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .4.AKQ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .4.AKQ.A7654 3.KJ765..QT98",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT9.2.543.32 .AQT98.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT9..543.32 .AQT98.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "H2",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT9..543.32 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT9..543.32 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT9..543.32 .AQT9.T8.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "W": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT9..543.32 .AQT9.T8.KJ .4.AK.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "W": "D7",
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT9..543.32 .AQT9.T8.KJ .4.AK.A7654 .KJ76..QT98",
+      "trick_cards": {
+        "W": "D7",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT9..54.32 .AQT9.T8.KJ .4.AK.A7654 .KJ76..QT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT9..54.32 .AQT9.T8.KJ .4.AK.A7654 .KJ76..QT98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "In the actual layout, East will win the ♠A and lead his diamond to place the lead in the dummy. South must lose the lead by playing hearts or clubs in order to later reach his hand with a ruff, but West will win this trick and give East a diamond ruff. Eventually, South will lose a club trick and go down in his contract."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQJT9.2.5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup)."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT98.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup)."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T876.KJ 7.43.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup)."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ765.9.QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup)."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup)."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T87.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T87.KJ 7.4.AKQ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T87.KJ 7.4.AKQ.A7654 A3.KJ76..QT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQJT9..543.32 4.AQT9.T87.KJ 7.4.AKQ.A7654 A3.KJ76..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KQJT9..543.32 4.AQT9.T87.KJ 7.4.AKQ.A7654 A3.KJ76..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KQJT9..543.32 4.AQT9.T87.KJ .4.AKQ.A7654 A3.KJ76..QT98",
+      "trick_cards": {
+        "N": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KQJT9..543.32 4.AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQJT..543.32 4.AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQJT..543.32 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KQJT..543.32 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KQJT..543.32 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT9",
+      "trick_cards": {
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.KJ .4.AKQ.A7654 3.KJ76..QT9",
+      "trick_cards": {
+        "S": "C2",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.K .4.AKQ.A7654 3.KJ76..QT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.K .4.AKQ.7654 3.KJ76..QT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.K .4.AKQ.7654 3.KJ76..QT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.K ..AKQ.7654 3.KJ76..QT9",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KQJT..543.3 .AQT9.T87.K ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KQJ..543.3 .AQT9.T87.K ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "ST",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KQJ..543.3 .AQT.T87.K ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "H9",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KQJ..543.3 .AQT.T87.K ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "H9",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can avoid this danger by surrendering a heart trick immediately in order to cut the defensive communications in that suit (a scissors coup). If the defense switches to diamonds, South wins in dummy and plays a spade to East. East can do no better than to return a club to place the lead back in dummy, but South can ruff a heart back to his hand and draw East's last trump."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KQJT9..5432.32 4.AQT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:KQJT9..5432.32 4.QT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:KQJT9..5432.32 4.QT9.T876.KJ 7.4.AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:KQJT9..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ76.9.QT98",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:KQJT9..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:KQJT..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:KQJT..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:QJT..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:QJT..5432.32 .QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:QJT..5432.32 .QT9.T876.KJ ..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:QJT..5432.32 .QT9.T876.KJ ..AKQJ.A7654 3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:QJT..5432.32 .QT9.T876.KJ ..AKQJ.A7654 3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:QJT..5432.32 .QT9.T876.KJ ..AKQJ.A7654 3.KJ7..QT98",
+      "trick_cards": {
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:QJT..543.32 .QT9.T876.KJ ..AKQJ.A7654 3.KJ7..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:QJT..543.32 .QT9.T87.KJ ..AKQJ.A7654 3.KJ7..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:QJT..543.32 .QT9.T87.KJ ..AKQ.A7654 3.KJ7..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:QJT..543.32 .QT9.T87.KJ ..AKQ.A7654 3.KJ7..QT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The defense does better to continue hearts (instead of switching to diamonds) after South gives up a heart trick. The contract will fail if South ruffs and drives out the ♠A. East will lead a diamond to lock the lead in dummy as before. South will have to lead clubs, but West will gain the lead and give East a diamond ruff."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:KQJT9..5432.32 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:KQJT9..5432.3 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:KQJT9..5432.3 4.QT9.T876.KJ 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy"
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:KQJT9..5432.3 4.QT9.T876.J 7..AKQJ.A7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy"
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:KQJT9..5432.3 4.QT9.T876.J 7..AKQJ.7654 A3.KJ7.9.QT98",
+      "trick_cards": {
+        "W": "CK",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy"
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:KQJT9..5432.3 4.QT9.T876.J 7..AKQJ.7654 A3.KJ7.9.QT9",
+      "trick_cards": {
+        "W": "CK",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy"
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:KQJT9..5432. 4.QT9.T876.J 7..AKQJ.7654 A3.KJ7.9.QT9",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CK",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy"
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:KQJT9..5432. 4.QT9.T876.J 7..AKQJ.7654 A3.KJ7.9.QT9",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CK",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A."
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:KQJT9..5432. 4.QT9.T876.J ..AKQJ.7654 A3.KJ7.9.QT9",
+      "trick_cards": {
+        "N": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A."
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:KQJT9..5432. 4.QT9.T876.J ..AKQJ.7654 3.KJ7.9.QT9",
+      "trick_cards": {
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:KQJT..5432. 4.QT9.T876.J ..AKQJ.7654 3.KJ7.9.QT9",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A."
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:KQJT..5432. .QT9.T876.J ..AKQJ.7654 3.KJ7.9.QT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A."
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:KQJT..5432. .QT9.T876.J ..AKQJ.7654 3.KJ7.9.QT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S4",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy,"
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:KQJT..5432. .QT9.T876.J ..AKQJ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy,"
+    },
+    {
+      "step": 87,
+      "hands_pbn": "S:KQJT..543. .QT9.T876.J ..AKQJ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy,"
+    },
+    {
+      "step": 88,
+      "hands_pbn": "S:KQJT..543. .QT9.T87.J ..AKQJ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy,"
+    },
+    {
+      "step": 89,
+      "hands_pbn": "S:KQJT..543. .QT9.T87.J ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy,"
+    },
+    {
+      "step": 90,
+      "hands_pbn": "S:KQJT..543. .QT9.T87.J ..AKQ.7654 3.KJ7..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club."
+    },
+    {
+      "step": 91,
+      "hands_pbn": "S:KQJT..543. .QT9.T87.J ..AKQ.765 3.KJ7..QT9",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club."
+    },
+    {
+      "step": 92,
+      "hands_pbn": "S:KQJT..543. .QT9.T87.J ..AKQ.765 3.KJ7..T9",
+      "trick_cards": {
+        "N": "C4",
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club."
+    },
+    {
+      "step": 93,
+      "hands_pbn": "S:KQJ..543. .QT9.T87.J ..AKQ.765 3.KJ7..T9",
+      "trick_cards": {
+        "S": "ST",
+        "N": "C4",
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club."
+    },
+    {
+      "step": 94,
+      "hands_pbn": "S:KQJ..543. .QT9.T87. ..AKQ.765 3.KJ7..T9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "CJ",
+        "N": "C4",
+        "E": "CQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club."
+    },
+    {
+      "step": 95,
+      "hands_pbn": "S:KQJ..543. .QT9.T87. ..AKQ.765 3.KJ7..T9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "CJ",
+        "N": "C4",
+        "E": "CQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can guard against this danger by discarding his club loser on the second round of hearts. The defense can do no better than to play a club, but South wins in the dummy and plays a spade to East's ♠A. East can switch to his singleton diamond to put the lead back in dummy, but South can get back to his hand by ruffing a club. South can then draw East's last trump and win the rest of the tricks."
+    }
+  ]
+}

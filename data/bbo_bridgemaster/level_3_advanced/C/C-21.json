@@ -1,0 +1,1913 @@
+{
+  "title": "Level 3 (Advanced) - C-21",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-21",
+  "deal_pbn": "S:KQJ.A32.A432.KQJ T9876.54.T876.54 432.KQJ.QJ95.A32 A5.T9876.K.T9876",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 12,
+  "notes": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South. South must hope to play the diamond suit for 4 tricks. It is necessary to assume that East has the ♦K.\n\nIf East has a singleton ♦K, South must begin the suit by cashing the ♦A. South can then finesse against West's ♦10.\n\nIf East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead, the ♦A will drop the ♦K on the next round.\n\nIf East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played, pinning the ♦10 in West's hand.\n\nIn order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A.\n\nIf the count of the hand is not perfect, South will have to guess how many diamonds East started with.",
+  "commentary_paragraphs": [
+    "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South. South must hope to play the diamond suit for 4 tricks. It is necessary to assume that East has the ♦K.",
+    "If East has a singleton ♦K, South must begin the suit by cashing the ♦A. South can then finesse against West's ♦10.",
+    "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead, the ♦A will drop the ♦K on the next round.",
+    "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played, pinning the ♦10 in West's hand.",
+    "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A.",
+    "If the count of the hand is not perfect, South will have to guess how many diamonds East started with."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 51,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 53,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 57,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 58,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 59,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 60,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 61,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 62,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 63,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 64,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 67,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 70,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 73,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 74,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 75,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 76,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 77,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 78,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 79,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 80,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 81,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 82,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 83,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 84,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 89,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 90,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 91,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 92,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 93,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 93,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 93,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 93,
+      "seat": "E",
+      "card": "C8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ.A32.A432.KQJ T9876.54.T876.54 432.KQJ.QJ95.A32 A5.T9876.K.T9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ.A32.A432.KQJ 9876.54.T876.54 432.KQJ.QJ95.A32 A5.T9876.K.T9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ.A32.A432.KQJ 9876.54.T876.54 432.KQJ.QJ95.A32 A5.T9876.K.T9876",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 A5.T9876.K.T9876",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 5.T9876.K.T9876",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 5.T9876.K.T9876",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 5.T9876.K.T9876",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q.A32.A432.KQJ 9876.54.T876.54 43.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 43.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South. South must hope to play the diamond suit for 4 tricks."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. West's lead is won by East with the ♠A. East returns the suit, won by South. South must hope to play the diamond suit for 4 tricks. It is necessary to assume that East has the ♦K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♦K,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♦K, South must begin the suit by cashing the ♦A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♦K, South must begin the suit by cashing the ♦A. South can then finesse"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has a singleton ♦K, South must begin the suit by cashing the ♦A. South can then finesse against West's ♦10."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.87654.T87. 4.KQJ.QJ95.A32 .T9.K6.T987654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.87654.T87. 4.KQJ.QJ95.A32 .T9.K6.T987654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.87654.T87. 4.KQJ.QJ95.A32 .T9.K6.T987654",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQJ.QJ95.A32 .T9.K6.T987654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.QJ95.A32 .T9.K6.T987654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.QJ95.A32 .T.K6.T987654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.QJ95.A32 .T.K6.T987654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.K6.T987654",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.K6.T987654",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q.A3.432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "S": "DA",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q.A3.432.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q.A3.432.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q.A3.432.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.6.T987654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.K6.T987654",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.K.T987654",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T87. 4.KQ.J95.A32 .T.K.T987654",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.K.T987654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.K.T987654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead, the ♦A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T8. 4.KQ.J95.A32 .T.K.T987654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has a doubleton ♦K, South must cross to dummy and lead a diamond honour. If East covers, South wins and can finesse against the ♦10 with West. If East ducks the first diamond lead, the ♦A will drop the ♦K on the next round."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T8.4 4.KQ.QJ95.A32 .T.K76.T98765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has 3 diamonds to the ♦K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T8.4 4.KQ.QJ95.A32 .T.K76.T98765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T8.4 4.KQ.QJ95.A32 .T.K76.T98765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T8.4 4.KQ.J95.A32 .T.K76.T98765",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.8765.T8.4 4.KQ.J95.A32 .T.K7.T98765",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T8.4 4.KQ.J95.A32 .T.K7.T98765",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T.4 4.KQ.J95.A32 .T.K7.T98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T.4 4.KQ.J95.A32 .T.K7.T98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T.4 4.KQ.95.A32 .T.K7.T98765",
+      "trick_cards": {
+        "N": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:Q.A3.A43.KQJ 987.8765.T.4 4.KQ.95.A32 .T.K.T98765",
+      "trick_cards": {
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:Q.A3.A4.KQJ 987.8765.T.4 4.KQ.95.A32 .T.K.T98765",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:Q.A3.A4.KQJ 987.8765.T.4 4.KQ.95.A32 .T.K.T98765",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played, pinning the ♦10 in West's hand."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:Q.A3.A4.KQJ 987.8765..4 4.KQ.95.A32 .T.K.T98765",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has 3 diamonds to the ♦K, it is necessary to assume that West has the ♦10. East cannot gain by covering the first diamond play from dummy. Dummy's other diamond honour is then played, pinning the ♦10 in West's hand."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy)."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:Q.A32.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.54.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.5.T876.54 4.KQJ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.5.T876.54 4.KQ.QJ95.A32 .T9876.K.T9876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.5.T876.54 4.KQ.QJ95.A32 .T987.K.T9876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HJ",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.5.T876.54 4.K.QJ95.A32 .T987.K.T9876",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:Q.A3.A432.KQJ 987.5.T876.54 4.K.QJ95.A32 .T98.K.T9876",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:Q.A.A432.KQJ 987.5.T876.54 4.K.QJ95.A32 .T98.K.T9876",
+      "trick_cards": {
+        "S": "H3",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:Q.A.A432.KQJ 987..T876.54 4.K.QJ95.A32 .T98.K.T9876",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:Q.A.A432.KQJ 987..T876.54 4..QJ95.A32 .T98.K.T9876",
+      "trick_cards": {
+        "N": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:Q.A.A432.KQJ 987..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "N": "HK",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:Q..A432.KQJ 987..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "HA",
+        "N": "HK",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:Q..A432.KQJ 98..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "HK",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:Q..A432.KQJ 98..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "HK",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:Q..A432.KQJ 98..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "HK",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:..A432.KQJ 98..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:..A432.KQJ 9..T876.54 4..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:..A432.KQJ 9..T876.54 ..QJ95.A32 .T9.K.T9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades"
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:..A432.KQJ 9..T876.54 ..QJ95.A32 .T.K.T9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S4",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades"
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:..A432.KQJ 9..T876.54 ..QJ95.A32 .T.K.T9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S4",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:..A432.KQJ 9..T876.54 ..QJ95.A32 .T.K.T9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S4",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:..A432.QJ 9..T876.54 ..QJ95.A32 .T.K.T9876",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:..A432.QJ 9..T876.5 ..QJ95.A32 .T.K.T9876",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:..A432.QJ 9..T876.5 ..QJ95.A3 .T.K.T9876",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:..A432.QJ 9..T876.5 ..QJ95.A3 .T.K.T987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:..A432.J 9..T876.5 ..QJ95.A3 .T.K.T987",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:..A432.J 9..T876. ..QJ95.A3 .T.K.T987",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:..A432.J 9..T876. ..QJ95.A .T.K.T987",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C5",
+        "N": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:..A432.J 9..T876. ..QJ95.A .T.K.T98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:..A432. 9..T876. ..QJ95.A .T.K.T98",
+      "trick_cards": {
+        "S": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95.A .T.K.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T98",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count."
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs"
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand."
+    },
+    {
+      "step": 87,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K"
+    },
+    {
+      "step": 88,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A."
+    },
+    {
+      "step": 89,
+      "hands_pbn": "S:..A432. ..T876. ..QJ9. .T.K.T9",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A."
+    },
+    {
+      "step": 90,
+      "hands_pbn": "S:..A432. ..T876. ..QJ9. .T..T9",
+      "trick_cards": {
+        "N": "D5",
+        "E": "DK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A."
+    },
+    {
+      "step": 91,
+      "hands_pbn": "S:..432. ..T876. ..QJ9. .T..T9",
+      "trick_cards": {
+        "S": "DA",
+        "N": "D5",
+        "E": "DK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A."
+    },
+    {
+      "step": 92,
+      "hands_pbn": "S:..432. ..T87. ..QJ9. .T..T9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D6",
+        "N": "D5",
+        "E": "DK"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "In order to find out how to play the diamonds, it is best to cash the other suits first (making sure to end in dummy). Three rounds of hearts show that East started with 5 hearts. A third round of spades reveals that East began with 2 spades. Finally, 3 rounds of clubs complete the count. East also began with 5 clubs and there is room for only 1 diamond in his hand. South must assume it is the ♦K and lead low to his ♦A."
+    },
+    {
+      "step": 93,
+      "hands_pbn": "S:..A432. ..T876. ..QJ95. .T.K.T9",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "S9",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If the count of the hand is not perfect, South will have to guess how many diamonds East started with."
+    }
+  ]
+}

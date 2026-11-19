@@ -1,0 +1,563 @@
+{
+  "title": "Level 2 (Intermediate) - B-25",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-25",
+  "deal_pbn": "S:Q2.AKQJT9.32.432 AKJT.76.QT98.A87 6543.432.KJ.KQ65 987.85.A7654.JT9",
+  "contract": "3H",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2D",
+    "2H",
+    "Pass",
+    "3H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "The defense takes the first 2 spade tricks and switches to diamonds. South has at least 1 certain loser in clubs and, therefore, cannot afford to misguess diamonds.\n\nIt is necessary to assume that West has the ♣A. If East holds that card, there will be 2 club losers and the contract will have no chance.\n\nOnce the assumption about the ♣A is made, the position of the diamond honours can be inferred. If West had the ♦A in addition to the ♠A and ♠K already shown, and the ♣A we are assuming he has, he would have 15 points, enough to open 1NT. If West's hand was unbalanced, preventing him from opening 1NT, he surely would have competed more vigorously in the bidding.\n\nIf we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy.\n\nWhen South regains the lead, he can draw trump and lead clubs twice towards the dummy.",
+  "commentary_paragraphs": [
+    "The defense takes the first 2 spade tricks and switches to diamonds. South has at least 1 certain loser in clubs and, therefore, cannot afford to misguess diamonds.",
+    "It is necessary to assume that West has the ♣A. If East holds that card, there will be 2 club losers and the contract will have no chance.",
+    "Once the assumption about the ♣A is made, the position of the diamond honours can be inferred. If West had the ♦A in addition to the ♠A and ♠K already shown, and the ♣A we are assuming he has, he would have 15 points, enough to open 1NT. If West's hand was unbalanced, preventing him from opening 1NT, he surely would have competed more vigorously in the bidding.",
+    "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy.",
+    "When South regains the lead, he can draw trump and lead clubs twice towards the dummy."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 5,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q2.AKQJT9.32.432 AKJT.76.QT98.A87 6543.432.KJ.KQ65 987.85.A7654.JT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q2.AKQJT9.32.432 AJT.76.QT98.A87 6543.432.KJ.KQ65 987.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q2.AKQJT9.32.432 AJT.76.QT98.A87 654.432.KJ.KQ65 987.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q2.AKQJT9.32.432 AJT.76.QT98.A87 654.432.KJ.KQ65 98.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q.AKQJT9.32.432 AJT.76.QT98.A87 654.432.KJ.KQ65 98.85.A7654.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q.AKQJT9.32.432 JT.76.QT98.A87 654.432.KJ.KQ65 98.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q.AKQJT9.32.432 JT.76.QT98.A87 65.432.KJ.KQ65 98.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q.AKQJT9.32.432 JT.76.QT98.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S4",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT98.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "N": "S4",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT98.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "N": "S4",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The defense takes the first 2 spade tricks and switches to diamonds."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense takes the first 2 spade tricks and switches to diamonds."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The defense takes the first 2 spade tricks and switches to diamonds. South has at least 1 certain loser in clubs"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The defense takes the first 2 spade tricks and switches to diamonds. South has at least 1 certain loser in clubs and, therefore, cannot afford to misguess diamonds."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is necessary to assume that West has the ♣A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.AT9.JT9 65.432.KJ.KQ65 9.85.Q7654.A87",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It is necessary to assume that West has the ♣A. If East holds that card,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.AT9.JT9 65.432.KJ.KQ65 9.85.Q7654.A87",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It is necessary to assume that West has the ♣A. If East holds that card, there will be 2 club losers and the contract will have no chance."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.AT9.A87 65.432.KJ.KQ65 9.85.Q7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Once the assumption about the ♣A is made, the position of the diamond honours can be inferred."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.AT9.A87 65.432.KJ.KQ65 9.85.Q7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Once the assumption about the ♣A is made, the position of the diamond honours can be inferred. If West had the ♦A in addition to the ♠A and ♠K already shown, and the ♣A we are assuming he has, he would have 15 points, enough to open 1NT."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKQJT9.32.432 9.6.AT97.A987 65.432.KJ.KQ65 JT.875.Q654.JT",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Once the assumption about the ♣A is made, the position of the diamond honours can be inferred. If West had the ♦A in addition to the ♠A and ♠K already shown, and the ♣A we are assuming he has, he would have 15 points, enough to open 1NT. If West's hand was unbalanced, preventing him from opening 1NT, he surely would have competed more vigorously in the bidding."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.KJ.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.A7654.JT9",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AKQJT9.32.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.7654.JT9",
+      "trick_cards": {
+        "W": "D8",
+        "N": "DJ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AKQJT9.3.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.7654.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DJ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If we assume that West has the ♣A, it is almost a sure thing that East has the ♦A. South should, therefore, play the ♦J from dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AKQJT9.3.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.7654.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DJ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When South regains the lead, he can draw trump"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKQJT9.3.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.7654.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DJ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When South regains the lead, he can draw trump and lead clubs twice"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKQJT9.3.432 JT.76.QT9.A87 65.432.K.KQ65 9.85.7654.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DJ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "When South regains the lead, he can draw trump and lead clubs twice towards the dummy."
+    }
+  ]
+}

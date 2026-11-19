@@ -1,0 +1,925 @@
+{
+  "title": "Level 2 (Intermediate) - C-9",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-9",
+  "deal_pbn": "S:AKQ.AK.AJT32.432 JT987.JT9.KQ98.8 432.432.54.AK765 65.Q8765.76.QJT9",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A, and 2 clubs). Both dummy's clubs and South's diamonds offer strong possibilities for a ninth trick.\n\nSouth has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy and hope to develop a ninth trick by finessing twice in diamonds.\n\nIf West follows to the first club trick, a low club is played from dummy. If East discards, dummy still has 2 club entries to double finesse in diamonds.\n\nIf East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs. South still has stoppers in both majors and dummy's long club will provide trick 9.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A, and 2 clubs). Both dummy's clubs and South's diamonds offer strong possibilities for a ninth trick.",
+    "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy and hope to develop a ninth trick by finessing twice in diamonds.",
+    "If West follows to the first club trick, a low club is played from dummy. If East discards, dummy still has 2 club entries to double finesse in diamonds.",
+    "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs. South still has stoppers in both majors and dummy's long club will provide trick 9."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "CT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.AK.AJT32.432 JT987.JT9.KQ98.8 432.432.54.AK765 65.Q8765.76.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.AK.AJT32.432 T987.JT9.KQ98.8 432.432.54.AK765 65.Q8765.76.QJT9",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.AK.AJT32.432 T987.JT9.KQ98.8 432.432.54.AK765 65.Q8765.76.QJT9",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 65.Q8765.76.QJT9",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A, and 2 clubs)."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A, and 2 clubs). Both dummy's clubs"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT9.KQ98.8 43.432.54.AK765 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT which South wins. There are 8 top tricks (3 spades, 2 hearts, the ♦A, and 2 clubs). Both dummy's clubs and South's diamonds offer strong possibilities for a ninth trick."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT98.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a near certain way to produce his game-going trick."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.AK.AJT32.432 T987.JT98.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT98.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT98.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.K987. 43.432.54.AK765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.K987. 43.432.54.K765 6.Q765.Q6.QJT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "H8",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.K987. 43.432.54.K765 6.Q765.Q6.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "H8",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.K987. 43.432.54.K765 6.Q765.Q6.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "H8",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has a near certain way to produce his game-going trick. A low club should be played at trick 2. If West discards, South should win in dummy and hope to develop a ninth trick by finessing twice in diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT98 43.432.54.AK765 6.QT98765.Q876.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West follows to the first club trick,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK765 6.QT98765.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows to the first club trick,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK765 6.QT98765.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West follows to the first club trick, a low club is played from dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK76 6.QT98765.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows to the first club trick, a low club is played from dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK76 6.QT98765.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West follows to the first club trick, a low club is played from dummy. If East discards,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK76 6.QT9876.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West follows to the first club trick, a low club is played from dummy. If East discards,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK76 6.QT9876.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West follows to the first club trick, a low club is played from dummy. If East discards, dummy still has 2 club entries"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.J.K9.QJT9 43.432.54.AK76 6.QT9876.Q876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West follows to the first club trick, a low club is played from dummy. If East discards, dummy still has 2 club entries to double finesse in diamonds."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q8765.76.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q8765.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q8765.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q8765.76.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK.AK.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK.K.AJT32.43 T987.JT9.KQ98. 43.432.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK.K.AJT32.43 T987.JT.KQ98. 43.432.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.K.AJT32.43 T987.JT.KQ98. 43.43.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.K.AJT32.43 T987.JT.KQ98. 43.43.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.K.AJT32.4 T987.JT.KQ98. 43.43.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK.K.AJT32.4 T98.JT.KQ98. 43.43.54.AK76 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK.K.AJT32.4 T98.JT.KQ98. 43.43.54.AK7 6.Q875.76.QJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK.K.AJT32.4 T98.JT.KQ98. 43.43.54.AK7 6.Q875.76.QJ",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK.K.AJT32.4 T98.JT.KQ98. 43.43.54.AK7 6.Q875.76.QJ",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ],
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs. South still has stoppers in both majors"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AK.K.AJT32.4 T98.JT.KQ98. 43.43.54.AK7 6.Q875.76.QJ",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East follows to the first club trick, the contract is certain as clubs are no worse than 4-1. South can win any return and duck a second round of clubs. South still has stoppers in both majors and dummy's long club will provide trick 9."
+    }
+  ]
+}

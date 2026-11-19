@@ -1,0 +1,897 @@
+{
+  "title": "Level 4 (Expert) - A-9",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-9",
+  "deal_pbn": "S:AQ2.K32.A32.KT32 J765.AT98.7.J954 43.54.K654.AQ876 KT98.QJ76.QJT98.",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S5",
+  "par_tricks": 9,
+  "notes": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks, 2 diamond tricks, and 3 club tricks on top. 9 tricks will be easy unless clubs are 4-0.\n\nSouth can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first. South can then finesse West out of his ♣J and ♣9.\n\nIf East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first. East can then be finessed for the ♣J.\n\nSouth should play West to be long in clubs and cash the ♣K first. The key is West's lead of the ♠5. The ♠5 is the lowest outstanding spade. As West would lead his fourth best spade, he is marked with a 4 card suit.\n\nIf East had all 4 clubs, West would have to have at least a 5 card suit somewhere. West would have led that suit and not spades.",
+  "commentary_paragraphs": [
+    "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks, 2 diamond tricks, and 3 club tricks on top. 9 tricks will be easy unless clubs are 4-0.",
+    "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first. South can then finesse West out of his ♣J and ♣9.",
+    "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first. East can then be finessed for the ♣J.",
+    "South should play West to be long in clubs and cash the ♣K first. The key is West's lead of the ♠5. The ♠5 is the lowest outstanding spade. As West would lead his fourth best spade, he is marked with a 4 card suit.",
+    "If East had all 4 clubs, West would have to have at least a 5 card suit somewhere. West would have led that suit and not spades."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "SK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQ2.K32.A32.KT32 J765.AT98.7.J954 43.54.K654.AQ876 KT98.QJ76.QJT98.",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQ2.K32.A32.KT32 J76.AT98.7.J954 43.54.K654.AQ876 KT98.QJ76.QJT98.",
+      "trick_cards": {
+        "W": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a spade against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQ2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 KT98.QJ76.QJT98.",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a spade against 3NT."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQ2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a spade against 3NT."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQ2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks, 2 diamond tricks,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks, 2 diamond tricks, and 3 club tricks on top."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads a spade against 3NT. South should win the opening spade lead as a heart shift from East would not be welcome. South has 2 spade tricks, 2 diamond tricks, and 3 club tricks on top. 9 tricks will be easy unless clubs are 4-0."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can score 5 club tricks"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can score 5 club tricks even on a 4-0 break if he can decide which defender has 4 clubs. If West has 4 clubs, it is necessary to cash the ♣K first. South can then finesse West out of his ♣J and ♣9."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East started with 4 clubs,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q2.K32.A32.KT3 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q2.K32.A32.KT3 J76.AT98.QT98. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q2.K32.A32.KT3 J76.AT98.QT98. 4.54.K654.A876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D7",
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q2.K32.A32.KT3 J76.AT98.QT98. 4.54.K654.A876 T98.QJ76.J.J95",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D7",
+        "N": "CQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q2.K32.A32.KT3 J76.AT98.QT98. 4.54.K654.A876 T98.QJ76.J.J95",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D7",
+        "N": "CQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East started with 4 clubs, it is necessary to cash the ♣A or ♣Q first. East can then be finessed for the ♣J."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should play West to be long in clubs and cash the ♣K first."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J954 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play West to be long in clubs and cash the ♣K first."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ876 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play West to be long in clubs and cash the ♣K first."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play West to be long in clubs and cash the ♣K first."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play West to be long in clubs and cash the ♣K first."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should play West to be long in clubs and cash the ♣K first. The key is West's lead of the ♠5."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should play West to be long in clubs and cash the ♣K first. The key is West's lead of the ♠5. The ♠5 is the lowest outstanding spade."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q2.K32.A32.T32 J76.AT98.7.J95 4.54.K654.AQ87 T98.QJ76.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should play West to be long in clubs and cash the ♣K first. The key is West's lead of the ♠5. The ♠5 is the lowest outstanding spade. As West would lead his fourth best spade, he is marked with a 4 card suit."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East had all 4 clubs,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East had all 4 clubs, West would have to have at least a 5 card suit somewhere."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q2.K32.A32.KT32 J76.AT98.QT987. 4.54.K654.AQ876 T98.QJ76.J.J954",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East had all 4 clubs, West would have to have at least a 5 card suit somewhere. West would have led that suit and not spades."
+    }
+  ]
+}

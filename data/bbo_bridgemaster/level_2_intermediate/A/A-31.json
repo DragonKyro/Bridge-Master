@@ -1,0 +1,982 @@
+{
+  "title": "Level 2 (Intermediate) - A-31",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-31",
+  "deal_pbn": "S:KQJ.QJT.AK.A5432 T9876.K654.432.Q 32.A32.QJT987.76 A54.987.65.KJT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 9,
+  "notes": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart with the ♥K.\n\nSouth appears to have 12 tricks, 2 spades, 3 hearts, 6 diamonds, and the ♣A. If South tries to take these 12 tricks, however, he will find himself taking only 8.\n\nAfter winning the ♥A, the blockage in diamonds prevents South from enjoying dummy's long suit. South will be held to 2 diamond tricks. When clubs break badly, 3NT will fail.\n\nThe solution is to allow West to hold the ♥K at trick 2! This play limits South to only 2 heart tricks, but preserves the ♥A as an entry to dummy's diamonds.\n\nWest continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A. South is able to run the diamonds and take 11 tricks.",
+  "commentary_paragraphs": [
+    "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart with the ♥K.",
+    "South appears to have 12 tricks, 2 spades, 3 hearts, 6 diamonds, and the ♣A. If South tries to take these 12 tricks, however, he will find himself taking only 8.",
+    "After winning the ♥A, the blockage in diamonds prevents South from enjoying dummy's long suit. South will be held to 2 diamond tricks. When clubs break badly, 3NT will fail.",
+    "The solution is to allow West to hold the ♥K at trick 2! This play limits South to only 2 heart tricks, but preserves the ♥A as an entry to dummy's diamonds.",
+    "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A. South is able to run the diamonds and take 11 tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "H8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ.QJT.AK.A5432 T9876.K654.432.Q 32.A32.QJT987.76 A54.987.65.KJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's spade lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ.QJT.AK.A5432 9876.K654.432.Q 32.A32.QJT987.76 A54.987.65.KJT98",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's spade lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 A54.987.65.KJT98",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's spade lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 A54.987.65.KJT98",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West's spade lead is taken by East with the ♠A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.987.65.KJT98",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's spade lead is taken by East with the ♠A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.987.65.KJT98",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's spade lead is taken by East with the ♠A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.987.65.KJT98",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ.QJT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.K654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart with the ♥K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's spade lead is taken by East with the ♠A. East's heart shift appears helpful, but South must be careful when West covers South's heart with the ♥K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South appears to have 12 tricks, 2 spades,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South appears to have 12 tricks, 2 spades, 3 hearts,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South appears to have 12 tricks, 2 spades, 3 hearts, 6 diamonds,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South appears to have 12 tricks, 2 spades, 3 hearts, 6 diamonds, and the ♣A. If South tries to take these 12 tricks, however, he will find himself taking only 8."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "HA",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "HA",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, the blockage in diamonds prevents South from enjoying dummy's long suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "HA",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, the blockage in diamonds prevents South from enjoying dummy's long suit. South will be held to 2 diamond tricks."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "HA",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, the blockage in diamonds prevents South from enjoying dummy's long suit. South will be held to 2 diamond tricks. When clubs break badly, 3NT will fail."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A32.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The solution is to allow West to hold the ♥K at trick 2!"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The solution is to allow West to hold the ♥K at trick 2!"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The solution is to allow West to hold the ♥K at trick 2! This play limits South to only 2 heart tricks,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The solution is to allow West to hold the ♥K at trick 2! This play limits South to only 2 heart tricks, but preserves the ♥A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The solution is to allow West to hold the ♥K at trick 2! This play limits South to only 2 heart tricks, but preserves the ♥A as an entry to dummy's diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.654.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West continues hearts"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.65.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.65.432.Q 3.A3.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West continues hearts but South can win in hand,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.65.432.Q 3.A.QJT987.76 54.87.65.KJT98",
+      "trick_cards": {
+        "W": "H4",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ.JT.AK.A5432 9876.65.432.Q 3.A.QJT987.76 54.8.65.KJT98",
+      "trick_cards": {
+        "W": "H4",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ.J.AK.A5432 9876.65.432.Q 3.A.QJT987.76 54.8.65.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H4",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ.J.AK.A5432 9876.65.432.Q 3.A.QJT987.76 54.8.65.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H4",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ.J.K.A5432 9876.65.432.Q 3.A.QJT987.76 54.8.65.KJT98",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ.J.K.A5432 9876.65.43.Q 3.A.QJT987.76 54.8.65.KJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ.J.K.A5432 9876.65.43.Q 3.A.QJT98.76 54.8.65.KJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D2",
+        "N": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ.J.K.A5432 9876.65.43.Q 3.A.QJT98.76 54.8.6.KJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D2",
+        "N": "D7",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ.J.K.A5432 9876.65.43.Q 3.A.QJT98.76 54.8.6.KJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D2",
+        "N": "D7",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQ.J..A5432 9876.65.43.Q 3.A.QJT98.76 54.8.6.KJT98",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQ.J..A5432 9876.65.4.Q 3.A.QJT98.76 54.8.6.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KQ.J..A5432 9876.65.4.Q 3.A.QJT9.76 54.8.6.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D3",
+        "N": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KQ.J..A5432 9876.65.4.Q 3.A.QJT9.76 54.8..KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D3",
+        "N": "D8",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KQ.J..A5432 9876.65.4.Q 3.A.QJT9.76 54.8..KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D3",
+        "N": "D8",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQ...A5432 9876.65.4.Q 3.A.QJT9.76 54.8..KJT98",
+      "trick_cards": {
+        "S": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQ...A5432 9876.6.4.Q 3.A.QJT9.76 54.8..KJT98",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KQ...A5432 9876.6.4.Q 3..QJT9.76 54.8..KJT98",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KQ...A5432 9876.6.4.Q 3..QJT9.76 54...KJT98",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H5",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQ...A5432 9876.6.4.Q 3..QJT9.76 54...KJT98",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H5",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West continues hearts but South can win in hand, unblock the ♦A and ♦K, and cross to the ♥A. South is able to run the diamonds and take 11 tricks."
+    }
+  ]
+}

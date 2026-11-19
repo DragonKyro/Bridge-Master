@@ -1,0 +1,1078 @@
+{
+  "title": "Level 3 (Advanced) - A-19",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-19",
+  "deal_pbn": "S:AK2.QJ2.J32.A432 QJT98.54.QT87.QJ 543.A3.AK9654.65 76.KT9876..KT987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks. 2 spade tricks, the ♥A, and ♣A will account for the rest of South's 9 tricks.\n\nSouth has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy. If diamonds are 2-2 or 3-1, the ♦A and ♦K will take care of all of the defenders' diamonds after the first round has been ducked.\n\nIf East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond to East. Again South will score 5 diamond tricks.\n\nIf West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks. West thus wins the ♦Q, but South can take 5 diamond tricks by taking the marked finesse against West's ♦10.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks. 2 spade tricks, the ♥A, and ♣A will account for the rest of South's 9 tricks.",
+    "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy. If diamonds are 2-2 or 3-1, the ♦A and ♦K will take care of all of the defenders' diamonds after the first round has been ducked.",
+    "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond to East. Again South will score 5 diamond tricks.",
+    "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks. West thus wins the ♦Q, but South can take 5 diamond tricks by taking the marked finesse against West's ♦10."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.QJ2.J32.A432 QJT98.54.QT87.QJ 543.A3.AK9654.65 76.KT9876..KT987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.QJ2.J32.A432 JT98.54.QT87.QJ 543.A3.AK9654.65 76.KT9876..KT987",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.QJ2.J32.A432 JT98.54.QT87.QJ 543.A3.AK9654.65 76.KT9876..KT987",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 76.KT9876..KT987",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks. 2 spade tricks,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks. 2 spade tricks, the ♥A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South should win the opening spade lead as a club shift would not be welcome. South must try to take 5 diamond tricks. 2 spade tricks, the ♥A, and ♣A will account for the rest of South's 9 tricks."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A2.QJ2.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.54.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.A3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK9654.65 7.KT9876..KT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK9654.65 7.KT987..KT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK9654.65 7.KT987..KT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.875.QT.QJ 54.3.AK965.65 7.KT9.87.KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy. If diamonds are 2-2"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875.T.QJ 54.3.AK965.65 7.KT.Q87.KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy. If diamonds are 2-2 or 3-1,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875.T.QJ 54.3.AK965.65 7.KT.Q87.KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has only one play to guarantee 9 tricks regardless of how diamonds lie. South should cross to the ♥A at trick 2 and lead a low diamond from the dummy. If diamonds are 2-2 or 3-1, the ♦A and ♦K will take care of all of the defenders' diamonds after the first round has been ducked."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.QT87.K987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.T87.K987",
+      "trick_cards": {
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.T87.K987",
+      "trick_cards": {
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.T87.K987",
+      "trick_cards": {
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.QT87.K987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.9875..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.987..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "H5",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.987..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "H5",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.987..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.98..QJT 54.3.AK965.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.98..QJT 54.3.AK96.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H7",
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.98..QJT 54.3.AK96.65 7.KT.QT8.K987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H7",
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond to East."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.98..QJT 54.3.AK96.65 7.KT.QT.K987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H7",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond to East."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A2.QJ.3.A432 JT98.98..QJT 54.3.AK96.65 7.KT.QT.K987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H7",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has all 4 diamonds and takes the ♦Q, he sets up South's ♦J. The diamonds are not blocked and South will take 5 tricks in that suit. If East ducks, South wins the ♦J and ducks a diamond to East. Again South will score 5 diamond tricks."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT987",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A2.QJ.J32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work)."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work)."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.QT8.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.QT8.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D7",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.QT87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks. West thus wins the ♦Q,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.T87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks. West thus wins the ♦Q,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A2.QJ.32.A432 JT98.5.T87.QJ 54.3.AK965.65 7.KT987..KT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has all 4 diamonds East will show out on the first round of diamonds. South plays the ♦J (a low diamond would also work). If West ducks, South will take 6 diamond tricks. West thus wins the ♦Q, but South can take 5 diamond tricks by taking the marked finesse against West's ♦10."
+    }
+  ]
+}

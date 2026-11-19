@@ -1,0 +1,890 @@
+{
+  "title": "Level 3 (Advanced) - B-16",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-16",
+  "deal_pbn": "S:K2.A432.Q32.A432 Q6.876.JT9876.K7 T543.K5.AK.QJT98 AJ987.QJT9.54.65",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "1S",
+    "Dbl",
+    "Pass",
+    "2C",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South. If South wins the ♠K, the contract will be in danger when West has the guarded ♣K.\n\nSouth must develop the clubs to have any hope of taking 9 tricks. If West should gain the lead during that process, a spade lead through dummy's holding will allow East to take 4 spade tricks.\n\nSince 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A. North's remaining spade holding is a stopper.\n\nEast will clear the spade suit, but South can finesse clubs into West. Regardless of the position of the ♣K, the contract will be safe.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South. If South wins the ♠K, the contract will be in danger when West has the guarded ♣K.",
+    "South must develop the clubs to have any hope of taking 9 tricks. If West should gain the lead during that process, a spade lead through dummy's holding will allow East to take 4 spade tricks.",
+    "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A. North's remaining spade holding is a stopper.",
+    "East will clear the spade suit, but South can finesse clubs into West. Regardless of the position of the ♣K, the contract will be safe."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "CK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.A432.Q32.A432 Q6.876.JT9876.K7 T543.K5.AK.QJT98 AJ987.QJT9.54.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T543.K5.AK.QJT98 AJ987.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T543.K5.AK.QJT98 AJ987.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ987.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South. If South wins the ♠K,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South. If South wins the ♠K,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's spade lead, in response to his partner's overcall, is ducked around to South. If South wins the ♠K, the contract will be in danger when West has the guarded ♣K."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South must develop the clubs to have any hope of taking 9 tricks."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must develop the clubs to have any hope of taking 9 tricks. If West should gain the lead during that process,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must develop the clubs to have any hope of taking 9 tricks. If West should gain the lead during that process, a spade lead through dummy's holding will allow East to take 4 spade tricks."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K2.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ],
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ],
+          "H": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K.A432.Q32.A432 6.876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K.A432.Q32.A432 .876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K.A432.Q32.A432 .876.JT9876.K7 T54.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 AJ87.QJT9.54.65",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 J87.QJT9.54.65",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 J87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 J87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Since 2 heart tricks, 3 diamond tricks, and 4 club tricks will be enough for the contract, South does not need a spade trick. South can assure the contract by allowing West to hold the ♠Q. No switch is feared as South has double stoppers in both hearts and diamonds. West will continue spades to East's ♠A. North's remaining spade holding is a stopper."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 J87.QJT9.54.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.A432.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 87.QJT9.54.65",
+      "trick_cards": {
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.A43.Q32.A432 .876.JT9876.K7 T5.K5.AK.QJT98 87.QJT9.54.65",
+      "trick_cards": {
+        "S": "H2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.A43.Q32.A432 .876.JT987.K7 T5.K5.AK.QJT98 87.QJT9.54.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D6",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.A43.Q32.A432 .876.JT987.K7 T.K5.AK.QJT98 87.QJT9.54.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "D6",
+        "N": "S5",
+        "E": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.A43.Q32.A432 .876.JT987.K7 T.K5.AK.QJT98 8.QJT9.54.65",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT987.K7 T.K5.AK.QJT98 8.QJT9.54.65",
+      "trick_cards": {
+        "S": "H3",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT98.K7 T.K5.AK.QJT98 8.QJT9.54.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D7",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT98.K7 .K5.AK.QJT98 8.QJT9.54.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D7",
+        "N": "ST",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT98.K7 .K5.AK.QJT98 8.QJT9.54.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D7",
+        "N": "ST",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT98.K7 .K5.AK.JT98 8.QJT9.54.65",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.A4.Q32.A432 .876.JT98.K7 .K5.AK.JT98 8.QJT9.54.6",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.A4.Q32.A43 .876.JT98.K7 .K5.AK.JT98 8.QJT9.54.6",
+      "trick_cards": {
+        "S": "C2",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.A4.Q32.A43 .876.JT98.K7 .K5.AK.JT98 8.QJT9.54.6",
+      "trick_cards": {
+        "S": "C2",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West. Regardless of the position of the ♣K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.A4.Q32.A43 .876.JT98.7 .K5.AK.JT98 8.QJT9.54.6",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West. Regardless of the position of the ♣K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.A4.Q32.A43 .876.JT98.7 .K5.AK.JT98 8.QJT9.54.6",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "East will clear the spade suit, but South can finesse clubs into West. Regardless of the position of the ♣K, the contract will be safe."
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "title": "Level 3 (Advanced) - B-8",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-8",
+  "deal_pbn": "S:KQJT98.A432.A2.2 A3.JT98.765.8765 765.Q765.K43.A43 42.K.QJT98.KQJT9",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2S",
+    "Pass",
+    "3H",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♥J against 4♠. South should play low from dummy at trick 1. West is unlikely to have led from a King in a suit bid by South. However, South can always lead towards the ♥Q later if necessary.\n\nEast produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff. South will lose 2 heart tricks in addition to the 2 tricks that already have been lost.\n\nSouth should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump, and take the rest of the tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 4♠. South should play low from dummy at trick 1. West is unlikely to have led from a King in a suit bid by South. However, South can always lead towards the ♥Q later if necessary.",
+    "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff. South will lose 2 heart tricks in addition to the 2 tricks that already have been lost.",
+    "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump, and take the rest of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 54,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 55,
+      "seat": "E",
+      "card": "C9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.JT98.765.8765 765.Q765.K43.A43 42.K.QJT98.KQJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q765.K43.A43 42.K.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q765.K43.A43 42.K.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 4♠. South should play low from dummy at trick 1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42.K.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 4♠. South should play low from dummy at trick 1."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.KT9.765.8765 765.Q76.K43.A43 42.8.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 4♠. South should play low from dummy at trick 1. West is unlikely to have led from a King in a suit bid by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.KT9.765.8765 765.Q76.K43.A43 42.8.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 4♠. South should play low from dummy at trick 1. West is unlikely to have led from a King in a suit bid by South. However, South can always lead towards the ♥Q later if necessary."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42.K.QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT98.432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJT98.432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJT98.432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT98.432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT98.432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT98.432.A2.2 3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT98.432.A2.2 3.T98.765.8765 76.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT98.432.A2.2 3.T98.765.8765 76.Q76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT98.432.A2.2 3.T98.765.8765 76.Q76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT98.432.A2.2 3.98.765.8765 76.Q76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT98.432.A2.2 3.98.765.8765 76.Q76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT98.432.A2.2 3.98.765.8765 76.76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT98.432.A2.2 3.98.765.8765 76.76.K43.A43 4..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT98.432.A2.2 3.98.765.8765 76.76.K43.A43 ..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT98.43.A2.2 3.98.765.8765 76.76.K43.A43 ..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT98.43.A2.2 3.98.765.8765 76.76.K43.A43 ..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East produces the ♥K, an obvious singleton. If South wins the ♥A, he will go down when West has the ♠A. South can lead a trump, but West will win. West will lead high hearts through North's ♥Q. Whenever the ♥Q is played East will ruff. South will lose 2 heart tricks in addition to the 2 tricks that already have been lost."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJT98.A432.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJT98.A43.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQJT98.A43.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQJT98.A43.A2.2 A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.QJT9",
+      "trick_cards": {
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.8765 765.Q76.K43.A43 42..QJT98.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.876 765.Q76.K43.A43 42..QJT98.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.876 765.Q76.K43.43 42..QJT98.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.876 765.Q76.K43.43 42..QJT98.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.876 76.Q76.K43.43 42..QJT98.QJT9",
+      "trick_cards": {
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQJT98.A43.A2. A3.T98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT98.A43.A2. A3.T98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT98.A43.A2. A3.T98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT98.A43.A2. 3.T98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT98.A43.A2. 3.T98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT98.A43.A2. 3.98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT98.A43.A2. 3.98.765.876 76.Q76.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT98.A43.A2. 3.98.765.876 76.Q7.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT98.A43.A2. 3.98.765.876 76.Q7.K43.43 4..QJT98.QJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT98.A43.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.QJT9",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H6",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJT98.A4.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HT",
+        "N": "H6",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:QJT98.A4.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HT",
+        "N": "H6",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:QJT98.A4.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HT",
+        "N": "H6",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:QJT98.A4.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.JT9",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:QJT9.A4.A2. 3.98.765.876 76.Q7.K43.43 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "S8",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:QJT9.A4.A2. 3.98.765.87 76.Q7.K43.43 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:QJT9.A4.A2. 3.98.765.87 76.Q7.K43.4 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C6",
+        "N": "C3",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:QJT9.A4.A2. 3.98.765.87 76.Q7.K43.4 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C6",
+        "N": "C3",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:JT9.A4.A2. 3.98.765.87 76.Q7.K43.4 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:JT9.A4.A2. .98.765.87 76.Q7.K43.4 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump,"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:JT9.A4.A2. .98.765.87 7.Q7.K43.4 ..QJT98.JT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump,"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:JT9.A4.A2. .98.765.87 7.Q7.K43.4 ..QJT98.JT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S6",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump,"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:JT9.A4.A2. .98.765.87 7.Q7.K43.4 ..QJT98.JT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S6",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should allow East to win the first trick with his ♥K. South can win any return and play a spade. West can win and return a heart. A low card is played from dummy. If East ruffs, he is ruffing a trick his partner would eventually have taken. South will be able to win any return, draw the remaining trump, and take the rest of the tricks."
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "title": "Level 1 (Beginner) - B-7",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-7",
+  "deal_pbn": "S:A2.AKQJT.432.K32 K65.5.AQ6.J98765 43.432.KJT987.A4 QJT987.9876.5.QT",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3D",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DA",
+  "par_tricks": 10,
+  "notes": "West leads the ♦A against 4♥. West wins the first trick and continues diamonds. South has a critical decision to make. Should South play the ♦K or finesse at trick 2?\n\nThe easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade and South will have no way of avoiding losing a trick in both spades and diamonds.\n\nIf the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade. North's diamond suit is now established to provide discards for South's spade and club losers once trump is drawn.\n\nIf East started with a singleton diamond, he will ruff at trick 2. Dummy's diamonds will again be established to take care of South's spade and club losers.",
+  "commentary_paragraphs": [
+    "West leads the ♦A against 4♥. West wins the first trick and continues diamonds. South has a critical decision to make. Should South play the ♦K or finesse at trick 2?",
+    "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade and South will have no way of avoiding losing a trick in both spades and diamonds.",
+    "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade. North's diamond suit is now established to provide discards for South's spade and club losers once trump is drawn.",
+    "If East started with a singleton diamond, he will ruff at trick 2. Dummy's diamonds will again be established to take care of South's spade and club losers."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 7,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "D3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A2.AKQJT.432.K32 K65.5.AQ6.J98765 43.432.KJT987.A4 QJT987.9876.5.QT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A2.AKQJT.432.K32 K65.5.Q6.J98765 43.432.KJT987.A4 QJT987.9876.5.QT",
+      "trick_cards": {
+        "W": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A2.AKQJT.432.K32 K65.5.Q6.J98765 43.432.KJT987.A4 QJT987.9876.5.QT",
+      "trick_cards": {
+        "W": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A2.AKQJT.432.K32 K65.5.Q6.J98765 43.432.KJT98.A4 QJT987.9876.5.QT",
+      "trick_cards": {
+        "W": "DA",
+        "N": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A2.AKQJT.432.K32 K65.5.Q6.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "DA",
+        "N": "D7",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q6.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "D7",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q6.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DA",
+        "N": "D7",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick and continues diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick and continues diamonds."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦A against 4♥. West wins the first trick and continues diamonds. South has a critical decision to make. Should South play the ♦K or finesse at trick 2?"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.KJT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.JT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.JT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.JT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K65.5.Q.J98765 43.432.JT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K65.5.Q.J98765 43.432.JT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DK",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K65.5.Q.J98765 43.432.JT98.A4 JT987.987..QT",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.AKQJT.4.K32 K65.5.Q.J98765 43.432.JT98.A4 JT987.987..QT",
+      "trick_cards": {
+        "S": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.AKQJT.4.K32 K6.5.Q.J98765 43.432.JT98.A4 JT987.987..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.AKQJT.4.K32 K6.5.Q.J98765 4.432.JT98.A4 JT987.987..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.AKQJT.4.K32 K6.5.Q.J98765 4.432.JT98.A4 JT987.987..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4"
+          ],
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "The easiest way to solve this problem is to think about what could go wrong with each play. If the ♦K is played and East ruffs, the contract will fail. East will return a spade and South will have no way of avoiding losing a trick in both spades and diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K765.5..J98765 43.432.KJT98.A4 QJT98.9876.Q.QT",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K765.5..J98765 43.432.KT98.A4 QJT98.9876.Q.QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K765.5..J98765 43.432.KT98.A4 QJT98.9876.Q.QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K765.5..J98765 43.432.KT98.A4 QJT98.9876..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K765.5..J98765 43.432.KT98.A4 QJT98.9876..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K765.5..J98765 43.432.KT98.A4 QJT98.9876..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K765.5..J98765 43.432.KT98.A4 JT98.9876..QT",
+      "trick_cards": {
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:2.AKQJT.4.K32 K765.5..J98765 43.432.KT98.A4 JT98.9876..QT",
+      "trick_cards": {
+        "S": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:2.AKQJT.4.K32 K76.5..J98765 43.432.KT98.A4 JT98.9876..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:2.AKQJT.4.K32 K76.5..J98765 4.432.KT98.A4 JT98.9876..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:2.AKQJT.4.K32 K76.5..J98765 4.432.KT98.A4 JT98.9876..QT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ],
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse is taken at trick 2, nothing can go wrong. East may win the ♦Q and return a spade. North's diamond suit is now established to provide discards for South's spade and club losers once trump is drawn."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.KT98.A4 QJT987.9876..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East started with a singleton diamond, he will ruff at trick 2."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A2.AKQJT.43.K32 K65.5.Q.J98765 43.432.KT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DJ",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East started with a singleton diamond, he will ruff at trick 2."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K65.5.Q.J98765 43.432.KT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DJ",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East started with a singleton diamond, he will ruff at trick 2."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A2.AKQJT.4.K32 K65.5.Q.J98765 43.432.KT98.A4 QJT987.987..QT",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DJ",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ],
+          "S": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East started with a singleton diamond, he will ruff at trick 2. Dummy's diamonds will again be established to take care of South's spade and club losers."
+    }
+  ]
+}

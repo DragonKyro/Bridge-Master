@@ -1,0 +1,841 @@
+{
+  "title": "Level 2 (Intermediate) - B-14",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-14",
+  "deal_pbn": "S:AJ.AK32.A432.A92 KQT987.87.8.J543 32.654.765.KQ876 654.QJT9.KQJT9.T",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "West leads the ♠K against 3NT. After the defenders set up their spades, South must hope to play clubs for 5 tricks. The ♠A, ♥A, ♥K, and ♦A will make up the rest of South's 9 tricks.\n\nIf clubs are 3-2, the contract will make easily. If East has 4 or more clubs, the contract has no hope. If West has four clubs to the ♣J and ♣10, South cannot take 5 club tricks without jeopardizing the contract on more normal 3-2 club breaks.\n\nSouth can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour, but the club suit will be blocked. West will not cover when South leads the ♣9 and dummy's clubs will be stranded.\n\nIf South unblocks the ♣9 on the first or second round, he will be able to finesse against West's honour and enjoy dummy's long clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 3NT. After the defenders set up their spades, South must hope to play clubs for 5 tricks. The ♠A, ♥A, ♥K, and ♦A will make up the rest of South's 9 tricks.",
+    "If clubs are 3-2, the contract will make easily. If East has 4 or more clubs, the contract has no hope. If West has four clubs to the ♣J and ♣10, South cannot take 5 club tricks without jeopardizing the contract on more normal 3-2 club breaks.",
+    "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour, but the club suit will be blocked. West will not cover when South leads the ♣9 and dummy's clubs will be stranded.",
+    "If South unblocks the ♣9 on the first or second round, he will be able to finesse against West's honour and enjoy dummy's long clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJ.AK32.A432.A92 KQT987.87.8.J543 32.654.765.KQ876 654.QJT9.KQJT9.T",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJ.AK32.A432.A92 QT987.87.8.J543 32.654.765.KQ876 654.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJ.AK32.A432.A92 QT987.87.8.J543 32.654.765.KQ876 654.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJ.AK32.A432.A92 QT987.87.8.J543 3.654.765.KQ876 654.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJ.AK32.A432.A92 QT987.87.8.J543 3.654.765.KQ876 65.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.AK32.A432.A92 QT987.87.8.J543 3.654.765.KQ876 65.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SK",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.AK32.A432.A92 T987.87.8.J543 3.654.765.KQ876 65.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 65.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "9",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades, South must hope to play clubs for 5 tricks."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. After the defenders set up their spades, South must hope to play clubs for 5 tricks. The ♠A, ♥A, ♥K, and ♦A will make up the rest of South's 9 tricks."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.98.J54 .654.765.KQ876 6.QJT9.KQJT.T3",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "T",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, the contract will make easily."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AK32.A432.A92 T987.987.T98.J .654.765.KQ876 6.QJT.KQJ.T543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "T",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, the contract will make easily. If East has 4 or more clubs, the contract has no hope."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.JT54 .654.765.KQ876 6.QJT9.KQJT9.3",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-2, the contract will make easily. If East has 4 or more clubs, the contract has no hope. If West has four clubs to the ♣J and ♣10, South cannot take 5 club tricks without jeopardizing the contract on more normal 3-2 club breaks."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J54 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J54 .654.765.Q876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C3",
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J54 .654.765.Q876 6.QJT9.KQJT9.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C3",
+        "N": "CK",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT9.",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AK32.A432.A9 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour, but the club suit will be blocked."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour, but the club suit will be blocked. West will not cover when South leads the ♣9"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AK32.A432.9 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make the contract with careful play if West has 4 clubs with only 1 of the ♣J and ♣10. South must play the ♣9 on the first or second round of the suit. If South saves the ♣9 until the third round, he will have a finessing position over West's club honour, but the club suit will be blocked. West will not cover when South leads the ♣9 and dummy's clubs will be stranded."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AK32.A432.A92 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J543 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J54 .654.765.KQ876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J54 .654.765.Q876 6.QJT9.KQJT9.T",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C3",
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J54 .654.765.Q876 6.QJT9.KQJT9.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C3",
+        "N": "CK",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT9.",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AK32.A432.A2 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AK32.A432.2 T987.87.8.J54 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AK32.A432.2 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South unblocks the ♣9 on the first or second round,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AK32.A432.2 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If South unblocks the ♣9 on the first or second round, he will be able to finesse against West's honour"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AK32.A432.2 T987.87.8.J5 .654.765.Q87 6.QJT9.KQJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C6",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South unblocks the ♣9 on the first or second round, he will be able to finesse against West's honour and enjoy dummy's long clubs."
+    }
+  ]
+}

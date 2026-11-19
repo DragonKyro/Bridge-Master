@@ -1,0 +1,585 @@
+{
+  "title": "Level 3 (Advanced) - D-1",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-1",
+  "deal_pbn": "S:K2.K54.AK32.AKQ2 Q543.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S3",
+  "par_tricks": 9,
+  "notes": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts, 2 diamonds, and 3 clubs). At first glance it appears South will need a favorable break in one of the minors in order to come to 9 tricks.\n\nSouth receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q, establishing 2 spade winners in the dummy with the ♥A as an entry to cash them.\n\nUnblocking the ♠K at trick 1 ensures the contract. This play gives up an immediate spade winner, but ensures that the dummy will be able to win 2 spade tricks later in the play.",
+  "commentary_paragraphs": [
+    "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts, 2 diamonds, and 3 clubs). At first glance it appears South will need a favorable break in one of the minors in order to come to 9 tricks.",
+    "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q, establishing 2 spade winners in the dummy with the ♥A as an entry to cash them.",
+    "Unblocking the ♠K at trick 1 ensures the contract. This play gives up an immediate spade winner, but ensures that the dummy will be able to win 2 spade tricks later in the play."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "SK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q543.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠3 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts, 2 diamonds,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts, 2 diamonds, and 3 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ],
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠3 against 3NT. South has 8 top tricks (1 spade, given the lead, 2 hearts, 2 diamonds, and 3 clubs). At first glance it appears South will need a favorable break in one of the minors in order to come to 9 tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT98.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 A76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks)."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A!"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A!"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.54.AK32.AKQ2 Q54.87.J987.87 JT9.A32.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.54.AK32.AKQ2 Q54.87.J987.87 JT9.A3.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.54.AK32.AKQ2 Q54.87.J987.87 JT9.A3.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.54.AK32.AKQ2 Q54.87.J987.87 JT9.A3.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.54.AK32.AKQ2 54.87.J987.87 JT9.A3.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.54.AK32.AKQ2 54.87.J987.87 JT.A3.654.654 76.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.54.AK32.AKQ2 54.87.J987.87 JT.A3.654.654 7.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.54.AK32.AKQ2 54.87.J987.87 JT.A3.654.654 7.JT9.QT.JT93",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ],
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South receives a break, however, when East plays the ♠A at trick 1 (the contract cannot be made if East ducks). South should unblock his ♠K under East's ♠A! If East returns a heart South must be careful to win this trick in the closed hand. South's remaining spade is led to drive out the ♠Q, establishing 2 spade winners in the dummy with the ♥A as an entry to cash them."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Unblocking the ♠K at trick 1 ensures the contract. This play gives up an immediate spade winner,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Unblocking the ♠K at trick 1 ensures the contract. This play gives up an immediate spade winner,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:2.K54.AK32.AKQ2 Q54.876.J987.87 JT9.A32.654.654 76.QJT9.QT.JT93",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S8",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Unblocking the ♠K at trick 1 ensures the contract. This play gives up an immediate spade winner, but ensures that the dummy will be able to win 2 spade tricks later in the play."
+    }
+  ]
+}

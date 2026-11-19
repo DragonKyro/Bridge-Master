@@ -1,0 +1,1807 @@
+{
+  "title": "Level 5 (World Class) - C-15",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-15",
+  "deal_pbn": "S:KQT432.32.AK.AK2 J987.AK654.87.87 65.QJT98.QJT.QJT A.7.965432.96543",
+  "contract": "3S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 9,
+  "notes": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A. South, with no minor suit losers, should underruff. This precaution gives South a chance for a trump endplay if West was dealt the 4 remaining spades.\n\nEast returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond and ducks a spade to endplay West.\n\nIf West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand and endplays West in trump as before.\n\nSouth has to decide early which minor suit distribution he should play West to have been dealt. West can have 7 possible singleton clubs and 56 possible diamond tripletons for a total of 392 hands with 4531 distribution. West is more likely to be 4522 as he can have 28 doubleton diamonds and 21 doubleton clubs for a total of 588 possible hands.\n\nIf West has a minor suit singleton, it is more likely to be in clubs than in diamonds so 4513 distribution is the least likely of all (there are 280 possible hands). South should thus play West for 4522 distribution which is more likely than either 4531 or 4513. South cannot combine his chances so that he can succeed on more than one distribution for West.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A. South, with no minor suit losers, should underruff. This precaution gives South a chance for a trump endplay if West was dealt the 4 remaining spades.",
+    "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond and ducks a spade to endplay West.",
+    "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand and endplays West in trump as before.",
+    "South has to decide early which minor suit distribution he should play West to have been dealt. West can have 7 possible singleton clubs and 56 possible diamond tripletons for a total of 392 hands with 4531 distribution. West is more likely to be 4522 as he can have 28 doubleton diamonds and 21 doubleton clubs for a total of 588 possible hands.",
+    "If West has a minor suit singleton, it is more likely to be in clubs than in diamonds so 4513 distribution is the least likely of all (there are 280 possible hands). South should thus play West for 4522 distribution which is more likely than either 4531 or 4513. South cannot combine his chances so that he can succeed on more than one distribution for West."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 54,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 54,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 55,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 58,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 60,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 61,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 62,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 63,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 64,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 65,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 66,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 67,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 70,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 71,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 72,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 73,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 74,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 75,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 76,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 78,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 79,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 80,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 81,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 83,
+      "seat": "E",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQT432.32.AK.AK2 J987.AK654.87.87 65.QJT98.QJT.QJT A.7.965432.96543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 3♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQT432.32.AK.AK2 J987.A654.87.87 65.QJT98.QJT.QJT A.7.965432.96543",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQT432.32.AK.AK2 J987.A654.87.87 65.QJT98.QJT.QJT A.7.965432.96543",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQT432.32.AK.AK2 J987.A654.87.87 65.QJT9.QJT.QJT A.7.965432.96543",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQT432.32.AK.AK2 J987.A654.87.87 65.QJT9.QJT.QJT A..965432.96543",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H8",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQT432.3.AK.AK2 J987.A654.87.87 65.QJT9.QJT.QJT A..965432.96543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H8",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQT432.3.AK.AK2 J987.654.87.87 65.QJT9.QJT.QJT A..965432.96543",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQT432.3.AK.AK2 J987.654.87.87 65.QJT.QJT.QJT A..965432.96543",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQT432.3.AK.AK2 J987.654.87.87 65.QJT.QJT.QJT A..96543.96543",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H9",
+        "E": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.654.87.87 65.QJT.QJT.QJT A..96543.96543",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HA",
+        "N": "H9",
+        "E": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.654.87.87 65.QJT.QJT.QJT A..96543.96543",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HA",
+        "N": "H9",
+        "E": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.65.87.87 65.QJT.QJT.QJT A..96543.96543",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT A..96543.96543",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.96543",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HT",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQT432..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.96543",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HT",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A. South, with no minor suit losers, should underruff."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.96543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H4",
+        "N": "HT",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A. South, with no minor suit losers, should underruff."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.96543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H4",
+        "N": "HT",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 3♠. West wins 2 tricks in hearts as East discards a diamond on the second round. West plays a third round of hearts and East ruffs with the ♠A. South, with no minor suit losers, should underruff. This precaution gives South a chance for a trump endplay if West was dealt the 4 remaining spades."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.96543",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H4",
+        "N": "HT",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "9",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "East returns a club."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.9654",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.87.87 65.QJ.QJT.QJT ..96543.9654",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQT43..AK.K2 J987.65.87.87 65.QJ.QJT.QJT ..96543.9654",
+      "trick_cards": {
+        "S": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQT43..AK.K2 J987.65.87.8 65.QJ.QJT.QJT ..96543.9654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQT43..AK.K2 J987.65.87.8 65.QJ.QJT.QJ ..96543.9654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "CT",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQT43..AK.K2 J987.65.87.8 65.QJ.QJT.QJ ..96543.9654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "CT",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "9",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe)."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QT43..AK.K2 J987.65.87.8 65.QJ.QJT.QJ ..96543.9654",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe)."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QT43..AK.K2 J98.65.87.8 65.QJ.QJT.QJ ..96543.9654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe)."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QT43..AK.K2 J98.65.87.8 6.QJ.QJT.QJ ..96543.9654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe)."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QT43..AK.K2 J98.65.87.8 6.QJ.QJT.QJ ..96543.965",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe)."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QT43..AK.K2 J98.65.87.8 6.QJ.QJT.QJ ..96543.965",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8"
+          ],
+          "D": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QT43..AK.K2 J98.65.87.8 6.QJ.QJT.QJ ..96543.965",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QT43..AK.K J98.65.87.8 6.QJ.QJT.QJ ..96543.965",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.QJ.QJT.QJ ..96543.965",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.QJ.QJT.Q ..96543.965",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.QJ.QJT.Q ..96543.96",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.QJ.QJT.Q ..96543.96",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "CJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.J.QJT.Q ..96543.96",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QT43..AK.K J98.65.87. 6.J.QJT.Q ..9654.96",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QT43..A.K J98.65.87. 6.J.QJT.Q ..9654.96",
+      "trick_cards": {
+        "S": "DK",
+        "N": "HQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QT43..A.K J98.6.87. 6.J.QJT.Q ..9654.96",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H5",
+        "N": "HQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QT43..A.K J98.6.87. 6..QJT.Q ..9654.96",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QT43..A.K J98.6.87. 6..QJT.Q ..965.96",
+      "trick_cards": {
+        "N": "HJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QT43...K J98.6.87. 6..QJT.Q ..965.96",
+      "trick_cards": {
+        "S": "DA",
+        "N": "HJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QT43...K J98..87. 6..QJT.Q ..965.96",
+      "trick_cards": {
+        "S": "DA",
+        "W": "H6",
+        "N": "HJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QT43...K J98..87. 6..QJT.Q ..965.96",
+      "trick_cards": {
+        "S": "DA",
+        "W": "H6",
+        "N": "HJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QT43...K J98..87. 6..JT.Q ..965.96",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:QT43...K J98..87. 6..JT.Q ..96.96",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:QT43... J98..87. 6..JT.Q ..96.96",
+      "trick_cards": {
+        "S": "CK",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:QT43... J98..8. 6..JT.Q ..96.96",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:QT43... J98..8. 6..JT.Q ..96.96",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:QT43... J98..8. 6..J.Q ..96.96",
+      "trick_cards": {
+        "N": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:QT43... J98..8. 6..J.Q ..9.96",
+      "trick_cards": {
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:QT4... J98..8. 6..J.Q ..9.96",
+      "trick_cards": {
+        "S": "S3",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:QT4... J98... 6..J.Q ..9.96",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D8",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:QT4... J98... 6..J.Q ..9.96",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D8",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "4"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "East returns a club. Suppose South wins in hand and cashes a high spade on which East discards (otherwise the contract is safe). When West was dealt 2-2 in the minors there are several ways that South can succeed from this point. The most spectacular way is to cross to the dummy in clubs, cash 2 hearts unblocking the ♦A and ♦K, followed by a diamond winner for a club discard. South then ruffs a diamond and ducks a spade to endplay West."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:QT43... J98...6 6..JT.Q ..986.9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D7",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "C": [
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.765.6 65.QJ.QJT.QJT ..9843.98754",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "6"
+          ],
+          "D": [
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765.6 65.QJ.QJT.QJT ..9843.98754",
+      "trick_cards": {
+        "S": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765. 65.QJ.QJT.QJT ..9843.98754",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765. 65.QJ.QJT.QJ ..9843.98754",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765. 65.QJ.QJT.QJ ..9843.98754",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CT",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765. 65.J.QJT.QJ ..9843.98754",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:KQT43..AK.AK J987.65.765. 65.J.QJT.QJ ..9843.9875",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:KQT43..A.AK J987.65.765. 65.J.QJT.QJ ..9843.9875",
+      "trick_cards": {
+        "S": "DK",
+        "N": "HQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:KQT43..A.AK J987.6.765. 65.J.QJT.QJ ..9843.9875",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H5",
+        "N": "HQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:KQT43..A.AK J987.6.765. 65..QJT.QJ ..9843.9875",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:KQT43..A.AK J987.6.765. 65..QJT.QJ ..9843.987",
+      "trick_cards": {
+        "N": "HJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:KQT43...AK J987.6.765. 65..QJT.QJ ..9843.987",
+      "trick_cards": {
+        "S": "DA",
+        "N": "HJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:KQT43...AK J987..765. 65..QJT.QJ ..9843.987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "H6",
+        "N": "HJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:KQT43...AK J987..765. 65..QJT.QJ ..9843.987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "H6",
+        "N": "HJ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:KQT43...AK J987..765. 65..JT.QJ ..9843.987",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:KQT43...AK J987..765. 65..JT.QJ ..984.987",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:KQT43...A J987..765. 65..JT.QJ ..984.987",
+      "trick_cards": {
+        "S": "CK",
+        "N": "DQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:KQT43...A J987..76. 65..JT.QJ ..984.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "D5",
+        "N": "DQ",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:KQT43...A J987..76. 65..T.QJ ..984.987",
+      "trick_cards": {
+        "N": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:KQT43...A J987..76. 65..T.QJ ..98.987",
+      "trick_cards": {
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:KQT43... J987..76. 65..T.QJ ..98.987",
+      "trick_cards": {
+        "S": "CA",
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:KQT43... J987..7. 65..T.QJ ..98.987",
+      "trick_cards": {
+        "S": "CA",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:KQT43... J987..7. 65..T.QJ ..98.987",
+      "trick_cards": {
+        "S": "CA",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand"
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:KQT43... J987..7. 65...QJ ..98.987",
+      "trick_cards": {
+        "N": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand"
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:KQT43... J987..7. 65...QJ ..9.987",
+      "trick_cards": {
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand"
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:KQT4... J987..7. 65...QJ ..9.987",
+      "trick_cards": {
+        "S": "S3",
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand"
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:KQT4... J987... 65...QJ ..9.987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D7",
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand"
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:KQT4... J987... 65...QJ ..9.987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D7",
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "4"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 1 diamond and 3 clubs, South must adjust this line of play slightly by ruffing a club in his hand instead of a diamond. If West was dealt 3 diamonds and 1 club, then at trick 4 South must duck East's club return in hand to win the trick in dummy. Dummy's hearts are cashed for diamond discards and South discards his clubs on 2 of dummy's diamonds. South then ruffs a diamond in hand and endplays West in trump as before."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.765.6 65.QJ.QJT.QJT ..9843.98754",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "6"
+          ],
+          "D": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has to decide early which minor suit distribution he should play West to have been dealt. West can have 7 possible singleton clubs and 56 possible diamond tripletons for a total of 392 hands with 4531 distribution."
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.76.76 65.QJ.QJT.QJT ..98543.9854",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6"
+          ],
+          "D": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has to decide early which minor suit distribution he should play West to have been dealt. West can have 7 possible singleton clubs and 56 possible diamond tripletons for a total of 392 hands with 4531 distribution. West is more likely to be 4522 as he can have 28 doubleton diamonds and 21 doubleton clubs for a total of 588 possible hands."
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.7.876 65.QJ.QJT.QJT ..986543.954",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6"
+          ],
+          "D": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West has a minor suit singleton, it is more likely to be in clubs than in diamonds so 4513 distribution is the least likely of all (there are 280 possible hands)."
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:KQT43..AK.AK2 J987.65.76.76 65.QJ.QJT.QJT ..98543.9854",
+      "trick_cards": {
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6"
+          ],
+          "D": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West has a minor suit singleton, it is more likely to be in clubs than in diamonds so 4513 distribution is the least likely of all (there are 280 possible hands). South should thus play West for 4522 distribution which is more likely than either 4531 or 4513. South cannot combine his chances so that he can succeed on more than one distribution for West."
+    }
+  ]
+}

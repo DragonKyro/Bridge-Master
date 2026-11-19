@@ -1,0 +1,1478 @@
+{
+  "title": "Level 4 (Expert) - C-13",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-13",
+  "deal_pbn": "S:KQJT98.K2.A32.AK 43.5.KQ987.QJT98 A765.43.T654.432 2.AQJT9876.J.765",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "4H",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H5",
+  "par_tricks": 10,
+  "notes": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South.\n\nSouth is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit.\n\nWhen East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10. A club return concedes a ruff and discard.\n\nIf East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick. East will win and be endplayed as before.",
+  "commentary_paragraphs": [
+    "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South.",
+    "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit.",
+    "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10. A club return concedes a ruff and discard.",
+    "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick. East will win and be endplayed as before."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 59,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 59,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 59,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 61,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 62,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 63,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 64,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 66,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 71,
+      "seat": "E",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.K2.A32.AK 43.5.KQ987.QJT98 A765.43.T654.432 2.AQJT9876.J.765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.K2.A32.AK 43..KQ987.QJT98 A765.43.T654.432 2.AQJT9876.J.765",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.K2.A32.AK 43..KQ987.QJT98 A765.43.T654.432 2.AQJT9876.J.765",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.K2.A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.AQJT9876.J.765",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.K2.A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.QJT9876.J.765",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H3",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT98.K.A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.QJT9876.J.765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "H3",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT98.K.A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.QJT9876.J.765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "H3",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT98.K.A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT98..A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT98..A32.AK 43..KQ987.QJT98 A765.4.T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.QJT98 A765.4.T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.QJT98 A765..T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S3",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.QJT98 A765..T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "S": "HK",
+        "W": "S3",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.JT98 A765..T654.432 2.JT9876.J.765",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.JT98 A765..T654.43 2.JT9876.J.765",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJT98..A32.AK 4..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJT98..A32.A 4..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♠. East wins the ♥A and returns the suit, West ruffing. West's club return is won by South."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT98..A32.A 4..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT98..A32.A 4..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT98..A32.A 4..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT98..A32.A ..KQ987.JT98 A765..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT98..A32.A ..KQ987.JT98 A76..T654.43 2.JT9876.J.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT98..A32.A ..KQ987.JT98 A76..T654.43 .JT9876.J.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT98..A32.A ..KQ987.JT98 A76..T654.43 .JT9876.J.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S5",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT98..A32. ..KQ987.JT98 A76..T654.43 .JT9876.J.76",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT98..A32. ..KQ987.JT9 A76..T654.43 .JT9876.J.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT98..A32. ..KQ987.JT9 A76..T654.4 .JT9876.J.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT98..A32. ..KQ987.JT9 A76..T654.4 .JT9876.J.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT98..A32. ..KQ987.JT9 A76..T654.4 .JT9876.J.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT9 A76..T654.4 .JT9876.J.7",
+      "trick_cards": {
+        "S": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT A76..T654.4 .JT9876.J.7",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT 76..T654.4 .JT9876.J.7",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C9",
+        "N": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT 76..T654.4 .JT987.J.7",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C9",
+        "N": "SA",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT 76..T654.4 .JT987.J.7",
+      "trick_cards": {
+        "S": "S8",
+        "W": "C9",
+        "N": "SA",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT 76..T654. .JT987.J.7",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT9..A32. ..KQ987.JT 76..T654. .JT987.J.",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT..A32. ..KQ987.JT 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "S9",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT..A32. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South is left with 2 possible losers in diamonds, but there are elimination possibilities. South should draw a round of trump in the closed hand, noting that East began with a singleton spade. The other top club honour is cashed and a spade is played to dummy's ♠A. Dummy's last club is ruffed, eliminating that suit."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT..A32. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT..A32. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT..A3. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT..A3. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T65. .JT987.J.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T65. .JT987..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T65. .JT987..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T65. .JT98..",
+      "trick_cards": {
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:QJT..A3. ..KQ98.J 76..T65. .JT98..",
+      "trick_cards": {
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:QJT..A3. ..KQ987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:QJT..A3. ..K987.J 76..T654. .JT987.J.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:QJT..A3. ..K987.J 76..T65. .JT987.J.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:QJT..A3. ..K987.J 76..T65. .JT987..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:QJT..A3. ..K987.J 76..T65. .JT987..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:QJT..A3. ..K98.J 76..T65. .JT987..",
+      "trick_cards": {
+        "W": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:QJT..A3. ..K98.J 76..T65. .JT987..",
+      "trick_cards": {
+        "W": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:QJT..A3. ..K987.J 76..T65. .JT987..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10. A club return"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:QJT..A3. ..K987. 76..T65. .JT987..",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10. A club return"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:QJT..A3. ..K987. 76..T65. .JT987..",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East follows to 3 rounds of clubs, South must hope East began with 1813 distribution with a singleton honour in diamonds. South exits with a low diamond. If West ducks, East will win the trick and be forced to lead a heart, conceding a ruff and discard. If West wins the trick, he will be endplayed. A diamond return allows South to lose only 1 diamond trick by playing the ♦10. A club return concedes a ruff and discard."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:QJT..A32. ..K987.JT 76..T654. .JT98.QJ.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "C7",
+        "N": "C4",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:QJT..A32. ..K987.JT 76..T654. .JT98.QJ.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "C7",
+        "N": "C4",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:QJT..32. ..K987.JT 76..T654. .JT98.QJ.",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:QJT..32. ..K98.JT 76..T654. .JT98.QJ.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:QJT..32. ..K98.JT 76..T65. .JT98.QJ.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:QJT..32. ..K98.JT 76..T65. .JT98.Q.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:QJT..32. ..K98.JT 76..T65. .JT98.Q.",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:QJT..3. ..K98.JT 76..T65. .JT98.Q.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:QJT..3. ..K98.JT 76..T65. .JT98.Q.",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:QJT..3. ..K9.JT 76..T65. .JT98.Q.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:QJT..3. ..K9.JT 76..T6. .JT98.Q.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:QJT..3. ..K9.JT 76..T6. .JT98.Q.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick. East will win"
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:QJT..3. ..K9.JT 76..T6. .JT98..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5",
+        "E": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick. East will win"
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:QJT..3. ..K9.JT 76..T6. .JT98..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "D5",
+        "E": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East counts out to 2 diamonds, South must hope his doubleton contains 2 honours. In this case, South must cash the ♦A before exiting a small diamond. West must duck or dummy's ♦10 will be built into a trick. East will win and be endplayed as before."
+    }
+  ]
+}

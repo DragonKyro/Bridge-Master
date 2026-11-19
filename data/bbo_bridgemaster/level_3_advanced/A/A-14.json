@@ -1,0 +1,1132 @@
+{
+  "title": "Level 3 (Advanced) - A-14",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-14",
+  "deal_pbn": "S:AK.AKJT9.KJ2.Q32 QJT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead and does not have time to play on clubs. By the time the ♣A and ♣K are knocked out, the defense will have been able to establish and run the spades.\n\nSouth can always take at least 4 tricks in hearts. If South can guess the ♦Q, 9 tricks will be easy. South can play either opponent for the ♦Q. By handling diamonds properly, however, South can maximize his chances when he loses a trick to the ♦Q.\n\nSouth should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades, South must play hearts for 5 tricks.\n\nDue to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse and make the contract if East has no more than 4 hearts to the ♥Q.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead and does not have time to play on clubs. By the time the ♣A and ♣K are knocked out, the defense will have been able to establish and run the spades.",
+    "South can always take at least 4 tricks in hearts. If South can guess the ♦Q, 9 tricks will be easy. South can play either opponent for the ♦Q. By handling diamonds properly, however, South can maximize his chances when he loses a trick to the ♦Q.",
+    "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades, South must play hearts for 5 tricks.",
+    "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse and make the contract if East has no more than 4 hearts to the ♥Q."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 QJT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 32.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 654.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead and does not have time to play on clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead and does not have time to play on clubs. By the time the ♣A and ♣K are knocked out,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 6 top tricks (2 tricks each in spades, hearts, and diamonds). South wins the spade opening lead and does not have time to play on clubs. By the time the ♣A and ♣K are knocked out, the defense will have been able to establish and run the spades."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can always take at least 4 tricks in hearts."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can always take at least 4 tricks in hearts. If South can guess the ♦Q, 9 tricks will be easy. South can play either opponent for the ♦Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can always take at least 4 tricks in hearts. If South can guess the ♦Q, 9 tricks will be easy. South can play either opponent for the ♦Q. By handling diamonds properly, however, South can maximize his chances when he loses a trick to the ♦Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.AKJT9.KJ2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.Q54.A5 3.32.AT3.JT9876 65.Q876.9876.K4",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.Q54.A5 3.32.AT3.JT9876 65.Q876.9876.K4",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.654.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT3.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT.JT9876 65.Q876.Q987.K4",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT.JT9876 65.Q876.987.K4",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D3",
+        "E": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT.JT9876 65.Q876.987.K4",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D3",
+        "E": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT987.54.65.A5 3.32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 3.32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead and pass the ♦J. If West has the ♦Q, 3 diamond tricks will be taken and the contract will be made easily by playing on hearts. When East is able to win the ♦Q and clear spades, South must play hearts for 5 tricks."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AKJT9.K2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.65.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .32.AT.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .32.T.JT9876 6.Q876.987.K4",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .32.T.JT9876 6.Q876.98.K4",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "DA",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .32.T.JT9876 6.Q876.98.K4",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "DA",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .3.T.JT9876 6.Q876.98.K4",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.AKJT9.2.Q32 JT98.54.6.A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.AKT9.2.Q32 JT98.54.6.A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.AKT9.2.Q32 JT98.5.6.A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.AKT9.2.Q32 JT98.5.6.A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H4",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5.6.A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 .3.T.JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 .3..JT9876 6.Q87.98.K4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 .3..JT9876 6.Q87.9.K4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 .3..JT9876 6.Q87.9.K4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DT",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 ...JT9876 6.Q87.9.K4",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.AKT9..Q32 JT98.5..A5 ...JT9876 6.Q8.9.K4",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:.AK9..Q32 JT98.5..A5 ...JT9876 6.Q8.9.K4",
+      "trick_cards": {
+        "S": "HT",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:.AK9..Q32 JT98...A5 ...JT9876 6.Q8.9.K4",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:.AK9..Q32 JT98...A5 ...JT9876 6.Q8.9.K4",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H5",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Due to South's careful diamond play, North has two entries in diamonds to take two heart finesses. South can lead the ♦K and overtake with North's ♦A. South takes a heart finesse and crosses back to the ♦10. South can take another heart finesse and make the contract if East has no more than 4 hearts to the ♥Q."
+    }
+  ]
+}

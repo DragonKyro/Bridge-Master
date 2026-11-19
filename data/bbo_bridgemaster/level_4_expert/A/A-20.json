@@ -1,0 +1,868 @@
+{
+  "title": "Level 4 (Expert) - A-20",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-20",
+  "deal_pbn": "S:432.A432.AKQJ.Q3 76.T987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "5NT",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 13,
+  "notes": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks, 4 diamond tricks, and the ♣A). A thirteenth trick will be available whenever spades are 3-3 or a squeeze develops.\n\nSouth can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next.\n\nCashing the ♣A is a play known as a Vienna Coup. The Vienna Coup is a necessary play if East is the defender who will be squeezed.\n\nSouth now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner. Either a club or a spade discard will give up trick 13.\n\nThe squeeze will be equally effective if West started with 4 spades and the ♣K. West will have to give up a trick on the play of South's last winner. If West is to be squeezed, the Vienna Coup in not strictly necessary. By executing the Vienna Coup, however, there will be no ambiguity in the ending.",
+  "commentary_paragraphs": [
+    "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks, 4 diamond tricks, and the ♣A). A thirteenth trick will be available whenever spades are 3-3 or a squeeze develops.",
+    "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next.",
+    "Cashing the ♣A is a play known as a Vienna Coup. The Vienna Coup is a necessary play if East is the defender who will be squeezed.",
+    "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner. Either a club or a spade discard will give up trick 13.",
+    "The squeeze will be equally effective if West started with 4 spades and the ♣K. West will have to give up a trick on the play of South's last winner. If West is to be squeezed, the Vienna Coup in not strictly necessary. By executing the Vienna Coup, however, there will be no ambiguity in the ending."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "DT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.T987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 7NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks, 4 diamond tricks,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks, 4 diamond tricks, and the ♣A)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 876.987.T98.765 AKQ5.KQJ.5432.A2 JT9.65.76.KJT984",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 7NT. South has 12 top tricks (3 spade tricks, 4 heart tricks, 4 diamond tricks, and the ♣A). A thirteenth trick will be available whenever spades are 3-3 or a squeeze develops."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQJ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQ.5432.A2 JT98.65.76.KJT98",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.A432.AKQJ.Q3 76.987.T98.7654 AKQ5.KQ.5432.A2 JT98.6.76.KJT98",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HJ",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:432.A43.AKQJ.Q3 76.987.T98.7654 AKQ5.KQ.5432.A2 JT98.6.76.KJT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HJ",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:432.A43.AKQJ.Q3 76.987.T98.7654 AKQ5.KQ.5432.A2 JT98.6.76.KJT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HJ",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:432.A43.AKQJ.Q3 76.987.T98.7654 AKQ5.Q.5432.A2 JT98.6.76.KJT98",
+      "trick_cards": {
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:432.A43.AKQJ.Q3 76.987.T98.7654 AKQ5.Q.5432.A2 JT98..76.KJT98",
+      "trick_cards": {
+        "N": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:432.A4.AKQJ.Q3 76.987.T98.7654 AKQ5.Q.5432.A2 JT98..76.KJT98",
+      "trick_cards": {
+        "S": "H3",
+        "N": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:432.A4.AKQJ.Q3 76.98.T98.7654 AKQ5.Q.5432.A2 JT98..76.KJT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:432.A4.AKQJ.Q3 76.98.T98.7654 AKQ5..5432.A2 JT98..76.KJT98",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:432.A4.AKQJ.Q3 76.98.T98.7654 AKQ5..5432.A2 JT98..76.KJT9",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:432.A.AKQJ.Q3 76.98.T98.7654 AKQ5..5432.A2 JT98..76.KJT9",
+      "trick_cards": {
+        "S": "H4",
+        "N": "HQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:432.A.AKQJ.Q3 76.9.T98.7654 AKQ5..5432.A2 JT98..76.KJT9",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:432.A.AKQJ.Q3 76.9.T98.7654 AKQ5..5432.A2 JT98..76.KJT9",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:432.A.AKQJ.Q3 76.9.T98.7654 AKQ5..5432.2 JT98..76.KJT9",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:432.A.AKQJ.Q3 76.9.T98.7654 AKQ5..5432.2 JT98..76.KJT",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.7654 AKQ5..5432.2 JT98..76.KJT",
+      "trick_cards": {
+        "S": "C3",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.765 AKQ5..5432.2 JT98..76.KJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C4",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can execute a squeeze for trick 13 if either defender has both 4 or more spades and the ♣K. After winning the heart lead South should cash dummy's other 2 heart winners. The ♣A should be cashed next."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.765 AKQ5..5432.2 JT98..76.KJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C4",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Cashing the ♣A is a play known as a Vienna Coup. The Vienna Coup is a necessary play if East is the defender who will be squeezed."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.765 AKQ5..5432.2 JT98..76.KJT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C4",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South now crosses in diamonds"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.765 AKQ5..543.2 JT98..76.KJT",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:432.A.AKQJ.Q 76.9.T98.765 AKQ5..543.2 JT98..7.KJT",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:432.A.AKQ.Q 76.9.T98.765 AKQ5..543.2 JT98..7.KJT",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:432.A.AKQ.Q 76.9.T9.765 AKQ5..543.2 JT98..7.KJT",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D8",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:432.A.AKQ.Q 76.9.T9.765 AKQ5..543.2 JT98..7.KJT",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D8",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:432..Q.Q 76...765 AKQ5..5. JT98...K",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "CJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:432...Q 76...765 AKQ5..5. JT98...K",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:432...Q 76...76 AKQ5..5. JT98...K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "C5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:432...Q 76...76 AKQ5... JT98...K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "C5",
+        "N": "D5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:432...Q 76...76 AKQ5... JT98...K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "C5",
+        "N": "D5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South now crosses in diamonds and runs his heart and diamond winners. As the cards lie, East will have no good answer when South plays his last winner. Either a club or a spade discard will give up trick 13."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:432.A.AKQ.Q JT98.9..K75 AKQ5..543.2 76..T97.JT6",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D8",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The squeeze will be equally effective if West started with 4 spades and the ♣K."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:432..Q.Q JT98...K AKQ5..5. 76...JT6",
+      "trick_cards": {
+        "S": "DK",
+        "W": "C7",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The squeeze will be equally effective if West started with 4 spades and the ♣K. West will have to give up a trick on the play of South's last winner. If West is to be squeezed, the Vienna Coup in not strictly necessary. By executing the Vienna Coup, however, there will be no ambiguity in the ending."
+    }
+  ]
+}

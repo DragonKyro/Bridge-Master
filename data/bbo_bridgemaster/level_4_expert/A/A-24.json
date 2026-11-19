@@ -1,0 +1,966 @@
+{
+  "title": "Level 4 (Expert) - A-24",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-24",
+  "deal_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "2H",
+    "2S",
+    "4H",
+    "4S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "South has a potential loser in spades and at least 1 loser in diamonds. If clubs break 3-3, 3 discards will be available for South's low diamonds.\n\nSouth can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead with a middle trump, preserving the ♠2.\n\nA top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken, South will have created a dummy entry in trump. South will be able to get to the dummy and in the process draw the last trump (if any). Dummy's 3 clubs will provide 3 discards for South's 3 diamond losers.\n\nIf a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump and hope diamonds break 3-2.",
+  "commentary_paragraphs": [
+    "South has a potential loser in spades and at least 1 loser in diamonds. If clubs break 3-3, 3 discards will be available for South's low diamonds.",
+    "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead with a middle trump, preserving the ♠2.",
+    "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken, South will have created a dummy entry in trump. South will be able to get to the dummy and in the process draw the last trump (if any). Dummy's 3 clubs will provide 3 discards for South's 3 diamond losers.",
+    "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump and hope diamonds break 3-2."
+  ],
+  "play_sequence": [
+    {
+      "step": 7,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has a potential loser in spades"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has a potential loser in spades and at least 1 loser in diamonds."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT9.QJT.765 876.32.765.AJ432 3.AK87654.98.T98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has a potential loser in spades and at least 1 loser in diamonds. If clubs break 3-3,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT9.QJT.765 876.32.765.AJ432 3.AK87654.98.T98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has a potential loser in spades and at least 1 loser in diamonds. If clubs break 3-3, 3 discards will be available for South's low diamonds."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.QJT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.JT98.QJT.65 876.32.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK7654.98.T987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKJT92..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead with a middle trump,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKJT2..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead with a middle trump,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKJT2..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can play to virtually ensure the contract when spades are no worse than 3-1 and clubs are no worse than 4-2. South should begin by ruffing the opening heart lead with a middle trump, preserving the ♠2."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKJT2..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "2"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJT2..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJT2..AK432.KQ Q54.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KJT2..AK432.KQ Q5.JT98.QJT.65 876.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KJT2..AK432.KQ Q5.JT98.QJT.65 87.3.765.AJ432 3.AK765.98.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KJT2..AK432.KQ Q5.JT98.QJT.65 87.3.765.AJ432 .AK765.98.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KJT2..AK432.KQ Q5.JT98.QJT.65 87.3.765.AJ432 .AK765.98.T987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KJT2..AK432.Q Q5.JT98.QJT.65 87.3.765.AJ432 .AK765.98.T987",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KJT2..AK432.Q Q5.JT98.QJT.6 87.3.765.AJ432 .AK765.98.T987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJT2..AK432.Q Q5.JT98.QJT.6 87.3.765.AJ43 .AK765.98.T987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJT2..AK432.Q Q5.JT98.QJT.6 87.3.765.AJ43 .AK765.98.T98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJT2..AK432. Q5.JT98.QJT.6 87.3.765.AJ43 .AK765.98.T98",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJT2..AK432. Q5.JT98.QJT. 87.3.765.AJ43 .AK765.98.T98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "N": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "N": "C3",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C6",
+        "N": "C3",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "2"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KT2..AK432. 5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KT2..AK432. 5.JT98.QJT. 8.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KT2..AK432. 5.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KT2..AK432. 5.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken, South will have created a dummy entry in trump. South will be able to get to the dummy and in the process draw the last trump (if any)."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KT2..AK432. 5.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "A top spade honour is cashed. When both defenders follow low, South cashes the top clubs in his hand. A middle spade is next led out of the South hand, surrendering a trick to the ♠Q. If the ♠Q is taken, South will have created a dummy entry in trump. South will be able to get to the dummy and in the process draw the last trump (if any). Dummy's 3 clubs will provide 3 discards for South's 3 diamond losers."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KT2..AK432. Q5.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KT2..AK432. Q.JT98.QJT. 87.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KT2..AK432. Q.JT98.QJT. 8.3.765.AJ4 .AK765.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KT2..AK432. Q.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S7",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KT2..AK432. Q.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "S7",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:T2..AK432. Q.JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:T2..AK432. .JT98.QJT. 8.3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:T2..AK432. .JT98.QJT. .3.765.AJ4 .AK76.98.T9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:T2..AK432. .JT98.QJT. .3.765.AJ4 .AK7.98.T9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S8",
+        "E": "H6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:T2..AK432. .JT98.QJT. .3.765.AJ4 .AK7.98.T9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S8",
+        "E": "H6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If a defender holding 3 spades to the ♠Q ducks the second round of trump, South should draw the last trump and hope diamonds break 3-2."
+    }
+  ]
+}

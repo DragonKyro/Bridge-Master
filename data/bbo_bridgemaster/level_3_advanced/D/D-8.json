@@ -1,0 +1,1010 @@
+{
+  "title": "Level 3 (Advanced) - D-8",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-8",
+  "deal_pbn": "S:KQT2..A5.AKJT976 J543.KQJT.JT9.53 A987.65432.Q32.2 6.A987.K8764.Q84",
+  "contract": "7S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6S",
+    "Pass",
+    "7S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 13,
+  "notes": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q, but East's discard on the second round dooms the contract. With the trump suit blocked South has no way to draw trump directly.\n\nSouth can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J.\n\nAll that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round, the clubs will run and the contract will succeed.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q, but East's discard on the second round dooms the contract. With the trump suit blocked South has no way to draw trump directly.",
+    "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J.",
+    "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round, the clubs will run and the contract will succeed."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "C8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.KQJT.JT9.53 A987.65432.Q32.2 6.A987.K8764.Q84",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 7♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.QJT.JT9.53 A987.65432.Q32.2 6.A987.K8764.Q84",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.QJT.JT9.53 A987.65432.Q32.2 6.A987.K8764.Q84",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A987.K8764.Q84",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQT..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQT..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "S2",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QT..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QT..A5.AKJT976 J54.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QT..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QT..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:T..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:T..A5.AKJT976 J5.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:T..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:T..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q, but East's discard on the second round dooms the contract."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:T..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q, but East's discard on the second round dooms the contract."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:T..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 7♠. South must ruff West's heart opening lead, but if he ruffs with the ♠2 the contract will fail. South cashes the ♠K and ♠Q, but East's discard on the second round dooms the contract. With the trump suit blocked South has no way to draw trump directly."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQT2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "ST",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "ST",
+        "W": "HK",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q2..A5.AKJT976 J543.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q2..A5.AKJT976 J54.QJT.JT9.53 A987.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q2..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 6.A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q2..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:2..A5.AKJT976 J54.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:2..A5.AKJT976 J5.QJT.JT9.53 A98.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:2..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:2..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A87.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:2..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:2..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S8",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:..A5.AKJT976 J5.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:..A5.AKJT976 J.QJT.JT9.53 A9.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:..A5.AKJT976 J.QJT.JT9.53 A.6543.Q32.2 .A8.K8764.Q84",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:..A5.AKJT976 J.QJT.JT9.53 A.6543.Q32.2 .A.K8764.Q84",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "S9",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:..A5.AKJT976 J.QJT.JT9.53 .6543.Q32.2 .A.K8764.Q84",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:..A5.AKJT976 J.QJT.JT9.53 .6543.Q32.2 ..K8764.Q84",
+      "trick_cards": {
+        "N": "SA",
+        "E": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:..A.AKJT976 J.QJT.JT9.53 .6543.Q32.2 ..K8764.Q84",
+      "trick_cards": {
+        "S": "D5",
+        "N": "SA",
+        "E": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:..A.AKJT976 .QJT.JT9.53 .6543.Q32.2 ..K8764.Q84",
+      "trick_cards": {
+        "S": "D5",
+        "W": "SJ",
+        "N": "SA",
+        "E": "HA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can get around this problem by ruffing with the ♠10 (instead of the ♠2) at trick 1. The ♠K and ♠Q are cashed, but when East discards on the second round, the trump suit is unblocked and South can draw the rest of the trump with the marked finesse against West's ♠J."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:..A.AKJT976 .QJT.JT9.53 .6543.Q32.2 ..K8764.Q84",
+      "trick_cards": {
+        "S": "D5",
+        "W": "SJ",
+        "N": "SA",
+        "E": "HA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "2"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:..A.AKJT976 .QJT.JT9.53 .6543.Q32. ..K8764.Q84",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:..A.AKJT976 .QJT.JT9.53 .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:..A.AKT976 .QJT.JT9.53 .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:..A.AKT976 .QJT.JT9.5 .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C3",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:..A.AKT976 .QJT.JT9.5 .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C3",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "C": [
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:..A.KT976 .QJT.JT9.5 .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:..A.KT976 .QJT.JT9. .6543.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:..A.KT976 .QJT.JT9. .654.Q32. ..K8764.Q8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "H3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:..A.KT976 .QJT.JT9. .654.Q32. ..K8764.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "H3",
+        "E": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:..A.KT976 .QJT.JT9. .654.Q32. ..K8764.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "H3",
+        "E": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "All that remains is to play the club suit for no losers. Since all of dummy's trumps have been used to draw trump there is no way for South to ruff out the suit. South should take the percentage play in clubs, finessing against the ♣Q with East. When the finesse wins and both defenders follow to the second round, the clubs will run and the contract will succeed."
+    }
+  ]
+}

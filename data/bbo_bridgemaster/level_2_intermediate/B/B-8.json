@@ -1,0 +1,818 @@
+{
+  "title": "Level 2 (Intermediate) - B-8",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-8",
+  "deal_pbn": "S:KQJ9876.2.A54.32 AT.K876.QJT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DQ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦Q against 4♠. South must lose a trick to the ♠A. A heart loser is also certain. There are also losers in both diamonds and clubs.\n\nIn order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A and continue diamonds or clubs to knock out an entry to the North hand. South will no longer be able to do anything with North's heart suit.\n\nSouth should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy and leads a heart from North.\n\nIf East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick. South may lose a second heart trick, but dummy's hearts are now good and will provide a discard for South's other minor suit loser.",
+  "commentary_paragraphs": [
+    "West leads the ♦Q against 4♠. South must lose a trick to the ♠A. A heart loser is also certain. There are also losers in both diamonds and clubs.",
+    "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A and continue diamonds or clubs to knock out an entry to the North hand. South will no longer be able to do anything with North's heart suit.",
+    "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy and leads a heart from North.",
+    "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick. South may lose a second heart trick, but dummy's hearts are now good and will provide a discard for South's other minor suit loser."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.QJT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦Q against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 4♠. South must lose a trick to the ♠A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 4♠. South must lose a trick to the ♠A. A heart loser is also certain."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 4♠. South must lose a trick to the ♠A. A heart loser is also certain. There are also losers in both diamonds"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 4♠. South must lose a trick to the ♠A. A heart loser is also certain. There are also losers in both diamonds and clubs."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A and continue diamonds"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A and continue diamonds or clubs to knock out an entry to the North hand."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "In order to hold his losers to 3, South must try to develop a heart trick in North's hand. South must be quick to establish North's heart suit. If South tries to play trumps first, the defense will win the ♠A and continue diamonds or clubs to knock out an entry to the North hand. South will no longer be able to do anything with North's heart suit."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K32.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.9876.KQJT9",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJ9876.2.A54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJ9876.2.54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJ9876.2.54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K876.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT9.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .A543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H9",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H9",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.987.KQJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H9",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJ9876..54.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.JT.8765 5432.QJT.K3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "S": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.QJT.K3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DT",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.QJT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DT",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.QJT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DT",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy and leads a heart from North."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win the ♦A and lead the ♥2, conceding a heart trick. The defense will win this trick and return either clubs or diamonds. Declarer wins the ♣A or ♦K in dummy and leads a heart from North."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .543.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQJ9876..5.32 AT.K87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQJ9876...32 AT.K87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "S": "D5",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQJ9876...32 AT.K87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "S": "D5",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick. South may lose a second heart trick,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQJ9876...32 AT.87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick. South may lose a second heart trick,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KQJ9876...32 AT.87.J.8765 5432.JT.3.A4 .54.98.KQJT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East plays the other high heart honour, South can ruff. He can later get rid of at least one of his losers on dummy's good hearts. If East plays low on North's heart lead, South discards from the minor in which the defense has set up a trick. South may lose a second heart trick, but dummy's hearts are now good and will provide a discard for South's other minor suit loser."
+    }
+  ]
+}

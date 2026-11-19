@@ -1,0 +1,734 @@
+{
+  "title": "Level 2 (Intermediate) - A-14",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-14",
+  "deal_pbn": "S:Q32.AK2.QJT9.A32 65.QJT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "South has 8 top tricks (3 spade tricks, 2 heart tricks, and 3 club tricks). South can develop the diamond suit for his game going trick once the ♦A and ♦K are knocked out.\n\nIf South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts. West will still have a diamond entry to cash out the heart suit.\n\nSouth can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead he will have no hearts left to lead. When West wins his diamond trick, South will still have a heart stopper.",
+  "commentary_paragraphs": [
+    "South has 8 top tricks (3 spade tricks, 2 heart tricks, and 3 club tricks). South can develop the diamond suit for his game going trick once the ♦A and ♦K are knocked out.",
+    "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts. West will still have a diamond entry to cash out the heart suit.",
+    "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead he will have no hearts left to lead. When West wins his diamond trick, South will still have a heart stopper."
+  ],
+  "play_sequence": [
+    {
+      "step": 4,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.QJT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "K"
+          ],
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q"
+          ],
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (3 spade tricks, 2 heart tricks, and 3 club tricks)."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.QJT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (3 spade tricks, 2 heart tricks, and 3 club tricks). South can develop the diamond suit for his game going trick"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.QJT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (3 spade tricks, 2 heart tricks, and 3 club tricks). South can develop the diamond suit for his game going trick once the ♦A and ♦K are knocked out."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.QJT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.JT98.K87.765 AK4.543.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.76.A6.JT98",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q32.K2.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q32.K2.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead and attacks diamonds,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ],
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K8.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K8.765 AK4.54.543.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K8.765 AK4.54.543.KQ4 JT987.6.6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K8.765 AK4.54.543.KQ4 JT987.6.6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q32.K2.JT9.A32 65.JT98.K8.765 AK4.54.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q32.2.JT9.A32 65.JT98.K8.765 AK4.54.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q32.2.JT9.A32 65.JT9.K8.765 AK4.54.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:Q32.2.JT9.A32 65.JT9.K8.765 AK4.5.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q32.2.JT9.A32 65.JT9.K8.765 AK4.5.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ],
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South wins the opening lead and attacks diamonds, the contract will be in jeopardy when hearts are 5-2 and the diamond ♦A and ♦K are split. East will win the first diamond trick and clear the hearts. West will still have a diamond entry to cash out the heart suit."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q32.AK2.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q32.AK.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q32.AK.QJT9.A32 65.JT98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q32.AK.QJT9.A32 65.T98.K87.765 AK4.54.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q32.AK.QJT9.A32 65.T98.K87.765 AK4.5.5432.KQ4 JT987.6.A6.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q32.AK.QJT9.A32 65.T98.K87.765 AK4.5.5432.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q32.K.QJT9.A32 65.T98.K87.765 AK4.5.5432.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q32.K.QJT9.A32 65.T98.K87.765 AK4.5.5432.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K87.765 AK4.5.5432.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K8.765 AK4.5.5432.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K8.765 AK4.5.543.KQ4 JT987..A6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K8.765 AK4.5.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K8.765 AK4.5.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead he will have no hearts left to lead."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q32.K.JT9.A32 65.T98.K8.765 AK4.5.543.KQ4 JT987..6.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        },
+        "W": {
+          "D": [
+            "K",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution by allowing West to hold the opening lead. West will continue hearts, but when East wins the first diamond lead he will have no hearts left to lead. When West wins his diamond trick, South will still have a heart stopper."
+    }
+  ]
+}

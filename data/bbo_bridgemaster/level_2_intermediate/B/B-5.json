@@ -1,0 +1,862 @@
+{
+  "title": "Level 2 (Intermediate) - B-5",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-5",
+  "deal_pbn": "S:AK.K32.K32.AKQ32 QJT.54.876.J9876 5432.AQJT.A54.T4 9876.9876.QJT9.5",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠Q against 6NT which South wins. South has 2 spade tricks, 4 heart tricks, 2 diamond tricks, and 3 club tricks. South is 1 trick short and must look towards clubs for trick number 12.\n\nIf clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary. South will have his twelfth trick established in clubs.\n\nSouth should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit. If West has 5 clubs to the ♣J or a singleton ♣J, dummy's ♣10 will be good for trick number 12.\n\nIf it turns out that clubs were 4-2 or 3-3, South may lose an unnecessary club trick, but the contract will still be secure.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 6NT which South wins. South has 2 spade tricks, 4 heart tricks, 2 diamond tricks, and 3 club tricks. South is 1 trick short and must look towards clubs for trick number 12.",
+    "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary. South will have his twelfth trick established in clubs.",
+    "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit. If West has 5 clubs to the ♣J or a singleton ♣J, dummy's ♣10 will be good for trick number 12.",
+    "If it turns out that clubs were 4-2 or 3-3, South may lose an unnecessary club trick, but the contract will still be secure."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "C2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.K32.K32.AKQ32 QJT.54.876.J9876 5432.AQJT.A54.T4 9876.9876.QJT9.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 6NT"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.K32.K32.AKQ32 JT.54.876.J9876 5432.AQJT.A54.T4 9876.9876.QJT9.5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 6NT"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.K32.K32.AKQ32 JT.54.876.J9876 5432.AQJT.A54.T4 9876.9876.QJT9.5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 6NT which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 9876.9876.QJT9.5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 6NT which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 6NT which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 6NT which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "D": [
+            "K"
+          ],
+          "H": [
+            "K"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 6NT which South wins. South has 2 spade tricks, 4 heart tricks, 2 diamond tricks, and 3 club tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 6NT which South wins. South has 2 spade tricks, 4 heart tricks, 2 diamond tricks, and 3 club tricks. South is 1 trick short and must look towards clubs for trick number 12."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.654.9876.J98 543.AQJT.A54.T4 987.987.QJT.765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.654.876.J987 543.AQJT.A54.T4 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.654.876.J987 543.AQJT.A54.T4 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.K32.K32.KQ32 JT.654.876.J987 543.AQJT.A54.T4 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.K32.K32.KQ32 JT.654.876.J98 543.AQJT.A54.T4 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.K32.K32.KQ32 JT.654.876.J98 543.AQJT.A54.T 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.K32.K32.KQ32 JT.654.876.J98 543.AQJT.A54.T 987.987.QJT9.6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.K32.K32.KQ32 JT.654.876.J98 543.AQJT.A54.T 987.987.QJT9.6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.K32.K32.Q32 JT.654.876.J98 543.AQJT.A54.T 987.987.QJT9.6",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.K32.K32.Q32 JT.654.876.J9 543.AQJT.A54.T 987.987.QJT9.6",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.K32.K32.Q32 JT.654.876.J9 543.AQJT.A54. 987.987.QJT9.6",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.K32.K32.Q32 JT.654.876.J9 543.AQJT.A54. 987.987.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "CT",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.K32.K32.Q32 JT.654.876.J9 543.AQJT.A54. 987.987.QJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "CT",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.K32.K32.32 JT.654.876.J9 543.AQJT.A54. 987.987.QJT9.",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.K32.K32.32 JT.654.876.J 543.AQJT.A54. 987.987.QJT9.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.K32.K32.32 JT.654.876.J 543.AQJT.A5. 987.987.QJT9.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C9",
+        "N": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.K32.K32.32 JT.654.876.J 543.AQJT.A5. 987.987.QJT.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C9",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.K32.K32.32 JT.654.876.J 543.AQJT.A5. 987.987.QJT.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C9",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.K32.K32.3 JT.654.876.J 543.AQJT.A5. 987.987.QJT.",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.K32.K32.3 JT.654.876. 543.AQJT.A5. 987.987.QJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.K32.K32.3 JT.654.876. 54.AQJT.A5. 987.987.QJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.K32.K32.3 JT.654.876. 54.AQJT.A5. 98.987.QJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.K32.K32.3 JT.654.876. 54.AQJT.A5. 98.987.QJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If clubs are 3-3 or 4-2, South can easily succeed by cashing the ♣A, ♣K, ♣Q and conceding a club trick if necessary. South will have his twelfth trick established in clubs."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.K32.K32.AKQ32 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT.54.876.J9876 543.AQJT.A54.T4 987.9876.QJT9.5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit. If West has 5 clubs to the ♣J"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT9.9876.9876.J 543.AQJT.A54.T4 87.54.QJT.98765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit. If West has 5 clubs to the ♣J or a singleton ♣J,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT9.9876.9876.J 543.AQJT.A54.T4 87.54.QJT.98765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility of a 5-1 club break. South's best play is to lead a low club towards the ♣10 in dummy on the first round of the suit. If West has 5 clubs to the ♣J or a singleton ♣J, dummy's ♣10 will be good for trick number 12."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT.654.876.J987 543.AQJT.A54.T4 987.987.QJT9.65",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If it turns out that clubs were 4-2"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A.K32.K32.AKQ3 JT9.876.876.J98 543.AQJT.A54.T4 87.954.QJT9.765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If it turns out that clubs were 4-2 or 3-3, South may lose an unnecessary club trick, but the contract will still be secure."
+    }
+  ]
+}

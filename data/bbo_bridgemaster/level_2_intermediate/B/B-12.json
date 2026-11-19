@@ -1,0 +1,424 @@
+{
+  "title": "Level 2 (Intermediate) - B-12",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-12",
+  "deal_pbn": "S:QT987.AKQ.JT9.A2 5.JT987.87654.43 A432.32.AKQ2.KQJ KJ6.654.3.T98765",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks.\n\nWhen holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace and lead towards the hand containing the Queen.\n\nThe only time this play will lose is when West has 3 or 4 spades including both the ♠K and ♠J.",
+  "commentary_paragraphs": [
+    "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks.",
+    "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace and lead towards the hand containing the Queen.",
+    "The only time this play will lose is when West has 3 or 4 spades including both the ♠K and ♠J."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QT987.AKQ.JT9.A2 5.JT987.87654.43 A432.32.AKQ2.KQJ KJ6.654.3.T98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QT987.AKQ.JT9.A2 5.T987.87654.43 A432.32.AKQ2.KQJ KJ6.654.3.T98765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QT987.AKQ.JT9.A2 5.T987.87654.43 A432.32.AKQ2.KQJ KJ6.654.3.T98765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QT987.AKQ.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.654.3.T98765",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QT987.AKQ.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QT987.AK.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QT987.AK.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QT987.AK.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When holding a 9 card fit missing just the King and Jack,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QT987.AK.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QT98.AK.JT9.A2 5.T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 A432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 432.3.AKQ2.KQJ KJ6.65.3.T98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 432.3.AKQ2.KQJ KJ.65.3.T98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 432.3.AKQ2.KQJ KJ.65.3.T98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace and lead towards"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 43.3.AKQ2.KQJ KJ.65.3.T98765",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace and lead towards"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QT98.AK.JT9.A2 .T987.87654.43 43.3.AKQ2.KQJ KJ.65.3.T98765",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "When holding a 9 card fit missing just the King and Jack, the correct play for 1 loser is to cash the Ace and lead towards the hand containing the Queen."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QT98.AK.JT9.A2 KJ.T987.8765.4 43.3.AKQ2.KQJ .65.43.T987653",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The only time this play will lose is when West has 3"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QT987.AK.JT9.A2 KJ65.T987.87.43 A432.3.AKQ2.KQJ .65.6543.T98765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The only time this play will lose is when West has 3 or 4 spades including both the ♠K and ♠J."
+    }
+  ]
+}

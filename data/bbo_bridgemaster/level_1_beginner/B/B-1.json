@@ -1,0 +1,403 @@
+{
+  "title": "Level 1 (Beginner) - B-1",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-1",
+  "deal_pbn": "S:32.K32.AQJT.KQJT J9876.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A, 4 diamond tricks, and 4 club tricks) without surrendering the lead, taking the spade finesse at trick 1 would be a needless risk.\n\nIf dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract. South will take the next 8 tricks, 4 each in diamonds and clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A, 4 diamond tricks, and 4 club tricks) without surrendering the lead, taking the spade finesse at trick 1 would be a needless risk.",
+    "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract. South will take the next 8 tricks, 4 each in diamonds and clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J9876.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A, 4 diamond tricks,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A, 4 diamond tricks, and 4 club tricks) without surrendering the lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's spade opening lead gives South a decision at trick 1. As South can take 9 top tricks (the ♠A, 4 diamond tricks, and 4 club tricks) without surrendering the lead, taking the spade finesse at trick 1 would be a needless risk."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If dummy's ♠Q is played,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 A.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 A.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 A.654.K432.A432 T54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:3.K32.AQJT.KQJT J986.AT98.65.65 A.654.K432.A432 T54.QJ7.987.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:3.K32.AQJT.KQJT J986.AT98.65.65 A.654.K432.A432 T54.QJ7.987.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 AQ.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 Q.654.K432.A432 KT54.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.K32.AQJT.KQJT J986.AT98.65.65 Q.654.K432.A432 KT5.QJ7.987.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:3.K32.AQJT.KQJT J986.AT98.65.65 Q.654.K432.A432 KT5.QJ7.987.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:3.K32.AQJT.KQJT J986.AT98.65.65 Q.654.K432.A432 KT5.QJ7.987.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ],
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ],
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If dummy's ♠Q is played, East might be able to win the ♠K. The defense may now be in a position to take enough heart tricks to set the contract. By rising with the ♠A at trick 1, South assures the contract. South will take the next 8 tricks, 4 each in diamonds and clubs."
+    }
+  ]
+}

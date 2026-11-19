@@ -1,0 +1,1635 @@
+{
+  "title": "Level 3 (Advanced) - D-16",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-16",
+  "deal_pbn": "S:AKQ.432.2.AT9876 JT98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. There are only 7 top tricks (3 spades, 3 hearts, and the ♣A). South must hope to establish either his own clubs or dummy's diamonds in order to come to 9 tricks.\n\nAfter winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs, the defenders will stop leading spades in order to deny South access to the long clubs in his hand.\n\nPlaying on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small, South has to decide which diamond to play from dummy. Playing a small diamond (and planning to play the ♦Q on the second round) will succeed whenever West was dealt a doubleton ♦J.\n\nPlaying dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper. Later, South can reach the dummy in hearts and enjoy the long diamonds.\n\nIf West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts. South should continue by leading the ♦Q from the dummy in the hope that either East was dealt a doubleton ♦J or West was dealt ♦AJ or ♦KJ doubleton.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. There are only 7 top tricks (3 spades, 3 hearts, and the ♣A). South must hope to establish either his own clubs or dummy's diamonds in order to come to 9 tricks.",
+    "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs, the defenders will stop leading spades in order to deny South access to the long clubs in his hand.",
+    "Playing on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small, South has to decide which diamond to play from dummy. Playing a small diamond (and planning to play the ♦Q on the second round) will succeed whenever West was dealt a doubleton ♦J.",
+    "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper. Later, South can reach the dummy in hearts and enjoy the long diamonds.",
+    "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts. South should continue by leading the ♦Q from the dummy in the hope that either East was dealt a doubleton ♦J or West was dealt ♦AJ or ♦KJ doubleton."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 50,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 51,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 52,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 53,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 65,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 66,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 67,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 68,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 70,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 71,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 72,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 73,
+      "seat": "E",
+      "card": "H7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.432.2.AT9876 JT98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are only 7 top tricks (3 spades, 3 hearts, and the ♣A)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. There are only 7 top tricks (3 spades, 3 hearts, and the ♣A). South must hope to establish either his own clubs or dummy's diamonds in order to come to 9 tricks."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 32.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 3.AKQ.QT98765.2 7654.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ.432.2.AT9876 T98.65.AK4.KQJ3 3.AKQ.QT98765.2 765.JT987.J3.54",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.432.2.AT9876 T98.65.AK4.KQJ3 3.AKQ.QT98765.2 765.JT987.J3.54",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.432.2.AT9876 T98.8765.AJ.KQJ 3.AKQ.QT98765.2 765.JT9.K43.543",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.432.2.T9876 T98.8765.AJ.KQJ 3.AKQ.QT98765.2 765.JT9.K43.543",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.432.2.T9876 T98.8765.AJ.KQ 3.AKQ.QT98765.2 765.JT9.K43.543",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.432.2.T9876 T98.8765.AJ.KQ 3.AKQ.QT98765. 765.JT9.K43.543",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.432.2.T9876 T98.8765.AJ.KQ 3.AKQ.QT98765. 765.JT9.K43.54",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.432.2.T987 T98.8765.AJ.KQ 3.AKQ.QT98765. 765.JT9.K43.54",
+      "trick_cards": {
+        "S": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.432.2.T987 T98.8765.AJ.K 3.AKQ.QT98765. 765.JT9.K43.54",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.432.2.T987 T98.8765.AJ.K 3.AKQ.QT9876. 765.JT9.K43.54",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CQ",
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK.432.2.T987 T98.8765.AJ.K 3.AKQ.QT9876. 765.JT9.K43.5",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CQ",
+        "N": "D5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK.432.2.T987 T98.8765.AJ.K 3.AKQ.QT9876. 765.JT9.K43.5",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CQ",
+        "N": "D5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK.432.2.T987 98.8765.AJ.K 3.AKQ.QT9876. 765.JT9.K43.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK.432.2.T987 98.8765.AJ.K .AKQ.QT9876. 765.JT9.K43.5",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK.432.2.T987 98.8765.AJ.K .AKQ.QT9876. 76.JT9.K43.5",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.432.2.T987 98.8765.AJ.K .AKQ.QT9876. 76.JT9.K43.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.432.2.T987 98.8765.AJ.K .AKQ.QT9876. 76.JT9.K43.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.432.2.T98 98.8765.AJ.K .AKQ.QT9876. 76.JT9.K43.5",
+      "trick_cards": {
+        "S": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.432.2.T98 98.8765.AJ. .AKQ.QT9876. 76.JT9.K43.5",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.432.2.T98 98.8765.AJ. .AKQ.QT987. 76.JT9.K43.5",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CK",
+        "N": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.432.2.T98 98.8765.AJ. .AKQ.QT987. 76.JT9.K43.",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CK",
+        "N": "D6",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.432.2.T98 98.8765.AJ. .AKQ.QT987. 76.JT9.K43.",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CK",
+        "N": "D6",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "J"
+          ],
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, it would be wrong to play on clubs as the contract would almost certainly fail even if the East-West clubs were divided favorably. The defense would win the second round of clubs and play a second round of spades to South. When South loses the lead again in clubs, the defenders will stop leading spades in order to deny South access to the long clubs in his hand."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.432.2.AT9876 T98.65.AK3.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing on diamonds gives South much better chances."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK3.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing on diamonds gives South much better chances."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK3.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Playing on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small, South has to decide which diamond to play from dummy."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK.432..AT9876 T98.765.J.KQJ3 3.AKQ.QT98765.2 765.JT98.AK4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing on diamonds gives South much better chances. When South leads a small diamond toward dummy and West follows small, South has to decide which diamond to play from dummy. Playing a small diamond (and planning to play the ♦Q on the second round) will succeed whenever West was dealt a doubleton ♦J."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK.KQJ3 3.AKQ.QT98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK.KQJ3 3.AKQ.T98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK.KQJ3 3.AKQ.T98765.2 765.JT987.J4.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ 3.AKQ.T98765.2 765.JT987.J.543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ 3.AKQ.T98765.2 765.JT987..543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ 3.AKQ.T98765.2 765.JT987..543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D3",
+        "N": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ 3.AKQ.98765.2 765.JT987..543",
+      "trick_cards": {
+        "N": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ 3.AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "N": "DT",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK.432..AT987 T98.65.AK4.KQJ 3.AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "S": "C6",
+        "N": "DT",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AK.432..AT987 T98.65.A4.KQJ 3.AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "S": "C6",
+        "W": "DK",
+        "N": "DT",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AK.432..AT987 T98.65.A4.KQJ 3.AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "S": "C6",
+        "W": "DK",
+        "N": "DT",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AK.432..AT987 T9.65.A4.KQJ 3.AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AK.432..AT987 T9.65.A4.KQJ .AKQ.98765.2 765.JT98..543",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AK.432..AT987 T9.65.A4.KQJ .AKQ.98765.2 76.JT98..543",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A.432..AT987 T9.65.A4.KQJ .AKQ.98765.2 76.JT98..543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:A.432..AT987 T9.65.A4.KQJ .AKQ.98765.2 76.JT98..543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:A.43..AT987 T9.65.A4.KQJ .AKQ.98765.2 76.JT98..543",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AKQ.98765.2 76.JT98..543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AK.98765.2 76.JT98..543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AK.98765.2 76.JT9..543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts,"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AK.98765.2 76.JT9..543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AK.8765.2 76.JT9..543",
+      "trick_cards": {
+        "N": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:A.43..AT987 T9.6.A4.KQJ .AK.8765.2 76.JT..543",
+      "trick_cards": {
+        "N": "D9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:A.43..AT98 T9.6.A4.KQJ .AK.8765.2 76.JT..543",
+      "trick_cards": {
+        "S": "C7",
+        "N": "D9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:A.43..AT98 T9.6.4.KQJ .AK.8765.2 76.JT..543",
+      "trick_cards": {
+        "S": "C7",
+        "W": "DA",
+        "N": "D9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:A.43..AT98 T9.6.4.KQJ .AK.8765.2 76.JT..543",
+      "trick_cards": {
+        "S": "C7",
+        "W": "DA",
+        "N": "D9",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ],
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦Q on the first round is better. This play will succeed when East has a doubleton ♦J and when East has a singleton ♦J. When the ♦Q holds, South continues diamonds to drive out one of the top honors. South can win any return, cross to dummy in hearts, and knock out the outstanding diamond stopper. Later, South can reach the dummy in hearts and enjoy the long diamonds."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.AK4.KQJ3 3.AKQ.QT98765.2 765.JT987.J3.54",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West goes up with an honor on the first round of diamonds,"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.A4.KQJ3 3.AKQ.QT98765.2 765.JT987.J3.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds,"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.A4.KQJ3 3.AKQ.QT9876.2 765.JT987.J3.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds,"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.A4.KQJ3 3.AKQ.QT9876.2 765.JT987.J.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D5",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds,"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:AK.432..AT9876 T98.65.A4.KQJ3 3.AKQ.QT9876.2 765.JT987.J.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D5",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:AK.432..AT9876 98.65.A4.KQJ3 3.AKQ.QT9876.2 765.JT987.J.54",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:AK.432..AT9876 98.65.A4.KQJ3 .AKQ.QT9876.2 765.JT987.J.54",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:AK.432..AT9876 98.65.A4.KQJ3 .AKQ.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:A.432..AT9876 98.65.A4.KQJ3 .AKQ.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:A.432..AT9876 98.65.A4.KQJ3 .AKQ.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:A.43..AT9876 98.65.A4.KQJ3 .AKQ.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:A.43..AT9876 98.6.A4.KQJ3 .AKQ.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:A.43..AT9876 98.6.A4.KQJ3 .AK.QT9876.2 76.JT987.J.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:A.43..AT9876 98.6.A4.KQJ3 .AK.QT9876.2 76.JT98.J.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:A.43..AT9876 98.6.A4.KQJ3 .AK.QT9876.2 76.JT98.J.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts. South should continue by leading the ♦Q from the dummy in the hope that either East was dealt a doubleton ♦J"
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:A.43..AT9876 98.86.J.KQJ3 .AK.QT9876.2 76.JT9.A4.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West goes up with an honor on the first round of diamonds, South should win the spade return and cross to the dummy in hearts. South should continue by leading the ♦Q from the dummy in the hope that either East was dealt a doubleton ♦J or West was dealt ♦AJ or ♦KJ doubleton."
+    }
+  ]
+}

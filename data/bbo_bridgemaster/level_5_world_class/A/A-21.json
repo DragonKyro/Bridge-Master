@@ -1,0 +1,925 @@
+{
+  "title": "Level 5 (World Class) - A-21",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-21",
+  "deal_pbn": "S:AKQJT9.KT32.AQ.A 5.QJ9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2H",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "Pass",
+    "3C",
+    "Pass",
+    "4S",
+    "Pass",
+    "5H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid, ruffing South's hearts in dummy is unlikely to work. East is likely to have 3 spades and he will be able to overruff the dummy twice. Even if East has less than 3 spades, the diamond finesse is still needed.\n\nAfter winning the ♥A, South should aim to strip West down to just 3 hearts. A low heart will then endplay West. In order to reach such an ending, South will need a top winner in both diamonds and clubs. South must not ruff his ♦Q in dummy or West will be able to keep an exit card in diamonds.\n\nTherefore, South must take the diamond finesse at trick 2. After the ♦Q wins, South next cashes 6 rounds of trumps. South will have to guess West's remaining minor suit distribution. As West rates to have been dealt more diamonds than clubs and East rates to have been dealt more clubs than West, West's most likely original distribution is 1642.\n\nWest must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton.\n\nSouth now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid, ruffing South's hearts in dummy is unlikely to work. East is likely to have 3 spades and he will be able to overruff the dummy twice. Even if East has less than 3 spades, the diamond finesse is still needed.",
+    "After winning the ♥A, South should aim to strip West down to just 3 hearts. A low heart will then endplay West. In order to reach such an ending, South will need a top winner in both diamonds and clubs. South must not ruff his ♦Q in dummy or West will be able to keep an exit card in diamonds.",
+    "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins, South next cashes 6 rounds of trumps. South will have to guess West's remaining minor suit distribution. As West rates to have been dealt more diamonds than clubs and East rates to have been dealt more clubs than West, West's most likely original distribution is 1642.",
+    "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton.",
+    "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.QJ9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid, ruffing South's hearts in dummy is unlikely to work."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid, ruffing South's hearts in dummy is unlikely to work. East is likely to have 3 spades and he will be able to overruff the dummy twice."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 65.J9876.654.KJ 432.A4.2.8765432 87.5.KJT9873.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. As West has shown a 6 card suit with his weak 2 bid, ruffing South's hearts in dummy is unlikely to work. East is likely to have 3 spades and he will be able to overruff the dummy twice. Even if East has less than 3 spades, the diamond finesse is still needed."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.A4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876.5.KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT9.KT32.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♥A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "T",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, South should aim to strip West down to just 3 hearts. A low heart will then endplay West."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, South should aim to strip West down to just 3 hearts. A low heart will then endplay West. In order to reach such an ending, South will need a top winner in both diamonds and clubs."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "W": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the ♥A, South should aim to strip West down to just 3 hearts. A low heart will then endplay West. In order to reach such an ending, South will need a top winner in both diamonds and clubs. South must not ruff his ♦Q in dummy or West will be able to keep an exit card in diamonds."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4.2.8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4..8765432 876..KJT987.QT9",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJT9.KT3.AQ.A 5.J9876.6543.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJT9.KT3.A.A 5.J9876.6543.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJT9.KT3.A.A 5.J9876.654.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJT9.KT3.A.A 5.J9876.654.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins, South next cashes 6 rounds of trumps."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJT9.KT3.A.A 5.J9876.654.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ],
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins, South next cashes 6 rounds of trumps. South will have to guess West's remaining minor suit distribution. As West rates to have been dealt more diamonds than clubs"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJT9.KT3.A.A 5.J9876.654.KJ 432.4..8765432 876..KJT98.QT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D3",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Therefore, South must take the diamond finesse at trick 2. After the ♦Q wins, South next cashes 6 rounds of trumps. South will have to guess West's remaining minor suit distribution. As West rates to have been dealt more diamonds than clubs and East rates to have been dealt more clubs than West, West's most likely original distribution is 1642."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.KT3.A.A .J98..KJ .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "D6",
+        "N": "C4",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West must keep at least 3 hearts."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.KT3.A.A .J98..KJ .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "D6",
+        "N": "C4",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.KT3.A.A .J98..KJ .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "D6",
+        "N": "C4",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.KT3..A .J98..KJ .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.KT3..A .J98..KJ .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.KT3..A .J98..K .4..8765 ..KJ.QT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "CJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.KT3..A .J98..K .4..876 ..KJ.QT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "CJ",
+        "N": "C5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.KT3..A .J98..K .4..876 ..K.QT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "CJ",
+        "N": "C5",
+        "E": "DJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West must keep at least 3 hearts. He does best to come down to 2 cards in one of the minors. South cashes the minor suit Ace in which West seems to be void. West must discard from his minor suit doubleton."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.KT3..A .J98..K .4..876 ..K.QT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "CJ",
+        "N": "C5",
+        "E": "DJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South now cashes his other minor suit Ace,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.KT3.. .J98..K .4..876 ..K.QT9",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.KT3.. .J98..K .4..876 ..K.QT9",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.KT3.. .J98.. .4..876 ..K.QT9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.KT3.. .J98.. .4..87 ..K.QT9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.KT3.. .J98.. .4..87 ..K.QT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C9"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.KT3.. .J98.. .4..87 ..K.QT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C9"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.KT3.. .J98.. .4..87 ..K.QT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C6",
+        "E": "C9"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "T",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.KT.. .J98.. .4..87 ..K.QT",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.KT.. .J9.. .4..87 ..K.QT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H8"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.KT.. .J9.. ...87 ..K.QT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H8",
+        "N": "H4"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.KT.. .J9.. ...87 ...QT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H8",
+        "N": "H4",
+        "E": "DK"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South now cashes his other minor suit Ace, stripping West's last exit card. West is down to just 3 hearts. A low heart from South will endplay West."
+    }
+  ]
+}

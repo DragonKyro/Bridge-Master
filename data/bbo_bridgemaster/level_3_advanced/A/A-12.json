@@ -1,0 +1,770 @@
+{
+  "title": "Level 3 (Advanced) - A-12",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-12",
+  "deal_pbn": "S:AKQJT9.A2.K32.32 876.T98765.T5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+  "contract": "5S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5C",
+    "Pass",
+    "5S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DT",
+  "par_tricks": 11,
+  "notes": "West leads the ♦10 against 5♠. South must avoid losing 2 diamond tricks and the ♣A. Dummy's clubs can be established to provide discards for South's diamond losers. South must make sure that the defenders cannot take 2 diamond tricks first.\n\nWest's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks South's ♦K will prevent the defense from taking more than 1 diamond trick.\n\nIf East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A to preserve the ♥K as an entry to dummy's clubs.\n\nIf South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K, but when West wins the ♣A he can play another diamond through dummy's holding. East will be able to take 2 diamond tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♦10 against 5♠. South must avoid losing 2 diamond tricks and the ♣A. Dummy's clubs can be established to provide discards for South's diamond losers. South must make sure that the defenders cannot take 2 diamond tricks first.",
+    "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks South's ♦K will prevent the defense from taking more than 1 diamond trick.",
+    "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A to preserve the ♥K as an entry to dummy's clubs.",
+    "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K, but when West wins the ♣A he can play another diamond through dummy's holding. East will be able to take 2 diamond tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.T5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 5♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦10 against 5♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 5♠. South must avoid losing 2 diamond tricks and the ♣A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 5♠. South must avoid losing 2 diamond tricks and the ♣A. Dummy's clubs can be established to provide discards for South's diamond losers."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦10 against 5♠. South must avoid losing 2 diamond tricks and the ♣A. Dummy's clubs can be established to provide discards for South's diamond losers. South must make sure that the defenders cannot take 2 diamond tricks first."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765..A54 432.K43.Q94.KQJT 5.QJ.AJ8765.9876",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DQ",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♦10 marks East with the ♦J and ♦A and West with short diamonds. If West has a singleton diamond nothing can be done. The defense will get a diamond ruff. If West has 2 diamonds and the ♣A, South must play dummy's ♦Q at trick 1. If East ducks South's ♦K will prevent the defense from taking more than 1 diamond trick."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East wins the ♦A,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.J876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.J876.98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.J876.98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.QJ.J876.98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJT9.A2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJT9.2.K3.32 876.T98765.5.A4 432.K43.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQJT9.2.K3.32 876.T9876.5.A4 432.K43.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQJT9.2.K3.32 876.T9876.5.A4 432.K4.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H5",
+        "N": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQJT9.2.K3.32 876.T9876.5.A4 432.K4.94.KQJT 5.J.J876.98765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H5",
+        "N": "H3",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ],
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East wins the ♦A, he cannot attack diamonds from his side of the table without giving up a trick to the ♦9. South must be careful to win a heart shift with the ♥A to preserve the ♥K as an entry to dummy's clubs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q94.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South errs by playing low from dummy at trick 1,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ876.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQJT9.A2.K32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQJT9.A2.32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQJT9.A2.32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K, but when West wins the ♣A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKQJT9.A2.32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K, but when West wins the ♣A he can play another diamond through dummy's holding."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKQJT9.A2.32.32 876.T98765.5.A4 432.K43.Q9.KQJT 5.QJ.AJ87.98765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DT",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South errs by playing low from dummy at trick 1, East will also play low. South will win the ♦K, but when West wins the ♣A he can play another diamond through dummy's holding. East will be able to take 2 diamond tricks."
+    }
+  ]
+}

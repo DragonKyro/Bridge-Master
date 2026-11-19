@@ -1,0 +1,2291 @@
+{
+  "title": "Level 4 (Expert) - C-29",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-29",
+  "deal_pbn": "S:KQ987.AKQJT.A2.2 T.9876.QJT954.K7 A32.432.3.AQ6543 J654.5.K876.JT98",
+  "contract": "7S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "3H",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "7S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DQ",
+  "par_tricks": 13,
+  "notes": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A. South must find a way to dispose of his diamond loser and, at the same time, avoid losing a trump trick.\n\nIt would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10, South would have to take a second round trump finesse to pick up East's trumps in the above layout. This play would have disastrous consequences if West began with both honours in spades.\n\nCashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10, South will have to continue a spade to the ♠A in case East began with 4 spades.\n\nIf both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump. Trying to ruff a club risks a trump promotion and attempting to cross in hearts risks a defensive ruff.\n\nSouth should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts to draw the last trump.\n\nIf West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before. If West discards, the club finesse is necessary.\n\nThe club finesse should be taken and the ♣A cashed. If East follows, the ♦2 is discarded and South can draw East's trumps with a finesse.\n\nIf the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts to draw East's last trump.",
+  "commentary_paragraphs": [
+    "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A. South must find a way to dispose of his diamond loser and, at the same time, avoid losing a trump trick.",
+    "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10, South would have to take a second round trump finesse to pick up East's trumps in the above layout. This play would have disastrous consequences if West began with both honours in spades.",
+    "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10, South will have to continue a spade to the ♠A in case East began with 4 spades.",
+    "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump. Trying to ruff a club risks a trump promotion and attempting to cross in hearts risks a defensive ruff.",
+    "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts to draw the last trump.",
+    "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before. If West discards, the club finesse is necessary.",
+    "The club finesse should be taken and the ♣A cashed. If East follows, the ♦2 is discarded and South can draw East's trumps with a finesse.",
+    "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts to draw East's last trump."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 65,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 66,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 67,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 70,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 71,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 72,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 73,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 75,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 76,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 77,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 79,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 81,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 84,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 85,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 86,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 87,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 89,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 91,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 93,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 95,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 95,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 95,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 95,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 96,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 98,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 101,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 102,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 104,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 105,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 106,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 107,
+      "seat": "E",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ987.AKQJT.A2.2 T.9876.QJT954.K7 A32.432.3.AQ6543 J654.5.K876.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 7♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ987.AKQJT.A2.2 T.9876.JT954.K7 A32.432.3.AQ6543 J654.5.K876.JT98",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ987.AKQJT.A2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K876.JT98",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ987.AKQJT.A2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A. South must find a way to dispose of his diamond loser"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦Q against 7♠. West's lead is won by South with the ♦A. South must find a way to dispose of his diamond loser and, at the same time, avoid losing a trump trick."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 A3.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 A3.432..AQ6543 J654.5.K8.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 A3.432..AQ6543 J654.5.K8.JT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S2",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 3.432..AQ6543 J654.5.K8.JT98",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ987.AKQJT..2 T.9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ98.AKQJT..2 T.9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "S": "S7",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ98.AKQJT..2 T.9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "S": "S7",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ98.AKQJT..2 .9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ98.AKQJT..2 .9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10, South would have to take a second round trump finesse"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ98.AKQJT..2 .9876.JT95.K7 3.432..AQ6543 J65.5.K8.JT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10, South would have to take a second round trump finesse to pick up East's trumps in the above layout."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ98.AKQJT..2 J5.9876.JT9.7 3.432..AQ6543 6.5.K85.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to ruff the ♦2 in dummy at trick 2. If South then continued by cashing the ♠A and West dropped the ♠J or ♠10, South would have to take a second round trump finesse to pick up East's trumps in the above layout. This play would have disastrous consequences if West began with both honours in spades."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 JT5.9876.JT94.7 A32.432..AQ6543 64.5.K875.KJT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Cashing a top spade in hand can also lead to problems."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q987.AKQJT.2.2 JT5.9876.JT94.7 A32.432..AQ6543 64.5.K875.KJT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Cashing a top spade in hand can also lead to problems."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q987.AKQJT.2.2 .9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q987.AKQJT.2.2 .9876.JT954.K7 A3.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q987.AKQJT.2.2 .9876.JT954.K7 A3.432..AQ6543 J65.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q987.AKQJT.2.2 .9876.JT954.K7 A3.432..AQ6543 J65.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Cashing a top spade in hand can also lead to problems. If West plays the ♠J or ♠10, South will have to continue a spade to the ♠A in case East began with 4 spades."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q987.AKQJT.2.2 J5.9876.JT94.7 A3.432..AQ6543 6.5.K875.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J5.9876.JT94.7 A3.432..AQ6543 6.5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 A3.432..AQ6543 6.5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.432..AQ6543 6.5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.432..AQ6543 .5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.432..AQ6543 .5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.432..AQ6543 .5.K875.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.43..AQ6543 .5.K875.KJT98",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT94.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:Q98.AKQJ.2.2 J.9876.JT94.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q98.AKQJ.2.2 J.987.JT94.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q98.AKQJ.2.2 J.987.JT94.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT94.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 3.43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 .43..AQ6543 ..K875.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 .43..AQ6543 ..K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 .43..AQ6543 ..K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 .43..AQ6543 ..K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump. Trying to ruff a club"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:Q98.AKQJ..2 J.987.JT9.7 .43..AQ6543 ..K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump. Trying to ruff a club risks a trump promotion"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:Q98.AKQJ..2 J..JT9.JT98 .43..AQ6543 .987.K87.K7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of spades, South might fail when spades are 3-2. If South crosses in hearts and plays the ♦2, ruffing, South will have to return to the closed hand to draw the last trump. Trying to ruff a club risks a trump promotion and attempting to cross in hearts risks a defensive ruff."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KQ987.AKQJT.2.2 T.9876.JT954.K7 A32.432..AQ6543 J654.5.K87.JT98",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 65.9876.JT954.7 A32.432..AQ6543 JT4.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 A32.432..AQ6543 JT4.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 32.432..AQ6543 JT4.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 32.432..AQ6543 JT.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 32.432..AQ6543 JT.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 32.432..AQ6543 JT.5.K87.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades,"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 3.432..AQ6543 JT.5.K87.KJT98",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades,"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 6.9876.JT954.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:Q98.AKQJT.2.2 6.9876.JT954.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT954.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT954.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S2",
+        "E": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT954.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 3.432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 .432..AQ6543 J.5.K87.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 .432..AQ6543 J.5.K8.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 .432..AQ6543 J.5.K8.KJT98",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D4",
+        "N": "S3",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 .43..AQ6543 J.5.K8.KJT98",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:Q98.AKQJT..2 .9876.JT95.7 .43..AQ6543 J..K8.KJT98",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:Q98.AKQJ..2 .9876.JT95.7 .43..AQ6543 J..K8.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:Q98.AKQJ..2 .987.JT95.7 .43..AQ6543 J..K8.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:Q98.AKQJ..2 .987.JT95.7 .43..AQ6543 J..K8.KJT98",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♠A on the first round of trump. If West follows small, South must hope that trumps are 3-2. South crosses in spades, ruffs the ♦2 and crosses in hearts to draw the last trump."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 JT6.9876.JT54.7 A32.432..AQ6543 54.5.K987.KJT98",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump,"
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 A32.432..AQ6543 54.5.K987.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump,"
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 32.432..AQ6543 54.5.K987.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump,"
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 32.432..AQ6543 5.5.K987.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump,"
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 32.432..AQ6543 5.5.K987.KJT98",
+      "trick_cards": {
+        "S": "S7",
+        "W": "ST",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 3.432..AQ6543 5.5.K987.KJT98",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:KQ98.AKQJT.2.2 J6.9876.JT54.7 3.432..AQ6543 .5.K987.KJT98",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J6.9876.JT54.7 3.432..AQ6543 .5.K987.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand."
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J6.9876.JT54.7 3.432..AQ6543 .5.K987.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before."
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:Q98.AKQJT.2.2 J.9876.JT54.7 3.432..AQ6543 .5.K987.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before."
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT954.K7 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before. If West discards,"
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT94.K7 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before. If West discards,"
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT94.K7 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West follows with the ♠J or ♠10 on the first round of trump, a second trump is played to the closed hand. If West follow, the play continues as before. If West discards, the club finesse is necessary."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:Q98.AKQJT.2.2 .9876.JT94.K7 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The club finesse should be taken"
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K7 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken"
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..AQ6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken"
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..A6543 J6.5.K87.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken"
+    },
+    {
+      "step": 87,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..A6543 J6.5.K87.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken"
+    },
+    {
+      "step": 88,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..A6543 J6.5.K87.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The club finesse should be taken and the ♣A cashed."
+    },
+    {
+      "step": 89,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..6543 J6.5.K87.JT9",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken and the ♣A cashed."
+    },
+    {
+      "step": 90,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..6543 J6.5.K87.JT9",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The club finesse should be taken and the ♣A cashed. If East follows,"
+    },
+    {
+      "step": 91,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..6543 J6.5.K87.JT",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken and the ♣A cashed. If East follows,"
+    },
+    {
+      "step": 92,
+      "hands_pbn": "S:Q98.AKQJT.2. .9876.JT94.K 3.432..6543 J6.5.K87.JT",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "The club finesse should be taken and the ♣A cashed. If East follows, the ♦2 is discarded"
+    },
+    {
+      "step": 93,
+      "hands_pbn": "S:Q98.AKQJT.. .9876.JT94.K 3.432..6543 J6.5.K87.JT",
+      "trick_cards": {
+        "S": "D2",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The club finesse should be taken and the ♣A cashed. If East follows, the ♦2 is discarded"
+    },
+    {
+      "step": 94,
+      "hands_pbn": "S:Q98.AKQJT.. .9876.JT94.K 3.432..6543 J6.5.K87.JT",
+      "trick_cards": {
+        "S": "D2",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The club finesse should be taken and the ♣A cashed. If East follows, the ♦2 is discarded and South can draw East's trumps with a finesse."
+    },
+    {
+      "step": 95,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 3.432..A6543 J6.765.K987.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the ♣A is ruffed by East,"
+    },
+    {
+      "step": 96,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 .432..A6543 J6.765.K987.",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East,"
+    },
+    {
+      "step": 97,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 .432..A6543 J6.765.K987.",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the ♣A is ruffed by East, South can overruff,"
+    },
+    {
+      "step": 98,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff,"
+    },
+    {
+      "step": 99,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy,"
+    },
+    {
+      "step": 100,
+      "hands_pbn": "S:Q98.AKQJT.2. .98.JT4.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy,"
+    },
+    {
+      "step": 101,
+      "hands_pbn": "S:Q9.AKQJT.2. .98.JT4.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy,"
+    },
+    {
+      "step": 102,
+      "hands_pbn": "S:Q9.AKQJT.2. .98.JT.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "S8",
+        "W": "D4",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy,"
+    },
+    {
+      "step": 103,
+      "hands_pbn": "S:Q9.AKQJT.2. .98.JT.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "S8",
+        "W": "D4",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts"
+    },
+    {
+      "step": 104,
+      "hands_pbn": "S:Q9.AKQJ.2. .98.JT.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts"
+    },
+    {
+      "step": 105,
+      "hands_pbn": "S:Q9.AKQJ.2. .9.JT.KJT9 .432..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts"
+    },
+    {
+      "step": 106,
+      "hands_pbn": "S:Q9.AKQJ.2. .9.JT.KJT9 .43..A6543 J.765.K987.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H8",
+        "N": "H2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts"
+    },
+    {
+      "step": 107,
+      "hands_pbn": "S:Q9.AKQJ.2. .9.JT.KJT9 .43..A6543 J.76.K987.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts"
+    },
+    {
+      "step": 108,
+      "hands_pbn": "S:Q9.AKQJ.2. .9.JT.KJT9 .43..A6543 J.76.K987.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H8",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If the ♣A is ruffed by East, South can overruff, ruff the ♦2 in dummy, and cross in hearts to draw East's last trump."
+    }
+  ]
+}

@@ -1,0 +1,1103 @@
+{
+  "title": "Level 3 (Advanced) - B-7",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-7",
+  "deal_pbn": "S:KT98.32.32.AQJT9 7.KQJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2H",
+    "Dbl",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West's heart lead will establish a trick in that suit for the defense. The defense must also win the ♦A. There is a further problem in the trump suit.\n\nWest's weak 2 bid has promised a 6 card heart suit. There is a good possibility that East has 4 spades. If East has 4 spades including the ♠Q and ♠J, South must be careful.\n\nSouth should start by ducking the opening lead. If the closed hand is forced to ruff hearts and trumps are 4-1, South's spade holding may be fatally weakened. Once the East hand has no more hearts, the defense will be unable to force South as long as West does not gain the lead.\n\nThe heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low. If West shows out, South will lose just a trump trick and the ♦A.\n\nIf West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West's heart lead will establish a trick in that suit for the defense. The defense must also win the ♦A. There is a further problem in the trump suit.",
+    "West's weak 2 bid has promised a 6 card heart suit. There is a good possibility that East has 4 spades. If East has 4 spades including the ♠Q and ♠J, South must be careful.",
+    "South should start by ducking the opening lead. If the closed hand is forced to ruff hearts and trumps are 4-1, South's spade holding may be fatally weakened. Once the East hand has no more hearts, the defense will be unable to force South as long as West does not gain the lead.",
+    "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low. If West shows out, South will lose just a trump trick and the ♦A.",
+    "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.KQJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart lead will establish a trick in that suit for the defense."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart lead will establish a trick in that suit for the defense. The defense must also win the ♦A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's heart lead will establish a trick in that suit for the defense. The defense must also win the ♦A. There is a further problem in the trump suit."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's weak 2 bid has promised a 6 card heart suit."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's weak 2 bid has promised a 6 card heart suit. There is a good possibility that East has 4 spades. If East has 4 spades including the ♠Q and ♠J, South must be careful."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A54.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should start by ducking the opening lead."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.76.AJT98.54",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by ducking the opening lead."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KT98.32.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by ducking the opening lead."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should start by ducking the opening lead."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should start by ducking the opening lead. If the closed hand is forced to ruff hearts"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should start by ducking the opening lead. If the closed hand is forced to ruff hearts and trumps are 4-1,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should start by ducking the opening lead. If the closed hand is forced to ruff hearts and trumps are 4-1, South's spade holding may be fatally weakened."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should start by ducking the opening lead. If the closed hand is forced to ruff hearts and trumps are 4-1, South's spade holding may be fatally weakened. Once the East hand has no more hearts, the defense will be unable to force South as long as West does not gain the lead."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.QJT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The heart continuation"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.JT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.JT98.765.876 A432.A5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.JT98.765.876 A432.5.KQ4.K32 QJ65.7.AJT98.54",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KT98.3.32.AQJT9 7.JT98.765.876 A432.5.KQ4.K32 QJ65..AJT98.54",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KT98..32.AQJT9 7.JT98.765.876 A432.5.KQ4.K32 QJ65..AJT98.54",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KT98..32.AQJT9 7.JT98.765.876 A432.5.KQ4.K32 QJ65..AJT98.54",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KT98..32.AQJT9 7.JT98.765.876 432.5.KQ4.K32 QJ65..AJT98.54",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KT98..32.AQJT9 7.JT98.765.876 432.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KT9..32.AQJT9 7.JT98.765.876 432.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "S": "S8",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 432.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S7",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 432.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S7",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ6..AJT98.54",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour),"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour),"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KT9..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KT..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KT..32.AQJT9 .JT98.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low. If West shows out,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KT..32.AQJT9 .JT9.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low. If West shows out,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KT..32.AQJT9 .JT9.765.876 43.5.KQ4.K32 QJ..AJT98.54",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The heart continuation is won in dummy. South should now cash the ♠A. A spade is played and when East follows low (it would do East no good to play an honour), South also plays low. If West shows out, South will lose just a trump trick and the ♦A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KT..32.AQJT9 J.JT98.765.87 43.5.KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the spade trick,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KT..32.AQJT9 .JT98.765.87 43.5.KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KT..32.AQJT9 .JT98.765.87 43.5.KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KT..32.AQJT9 .JT98.765.87 43.5.KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "S": "S9",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "T"
+          ]
+        },
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KT..32.AQJT9 .T98.765.87 43.5.KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KT..32.AQJT9 .T98.765.87 43..KQ4.K32 Q..AJT98.654",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KT..32.AQJT9 .T98.765.87 43..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:K..32.AQJT9 .T98.765.87 43..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "S": "ST",
+        "W": "HJ",
+        "N": "H5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:K..32.AQJT9 .T98.765.87 43..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "S": "ST",
+        "W": "HJ",
+        "N": "H5",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:..32.AQJT9 .T98.765.87 43..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:..32.AQJT9 .T9.765.87 43..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:..32.AQJT9 .T9.765.87 4..KQ4.K32 Q..AJT9.654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H8",
+        "N": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:..32.AQJT9 .T9.765.87 4..KQ4.K32 ..AJT9.654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H8",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:..32.AQJT9 .T9.765.87 4..KQ4.K32 ..AJT9.654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H8",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:..3.AQJT9 .T9.765.87 4..KQ4.K32 ..AJT9.654",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:..3.AQJT9 .T9.76.87 4..KQ4.K32 ..AJT9.654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:..3.AQJT9 .T9.76.87 4..K4.K32 ..AJT9.654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:..3.AQJT9 .T9.76.87 4..K4.K32 ..JT9.654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DQ",
+        "E": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If West is able to win the spade trick, trumps will be 3-2 and South will be able to stand a heart force. South can draw the last trump and concede a trick to the ♦A."
+    }
+  ]
+}

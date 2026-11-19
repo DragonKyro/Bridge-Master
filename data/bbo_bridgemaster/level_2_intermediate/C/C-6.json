@@ -1,0 +1,999 @@
+{
+  "title": "Level 2 (Intermediate) - C-6",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-6",
+  "deal_pbn": "S:AK.K432.AK.KQJT9 QJT987.87.65.876 32.Q65.QJT987.32 654.AJT9.432.A54",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged. The ♥K and ♥Q will also combine for a trick once the ♥A has been knocked out. By that time, however, the defense will have had time to establish and run their spades.\n\nThe diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy. If West has the ♥A, the ♥Q will be a certain dummy entry. South will be able to take 6 diamond tricks and make at least 9 tricks.\n\nSouth can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A, the ♥Q will provide an entry to dummy's diamonds.\n\nIf South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades, the ♥K, 2 diamonds, and 4 clubs).",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged. The ♥K and ♥Q will also combine for a trick once the ♥A has been knocked out. By that time, however, the defense will have had time to establish and run their spades.",
+    "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy. If West has the ♥A, the ♥Q will be a certain dummy entry. South will be able to take 6 diamond tricks and make at least 9 tricks.",
+    "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A, the ♥Q will provide an entry to dummy's diamonds.",
+    "If South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades, the ♥K, 2 diamonds, and 4 clubs)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "D8"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "CA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.K432.AK.KQJT9 QJT987.87.65.876 32.Q65.QJT987.32 654.AJT9.432.A54",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.K432.AK.KQJT9 JT987.87.65.876 32.Q65.QJT987.32 654.AJT9.432.A54",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.K432.AK.KQJT9 JT987.87.65.876 32.Q65.QJT987.32 654.AJT9.432.A54",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 654.AJT9.432.A54",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged. The ♥K and ♥Q will also combine for a trick"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged. The ♥K and ♥Q will also combine for a trick once the ♥A has been knocked out."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.87.65.876 3.Q65.QJT987.32 65.AJT9.432.A54",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT which South wins. There are only 4 top tricks (2 spades, and 2 diamonds). South can establish 4 club tricks once the ♣A is dislodged. The ♥K and ♥Q will also combine for a trick once the ♥A has been knocked out. By that time, however, the defense will have had time to establish and run their spades."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.A87.65.76 3.Q65.QJT987.32 65.JT9.432.A854",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.K432.AK.KQJT9 JT987.A87.65.76 3.Q65.QJT987.32 65.JT9.432.A854",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.K432.K.KQJT9 JT987.A87.65.76 3.Q65.QJT987.32 65.JT9.432.A854",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.K432.K.KQJT9 JT987.A87.6.76 3.Q65.QJT987.32 65.JT9.432.A854",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.K432.K.KQJT9 JT987.A87.6.76 3.Q65.QJT98.32 65.JT9.432.A854",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D5",
+        "N": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.K432.K.KQJT9 JT987.A87.6.76 3.Q65.QJT98.32 65.JT9.43.A854",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D5",
+        "N": "D7",
+        "E": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.K432.K.KQJT9 JT987.A87.6.76 3.Q65.QJT98.32 65.JT9.43.A854",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D5",
+        "N": "D7",
+        "E": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.A87.6.76 3.Q65.QJT98.32 65.JT9.43.A854",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.A87..76 3.Q65.QJT98.32 65.JT9.43.A854",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.43.A854",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D8",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D8",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.K43..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.K43..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy. If West has the ♥A,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.K43..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy. If West has the ♥A, the ♥Q will be a certain dummy entry."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.K43..KQJT9 JT987.A87..76 3.Q65.QJT9.32 65.JT9.4.A854",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The diamond suit also offers the possibility of extra tricks. After South unblocks the ♦A and ♦K, he might try leading a heart towards the dummy. If West has the ♥A, the ♥Q will be a certain dummy entry. South will be able to take 6 diamond tricks and make at least 9 tricks."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.K43..KQJT9 JT987.87..876 3.Q65.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.K432..KQJT9 JT987.87..876 3.Q65.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D8",
+        "E": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.432..KQJT9 JT987.87..876 3.Q65.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.432..KQJT9 JT987.87..876 3.Q65.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q65.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.JT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.JT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A, the ♥Q will provide an entry"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.JT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can actually ensure the contract no matter where the ♥A is placed. After unblocking in diamonds, South should lead the ♥K. If the defense wins the ♥A, the ♥Q will provide an entry to dummy's diamonds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.AJT9.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South is allowed to hold the ♥K,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.AJT.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A.432..KQJT9 JT987.8..876 3.Q6.QJT9.32 65.AJT.4.A54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H5",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..876 3.Q6.QJT9.32 65.AJT.4.A54",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.32 65.AJT.4.A54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.A54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades, the ♥K,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades, the ♥K, 2 diamonds,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A.432..QJT9 JT987.8..87 3.Q6.QJT9.3 65.AJT.4.54",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South is allowed to hold the ♥K, he can knock out the ♣A and again take 9 tricks (2 spades, the ♥K, 2 diamonds, and 4 clubs)."
+    }
+  ]
+}

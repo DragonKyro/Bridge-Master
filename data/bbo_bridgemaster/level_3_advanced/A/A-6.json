@@ -1,0 +1,948 @@
+{
+  "title": "Level 3 (Advanced) - A-6",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-6",
+  "deal_pbn": "S:AKQJT.Q43.KJT.32 2.JT987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥J against 6♠. It appears that the contract is secure unless East has the ♣K, making that finesse wrong, and South misguesses diamonds, losing a trick to the ♦Q.\n\nAfter winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A and exits the ♣Q.\n\nWhoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand and ruff in the other hand. Again South's possible diamond loser disappears.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 6♠. It appears that the contract is secure unless East has the ♣K, making that finesse wrong, and South misguesses diamonds, losing a trick to the ♦Q.",
+    "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A and exits the ♣Q.",
+    "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand and ruff in the other hand. Again South's possible diamond loser disappears."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.JT987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. It appears that the contract is secure unless East has the ♣K, making that finesse wrong,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. It appears that the contract is secure unless East has the ♣K, making that finesse wrong, and South misguesses diamonds, losing a trick to the ♦Q."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.AK2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.A2.A98.AQ 43.65.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJT.Q43.KJT.32 2.T987.Q32.7654 98765.A2.A98.AQ 43.6.7654.KJT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJT.Q4.KJT.32 2.T987.Q32.7654 98765.A2.A98.AQ 43.6.7654.KJT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HJ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJT.Q4.KJT.32 2.T987.Q32.7654 98765.A2.A98.AQ 43.6.7654.KJT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HJ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJT.Q4.KJT.32 2.T987.Q32.7654 98765.A2.A98.AQ 43.6.7654.KJT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HJ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJT.Q4.KJT.32 2.T987.Q32.7654 9876.A2.A98.AQ 43.6.7654.KJT98",
+      "trick_cards": {
+        "N": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJT.Q4.KJT.32 2.T987.Q32.7654 9876.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "N": "S5",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJT.Q4.KJT.32 2.T987.Q32.7654 9876.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "S": "SA",
+        "N": "S5",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJT.Q4.KJT.32 .T987.Q32.7654 9876.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S2",
+        "N": "S5",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT.Q4.KJT.32 .T987.Q32.7654 9876.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT.Q4.KJT.32 .T987.Q32.765 9876.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT.Q4.KJT.32 .T987.Q32.765 987.A2.A98.AQ 4.6.7654.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C4",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT.Q4.KJT.32 .T987.Q32.765 987.A2.A98.AQ .6.7654.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C4",
+        "N": "S6",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT.Q4.KJT.32 .T987.Q32.765 987.A2.A98.AQ .6.7654.KJT98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C4",
+        "N": "S6",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT.4.KJT.32 .T987.Q32.765 987.A2.A98.AQ .6.7654.KJT98",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT.4.KJT.32 .T98.Q32.765 987.A2.A98.AQ .6.7654.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT.4.KJT.32 .T98.Q32.765 987.A.A98.AQ .6.7654.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT.4.KJT.32 .T98.Q32.765 987.A.A98.AQ ..7654.KJT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT..KJT.32 .T98.Q32.765 987.A.A98.AQ ..7654.KJT98",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987.A.A98.AQ ..7654.KJT98",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987..A98.AQ ..7654.KJT98",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987..A98.AQ ..7654.KJT9",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HA",
+        "E": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987..A98.AQ ..7654.KJT9",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HA",
+        "E": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987..A98.Q ..7654.KJT9",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT..KJT.32 .T9.Q32.765 987..A98.Q ..7654.KJT",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.765 987..A98.Q ..7654.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.76 987..A98.Q ..7654.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.76 987..A98.Q ..7654.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A and exits the ♣Q."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.76 987..A98. ..7654.KJT",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead South can, in fact, guarantee the contract by playing for an elimination. South draws trump and cashes 2 more rounds of hearts. South next cashes the ♣A and exits the ♣Q."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.76 987..A98. ..7654.KJT",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT..KJT.3 .T9.Q32.76 987..A98. ..7654.JT",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.76 987..A98. ..7654.JT",
+      "trick_cards": {
+        "S": "C3",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.7 987..A98. ..7654.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.7 987..A98. ..7654.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.7 987..A98. ..7654.JT",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CQ",
+        "E": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.7 987..A98. ..7654.J",
+      "trick_cards": {
+        "E": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT..KJT. .T9.Q32.7 987..A98. ..7654.J",
+      "trick_cards": {
+        "E": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT..KJ. .T9.Q32.7 987..A98. ..7654.J",
+      "trick_cards": {
+        "S": "DT",
+        "E": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT..KJ. .T9.Q32. 987..A98. ..7654.J",
+      "trick_cards": {
+        "S": "DT",
+        "W": "C7",
+        "E": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJT..KJ. .T9.Q32. 987..A98. ..7654.J",
+      "trick_cards": {
+        "S": "DT",
+        "W": "C7",
+        "E": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand and ruff in the other hand."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:QJT..KJ. .T9.Q32. 98..A98. ..7654.J",
+      "trick_cards": {
+        "S": "DT",
+        "W": "C7",
+        "N": "S7",
+        "E": "CT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand and ruff in the other hand."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:QJT..KJ. .T9.Q32. 98..A98. ..7654.J",
+      "trick_cards": {
+        "S": "DT",
+        "W": "C7",
+        "N": "S7",
+        "E": "CT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Whoever wins the ♣K is endplayed. A diamond return picks up the ♦Q for South. A heart or club return is equally fatal. South can discard a diamond from one hand and ruff in the other hand. Again South's possible diamond loser disappears."
+    }
+  ]
+}

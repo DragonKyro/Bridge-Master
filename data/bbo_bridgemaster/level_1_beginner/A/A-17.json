@@ -1,0 +1,192 @@
+{
+  "title": "Level 1 (Beginner) - A-17",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-17",
+  "deal_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "South has 8 top tricks available (3 spades, 3 hearts, and 2 clubs). Despite having no diamond higher than the ♦9, the diamond suit is South's only hope of scoring a ninth trick.\n\nThis can be accomplished if the defensive diamonds divide 3-2. South should lead diamonds at every opportunity. If South cashes tricks in the other suits he may make it possible for the defenders to cash 5 tricks before South can take 9 tricks.",
+  "commentary_paragraphs": [
+    "South has 8 top tricks available (3 spades, 3 hearts, and 2 clubs). Despite having no diamond higher than the ♦9, the diamond suit is South's only hope of scoring a ninth trick.",
+    "This can be accomplished if the defensive diamonds divide 3-2. South should lead diamonds at every opportunity. If South cashes tricks in the other suits he may make it possible for the defenders to cash 5 tricks before South can take 9 tricks."
+  ],
+  "play_sequence": [],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks available (3 spades,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks available (3 spades, 3 hearts,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks available (3 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks available (3 spades, 3 hearts, and 2 clubs). Despite having no diamond higher than the ♦9,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks available (3 spades, 3 hearts, and 2 clubs). Despite having no diamond higher than the ♦9, the diamond suit is South's only hope of scoring a ninth trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "This can be accomplished if the defensive diamonds divide 3-2."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ.Q32.5432.A32 JT987.65.KJ.QJT9 432.AK4.9876.K54 65.JT987.AQT.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "This can be accomplished if the defensive diamonds divide 3-2. South should lead diamonds at every opportunity. If South cashes tricks in the other suits he may make it possible for the defenders to cash 5 tricks before South can take 9 tricks."
+    }
+  ]
+}

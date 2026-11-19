@@ -1,0 +1,748 @@
+{
+  "title": "Level 1 (Beginner) - A-12",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-12",
+  "deal_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick. Once the ♣A, ♣K, and ♣Q are gone, South's ♣8 will be high. Unfortunately, the defense will have been able to set up and cash their spades first.\n\nSouth must instead hope to develop his ninth trick in diamonds. If the defensive diamonds break 3-3, South will be able to establish a long diamond trick in North's hand before both spade stoppers have been knocked out.\n\nWest leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick. If diamonds prove to be 3-3, South will have his ninth trick established and the ♠A as an entry to reach it.",
+  "commentary_paragraphs": [
+    "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick. Once the ♣A, ♣K, and ♣Q are gone, South's ♣8 will be high. Unfortunately, the defense will have been able to set up and cash their spades first.",
+    "South must instead hope to develop his ninth trick in diamonds. If the defensive diamonds break 3-3, South will be able to establish a long diamond trick in North's hand before both spade stoppers have been knocked out.",
+    "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick. If diamonds prove to be 3-3, South will have his ninth trick established and the ♠A as an entry to reach it."
+  ],
+  "play_sequence": [
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D9"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick. Once the ♣A, ♣K, and ♣Q are gone,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick. Once the ♣A, ♣K, and ♣Q are gone, South's ♣8 will be high."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has 8 top tricks (2 each in spades and diamonds and 4 in hearts). The club suit offers some hope for a ninth trick. Once the ♣A, ♣K, and ♣Q are gone, South's ♣8 will be high. Unfortunately, the defense will have been able to set up and cash their spades first."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must instead hope to develop his ninth trick in diamonds."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must instead hope to develop his ninth trick in diamonds. If the defensive diamonds break 3-3,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must instead hope to develop his ninth trick in diamonds. If the defensive diamonds break 3-3, South will be able to establish a long diamond trick in North's hand"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must instead hope to develop his ninth trick in diamonds. If the defensive diamonds break 3-3, South will be able to establish a long diamond trick in North's hand before both spade stoppers have been knocked out."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 QJT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 JT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 JT9.T98.QJT.432 A43.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 8765.765.987.AKQ",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.AKQJ.AK2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.AKQJ.K2.8765 JT9.T98.QJT.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:2.AKQJ.K2.8765 JT9.T98.QJ.432 A4.432.6543.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:2.AKQJ.K2.8765 JT9.T98.QJ.432 A4.432.654.JT9 876.765.987.AKQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:2.AKQJ.K2.8765 JT9.T98.QJ.432 A4.432.654.JT9 876.765.98.AKQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:2.AKQJ.K2.8765 JT9.T98.QJ.432 A4.432.654.JT9 876.765.98.AKQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:2.AKQJ.2.8765 JT9.T98.QJ.432 A4.432.654.JT9 876.765.98.AKQ",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:2.AKQJ.2.8765 JT9.T98.Q.432 A4.432.654.JT9 876.765.98.AKQ",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:2.AKQJ.2.8765 JT9.T98.Q.432 A4.432.65.JT9 876.765.98.AKQ",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:2.AKQJ.2.8765 JT9.T98.Q.432 A4.432.65.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:2.AKQJ.2.8765 JT9.T98.Q.432 A4.432.65.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98.Q.432 A4.432.65.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98.Q.432 A4.432.65.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.65.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.6.JT9 876.765.9.AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.6.JT9 876.765..AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.6.JT9 876.765..AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick. If diamonds prove to be 3-3,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.6.JT9 876.765..AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick. If diamonds prove to be 3-3, South will have his ninth trick established"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:2.AKQJ..8765 JT9.T98..432 A4.432.6.JT9 876.765..AKQ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q and South must win the ♠K at trick 1 in order to preserve the ♠A as an entry to North's diamond winner. Next South should play the ♦A, ♦K, and finally the ♦2, surrendering a diamond trick. If diamonds prove to be 3-3, South will have his ninth trick established and the ♠A as an entry to reach it."
+    }
+  ]
+}

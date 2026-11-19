@@ -1,0 +1,848 @@
+{
+  "title": "Level 3 (Advanced) - D-18",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-18",
+  "deal_pbn": "S:A32.AKQJT98.A2.A 7.76.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "2NT",
+    "Dbl",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H7",
+  "par_tricks": 12,
+  "notes": "West leads the ♥7 against 6♥. South has 2 possible losers in spades and a possible loser in diamonds. West's unusual notrump overcall suggests at least 5-5 in the minors, making it likely that East was dealt the ♠K. South should look to find some chance for the contract besides the spade finesse.\n\nAfter winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow, West can have no more than 1 spade (since he has shown up with 2 hearts and promised at least 5-5 in the minors with his 2NT overcall). The contract is now certain as long as West was dealt the ♦K (very likely considering the bidding).\n\nSouth should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K and West's forced minor suit return allows South to discard his 2 spade losers on dummy's ♦Q and ♣K.",
+  "commentary_paragraphs": [
+    "West leads the ♥7 against 6♥. South has 2 possible losers in spades and a possible loser in diamonds. West's unusual notrump overcall suggests at least 5-5 in the minors, making it likely that East was dealt the ♠K. South should look to find some chance for the contract besides the spade finesse.",
+    "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow, West can have no more than 1 spade (since he has shown up with 2 hearts and promised at least 5-5 in the minors with his 2NT overcall). The contract is now certain as long as West was dealt the ♦K (very likely considering the bidding).",
+    "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K and West's forced minor suit return allows South to discard his 2 spade losers on dummy's ♦Q and ♣K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "D6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.76.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 6♥. South has 2 possible losers in spades"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 6♥. South has 2 possible losers in spades and a possible loser in diamonds."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ],
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 6♥. South has 2 possible losers in spades and a possible loser in diamonds. West's unusual notrump overcall suggests at least 5-5 in the minors, making it likely that East was dealt the ♠K."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 6♥. South has 2 possible losers in spades and a possible loser in diamonds. West's unusual notrump overcall suggests at least 5-5 in the minors, making it likely that East was dealt the ♠K. South should look to find some chance for the contract besides the spade finesse."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.32.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning West's trump opening lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.54.765.J65",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.AKQJT98.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.AKQJT9.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "H8",
+        "W": "H7",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.AKQJT9.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "H8",
+        "W": "H7",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7.6.KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654.3.Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654..Q43.K432 KJT98.5.765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow, West can have no more than 1 spade (since he has shown up with 2 hearts and promised at least 5-5 in the minors with his 2NT overcall)."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning West's trump opening lead, South should draw the outstanding trump. When both defenders follow, West can have no more than 1 spade (since he has shown up with 2 hearts and promised at least 5-5 in the minors with his 2NT overcall). The contract is now certain as long as West was dealt the ♦K (very likely considering the bidding)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A32.KQJT9.A2.A 7..KJT98.QT987 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A32.KQJT9.A2. 7..KJT98.QT987 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A32.KQJT9.A2. 7..KJT98.QT98 Q654..Q43.K432 KJT98..765.J65",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A32.KQJT9.A2. 7..KJT98.QT98 Q654..Q43.K43 KJT98..765.J65",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A32.KQJT9.A2. 7..KJT98.QT98 Q654..Q43.K43 KJT98..765.J6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A32.KQJT9.A2. 7..KJT98.QT98 Q654..Q43.K43 KJT98..765.J6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.KQJT9.A2. 7..KJT98.QT98 Q654..Q43.K43 KJT98..765.J6",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.KQJT9.A2. ..KJT98.QT98 Q654..Q43.K43 KJT98..765.J6",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.KQJT9.A2. ..KJT98.QT98 Q65..Q43.K43 KJT98..765.J6",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:32.KQJT9.A2. ..KJT98.QT98 Q65..Q43.K43 KJT9..765.J6",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S4",
+        "E": "S8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:32.KQJT9.A2. ..KJT98.QT98 Q65..Q43.K43 KJT9..765.J6",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S4",
+        "E": "S8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:32.KQJT9.2. ..KJT98.QT98 Q65..Q43.K43 KJT9..765.J6",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.KQJT9.2. ..KJT9.QT98 Q65..Q43.K43 KJT9..765.J6",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.KQJT9.2. ..KJT9.QT98 Q65..Q4.K43 KJT9..765.J6",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32.KQJT9.2. ..KJT9.QT98 Q65..Q4.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:32.KQJT9.2. ..KJT9.QT98 Q65..Q4.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:32.KQJT9.. ..KJT9.QT98 Q65..Q4.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:32.KQJT9.. ..KJT9.QT98 Q65..Q4.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:32.KQJT9.. ..JT9.QT98 Q65..Q4.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:32.KQJT9.. ..JT9.QT98 Q65..Q.K43 KJT9..76.J6",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:32.KQJT9.. ..JT9.QT98 Q65..Q.K43 KJT9..7.J6",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:32.KQJT9.. ..JT9.QT98 Q65..Q.K43 KJT9..7.J6",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ],
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should cash the ♣A to unblock that suit and cash the ♠A to remove West's safe exit card in spades. South continues with the ♦A and leads the ♦2 toward dummy's ♦Q. West must take his ♦K and West's forced minor suit return allows South to discard his 2 spade losers on dummy's ♦Q and ♣K."
+    }
+  ]
+}

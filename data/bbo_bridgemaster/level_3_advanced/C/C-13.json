@@ -1,0 +1,1082 @@
+{
+  "title": "Level 3 (Advanced) - C-13",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-13",
+  "deal_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q9876.7.JT98 432.AKT.65432.54 AK87.543.JT98.76",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H9",
+  "par_tricks": 9,
+  "notes": "West leads the ♥9 against 3NT. West's lead should be won in the dummy. Finessing the ♥10 is too dangerous. East may be able to win the ♥Q. The defense would likely be able to set the contract in spades.\n\nThere are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1. This play will prove necessary if South later takes the heart finesse.\n\nSouth should next test diamonds and clubs. When the defense turns up with stoppers in both suits, South must fall back on the heart finesse.\n\nNotice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover and dummy's third heart trick would be stranded.",
+  "commentary_paragraphs": [
+    "West leads the ♥9 against 3NT. West's lead should be won in the dummy. Finessing the ♥10 is too dangerous. East may be able to win the ♥Q. The defense would likely be able to set the contract in spades.",
+    "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1. This play will prove necessary if South later takes the heart finesse.",
+    "South should next test diamonds and clubs. When the defense turns up with stoppers in both suits, South must fall back on the heart finesse.",
+    "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover and dummy's third heart trick would be stranded."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q9876.7.JT98 432.AKT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AKT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥9 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AKT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead should be won in the dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥9 against 3NT. West's lead should be won in the dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.7654.987.JT9 432.AT.65432.54 AK87.Q83.JT.876",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead should be won in the dummy. Finessing the ♥10 is too dangerous."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.7654.987.JT9 432.AT.65432.54 AK87.Q83.JT.876",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead should be won in the dummy. Finessing the ♥10 is too dangerous. East may be able to win the ♥Q."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.7654.987.JT9 432.AT.65432.54 AK87.Q83.JT.876",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead should be won in the dummy. Finessing the ♥10 is too dangerous. East may be able to win the ♥Q. The defense would likely be able to set the contract in spades."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs)."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.543.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT9.J2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.54.JT98.76",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HK",
+        "E": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT9.2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.54.JT98.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H9",
+        "N": "HK",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT9.2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.54.JT98.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H9",
+        "N": "HK",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "There are 8 top tricks (2 hearts, 3 diamonds, and 3 clubs). South will succeed easily if either diamonds or clubs divide evenly. However, if neither of these suits split, South will have to fall back on the heart finesse for his ninth trick. South should unblock the ♥J at trick 1. This play will prove necessary if South later takes the heart finesse."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT9.2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.65432.54 AK87.54.JT98.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H9",
+        "N": "HK",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9.2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.6543.54 AK87.54.JT98.76",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT9.2.AKQ.AKQ32 Q65.Q876.7.JT98 432.AT.6543.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT9.2.KQ.AKQ32 Q65.Q876.7.JT98 432.AT.6543.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "S": "DA",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT9.2.KQ.AKQ32 Q65.Q876..JT98 432.AT.6543.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:JT9.2.Q.AKQ32 Q65.Q876..JT98 432.AT.6543.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:JT9.2.Q.AKQ32 Q65.Q87..JT98 432.AT.6543.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:JT9.2.Q.AKQ32 Q65.Q87..JT98 432.AT.654.54 AK87.54.JT9.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H6",
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:JT9.2.Q.AKQ32 Q65.Q87..JT98 432.AT.654.54 AK87.54.JT.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H6",
+        "N": "D3",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:JT9.2..AKQ32 Q65.Q87..JT98 432.AT.654.54 AK87.54.JT.76",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:JT9.2..AKQ32 Q6.Q87..JT98 432.AT.654.54 AK87.54.JT.76",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:JT9.2..AKQ32 Q6.Q87..JT98 432.AT.65.54 AK87.54.JT.76",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "S5",
+        "N": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:JT9.2..AKQ32 Q6.Q87..JT98 432.AT.65.54 AK87.54.J.76",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "S5",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:JT9.2..AKQ32 Q6.Q87..JT98 432.AT.65.54 AK87.54.J.76",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "S5",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:JT9.2..KQ32 Q6.Q87..JT98 432.AT.65.54 AK87.54.J.76",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:JT9.2..KQ32 Q6.Q87..JT9 432.AT.65.54 AK87.54.J.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:JT9.2..KQ32 Q6.Q87..JT9 432.AT.65.5 AK87.54.J.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:JT9.2..KQ32 Q6.Q87..JT9 432.AT.65.5 AK87.54.J.7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C8",
+        "N": "C4",
+        "E": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:JT9.2..Q32 Q6.Q87..JT9 432.AT.65.5 AK87.54.J.7",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:JT9.2..Q32 Q6.Q87..JT 432.AT.65.5 AK87.54.J.7",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:JT9.2..Q32 Q6.Q87..JT 432.AT.65. AK87.54.J.7",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:JT9.2..Q32 Q6.Q87..JT 432.AT.65. AK87.54.J.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C9",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..JT 432.AT.65. AK87.54.J.",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..J 432.AT.65. AK87.54.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..J 432.AT.6. AK87.54.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should next test diamonds and clubs."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should next test diamonds and clubs. When the defense turns up with stoppers in both suits,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:JT9.2..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should next test diamonds and clubs. When the defense turns up with stoppers in both suits, South must fall back on the heart finesse."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:JT9.J..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Notice that if South had kept the ♥J"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:JT9.J..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:JT9.J..32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "CT",
+        "N": "D5",
+        "E": "H4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:JT9...32 Q6.Q87..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:JT9...32 Q6.Q8..J 432.AT.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:JT9...32 Q6.Q8..J 432.A.6. AK87.5.J.",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7",
+        "N": "HT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:JT9...32 Q6.Q8..J 432.A.6. AK87..J.",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7",
+        "N": "HT",
+        "E": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:JT9...32 Q6.Q8..J 432.A.6. AK87..J.",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "H7",
+        "N": "HT",
+        "E": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Notice that if South had kept the ♥J he could not succeed even with the heart finesse working. West would not cover and dummy's third heart trick would be stranded."
+    }
+  ]
+}

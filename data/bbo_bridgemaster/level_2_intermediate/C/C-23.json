@@ -1,0 +1,748 @@
+{
+  "title": "Level 2 (Intermediate) - C-23",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-23",
+  "deal_pbn": "S:54.T5432.AKQ.KQ2 876.J987.JT98.65 KQ32.AQ6.432.A43 AJT9.K.765.JT987",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦J against 4♥. The opening lead is won by South. The ♠A must be lost and the trump suit is far from solid. South must try to hold his trump losers to 2.\n\nThere is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A.\n\nWhen both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K or ♥J, again there will be no problem.\n\nIf West discards when a trump is played towards dummy, the ♥Q is played. East will win the ♥K, but South can later lead from dummy towards the ♥10, holding his trump losers to 2.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 4♥. The opening lead is won by South. The ♠A must be lost and the trump suit is far from solid. South must try to hold his trump losers to 2.",
+    "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A.",
+    "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K or ♥J, again there will be no problem.",
+    "If West discards when a trump is played towards dummy, the ♥Q is played. East will win the ♥K, but South can later lead from dummy towards the ♥10, holding his trump losers to 2."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:54.T5432.AKQ.KQ2 876.J987.JT98.65 KQ32.AQ6.432.A43 AJT9.K.765.JT987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:54.T5432.AKQ.KQ2 876.J987.T98.65 KQ32.AQ6.432.A43 AJT9.K.765.JT987",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:54.T5432.AKQ.KQ2 876.J987.T98.65 KQ32.AQ6.432.A43 AJT9.K.765.JT987",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:54.T5432.AKQ.KQ2 876.J987.T98.65 KQ32.AQ6.43.A43 AJT9.K.765.JT987",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:54.T5432.AKQ.KQ2 876.J987.T98.65 KQ32.AQ6.43.A43 AJT9.K.76.JT987",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:54.T5432.AK.KQ2 876.J987.T98.65 KQ32.AQ6.43.A43 AJT9.K.76.JT987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:54.T5432.AK.KQ2 876.J987.T98.65 KQ32.AQ6.43.A43 AJT9.K.76.JT987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South. The ♠A must be lost"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:54.T5432.AK.KQ2 876.J987.T98.65 KQ32.AQ6.43.A43 AJT9.K.76.JT987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. The opening lead is won by South. The ♠A must be lost and the trump suit is far from solid. South must try to hold his trump losers to 2."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:54.T5432.AK.KQ2 876.KJ98.T98.65 KQ32.AQ6.43.A43 AJT9.7.76.JT987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:54.T5432.AK.KQ2 876.KJ98.T98.65 KQ32.AQ6.43.A43 AJT9.7.76.JT987",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ98.T98.65 KQ32.AQ6.43.A43 AJT9.7.76.JT987",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.AQ6.43.A43 AJT9.7.76.JT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.Q6.43.A43 AJT9.7.76.JT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.Q6.43.A43 AJT9..76.JT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a sure way to play the heart combination for no more than 2 losers provided hearts are no worse than 4-1. South begins by cashing the ♥A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.Q6.43.A43 AJT9..76.JT987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.Q6.43.A4 AJT9..76.JT987",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:54.T543.AK.KQ2 876.KJ9.T98.65 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:54.T543.AK.Q2 876.KJ9.T98.65 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "CK",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:54.T543.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:54.T543.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ.T98.6 KQ32.6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ.T98.6 KQ32.6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:54.T54.AK.Q2 876.J9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:54.T54.AK.Q2 876.KJ9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K or ♥J, again there will be no problem."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:54.T54.AK.Q2 876.K9.T98.6 KQ32.Q6.43.A4 AJT9..76.JT98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When both defenders follow low (if an honour drops, there is no problem), South should cross in clubs and lead a second round of trump towards the dummy. If West follows low, the play of the ♥Q will guarantee no more than 2 trump losers. If West follows with the ♥K or ♥J, again there will be no problem."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT6 KQ32.Q6.43.A4 A76.KJ9.76.98",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West discards when a trump is played towards dummy,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.Q6.43.A4 A76.KJ9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when a trump is played towards dummy,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.Q6.43.A4 A76.KJ9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West discards when a trump is played towards dummy, the ♥Q is played."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.6.43.A4 A76.KJ9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when a trump is played towards dummy, the ♥Q is played."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.6.43.A4 A76.KJ9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West discards when a trump is played towards dummy, the ♥Q is played. East will win the ♥K,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.6.43.A4 A76.J9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West discards when a trump is played towards dummy, the ♥Q is played. East will win the ♥K,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:54.T54.AK.Q2 JT98..T98.JT KQ32.6.43.A4 A76.J9.76.98",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C6",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T"
+          ]
+        },
+        "N": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West discards when a trump is played towards dummy, the ♥Q is played. East will win the ♥K, but South can later lead from dummy towards the ♥10, holding his trump losers to 2."
+    }
+  ]
+}

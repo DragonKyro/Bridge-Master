@@ -1,0 +1,770 @@
+{
+  "title": "Level 1 (Beginner) - A-25",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-25",
+  "deal_pbn": "S:QJT9.AK.A32.T987 AK5.QJT4.54.A543 432.32.KQJT98.K2 876.98765.76.QJ6",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "2D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades. By the time a spade trick is established the defenders will be in a position to cash at least 3 heart tricks. 3 heart tricks along with the ♠A and ♠K will defeat the contract.\n\nSouth must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2, a club trick can be taken any time West has the ♣A. This is another form of the simple finesse.\n\nIt would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A and cash out hearts and spades.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades. By the time a spade trick is established the defenders will be in a position to cash at least 3 heart tricks. 3 heart tricks along with the ♠A and ♠K will defeat the contract.",
+    "South must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2, a club trick can be taken any time West has the ♣A. This is another form of the simple finesse.",
+    "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A and cash out hearts and spades."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "CJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT9.AK.A32.T987 AK5.QJT4.54.A543 432.32.KQJT98.K2 876.98765.76.QJ6",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT9.AK.A32.T987 AK5.JT4.54.A543 432.32.KQJT98.K2 876.98765.76.QJ6",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT9.AK.A32.T987 AK5.JT4.54.A543 432.32.KQJT98.K2 876.98765.76.QJ6",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT9.AK.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.98765.76.QJ6",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT9.AK.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades. By the time a spade trick is established"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades. By the time a spade trick is established the defenders will be in a position to cash at least 3 heart tricks. 3 heart tricks"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q which South wins. South has 8 top tricks (2 hearts and 6 diamonds). South does not have time to set up his ninth trick in spades. By the time a spade trick is established the defenders will be in a position to cash at least 3 heart tricks. 3 heart tricks along with the ♠A and ♠K will defeat the contract."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must, therefore, look towards clubs for his ninth trick."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A54 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A54 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A54 432.3.KQJT98.2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C3",
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A54 432.3.KQJT98.2 876.9876.76.QJ",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C3",
+        "N": "CK",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT9.A.A32.T98 AK5.JT4.54.A54 432.3.KQJT98.2 876.9876.76.QJ",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C3",
+        "N": "CK",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must, therefore, look towards clubs for his ninth trick. If South leads a club up to North's ♣K at trick 2, a club trick can be taken any time West has the ♣A. This is another form of the simple finesse."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT9.A.A32.T987 AK5.JT4.54.A543 432.3.KQJT98.K2 876.9876.76.QJ6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT.A..T9 AK.J4..A5 432.3..K2 8.987..QJ",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S5",
+        "N": "D9",
+        "E": "C6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT.A..T9 AK.J4..A5 432...K2 8.987..QJ",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT.A..T9 AK.J4..A5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT...T9 AK.J4..A5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT...T9 AK.4..A5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT...T9 AK.4..A5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT...T AK.4..A5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "S": "C9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT...T AK.4..5 432...K2 8.98..QJ",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT...T AK.4..5 432...K 8.98..QJ",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C2"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT...T AK.4..5 432...K 8.98..Q",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT...T AK.4..5 432...K 8.98..Q",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A and cash out hearts"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT...T AK.4..5 432...K 8.98..Q",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C2",
+        "E": "CJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "E": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to cash all of dummy's diamonds before leading clubs. The lead would end up in the wrong hand to take the club finesse. South's only remaining hand entry would be in hearts. Once South's second heart stopper is gone, West can simply take his ♣A and cash out hearts and spades."
+    }
+  ]
+}

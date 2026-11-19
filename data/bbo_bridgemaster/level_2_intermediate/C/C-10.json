@@ -1,0 +1,754 @@
+{
+  "title": "Level 2 (Intermediate) - C-10",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-10",
+  "deal_pbn": "S:J2.QJ2.AKQJ.K432 Q.6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "2S",
+    "Pass",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "In response to his partner's overcall, West leads the ♠Q against 3NT. This lead has guaranteed a spade stopper for South.\n\nThere are still only 7 top tricks (1 spade, 4 diamonds, and 2 clubs). South will have to knock out the ♥A to come to 9 tricks.\n\nIf East has the ♥A (as is likely from his overcall), South's only hope for the contract is that West began with a singleton ♠Q.\n\nSouth must duck the opening lead in dummy. If East overtakes with the ♠A, the ♠K and the ♠J both will be stoppers.\n\nIf East ducks, West will remain on lead, hopefully with no spades left to play. When East eventually wins the ♥A, South will still have a spade stopper.\n\nIf West has the ♥A and a singleton ♠Q, the duck cannot cost.\n\nIf West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1, South will be able to exhaust West's spades before the ♥A is knocked out.",
+  "commentary_paragraphs": [
+    "In response to his partner's overcall, West leads the ♠Q against 3NT. This lead has guaranteed a spade stopper for South.",
+    "There are still only 7 top tricks (1 spade, 4 diamonds, and 2 clubs). South will have to knock out the ♥A to come to 9 tricks.",
+    "If East has the ♥A (as is likely from his overcall), South's only hope for the contract is that West began with a singleton ♠Q.",
+    "South must duck the opening lead in dummy. If East overtakes with the ♠A, the ♠K and the ♠J both will be stoppers.",
+    "If East ducks, West will remain on lead, hopefully with no spades left to play. When East eventually wins the ♥A, South will still have a spade stopper.",
+    "If West has the ♥A and a singleton ♠Q, the duck cannot cost.",
+    "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1, South will be able to exhaust West's spades before the ♥A is knocked out."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 Q.6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "In response to his partner's overcall, West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "In response to his partner's overcall, West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "In response to his partner's overcall, West leads the ♠Q against 3NT. This lead has guaranteed a spade stopper for South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There are still only 7 top tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "There are still only 7 top tricks (1 spade,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "There are still only 7 top tricks (1 spade, 4 diamonds,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There are still only 7 top tricks (1 spade, 4 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There are still only 7 top tricks (1 spade, 4 diamonds, and 2 clubs). South will have to knock out the ♥A to come to 9 tricks."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has the ♥A (as is likely from his overcall),"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♥A (as is likely from his overcall), South's only hope for the contract is that West began with a singleton ♠Q."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K43.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must duck the opening lead in dummy."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must duck the opening lead in dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must duck the opening lead in dummy. If East overtakes with the ♠A,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 T98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must duck the opening lead in dummy. If East overtakes with the ♠A,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 T98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must duck the opening lead in dummy. If East overtakes with the ♠A, the ♠K and the ♠J both will be stoppers."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT98765.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East ducks,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT9876.A7.76.76",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East ducks,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT9876.A7.76.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East ducks,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT9876.A7.76.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East ducks, West will remain on lead, hopefully with no spades left to play."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT9876.A7.76.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East ducks, West will remain on lead, hopefully with no spades left to play. When East eventually wins the ♥A,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 .6543.T98.QJT98 K4.KT98.5432.A5 AT9876.A7.76.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East ducks, West will remain on lead, hopefully with no spades left to play. When East eventually wins the ♥A, South will still have a spade stopper."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .A543.T98.QJT98 K43.KT98.5432.A5 AT98765.76.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a singleton ♠Q,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 .A543.T98.QJT98 K43.KT98.5432.A5 AT98765.76.76.76",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a singleton ♠Q, the duck cannot cost."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ],
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 43.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K43.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K4.KT98.5432.A5 A98765.76.76.876",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J2.QJ2.AKQJ.K432 T.A543.T98.QJT9 K4.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 K4.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 K4.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1, South will be able to exhaust West's spades"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:J.QJ2.AKQJ.K432 T.A543.T98.QJT9 K4.KT98.5432.A5 A9876.76.76.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A and a doubleton ♠Q, it is again necessary to duck at trick 1. If the ♠K is played from dummy, East will duck in the above layout. When West wins the ♥A, he will have another spade to play to East. By ducking at trick 1, South will be able to exhaust West's spades before the ♥A is knocked out."
+    }
+  ]
+}

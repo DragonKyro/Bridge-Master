@@ -1,0 +1,884 @@
+{
+  "title": "Level 4 (Expert) - A-2",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-2",
+  "deal_pbn": "S:AKQ32.K.JT98.432 4.QJT.7654.98765 JT9.5432.AKQ.AKQ 8765.A9876.32.JT",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3D",
+    "Pass",
+    "3S",
+    "Pass",
+    "4H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps winning both tricks in the North hand.\n\nThe 4-1 trump break complicates matters. South has all winners left, but the blockage in the diamond suit spells trouble.\n\nSouth's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades North's third diamond winner is discarded.\n\nThe diamonds are now unblocked and South can easily take the rest of the tricks.",
+  "commentary_paragraphs": [
+    "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps winning both tricks in the North hand.",
+    "The 4-1 trump break complicates matters. South has all winners left, but the blockage in the diamond suit spells trouble.",
+    "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades North's third diamond winner is discarded.",
+    "The diamonds are now unblocked and South can easily take the rest of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "D8"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ32.K.JT98.432 4.QJT.7654.98765 JT9.5432.AKQ.AKQ 8765.A9876.32.JT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ32.K.JT98.432 4.JT.7654.98765 JT9.5432.AKQ.AKQ 8765.A9876.32.JT",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ32.K.JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.A9876.32.JT",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ32.K.JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.A9876.32.JT",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's heart lead goes to East's ♥A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ32.K.JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.9876.32.JT",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ32..JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.9876.32.JT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ32..JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.9876.32.JT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ32..JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ32..JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ32..JT98.432 4.JT.7654.98765 JT9.543.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "SA",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ32..JT98.432 4.J.7654.98765 JT9.543.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HT",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ32..JT98.432 4.J.7654.98765 JT9.54.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ32..JT98.432 4.J.7654.98765 JT9.54.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ3..JT98.432 4.J.7654.98765 JT9.54.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ3..JT98.432 .J.7654.98765 JT9.54.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ3..JT98.432 .J.7654.98765 JT.54.AKQ.AKQ 8765.987.32.JT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ3..JT98.432 .J.7654.98765 JT.54.AKQ.AKQ 876.987.32.JT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "S9",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ3..JT98.432 .J.7654.98765 J.54.AKQ.AKQ 876.987.32.JT",
+      "trick_cards": {
+        "N": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ3..JT98.432 .J.7654.98765 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.98765 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C5",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C5",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West's heart lead goes to East's ♥A. When East returns the suit South has nothing to lose by ruffing high. South draws 2 rounds of trumps winning both tricks in the North hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C5",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The 4-1 trump break complicates matters."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C5",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The 4-1 trump break complicates matters. South has all winners left, but the blockage in the diamond suit spells trouble."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.AKQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C5",
+        "N": "ST",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.KQ.AKQ 87.987.32.JT",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ..JT98.432 .J.7654.9876 J.54.KQ.AKQ 87.987.3.JT",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ..JT9.432 .J.7654.9876 J.54.KQ.AKQ 87.987.3.JT",
+      "trick_cards": {
+        "S": "D8",
+        "N": "DA",
+        "E": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ..JT9.432 .J.765.9876 J.54.KQ.AKQ 87.987.3.JT",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D4",
+        "N": "DA",
+        "E": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ..JT9.432 .J.765.9876 J.54.Q.AKQ 87.987.3.JT",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ..JT9.432 .J.765.9876 J.54.Q.AKQ 87.987..JT",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ..JT.432 .J.765.9876 J.54.Q.AKQ 87.987..JT",
+      "trick_cards": {
+        "S": "D9",
+        "N": "DK",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ..JT.432 .J.76.9876 J.54.Q.AKQ 87.987..JT",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D5",
+        "N": "DK",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ..JT.432 .J.76.9876 J.54.Q.AKQ 87.987..JT",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D5",
+        "N": "DK",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ..JT.432 .J.76.9876 .54.Q.AKQ 87.987..JT",
+      "trick_cards": {
+        "N": "SJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ..JT.432 .J.76.9876 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:K..JT.432 .J.76.9876 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SQ",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K..JT.432 .J.76.987 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C6",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:K..JT.432 .J.76.987 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "C6",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:..JT.432 .J.76.987 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:..JT.432 .J.76.98 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:..JT.432 .J.76.98 .54.Q.AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades North's third diamond winner is discarded."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:..JT.432 .J.76.98 .54..AKQ 8.987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C7",
+        "N": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades North's third diamond winner is discarded."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:..JT.432 .J.76.98 .54..AKQ .987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C7",
+        "N": "DQ",
+        "E": "S8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South's best chance is to cash 2 of North's diamonds and then revert to drawing the rest of East's trumps. On the last round of spades North's third diamond winner is discarded."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:..JT.432 .J.76.98 .54..AKQ .987..JT",
+      "trick_cards": {
+        "S": "SK",
+        "W": "C7",
+        "N": "DQ",
+        "E": "S8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The diamonds are now unblocked and South can easily take the rest of the tricks."
+    }
+  ]
+}

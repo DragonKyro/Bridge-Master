@@ -1,0 +1,651 @@
+{
+  "title": "Level 4 (Expert) - A-36",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-36",
+  "deal_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.QJT6 J6.3.AK87654.987 T5432.QJT.J.A432",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 12,
+  "notes": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K. South should be able to ruff his heart loser in the dummy but it cannot hurt to cash the ♠J first.\n\nWhen West discards, the 5-0 break is revealed. Dummy's small spade now will be needed to finesse against East's ♠10. South will have to find another way to deal with his heart loser.\n\nSouth should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2. South will also succeed when West has length in diamonds along with the remaining club honors (not unlikely given the lead). In this case West will be squeezed in the minors when South's last winner is cashed.",
+  "commentary_paragraphs": [
+    "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K. South should be able to ruff his heart loser in the dummy but it cannot hurt to cash the ♠J first.",
+    "When West discards, the 5-0 break is revealed. Dummy's small spade now will be needed to finesse against East's ♠10. South will have to find another way to deal with his heart loser.",
+    "South should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2. South will also succeed when West has length in diamonds along with the remaining club honors (not unlikely given the lead). In this case West will be squeezed in the minors when South's last winner is cashed."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C5"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.QJT6 J6.3.AK87654.987 T5432.QJT.J.A432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.JT6 J6.3.AK87654.987 T5432.QJT.J.A432",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.A432",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.A432",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ987.AK2.32.K5 .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.432",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ987.AK2.32.K .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.432",
+      "trick_cards": {
+        "S": "C5",
+        "W": "CQ",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ987.AK2.32.K .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.432",
+      "trick_cards": {
+        "S": "C5",
+        "W": "CQ",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ987.AK2.32.K .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.43",
+      "trick_cards": {
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ987.AK2.32.K .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.43",
+      "trick_cards": {
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ987.AK2.32. .987654.QT9.JT6 J6.3.AK87654.98 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "CK",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ987.AK2.32. .987654.QT9.JT J6.3.AK87654.98 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ987.AK2.32. .987654.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ987.AK2.32. .987654.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K. South should be able to ruff his heart loser in the dummy"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ987.AK2.32. .987654.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K. South should be able to ruff his heart loser in the dummy but it cannot hurt to cash the ♠J first."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ98.AK2.32. .987654.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♣Q is taken by East with the ♣A. East returns a club, South winning the ♣K. South should be able to ruff his heart loser in the dummy but it cannot hurt to cash the ♠J first."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ98.AK2.32. .987654.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When West discards,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT J6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When West discards,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T5432.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When West discards,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T543.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When West discards,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T543.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "When West discards, the 5-0 break is revealed."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T543.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "When West discards, the 5-0 break is revealed. Dummy's small spade now will be needed to finesse against East's ♠10."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T543.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When West discards, the 5-0 break is revealed. Dummy's small spade now will be needed to finesse against East's ♠10. South will have to find another way to deal with his heart loser."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ98.AK2.32. .98765.QT9.JT 6.3.AK87654.9 T543.QJT.J.43",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H4",
+        "N": "SJ",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should continue by drawing trump"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:9.AK2.32. .9.QT9.JT .3.AK87.9 .QJT.J.43",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H8",
+        "N": "D6",
+        "E": "ST"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ],
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should continue by drawing trump and cashing all of his major suit winners."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.K2.32. .T.T9.J ..AK8.9 .J.QJ.4",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "D7",
+        "E": "C3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.K2.32. ..QT9.J ..AK8.9 .JT.J.4",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "D7",
+        "E": "C3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ],
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2. South will also succeed when West has length in diamonds along with the remaining club honors (not unlikely given the lead). In this case West will be squeezed in the minors"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.K2.32. ..QT9.J ..AK8.9 .JT.J.4",
+      "trick_cards": {
+        "S": "S9",
+        "W": "CT",
+        "N": "D7",
+        "E": "C3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2. South will also succeed when West has length in diamonds along with the remaining club honors (not unlikely given the lead). In this case West will be squeezed in the minors when South's last winner is cashed."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.2.32. ..QT9.J ..AK8.9 .JT.J.4",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should continue by drawing trump and cashing all of his major suit winners. The contract will make whenever diamonds are 2-2. South will also succeed when West has length in diamonds along with the remaining club honors (not unlikely given the lead). In this case West will be squeezed in the minors when South's last winner is cashed."
+    }
+  ]
+}

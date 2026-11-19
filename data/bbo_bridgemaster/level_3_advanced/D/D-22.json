@@ -1,0 +1,1613 @@
+{
+  "title": "Level 3 (Advanced) - D-22",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-22",
+  "deal_pbn": "S:QJT987.A2.AKQT.A 543.Q87.J9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "3C",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦J against 4♠. South has 2 certain losers in spades and a certain loser in hearts. The only danger to the contract is that the defense is threatening a diamond ruff as West's ♦J lead suggests he was dealt at most 2 diamonds.\n\nIf, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win and give West a diamond ruff to defeat the contract.\n\nSouth can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump. West is out of trump so he won't be scoring any diamond ruffs.\n\nIf, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds. Dummy's ♠6 will prevent West from winning the setting trick with a diamond ruff. Regardless of whether West ruffs or discards South will lose only 2 more tricks (the ♠A and a heart) to make his contract.\n\nIt would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump and give West a diamond ruff to defeat the contract. The recommended line guards against this danger.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 4♠. South has 2 certain losers in spades and a certain loser in hearts. The only danger to the contract is that the defense is threatening a diamond ruff as West's ♦J lead suggests he was dealt at most 2 diamonds.",
+    "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win and give West a diamond ruff to defeat the contract.",
+    "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump. West is out of trump so he won't be scoring any diamond ruffs.",
+    "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds. Dummy's ♠6 will prevent West from winning the setting trick with a diamond ruff. Regardless of whether West ruffs or discards South will lose only 2 more tricks (the ♠A and a heart) to make his contract.",
+    "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump and give West a diamond ruff to defeat the contract. The recommended line guards against this danger."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 53,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 58,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 61,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 61,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 61,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 62,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 63,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 64,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 65,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 66,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 70,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 72,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 73,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 74,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 75,
+      "seat": "W",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.J9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. South has 2 certain losers in spades"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. South has 2 certain losers in spades and a certain loser in hearts."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. South has 2 certain losers in spades and a certain loser in hearts. The only danger to the contract is that the defense is threatening a diamond ruff as West's ♦J lead suggests he was dealt at most 2 diamonds."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.32.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.87654.Q2",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT987.A2.AKQT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT987.A2.AKT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT987.A2.AKT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:JT987.A2.AKT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:JT987.A2.AKT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:JT987.A2.AKT.A 54.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT987.A2.AKT.A 54.Q87.9.K6543 6.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT987.A2.AKT.A 54.Q87.9.K6543 6.6543.3.JT987 A.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT987.A2.AKT.A 54.Q87.9.K6543 6.6543.3.JT987 A.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S3",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond)."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT987.A2.AKT.A 54.Q87.9.K6543 6.6543.3.JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond)."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT987.A2.KT.A 54.Q87.9.K6543 6.6543.3.JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT987.A2.KT.A 54.Q87..K6543 6.6543.3.JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond)."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT987.A2.KT.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond)."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT987.A2.KT.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:T987.A2.KT.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:T987.A2.KT.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:T987.A2.KT.A 5.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:T987.A2.KT.A 5.Q87..K6543 .6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:T987.A2.KT.A 5.Q87..K6543 .6543..JT987 .KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "S6",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:T987.A2.KT.A 5.Q87..K6543 .6543..JT987 .KJT9.876.Q2",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "S6",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If, after winning West's diamond opening lead, South leads a trump, the defense will win and play a second round of diamonds to South as West follows (presumably with his last diamond). It would be a mistake to play a second round of trump now. In the above layout East would win and give West a diamond ruff to defeat the contract."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:JT987.A2.KT.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 .6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S4",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S4",
+        "N": "S6",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S4",
+        "N": "S6",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 .6543..JT98 A.KJT9.87.Q2",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:JT987.A2.T.A 5.Q87..K6543 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:JT987.A2.T. 5.Q87..K6543 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:JT987.A2.T. 5.Q87..K654 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:JT987.A2.T. 5.Q87..K654 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "W": {
+          "S": [
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:T987.A2.T. 5.Q87..K654 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:T987.A2.T. .Q87..K654 .6543..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:T987.A2.T. .Q87..K654 .654..JT98 A.KJT9.87.Q",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "H3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:T987.A2.T. .Q87..K654 .654..JT98 .KJT9.87.Q",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "H3",
+        "E": "SA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:T987.A2.T. .Q87..K654 .654..JT98 .KJT9.87.Q",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S5",
+        "N": "H3",
+        "E": "SA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can counter this risk by continuing diamonds himself while the ♠6 is still in dummy. If West ruffs then dummy can overruff and South can cross back to his hand to continue drawing trump. West is out of trump so he won't be scoring any diamond ruffs."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q87..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q8..K6543 6.6543..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q8..K6543 6.654..JT987 A.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H7",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q8..K6543 6.654..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H7",
+        "N": "H3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:JT987.A2.T.A 54.Q8..K6543 6.654..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "H7",
+        "N": "H3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:JT987.2.T.A 54.Q8..K6543 6.654..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:JT987.2.T.A 54.Q..K6543 6.654..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:JT987.2.T.A 54.Q..K6543 6.65..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:JT987.2.T.A 54.Q..K6543 6.65..JT987 A.KJT.87.Q2",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:JT987.2.T. 54.Q..K6543 6.65..JT987 A.KJT.87.Q2",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:JT987.2.T. 54.Q..K654 6.65..JT987 A.KJT.87.Q2",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:JT987.2.T. 54.Q..K654 6.65..JT98 A.KJT.87.Q2",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3",
+        "N": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:JT987.2.T. 54.Q..K654 6.65..JT98 A.KJT.87.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:JT987.2.T. 54.Q..K654 6.65..JT98 A.KJT.87.Q",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C3",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:JT987.2.. 54.Q..K654 6.65..JT98 A.KJT.87.Q",
+      "trick_cards": {
+        "S": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:JT987.2.. 54.Q..K654 6.65..JT98 A.KJT.87.Q",
+      "trick_cards": {
+        "S": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds. Dummy's ♠6 will prevent West from winning the setting trick with a diamond ruff."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:JT987.2.. 54.Q..K654 6.65..JT98 A.KJT.87.Q",
+      "trick_cards": {
+        "S": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "J",
+            "T"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If, instead of ruffing, West discards on the third round of diamonds, South should cash his 2 Aces before playing a 4th round of diamonds. Dummy's ♠6 will prevent West from winning the setting trick with a diamond ruff. Regardless of whether West ruffs or discards South will lose only 2 more tricks (the ♠A and a heart) to make his contract."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:QJT987.A2.AKT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:QJT987.A2.KT.A 543.Q87.9.K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:QJT987.A2.KT.A 543.Q87..K6543 62.6543.3.JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:QJT987.A2.KT.A 543.Q87..K6543 62.6543..JT987 AK.KJT9.8765.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:QJT987.A2.KT.A 543.Q87..K6543 62.6543..JT987 AK.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D9",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:QJT987.A2.T.A 543.Q87..K6543 62.6543..JT987 AK.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K)."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:QJT987.A2.T.A 543.Q87..K6543 62.6543..JT987 AK.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "6",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 62.6543..JT987 AK.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 2.6543..JT987 AK.KJT9.876.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S3",
+        "N": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 2.6543..JT987 AK.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S3",
+        "N": "S6",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 2.6543..JT987 AK.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S3",
+        "N": "S6",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump"
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 .6543..JT987 AK.KJT9.87.Q2",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump"
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:QJT987.A2.T.A 54.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump"
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:QJT98.A2.T.A 54.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "S7",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump"
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:QJT98.A2.T.A 5.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S4",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump"
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:QJT98.A2.T.A 5.Q87..K6543 .6543..JT987 A.KJT9.87.Q2",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S4",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It would be a mistake to try to run diamonds before playing 1 round of trump. That line would fail in the above layout (and also when East was dealt a singleton ♠A or ♠K). West would ruff the third round of diamonds, forcing dummy to overruff with the ♠6. East would win the first round of trump and give West a diamond ruff to defeat the contract. The recommended line guards against this danger."
+    }
+  ]
+}

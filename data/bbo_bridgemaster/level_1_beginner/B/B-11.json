@@ -1,0 +1,672 @@
+{
+  "title": "Level 1 (Beginner) - B-11",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-11",
+  "deal_pbn": "S:432.A32.A32.AKQJ JT98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead it looks as though South should immediately finesse hearts, leading the ♥Q or ♥J through East.\n\nThis line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West, again South will need the defenders' hearts to be 3-3.\n\nSouth does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary. The contract will make anytime West has the ♥K or when East has a singleton ♥K or when East has 3 hearts to the ♥K.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead it looks as though South should immediately finesse hearts, leading the ♥Q or ♥J through East.",
+    "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West, again South will need the defenders' hearts to be 3-3.",
+    "South does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary. The contract will make anytime West has the ♥K or when East has a singleton ♥K or when East has 3 hearts to the ♥K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.A32.A32.AKQJ JT98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AKQ.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AK.QJ54.K54.432 765.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.A32.A32.AKQJ T98.KT98.876.65 AK.QJ54.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.QJ54.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.QJ54.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead it looks as though South should immediately finesse hearts, leading the ♥Q or ♥J through East."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.J54.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 10 tricks available in top winners (3 spades, the ♥A, 2 diamonds, and 4 clubs). Hearts must be played for 2 extra tricks. After winning the spade opening lead it looks as though South should immediately finesse hearts, leading the ♥Q or ♥J through East."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.T98.876.765 AK.J54.K54.432 76.K76.QJT9.T98",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.T98.876.765 AK.J54.K54.432 76.76.QJT9.T98",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.T98.876.765 AK.J54.K54.432 76.76.QJT9.T98",
+      "trick_cards": {
+        "S": "HA",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.T9.876.765 AK.J54.K54.432 76.76.QJT9.T98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.T9.876.765 AK.J54.K54.432 76.76.QJT9.T98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "HQ",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.K98.876.765 AK.J54.K54.432 76.T76.QJT9.T98",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.K98.876.765 AK.J54.K54.432 76.T7.QJT9.T98",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:43.A3.A32.AKQJ T98.K98.876.765 AK.J54.K54.432 76.T7.QJT9.T98",
+      "trick_cards": {
+        "S": "H2",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:43.A3.A32.AKQJ T98.98.876.765 AK.J54.K54.432 76.T7.QJT9.T98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:43.A3.A32.AKQJ T98.98.876.765 AK.J54.K54.432 76.T7.QJT9.T98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "This line of play is not best. East will cover with the ♥K if he has it. South will be left at the mercy of a 3-3 heart break. If the ♥K is with West, again South will need the defenders' hearts to be 3-3."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.QJ5.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by cashing the ♥A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.QJ5.K54.432 76.7.QJT9.T987",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by cashing the ♥A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.KT98.876.65 AK.QJ5.K54.432 76.7.QJT9.T987",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by cashing the ♥A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.KT9.876.65 AK.QJ5.K54.432 76.7.QJT9.T987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by cashing the ♥A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:43.32.A32.AKQJ T98.KT9.876.65 AK.QJ5.K54.432 76.7.QJT9.T987",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.KT98.876.65 AK.QJ54.K54.432 76.76.QJT9.T987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary. The contract will make anytime West has the ♥K"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.T9876.876.5 AK.QJ54.K54.432 76.K.QJT9.T9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary. The contract will make anytime West has the ♥K or when East has a singleton ♥K"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:43.A32.A32.AKQJ T98.T98.876.765 AK.QJ54.K54.432 76.K76.QJT9.T98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South does better by cashing the ♥A and leading hearts towards North's honours, twice if necessary. The contract will make anytime West has the ♥K or when East has a singleton ♥K or when East has 3 hearts to the ♥K."
+    }
+  ]
+}

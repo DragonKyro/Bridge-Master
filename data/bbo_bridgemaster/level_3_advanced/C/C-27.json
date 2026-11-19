@@ -1,0 +1,1015 @@
+{
+  "title": "Level 3 (Advanced) - C-27",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-27",
+  "deal_pbn": "S:AK.KQJT9.K32.AK2 JT87.65.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H5",
+  "par_tricks": 10,
+  "notes": "West leads the ♥5 against 4♥. The trump lead seems like a good start for the defense. South has a certain club loser. South may also have to lose 3 diamond tricks.\n\nIt seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick.\n\nSouth can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West, he may have no trumps to return. South will be able to ruff his diamond loser in the dummy.\n\nSouth will still succeed by playing this way if East has the ♦A (although he will be sacrificing an overtrick). South can afford to lose 2 diamond tricks. By playing as suggested, South maximizes his chances of not losing 3 tricks in diamonds.",
+  "commentary_paragraphs": [
+    "West leads the ♥5 against 4♥. The trump lead seems like a good start for the defense. South has a certain club loser. South may also have to lose 3 diamond tricks.",
+    "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick.",
+    "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West, he may have no trumps to return. South will be able to ruff his diamond loser in the dummy.",
+    "South will still succeed by playing this way if East has the ♦A (although he will be sacrificing an overtrick). South can afford to lose 2 diamond tricks. By playing as suggested, South maximizes his chances of not losing 3 tricks in diamonds."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "H3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.65.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥5 against 4♥. The trump lead seems like a good start for the defense."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♥. The trump lead seems like a good start for the defense. South has a certain club loser."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥5 against 4♥. The trump lead seems like a good start for the defense. South has a certain club loser. South may also have to lose 3 diamond tricks."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.87.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5",
+        "N": "HA",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.87.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "HA",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.87.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "HA",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.87.5.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87.6.A876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87.6.A876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87.6.876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87.6.876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87..876.876 65432.87.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87..876.876 65432.8.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK.KQJT.32.AK2 JT87..876.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK.KQJ.32.AK2 JT87..876.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK.KQJ.32.AK2 JT87..876.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK.KQJ.32.AK2 JT87..876.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..876.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8..543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "It seems natural for South to win the lead in the dummy and play a diamond towards the ♦K. If West can win the ♦A, the contract will almost certainly fail. West will return a second trump and the defense will arrange for the player with the third trump to win the next diamond trick."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A87.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A8.54.543 Q9.432.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.KQJT9.K32.AK2 JT87.6.A876.876 65432.A8.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "W": "H5",
+        "N": "H7",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.A8.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "H7",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK.KQJT.K32.AK2 JT87.6.A876.876 65432.A8.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "H9",
+        "W": "H5",
+        "N": "H7",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A876.876 65432.A8.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A87.876 65432.A8.54.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A87.876 65432.A8.5.543 Q9.43.QJT9.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A87.876 65432.A8.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A87.876 65432.A8.5.543 Q9.43.QJT.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.KQJT.K3.AK2 JT87.6.A87.876 65432.A8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87.6.A87.876 65432.A8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.A8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HA",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.8.5.543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HA",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.8..543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.8..543 Q9.4.QJT.QJT9",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..A87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..A87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West, he may have no trumps to return."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AK.KQJ.3.AK2 JT87..87.876 65432.8..543 Q9.4.QJ.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D5",
+        "E": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can improve this plan by winning the first heart in hand and immediately ducking a diamond. The trump continuation should be won in dummy for a second diamond play. If the ♦K loses to the ♦A with West, he may have no trumps to return. South will be able to ruff his diamond loser in the dummy."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..Q87.876 65432.8.5.543 Q9.4.AJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HA",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will still succeed by playing this way if East has the ♦A (although he will be sacrificing an overtrick)."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:AK.KQJ.K3.AK2 JT87..Q87.876 65432.8.5.543 Q9.4.AJT.QJT9",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HA",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South will still succeed by playing this way if East has the ♦A (although he will be sacrificing an overtrick). South can afford to lose 2 diamond tricks. By playing as suggested, South maximizes his chances of not losing 3 tricks in diamonds."
+    }
+  ]
+}

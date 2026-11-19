@@ -1,0 +1,553 @@
+{
+  "title": "Level 1 (Beginner) - A-2",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-2",
+  "deal_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "South has 3 tricks in each of spades, hearts, and diamonds. 3 more tricks can be taken in clubs after the ♣A has been forced out.\n\nAfter winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example, West will have a long spade to play when he wins the ♣A.",
+  "commentary_paragraphs": [
+    "South has 3 tricks in each of spades, hearts, and diamonds. 3 more tricks can be taken in clubs after the ♣A has been forced out.",
+    "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example, West will have a long spade to play when he wins the ♣A."
+  ],
+  "play_sequence": [
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of spades,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of spades, hearts,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of spades, hearts, and diamonds."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of spades, hearts, and diamonds. 3 more tricks can be taken in clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of spades, hearts, and diamonds. 3 more tricks can be taken in clubs after the ♣A has been forced out."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT JT98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After winning the opening spade lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT T98.JT98.JT98.A 432.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 765.765.765.9876",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.Q32.A32.QJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.Q32.A32.QJT T98.JT98.JT98. 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.Q32.A32.QJT T98.JT98.JT98. 43.AK4.KQ4.543 76.765.765.9876",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.Q32.A32.QJT T98.JT98.JT98. 43.AK4.KQ4.543 76.765.765.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K.Q32.A32.KQJT T98.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K.Q32.A32.KQJT T9.JT98.JT98.A 43.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K.Q32.A32.KQJT T9.JT98.JT98.A 4.AK4.KQ4.5432 76.765.765.9876",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K.Q32.A32.KQJT T9.JT98.JT98.A 4.AK4.KQ4.5432 7.765.765.9876",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.Q32.A32.KQJT T9.JT98.JT98.A 4.AK4.KQ4.5432 7.765.765.9876",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.Q32.A32.KQJT T.JT98.JT98.A 4.AK4.KQ4.5432 7.765.765.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.Q32.A32.KQJT T.JT98.JT98.A .AK4.KQ4.5432 7.765.765.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9",
+        "N": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.Q32.A32.KQJT T.JT98.JT98.A .AK4.KQ4.5432 .765.765.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.Q32.A32.KQJT T.JT98.JT98.A .AK4.KQ4.5432 .765.765.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example, West will have a long spade to play"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.Q32.A32.KQJT T.JT98.JT98.A .AK4.KQ4.5432 .765.765.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the opening spade lead, South should play on clubs before cashing his high cards in the other 3 suits. If South cashes all of his high spades, for example, West will have a long spade to play when he wins the ♣A."
+    }
+  ]
+}

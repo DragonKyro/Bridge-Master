@@ -1,0 +1,765 @@
+{
+  "title": "Level 4 (Expert) - C-14",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-14",
+  "deal_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.864.Q654 5432.AKQ.A32.A32 9.87652.T975.987",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "D4",
+  "par_tricks": 13,
+  "notes": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades, 3 hearts, 3 diamonds, and the ♣A and ♣K will make up South's other 12 tricks).\n\nSouth should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts, and at least 3 diamonds. West can have no more than 1 club and East can be finessed for the ♣Q with certainty.\n\nOn the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds. There is no certain play as West might have a doubleton ♣Q. However, the odds heavily favour playing East for the ♣Q as he is known to hold at least 5 clubs.\n\nOn the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards). East will be known to have 1 spade, 5 hearts, and at least 3 diamonds (also 9 known cards). It seems like South's play in clubs is a complete guess.\n\nSouth can solve this problem with an unusual application of the Principle of Restricted Choice. West led from a suit with 3 or 4 small cards. If West had a similar holding in clubs, he may have led that suit instead. West should thus be played for the ♣Q.",
+  "commentary_paragraphs": [
+    "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades, 3 hearts, 3 diamonds, and the ♣A and ♣K will make up South's other 12 tricks).",
+    "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts, and at least 3 diamonds. West can have no more than 1 club and East can be finessed for the ♣Q with certainty.",
+    "On the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds. There is no certain play as West might have a doubleton ♣Q. However, the odds heavily favour playing East for the ♣Q as he is known to hold at least 5 clubs.",
+    "On the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards). East will be known to have 1 spade, 5 hearts, and at least 3 diamonds (also 9 known cards). It seems like South's play in clubs is a complete guess.",
+    "South can solve this problem with an unusual application of the Principle of Restricted Choice. West led from a suit with 3 or 4 small cards. If West had a similar holding in clubs, he may have led that suit instead. West should thus be played for the ♣Q."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "DJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.864.Q654 5432.AKQ.A32.A32 9.87652.T975.987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.86.Q654 5432.AKQ.A32.A32 9.87652.T975.987",
+      "trick_cards": {
+        "W": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦4 against 7NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.86.Q654 5432.AKQ.A32.A32 9.87652.T975.987",
+      "trick_cards": {
+        "W": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T975.987",
+      "trick_cards": {
+        "W": "D4",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJ.JT9.KQJ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades, 3 hearts,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades, 3 hearts, 3 diamonds,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦4 against 7NT. West's lead is won by South. South must find the ♣Q for his thirteenth trick (4 spades, 3 hearts, 3 diamonds, and the ♣A and ♣K will make up South's other 12 tricks)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.87654.86.4 5432.AKQ.A3.A32 9.32.T97.Q98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ],
+          "S": [
+            "T",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.87654.86.4 5432.AKQ.A3.A32 9.32.T97.Q98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts, and at least 3 diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.87654.86.4 5432.AKQ.A3.A32 9.32.T97.Q98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts, and at least 3 diamonds. West can have no more than 1 club and"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.87654.86.4 5432.AKQ.A3.A32 9.32.T97.Q98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should cash his spade, heart, and diamond tricks before playing clubs. It may be possible to get enough of a count on the hand to know how to play clubs. On the above layout, for example, West will show up with 4 spades, 5 hearts, and at least 3 diamonds. West can have no more than 1 club and East can be finessed for the ♣Q with certainty."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T87.87654.86.54 5432.AKQ.A3.A32 96.32.T97.Q9876",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ],
+          "S": [
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the above layout, West will count out to 3 spades, 5 hearts,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T87.87654.86.54 5432.AKQ.A3.A32 96.32.T97.Q9876",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T87.87654.86.Q4 5432.AKQ.A3.A32 96.32.T97.98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds. There is no certain play as West might have a doubleton ♣Q."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T87.87654.86.54 5432.AKQ.A3.A32 96.32.T97.Q9876",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds. There is no certain play as West might have a doubleton ♣Q. However, the odds heavily favour playing East for the ♣Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T87.87654.86.54 5432.AKQ.A3.A32 96.32.T97.Q9876",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the above layout, West will count out to 3 spades, 5 hearts, and at least 3 diamonds. There is no certain play as West might have a doubleton ♣Q. However, the odds heavily favour playing East for the ♣Q as he is known to hold at least 5 clubs."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4",
+            "3"
+          ],
+          "S": [
+            "T",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will be known to have 4 spades, 2 hearts,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards)."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "2"
+          ],
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards). East will be known to have 1 spade, 5 hearts,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards). East will be known to have 1 spade, 5 hearts, and at least 3 diamonds (also 9 known cards)."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will be known to have 4 spades, 2 hearts, and at least 3 diamonds (9 known cards). East will be known to have 1 spade, 5 hearts, and at least 3 diamonds (also 9 known cards). It seems like South's play in clubs is a complete guess."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem with an unusual application of the Principle of Restricted Choice."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem with an unusual application of the Principle of Restricted Choice. West led from a suit with 3 or 4 small cards."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem with an unusual application of the Principle of Restricted Choice. West led from a suit with 3 or 4 small cards. If West had a similar holding in clubs, he may have led that suit instead."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQJ.JT9.KQ.KJT T876.43.86.Q654 5432.AKQ.A3.A32 9.87652.T97.987",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem with an unusual application of the Principle of Restricted Choice. West led from a suit with 3 or 4 small cards. If West had a similar holding in clubs, he may have led that suit instead. West should thus be played for the ♣Q."
+    }
+  ]
+}

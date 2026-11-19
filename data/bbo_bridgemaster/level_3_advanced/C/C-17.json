@@ -1,0 +1,946 @@
+{
+  "title": "Level 3 (Advanced) - C-17",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-17",
+  "deal_pbn": "S:AKT.K32.KQJ.5432 J9876.76.T987.76 2.QJ54.5432.AKQJ Q543.AT98.A6.T98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts and diamonds. If either the hearts or the diamonds break 3-3 a third trick will be available in that suit.\n\nThere is a danger that East may be able to win a heart or diamond trick and continue spades (West cannot profitably attack spades from his side of the table). If the suit that South attacks is not 3-3, the contract will likely fail.\n\nSouth can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K and switch his attack to diamonds, coming to at least 9 tricks.\n\nIf West has the ♥A, the contract is still safe as a spade continuation from West will give South a third spade stopper. South will have time to develop 2 tricks in diamonds.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts and diamonds. If either the hearts or the diamonds break 3-3 a third trick will be available in that suit.",
+    "There is a danger that East may be able to win a heart or diamond trick and continue spades (West cannot profitably attack spades from his side of the table). If the suit that South attacks is not 3-3, the contract will likely fail.",
+    "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K and switch his attack to diamonds, coming to at least 9 tricks.",
+    "If West has the ♥A, the contract is still safe as a spade continuation from West will give South a third spade stopper. South will have time to develop 2 tricks in diamonds."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "HA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKT.K32.KQJ.5432 J9876.76.T987.76 2.QJ54.5432.AKQJ Q543.AT98.A6.T98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKT.K32.KQJ.5432 J986.76.T987.76 2.QJ54.5432.AKQJ Q543.AT98.A6.T98",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKT.K32.KQJ.5432 J986.76.T987.76 2.QJ54.5432.AKQJ Q543.AT98.A6.T98",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ Q543.AT98.A6.T98",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs)."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts and diamonds."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.976.876.76 .QJ54.5432.AKQJ 543.AT8.AT9.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts and diamonds. If either the hearts"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.976.876.76 .QJ54.5432.AKQJ 543.AT8.AT9.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. West's opening lead should be won by South. South has 6 top tricks (2 spades and 4 clubs). At least 2 tricks can be developed by knocking out the aces in both hearts and diamonds. If either the hearts or the diamonds break 3-3 a third trick will be available in that suit."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick and continue spades"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick and continue spades (West cannot profitably attack spades from his side of the table)."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick and continue spades (West cannot profitably attack spades from his side of the table). If the suit that South attacks"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AT.K32.QJ.5432 J986.76.T98.76 .QJ54.543.AKQJ 543.AT98.6.T98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "There is a danger that East may be able to win a heart or diamond trick and continue spades (West cannot profitably attack spades from his side of the table). If the suit that South attacks is not 3-3, the contract will likely fail."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AT.K32.KQJ.5432 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.76 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ54.5432.AKQJ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ54.5432.AKQ 543.AT98.A6.T98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ54.5432.AKQ 543.AT98.A6.T9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ54.5432.AKQ 543.AT98.A6.T9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CJ",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT98.A6.T9",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT98.A6.T9",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT98.A6.T9",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AT.K32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.76.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.7.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.7.T987.7 .QJ5.5432.AKQ 543.AT9.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can assure the contract by crossing to the dummy in clubs and leading a low heart. If East has the ♥A, he must play low or else South will have 3 heart tricks. South can win the ♥K and switch his attack to diamonds, coming to at least 9 tricks."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.A6.T987.7 .QJ5.5432.AKQ 543.T97.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A, the contract is still safe"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.6.T987.7 .QJ5.5432.AKQ 543.T97.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♥A, the contract is still safe"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.6.T987.7 .QJ5.5432.AKQ 543.T97.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A, the contract is still safe as a spade continuation from West"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.6.T987.7 .QJ5.5432.AKQ 543.T97.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A, the contract is still safe as a spade continuation from West will give South a third spade stopper."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AT.32.KQJ.543 J986.6.T987.7 .QJ5.5432.AKQ 543.T97.A6.T9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West has the ♥A, the contract is still safe as a spade continuation from West will give South a third spade stopper. South will have time to develop 2 tricks in diamonds."
+    }
+  ]
+}

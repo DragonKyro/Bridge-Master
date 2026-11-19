@@ -1,0 +1,816 @@
+{
+  "title": "Level 4 (Expert) - A-28",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-28",
+  "deal_pbn": "S:KQJT98.K2.A32.AQ .T987.KQJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "2D",
+    "3D",
+    "Pass",
+    "4C",
+    "Pass",
+    "4H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 12,
+  "notes": "South has 2 diamond losers and an almost certain loser in clubs as West's 2-level overcall must contain the ♣K. Dummy's third heart will provide a discard for 1 of these losers.\n\nIt may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart, West will be forced to discard a diamond, making North's diamond high, or a club, allowing South to drop the ♣K.\n\nThe only problem with this plan is that West is very likely to have 6 diamonds. If allowed to win trick 1, West will be able to give East a diamond ruff.\n\nSouth should win the opening lead and play his winners as before with the intention of strip squeezing West.\n\nOn dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West forcing him to lead into South's club tenace. There may be ambiguity in the ending and South will likely have to guess West's remaining distribution.\n\nThe 2-suit strip squeeze is quite common. In this case, West was squeezed out of a surplus winner in diamonds so that he could be endplayed without being able to set the contract. This particular variety of strip squeeze matures with 2 or more losers.",
+  "commentary_paragraphs": [
+    "South has 2 diamond losers and an almost certain loser in clubs as West's 2-level overcall must contain the ♣K. Dummy's third heart will provide a discard for 1 of these losers.",
+    "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart, West will be forced to discard a diamond, making North's diamond high, or a club, allowing South to drop the ♣K.",
+    "The only problem with this plan is that West is very likely to have 6 diamonds. If allowed to win trick 1, West will be able to give East a diamond ruff.",
+    "South should win the opening lead and play his winners as before with the intention of strip squeezing West.",
+    "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West forcing him to lead into South's club tenace. There may be ambiguity in the ending and South will likely have to guess West's remaining distribution.",
+    "The 2-suit strip squeeze is quite common. In this case, West was squeezed out of a surplus winner in diamonds so that he could be endplayed without being able to set the contract. This particular variety of strip squeeze matures with 2 or more losers."
+  ],
+  "play_sequence": [
+    {
+      "step": 4,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.KQJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has 2 diamond losers"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.KQJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 2 diamond losers and an almost certain loser in clubs as West's 2-level overcall must contain the ♣K."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.KQJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has 2 diamond losers and an almost certain loser in clubs as West's 2-level overcall must contain the ♣K. Dummy's third heart will provide a discard for 1 of these losers."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.KQJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.654.432 765.6543.7.98765",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543.7.98765",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT98.K2.A3.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT98.K2.A3.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ],
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT98.K2.A3.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "K",
+            "2"
+          ],
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ],
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:..3.AQ ..Q.KJ .Q.6.4 .6..98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "CT",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..6.4 .6..98",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:...AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:...AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart, West will be forced to discard a diamond,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:...AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart, West will be forced to discard a diamond, making North's diamond high,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:...AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "It may look tempting to duck the opening lead in attempt to rectify the count for a simple squeeze against West in clubs and diamonds. South could run his spade, diamond, and heart winners. On North's last heart, West will be forced to discard a diamond, making North's diamond high, or a club, allowing South to drop the ♣K."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The only problem with this plan is that West is very likely to have 6 diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The only problem with this plan is that West is very likely to have 6 diamonds. If allowed to win trick 1, West will be able to give East a diamond ruff."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJT98.K2.A32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJT98.K2.32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJT98.K2.32.AQ .T987.QJT98.KJT A432.AQJ.65.432 765.6543..98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead and play his winners as before with the intention of strip squeezing West."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:..32.AQ ..QJ.KJ .Q.65.4 .6..987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "CT",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On dummy's last heart,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:..32.AQ ..QJ.KJ ..65.4 .6..987",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:..32.AQ ..QJ.KJ ..65.4 ...987",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:..3.AQ ..QJ.KJ ..65.4 ...987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:..3.AQ ..QJ.KJ ..65.4 ...987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..65.4 ...987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..65.4 ...987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..6.4 ...987",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:..3.AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:...AQ ..Q.KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:...AQ ...KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DQ",
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:...AQ ...KJ ..6.4 ...98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DQ",
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On dummy's last heart, West must discard a diamond in order to guard the ♣K. A diamond trick is now conceded to West forcing him to lead into South's club tenace. There may be ambiguity in the ending and South will likely have to guess West's remaining distribution."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:..3.AQ ..QJ.KJ ..65.4 ...987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "HQ",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The 2-suit strip squeeze is quite common. In this case, West was squeezed out of a surplus winner in diamonds so that he could be endplayed without being able to set the contract. This particular variety of strip squeeze matures with 2 or more losers."
+    }
+  ]
+}

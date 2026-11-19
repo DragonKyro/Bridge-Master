@@ -1,0 +1,837 @@
+{
+  "title": "Level 2 (Intermediate) - C-15",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-15",
+  "deal_pbn": "S:32.KQJ654.A2.Q32 KQ987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 10,
+  "notes": "West leads the ♠K against 4♥. South must lose tricks to the ♥A and ♣A. West's spade lead has created a third certain loser. South must try to avoid losing a diamond trick.\n\nIf the ♠A is played at trick 1, the contract will be in trouble. If South tries to knock out the ♥A and ♣A, the defense will play diamonds creating a fourth inescapable loser.\n\nIf South instead plays a second round of spades, West will win and switch to diamonds. Dummy will have an established spade winner to take care of South's ♦2, but the dummy cannot be reached without losing the lead.\n\nSouth does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2 and South's only remaining losers will be the ♥A and the ♣A.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 4♥. South must lose tricks to the ♥A and ♣A. West's spade lead has created a third certain loser. South must try to avoid losing a diamond trick.",
+    "If the ♠A is played at trick 1, the contract will be in trouble. If South tries to knock out the ♥A and ♣A, the defense will play diamonds creating a fourth inescapable loser.",
+    "If South instead plays a second round of spades, West will win and switch to diamonds. Dummy will have an established spade winner to take care of South's ♦2, but the dummy cannot be reached without losing the lead.",
+    "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2 and South's only remaining losers will be the ♥A and the ♣A."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 KQ987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South must lose tricks to the ♥A and ♣A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South must lose tricks to the ♥A and ♣A. West's spade lead has created a third certain loser."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South must lose tricks to the ♥A and ♣A. West's spade lead has created a third certain loser. South must try to avoid losing a diamond trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble. If South tries to knock out the ♥A and ♣A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If the ♠A is played at trick 1, the contract will be in trouble. If South tries to knock out the ♥A and ♣A, the defense will play diamonds creating a fourth inescapable loser."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 JT.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South instead plays a second round of spades,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 T.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South instead plays a second round of spades,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 T.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South instead plays a second round of spades, West will win"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South instead plays a second round of spades, West will win"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.KQJ654.A2.Q32 Q987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South instead plays a second round of spades, West will win"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.KQJ654.A2.Q32 987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South instead plays a second round of spades, West will win"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.KQJ654.A2.Q32 987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South instead plays a second round of spades, West will win and switch to diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.KQJ654.A2.Q32 987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South instead plays a second round of spades, West will win and switch to diamonds. Dummy will have an established spade winner"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.KQJ654.A2.Q32 987.32.QJ9.654 T.T987.6543.KJ 6.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South instead plays a second round of spades, West will win and switch to diamonds. Dummy will have an established spade winner to take care of South's ♦2, but the dummy cannot be reached without losing the lead."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJT.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJ.T987.6543.KJ 654.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK",
+        "N": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.KQJ654.A2.Q32 Q987.32.QJ9.654 AJ.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "W": "SK",
+        "N": "ST",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 AJ.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "ST",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.QJ9.654 AJ.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "ST",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.J9.654 AJ.T987.6543.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT87.AT987",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:3.KQJ654.A2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:3.KQJ654.2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:3.KQJ654.2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q987.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 AJ.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 A.T987.654.KJ 65.A.KT8.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 A.T987.654.KJ 6.A.KT8.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 A.T987.654.KJ 6.A.KT8.AT987",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 .T987.654.KJ 6.A.KT8.AT987",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 .T987.654.KJ .A.KT8.AT987",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.KQJ654.2.Q32 Q98.32.J9.654 .T987.654.KJ .A.KT8.AT987",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.KQJ654..Q32 Q98.32.J9.654 .T987.654.KJ .A.KT8.AT987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.KQJ654..Q32 Q9.32.J9.654 .T987.654.KJ .A.KT8.AT987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "S8",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.KQJ654..Q32 Q9.32.J9.654 .T987.654.KJ .A.KT8.AT987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "S8",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South does better to let West win at trick one. West will switch to diamonds as before, but South is in control. South can win the ♦A and finesse in spades. The ♠A will take care of South's ♦2 and South's only remaining losers will be the ♥A and the ♣A."
+    }
+  ]
+}

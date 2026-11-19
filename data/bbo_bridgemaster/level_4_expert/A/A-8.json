@@ -1,0 +1,1176 @@
+{
+  "title": "Level 4 (Expert) - A-8",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-8",
+  "deal_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.QJ6 65.AKT83.K765.54 KQ.954.QJT9.T987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 9,
+  "notes": "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks as well as the ♠A, 2 diamond tricks, and 2 club tricks.\n\nSouth should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold and a long heart can easily be developed. The ♦K will act as a dummy entry to the long heart.\n\nIt may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary if West started with 4 hearts including the ♥Q and ♥J.\n\nIf West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9, or with a small heart, hoping West started with 3 hearts including both the ♥Q and ♥J.\n\nThe above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J. Therefore, it is correct to lead the ♥10 on the third round of the suit.",
+  "commentary_paragraphs": [
+    "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks as well as the ♠A, 2 diamond tricks, and 2 club tricks.",
+    "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold and a long heart can easily be developed. The ♦K will act as a dummy entry to the long heart.",
+    "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary if West started with 4 hearts including the ♥Q and ♥J.",
+    "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9, or with a small heart, hoping West started with 3 hearts including both the ♥Q and ♥J.",
+    "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J. Therefore, it is correct to lead the ♥10 on the third round of the suit."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "HT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.QJ6 65.AKT83.K765.54 KQ.954.QJT9.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.J6 65.AKT83.K765.54 KQ.954.QJT9.T987",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening club lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.J6 65.AKT83.K765.54 KQ.954.QJT9.T987",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.T987",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening club lead should be won"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A432.2.A432.AK32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening club lead should be won"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's opening club lead should be won"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won as a spade shift would not be welcome."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks as well as the ♠A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks as well as the ♠A, 2 diamond tricks,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's opening club lead should be won as a spade shift would not be welcome. South's best chance is to hope to take 4 heart tricks as well as the ♠A, 2 diamond tricks, and 2 club tricks."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A432.2.A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart towards dummy and,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart towards dummy and, when West follows low,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold and a long heart can easily be developed."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold and a long heart can easily be developed. The ♦K will act as a dummy entry"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart towards dummy and, when West follows low, play the ♥10 from North. On the given lie of the cards, the ♥10 will hold and a long heart can easily be developed. The ♦K will act as a dummy entry to the long heart."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT83.K765.5 KQ.J754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT3.K765.5 KQ.J754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT3.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H8",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT3.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H8",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "9"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT3.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H8",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT3.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H8",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AKT83.K765.5 KQ.J754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AK83.K765.5 KQ.J754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AK83.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A432..A432.A32 JT987.Q9.8.J87 65.AK83.K765.5 KQ.754.QJT9.96",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary if West started with 4 hearts"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ7.8.J6 65.AK83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HT",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "It may seem intuitive to play the ♥8 on the first round of the suit, playing West for 3 hearts including the ♥9 and either the ♥Q or ♥J. Playing the ♥10 will also work on this distribution of the cards. Playing the ♥10 will be necessary if West started with 4 hearts including the ♥Q and ♥J."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A432..A432.A32 JT987.QJ76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.AKT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.KT83.K765.5 KQ.954.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.KT83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.KT83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "T",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.T83.K765.5 KQ.95.QJT9.987",
+      "trick_cards": {
+        "N": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A432..A432.A32 JT987.J76.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A432..A43.A32 JT987.J76.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A432..A43.A32 JT987.J7.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A432..A43.A32 JT987.J7.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A432..A43.A32 JT987.J7.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A432..A43.A32 JT987.J7.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9, or with a small heart,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:A432..A43.A32 JT987.J.98.J6 65.T83.K765.5 KQ.97.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9, or with a small heart, hoping West started with 3 hearts"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:A432..A43.A32 JT987.J.98.J6 65.T83.K765.5 KQ.97.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West plays a heart honour on the first round of the suit, North wins the trick and the other heart honour is cashed. South must decide whether to continue with the ♥10, hoping to pin the ♥9, or with a small heart, hoping West started with 3 hearts including both the ♥Q and ♥J."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:A432..A43.A32 JT987.J.98.J6 65.T83.K765.5 KQ.97.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:A432..A43.A32 JT987.J.98.J6 65.T83.K765.5 KQ.97.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:A432..A43.A32 JT987.J7.8.J6 65.T83.K765.5 KQ.9.QJT9.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:A432..A43.A32 JT987.9.98.J6 65.T83.K765.5 KQ.J7.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:A432..A43.A32 JT987.9.98.J6 65.T83.K765.5 KQ.J7.QJT.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J. Therefore, it is correct to lead the ♥10"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:A432..A43.A32 JT987.9.98.J6 65.83.K765.5 KQ.J7.QJT.987",
+      "trick_cards": {
+        "N": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J. Therefore, it is correct to lead the ♥10"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:A432..A43.A32 JT987.9.98.J6 65.83.K765.5 KQ.J7.QJT.987",
+      "trick_cards": {
+        "N": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The above lie of the cards is the only case in which exiting a low heart will work. Exiting the ♥10 will succeed when West began with 4 hearts including both the ♥Q and ♥J and when West began with 3 hearts including the ♥9 and either the ♥Q or ♥J. Therefore, it is correct to lead the ♥10 on the third round of the suit."
+    }
+  ]
+}

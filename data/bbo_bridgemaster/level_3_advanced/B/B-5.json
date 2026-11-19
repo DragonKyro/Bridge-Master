@@ -1,0 +1,983 @@
+{
+  "title": "Level 3 (Advanced) - B-5",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-5",
+  "deal_pbn": "S:A2.765432.K32.Q2 JT98.J98.JT98.K7 Q43.AKT.AQ4.JT98 K765.Q.765.A6543",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A. South must lose 1 spade trick and 2 club tricks. The contract will depend on not losing a trump trick.\n\nSouth should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ.\n\nSouth can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10.\n\nThe second round heart finesse is in fact the superior play. The mathematics that prove this assertion are quite complex. The Principle of Restricted Choice is the name that bridge players use to denote this type of situation.\n\nRestricted choice applies when you have to decide between two possible defensive holdings involving cards of equal rank (the ♥Q and ♥J in this hand). Under these circumstances the odds favour playing the defender who has played one honour (the ♥Q) not to have the other one (the ♥J).\n\nAnother way to explain this principle is that if East has both the ♥Q and ♥J he has a choice between which heart honour to play. There is some inference that East doesn't have the ♥J because he might have played it if he had it.\n\nIf East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit. His choice is restricted. Declarer should play East to have played the ♥Q because he had no choice and finesse on the second round.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A. South must lose 1 spade trick and 2 club tricks. The contract will depend on not losing a trump trick.",
+    "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ.",
+    "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10.",
+    "The second round heart finesse is in fact the superior play. The mathematics that prove this assertion are quite complex. The Principle of Restricted Choice is the name that bridge players use to denote this type of situation.",
+    "Restricted choice applies when you have to decide between two possible defensive holdings involving cards of equal rank (the ♥Q and ♥J in this hand). Under these circumstances the odds favour playing the defender who has played one honour (the ♥Q) not to have the other one (the ♥J).",
+    "Another way to explain this principle is that if East has both the ♥Q and ♥J he has a choice between which heart honour to play. There is some inference that East doesn't have the ♥J because he might have played it if he had it.",
+    "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit. His choice is restricted. Declarer should play East to have played the ♥Q because he had no choice and finesse on the second round."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "HQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A2.765432.K32.Q2 JT98.J98.JT98.K7 Q43.AKT.AQ4.JT98 K765.Q.765.A6543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 Q43.AKT.AQ4.JT98 K765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 Q43.AKT.AQ4.JT98 K765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 K765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 K765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A. South must lose 1 spade trick"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A. South must lose 1 spade trick and 2 club tricks."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. South might as well cover West's spade lead with dummy's ♠Q. East produces the ♠K and South should win the ♠A. South must lose 1 spade trick and 2 club tricks. The contract will depend on not losing a trump trick."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J8.JT98.K73 43.AKT.AQ4.JT98 765.Q9.765.A654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a heart"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J8.JT98.K73 43.AKT.AQ4.JT98 765.Q9.765.A654",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J8.JT98.K73 43.AKT.AQ4.JT98 765.Q9.765.A654",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J.JT98.K73 43.AKT.AQ4.JT98 765.Q9.765.A654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J.JT98.K73 43.AT.AQ4.JT98 765.Q9.765.A654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J.JT98.K73 43.AT.AQ4.JT98 765.Q.765.A654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J.JT98.K73 43.AT.AQ4.JT98 765.Q.765.A654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765..765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.9.JT98.K73 43.AT.AQ4.JT98 765.J.765.A654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        },
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.9.JT98.K73 43.T.AQ4.JT98 765.J.765.A654",
+      "trick_cards": {
+        "N": "HA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.9.JT98.K73 43.T.AQ4.JT98 765..765.A654",
+      "trick_cards": {
+        "N": "HA",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:2.7654.K32.Q2 T98.9.JT98.K73 43.T.AQ4.JT98 765..765.A654",
+      "trick_cards": {
+        "S": "H3",
+        "N": "HA",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:2.7654.K32.Q2 T98..JT98.K73 43.T.AQ4.JT98 765..765.A654",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "HA",
+        "E": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by leading a heart to the ♥A or ♥K in dummy. If both opponents follow small South must hope that hearts are breaking 2-2. If East follows with the ♥J or ♥Q, South must decide how to proceed. Cashing dummy's other heart honour will work when East started with a doubleton ♥QJ."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765..765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765..765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ.JT98 765..765.A6543",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:2.76543.32.Q2 T98.J9.JT98.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D4",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:2.76543.32.Q2 T98.J9.JT9.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:2.76543.32.Q2 T98.J9.JT9.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:2.7654.32.Q2 T98.J9.JT9.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:2.7654.32.Q2 T98.J.JT9.K7 43.AT.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:2.7654.32.Q2 T98.J.JT9.K7 43.A.AQ.JT98 765..76.A6543",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:2.7654.32.Q2 T98.J.JT9.K7 43.A.AQ.JT98 765..76.A654",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H9",
+        "N": "HT",
+        "E": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also play East for a singleton honour in hearts. In this case, he must cross back to his hand and finesse the ♥10."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The second round heart finesse is in fact the superior play. The mathematics that prove this assertion are quite complex. The Principle of Restricted Choice is the name that bridge players use to denote this type of situation."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Restricted choice applies when you have to decide between two possible defensive holdings involving cards of equal rank (the ♥Q and ♥J in this hand). Under these circumstances the odds favour playing the defender who has played one honour (the ♥Q) not to have the other one (the ♥J)."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.98.JT98.K73 43.AKT.AQ4.JT98 765.QJ.765.A654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Another way to explain this principle is that if East has both the ♥Q and ♥J he has a choice between which heart honour to play. There is some inference that East doesn't have the ♥J because he might have played it if he had it."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:2.765432.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J98.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AKT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765.Q.765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765..765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:2.76543.K32.Q2 T98.J9.JT98.K7 43.AT.AQ4.JT98 765..765.A6543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "7",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East was dealt a singleton ♥Q (or ♥J) he has to follow suit with that card on the first round of the suit. His choice is restricted. Declarer should play East to have played the ♥Q because he had no choice and finesse on the second round."
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "title": "Level 2 (Intermediate) - C-8",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-8",
+  "deal_pbn": "S:32.AJT987.AQ.AK2 KQJT9.6.5432.QJT A7654.Q2.876.543 8.K543.KJT9.9876",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 10,
+  "notes": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs. South must avoid losing tricks to both the ♥K and the ♦K. As dummy has only one entry, South must immediately decide which finesse to take.\n\nOn the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse will leave East with a certain trump trick and South will still have to lose a diamond trick.\n\nTaking a heart finesse requires more than East having the ♥K. East must also have fewer than 4 hearts. Taking the diamond finesse requires only that East hold the ♦K. No additional break is required.\n\nSouth should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract. If West wins the ♦K, South still has a small chance that the ♥K is singleton.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs. South must avoid losing tricks to both the ♥K and the ♦K. As dummy has only one entry, South must immediately decide which finesse to take.",
+    "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse will leave East with a certain trump trick and South will still have to lose a diamond trick.",
+    "Taking a heart finesse requires more than East having the ♥K. East must also have fewer than 4 hearts. Taking the diamond finesse requires only that East hold the ♦K. No additional break is required.",
+    "South should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract. If West wins the ♦K, South still has a small chance that the ♥K is singleton."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 KQJT9.6.5432.QJT A7654.Q2.876.543 8.K543.KJT9.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 QJT9.6.5432.QJT A7654.Q2.876.543 8.K543.KJT9.9876",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 QJT9.6.5432.QJT A7654.Q2.876.543 8.K543.KJT9.9876",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 QJT9.6.5432.QJT A7654.Q2.876.543 8.K543.KJT9.9876",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 8.K543.KJT9.9876",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs. South must avoid losing tricks to both the ♥K"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs. South must avoid losing tricks to both the ♥K and the ♦K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 4♥. South has no reason to duck West's opening spade lead. After winning the ♠A, South must decide whether to take the heart finesse or the diamond finesse. There are certain losers in spades and clubs. South must avoid losing tricks to both the ♥K and the ♦K. As dummy has only one entry, South must immediately decide which finesse to take."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.2.876.543 .K54.KJT9.9876",
+      "trick_cards": {
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:3.AJT98.AQ.AK2 QJT9.6.5432.QJT 7654.2.876.543 .K54.KJT9.9876",
+      "trick_cards": {
+        "S": "H7",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:3.AJT98.AQ.AK2 QJT9..5432.QJT 7654.2.876.543 .K54.KJT9.9876",
+      "trick_cards": {
+        "S": "H7",
+        "W": "H6",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:3.AJT98.AQ.AK2 QJT9..5432.QJT 7654.2.876.543 .K54.KJT9.9876",
+      "trick_cards": {
+        "S": "H7",
+        "W": "H6",
+        "N": "HQ",
+        "E": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:3.AJT98.AQ.AK2 QJT9..5432.QJT 7654..876.543 .K54.KJT9.9876",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:3.AJT98.AQ.AK2 QJT9..5432.QJT 7654..876.543 .K5.KJT9.9876",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:3.AJT9.AQ.AK2 QJT9..5432.QJT 7654..876.543 .K5.KJT9.9876",
+      "trick_cards": {
+        "S": "H8",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:3.AJT9.AQ.AK2 QJT9..543.QJT 7654..876.543 .K5.KJT9.9876",
+      "trick_cards": {
+        "S": "H8",
+        "W": "D2",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:3.AJT9.AQ.AK2 QJT9..543.QJT 7654..876.543 .K5.KJT9.9876",
+      "trick_cards": {
+        "S": "H8",
+        "W": "D2",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse will leave East with a certain trump trick"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:3.AJT9.AQ.AK2 QJT9..543.QJT 7654..876.543 .K5.KJT9.9876",
+      "trick_cards": {
+        "S": "H8",
+        "W": "D2",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, a successful heart finesse will not help. If the ♥Q is played from dummy, East will duck. A second heart finesse will leave East with a certain trump trick and South will still have to lose a diamond trick."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Taking a heart finesse"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Taking a heart finesse requires more than East having the ♥K."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Taking a heart finesse requires more than East having the ♥K. East must also have fewer than 4 hearts."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Taking a heart finesse requires more than East having the ♥K. East must also have fewer than 4 hearts. Taking the diamond finesse"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Taking a heart finesse requires more than East having the ♥K. East must also have fewer than 4 hearts. Taking the diamond finesse requires only that East hold the ♦K. No additional break is required."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.876.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "SA",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should therefore finesse diamonds at trick 2."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.87.543 .K543.KJT9.9876",
+      "trick_cards": {
+        "N": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore finesse diamonds at trick 2."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:3.AJT987.AQ.AK2 QJT9.6.5432.QJT 7654.Q2.87.543 .K543.KJT.9876",
+      "trick_cards": {
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore finesse diamonds at trick 2."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT9.6.5432.QJT 7654.Q2.87.543 .K543.KJT.9876",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore finesse diamonds at trick 2."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT9.6.5432.QJT 7654.Q2.87.543 .K543.KJT.9876",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT9.6.543.QJT 7654.Q2.87.543 .K543.KJT.9876",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D2",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT9.6.543.QJT 7654.Q2.87.543 .K543.KJT.9876",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D2",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT.K.K432.9876 7654.Q2.87.543 9.6543.JT5.QJT",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract. If West wins the ♦K,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT.K.432.9876 7654.Q2.87.543 9.6543.JT5.QJT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract. If West wins the ♦K,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:3.AJT987.A.AK2 QJT.K.432.9876 7654.Q2.87.543 9.6543.JT5.QJT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D6",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should therefore finesse diamonds at trick 2. If West follows small, South can drive out the ♥K and easily make the contract. If West wins the ♦K, South still has a small chance that the ♥K is singleton."
+    }
+  ]
+}

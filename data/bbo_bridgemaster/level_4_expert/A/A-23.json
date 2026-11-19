@@ -1,0 +1,563 @@
+{
+  "title": "Level 4 (Expert) - A-23",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-23",
+  "deal_pbn": "S:T987.AK3.AK.Q432 AKQJ.7654.T9876. 654.QJT98.J32.A5 32.2.Q54.KJT9876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "3C",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks. South has 8 top tricks (5 heart tricks, 2 diamond tricks, and the ♣A).\n\nSouth can succeed if East has a doubleton ♦Q by dropping that card. South can also make the contract when East has 3 or 4 diamonds to the ♦Q by squeezing him in the minors.\n\nAs South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs.\n\nWhen East shows out on the second round of hearts, the hand is an open book. East started with 2137 distribution. Assuming East has the ♦Q, he will be criss-cross squeezed on the last heart. South plays whatever minor East discards. The other minor will provide an entry to the ninth winner. There is no ambiguity because of the complete count on the hand.",
+  "commentary_paragraphs": [
+    "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks. South has 8 top tricks (5 heart tricks, 2 diamond tricks, and the ♣A).",
+    "South can succeed if East has a doubleton ♦Q by dropping that card. South can also make the contract when East has 3 or 4 diamonds to the ♦Q by squeezing him in the minors.",
+    "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs.",
+    "When East shows out on the second round of hearts, the hand is an open book. East started with 2137 distribution. Assuming East has the ♦Q, he will be criss-cross squeezed on the last heart. South plays whatever minor East discards. The other minor will provide an entry to the ninth winner. There is no ambiguity because of the complete count on the hand."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 1,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 1,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 2,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "HT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:T987.AK3.AK.Q432 AKQJ.7654.T9876. 654.QJT98.J32.A5 32.2.Q54.KJT9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "After West cashes the first 4 spade tricks"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:.AK3.AK.Q432 .7654.T9876. .QJT98.J32.A .2.Q54.KJT98",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SJ",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 4,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:.AK3.AK.Q432 .7654.T987. .QJT98.J32.A .2.Q54.KJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:.AK3.AK.Q432 .7654.T987. .QJT98.J32.A .2.Q54.KJT98",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 4,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:.AK3.AK.Q432 .7654.T987. .QJT98.J3.A .2.Q54.KJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:.AK3.AK.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks. South has 8 top tricks (5 heart tricks,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After West cashes the first 4 spade tricks and shifts to a diamond, South must take the rest of the tricks. South has 8 top tricks (5 heart tricks, 2 diamond tricks, and the ♣A)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AK3.A.Q432 .765.T9875. .QJT98.J3.A .42.Q.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can succeed if East has a doubleton ♦Q by dropping that card."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can succeed if East has a doubleton ♦Q by dropping that card. South can also make the contract when East has 3 or 4 diamonds to the ♦Q by squeezing him in the minors."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ],
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AK3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.K3.A.Q432 .7654.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.K3.A.Q432 .765.T987. .QJT98.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.K3.A.Q432 .765.T987. .QJT9.J3.A .2.Q5.KJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.K3.A.Q432 .765.T987. .QJT9.J3.A ..Q5.KJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H8",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.3.A.Q432 .765.T987. .QJT9.J3.A ..Q5.KJT98",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.3.A.Q432 .76.T987. .QJT9.J3.A ..Q5.KJT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.3.A.Q432 .76.T987. .QJT.J3.A ..Q5.KJT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "As South was forced to pitch a club from dummy on the fourth spade, both diamonds and clubs are blocked. Blocked suits usually mean trouble for squeezes, but in this case the criss-cross squeeze will function. South must play out 5 rounds of hearts without touching diamonds or clubs."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.3.A.Q432 .76.T987. .QJT.J3.A ..Q5.KJT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "When East shows out on the second round of hearts, the hand is an open book."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.3.A.Q432 .76.T987. .QJT.J3.A ..Q5.KJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H9",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "When East shows out on the second round of hearts, the hand is an open book."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.3.A.Q432 .76.T987. .QJT.J3.A ..Q5.KJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H9",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 4,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When East shows out on the second round of hearts, the hand is an open book. East started with 2137 distribution. Assuming East has the ♦Q, he will be criss-cross squeezed on the last heart."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:..A.Q43 ..T987. ..J3.A ..Q5.KJ",
+      "trick_cards": {
+        "N": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "When East shows out on the second round of hearts, the hand is an open book. East started with 2137 distribution. Assuming East has the ♦Q, he will be criss-cross squeezed on the last heart. South plays whatever minor East discards. The other minor will provide an entry to the ninth winner. There is no ambiguity because of the complete count on the hand."
+    }
+  ]
+}

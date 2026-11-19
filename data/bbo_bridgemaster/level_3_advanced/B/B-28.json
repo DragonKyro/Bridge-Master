@@ -1,0 +1,947 @@
+{
+  "title": "Level 3 (Advanced) - B-28",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-28",
+  "deal_pbn": "S:KQJT98.AK.432.AQ 3.QJT9.QT98.JT98 A7654.32.AKJ5.32 2.87654.76.K7654",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2D",
+    "Pass",
+    "3S",
+    "Pass",
+    "5S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds and clubs. Finessing positions exist in both of those suits. A 3-3 diamond break would also see South home.\n\nSouth should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts, and play a diamond towards dummy.\n\nSouth will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q, South will need to take the club finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds and clubs. Finessing positions exist in both of those suits. A 3-3 diamond break would also see South home.",
+    "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts, and play a diamond towards dummy.",
+    "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q, South will need to take the club finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT98.AK.432.AQ 3.QJT9.QT98.JT98 A7654.32.AKJ5.32 2.87654.76.K7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT98.AK.432.AQ 3.JT9.QT98.JT98 A7654.32.AKJ5.32 2.87654.76.K7654",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT98.AK.432.AQ 3.JT9.QT98.JT98 A7654.32.AKJ5.32 2.87654.76.K7654",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT98.AK.432.AQ 3.JT9.QT98.JT98 A7654.3.AKJ5.32 2.87654.76.K7654",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT98.AK.432.AQ 3.JT9.QT98.JT98 A7654.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT98.A.432.AQ 3.JT9.QT98.JT98 A7654.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT98.A.432.AQ 3.JT9.QT98.JT98 A7654.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT98.A.432.AQ 3.JT9.QT98.JT98 A7654.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A7654.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 2.8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 .8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 .8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 .8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 .8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds and clubs."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT98.JT98 A765.3.AKJ5.32 .8765.76.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ],
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "3",
+            "2"
+          ],
+          "D": [
+            "A",
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds and clubs. Finessing positions exist in both of those suits."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.QT9.JT987 A765.3.AKJ5.32 .8765.876.K654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South wins the opening heart lead and draws trump (the ♠A should be preserved for a later dummy entry). South has a possible loser in both diamonds and clubs. Finessing positions exist in both of those suits. A 3-3 diamond break would also see South home."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT98.A.432.AQ .JT9.T987.JT98 A765.3.AKJ5.32 .8765.Q6.K7654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S4",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T987.JT98 A765.3.AKJ5.32 .8765.Q6.K7654",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.AKJ5.32 .8765.Q6.K7654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.AJ5.32 .8765.Q6.K7654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.AJ5.32 .8765.Q.K7654",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.J5.32 .8765.Q.K7654",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.J5.32 .8765.Q.K7654",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.T98.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "N": "DA",
+        "E": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.T98.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DA",
+        "E": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.T9.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.QT9.JT98 A765.3.J5.32 .8765.8.K7654",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT98.A.43.AQ .JT9.QT9.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT9.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT.JT98 A765.3.J5.32 .8765..K7654",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "H": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT.JT98 A765..J5.32 .8765..K7654",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT98.A.4.AQ .JT9.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT98..4.AQ .JT9.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT98..4.AQ .JT.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT98..4.AQ .JT.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts, and play a diamond towards dummy."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT98...AQ .JT.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should start by cashing the ♦A and ♦K. If the ♦Q falls doubleton, the contract is safe. If both defenders follow and the ♦Q is still outstanding, South should cross to his hand in hearts, and play a diamond towards dummy."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT98...AQ .JT.QT.JT98 A765..J5.32 .876..K7654",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will immediately succeed if West has the ♦Q"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT98...AQ .JT.T.JT987 A765..J5.32 .876.Q.K654",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT98...AQ .JT..JT9876 A765..J5.32 .876.QT.K54",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT98...AQ .JT..JT987 A765..J5.32 .876.QT.K54",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT98...AQ .JT..JT987 A765..5.32 .876.QT.K54",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT98...AQ .JT..JT987 A765..5.32 .876.T.K54",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJT98...AQ .JT..JT987 A765..5.32 .876.T.K54",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C6",
+        "N": "DJ",
+        "E": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will immediately succeed if West has the ♦Q or if diamonds are 3-3. If East has 4 diamonds including the ♦Q, South will need to take the club finesse."
+    }
+  ]
+}

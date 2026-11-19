@@ -1,0 +1,1044 @@
+{
+  "title": "Level 3 (Advanced) - D-2",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-2",
+  "deal_pbn": "S:AKQJ.432.KJT9.32 765.JT987.A54.96 432.KQ5.Q32.AK54 T98.A6.876.QJT87",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2C",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor. As soon as West wins the ♦A he will cash enough heart tricks to defeat the contract.\n\nSouth can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy and knock out the ♦A to establish enough tricks for the contract (4 spades, 3 diamonds, and 2 clubs).\n\nThe recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts. West will later win the ♦A and 2 more heart tricks to defeat the contract.\n\nThe above distribution, where ducking the first trick in the dummy leads to defeat, is unlikely as most West players holding 5 hearts to the ♥AJ10 and the ♦A would have overcalled 1♥ after South's 1♦.\n\nThe above layout, where ducking at trick 1 is necessary to make the contract, is more likely given West's Pass over 1♦. This makes it correct to duck the opening lead in the dummy. If the East-West hearts are divided 4-3 the recommended play could give up an overtrick, but it will never cost the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor. As soon as West wins the ♦A he will cash enough heart tricks to defeat the contract.",
+    "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy and knock out the ♦A to establish enough tricks for the contract (4 spades, 3 diamonds, and 2 clubs).",
+    "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts. West will later win the ♦A and 2 more heart tricks to defeat the contract.",
+    "The above distribution, where ducking the first trick in the dummy leads to defeat, is unlikely as most West players holding 5 hearts to the ♥AJ10 and the ♦A would have overcalled 1♥ after South's 1♦.",
+    "The above layout, where ducking at trick 1 is necessary to make the contract, is more likely given West's Pass over 1♦. This makes it correct to duck the opening lead in the dummy. If the East-West hearts are divided 4-3 the recommended play could give up an overtrick, but it will never cost the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.JT987.A54.96 432.KQ5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98.6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98.6.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98.6.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "5"
+          ]
+        },
+        "E": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T987.A54.96 432.K5.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.K5.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.5.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.5.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HK",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. It seems natural to play the ♥K or ♥Q from dummy, but if South does so the contract will fail on the above layout. East will win the ♥A and return a heart to drive out dummy's remaining honor. As soon as West wins the ♦A he will cash enough heart tricks to defeat the contract."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ5.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "H7",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "W": "H7",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.6 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.6 432.KQ.Q32.AK54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.6 432.KQ.Q32.A54 T98.A.876.QJT87",
+      "trick_cards": {
+        "W": "C9",
+        "N": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T987.A54.6 432.KQ.Q32.A54 T98.A.876.QJT8",
+      "trick_cards": {
+        "W": "C9",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQJ.43.KJT9.3 765.T987.A54.6 432.KQ.Q32.A54 T98.A.876.QJT8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQJ.43.KJT9.3 765.T987.A54.6 432.KQ.Q32.A54 T98.A.876.QJT8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can succeed in the above layout by ducking the opening lead in the dummy. If West continues hearts to East's ♥A, East will be out of hearts and the suit will still be stopped when West wins the ♦A. If West switches to clubs instead of continuing hearts at trick 2, South can win in the dummy and knock out the ♦A to establish enough tricks for the contract (4 spades, 3 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT98.A54.96 432.KQ5.Q32.AK54 T98.76.876.QJT87",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The recommended duck in dummy at trick 1"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.76.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.76.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.7.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.7.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.7.876.QJT87",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H5",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.KQ.Q32.AK54 T98.7.876.QJT87",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98.7.876.QJT87",
+      "trick_cards": {
+        "W": "HA",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AKQJ.43.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "W": "HA",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T98.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HA",
+        "N": "HQ",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T9.A54.96 432.K.Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T9.A54.96 432..Q32.AK54 T98..876.QJT87",
+      "trick_cards": {
+        "W": "H8",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AKQJ.4.KJT9.32 765.T9.A54.96 432..Q32.AK54 T98..876.QJT8",
+      "trick_cards": {
+        "W": "H8",
+        "N": "HK",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AKQJ..KJT9.32 765.T9.A54.96 432..Q32.AK54 T98..876.QJT8",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AKQJ..KJT9.32 765.T9.A54.96 432..Q32.AK54 T98..876.QJT8",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "HK",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The recommended duck in dummy at trick 1 will work poorly when West was dealt 5 hearts headed by the ♥AJ10 and the ♦A. The ♥J will win the first trick and West will clear hearts. West will later win the ♦A and 2 more heart tricks to defeat the contract."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT98.A54.96 432.KQ.Q32.AK54 T98.76.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The above distribution, where ducking the first trick in the dummy leads to defeat, is unlikely as most West players holding 5 hearts to the ♥AJ10 and the ♦A would have overcalled 1♥ after South's 1♦."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.T987.A54.96 432.KQ.Q32.AK54 T98.A6.876.QJT87",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The above layout, where ducking at trick 1 is necessary to make the contract, is more likely given West's Pass over 1♦. This makes it correct to duck the opening lead in the dummy."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AKQJ.432.KJT9.32 765.AT9.A54.976 432.KQ.Q32.AK54 T98.876.876.QJT8",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The above layout, where ducking at trick 1 is necessary to make the contract, is more likely given West's Pass over 1♦. This makes it correct to duck the opening lead in the dummy. If the East-West hearts are divided 4-3 the recommended play could give up an overtrick, but it will never cost the contract."
+    }
+  ]
+}

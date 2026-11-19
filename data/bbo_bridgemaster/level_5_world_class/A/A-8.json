@@ -1,0 +1,824 @@
+{
+  "title": "Level 5 (World Class) - A-8",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-8",
+  "deal_pbn": "S:AKJT9.AK.87654.T Q8765.JT987.3.54 .Q2.QJT9.AKJ9876 432.6543.AK2.Q32",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds as the defense will be able to cash their hearts first. South must play on clubs, but if a trick has to be lost in that suit, dummy's lack of a quick side entry could spell trouble.\n\nSouth can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick as he discards his other heart honour.\n\nThe defense can no longer attack hearts without giving dummy an entry. If the defense plays either spades or diamonds, the South hand will become high and only 3 more tricks will be lost.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds as the defense will be able to cash their hearts first. South must play on clubs, but if a trick has to be lost in that suit, dummy's lack of a quick side entry could spell trouble.",
+    "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick as he discards his other heart honour.",
+    "The defense can no longer attack hearts without giving dummy an entry. If the defense plays either spades or diamonds, the South hand will become high and only 3 more tricks will be lost."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKJT9.AK.87654.T Q8765.JT987.3.54 .Q2.QJT9.AKJ9876 432.6543.AK2.Q32",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKJT9.AK.87654.T Q8765.T987.3.54 .Q2.QJT9.AKJ9876 432.6543.AK2.Q32",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKJT9.AK.87654.T Q8765.T987.3.54 .Q2.QJT9.AKJ9876 432.6543.AK2.Q32",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKJT9.AK.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.6543.AK2.Q32",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKJT9.AK.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds as the defense will be able to cash their hearts first."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds as the defense will be able to cash their hearts first. South must play on clubs,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. West's opening heart lead is won by South. South does not have time to establish the diamonds as the defense will be able to cash their hearts first. South must play on clubs, but if a trick has to be lost in that suit, dummy's lack of a quick side entry could spell trouble."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KJT9.A.87654.T Q8765.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KJT9.A.87654.T Q876.T987.3.54 .Q.QJT9.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJT9.A.87654.T Q876.T987.3.54 .Q.QJT.AKJ9876 432.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJT9.A.87654.T Q876.T987.3.54 .Q.QJT.AKJ9876 43.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "D9",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT9.A.87654.T Q876.T987.3.54 .Q.QJT.AKJ9876 43.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT9.A.87654.T Q87.T987.3.54 .Q.QJT.AKJ9876 43.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9.A.87654.T Q87.T987.3.54 .Q.QJ.AKJ9876 43.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT9.A.87654.T Q87.T987.3.54 .Q.QJ.AKJ9876 4.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "DT",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works)."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT9.A.87654.T Q87.T987.3.54 .Q.QJ.AKJ9876 4.654.AK2.Q32",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "DT",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.54 .Q.QJ.AKJ9876 4.654.AK2.Q32",
+      "trick_cards": {
+        "S": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.5 .Q.QJ.AKJ9876 4.654.AK2.Q32",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.5 .Q.QJ.AJ9876 4.654.AK2.Q32",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C4",
+        "N": "CK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.5 .Q.QJ.AJ9876 4.654.AK2.Q3",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C4",
+        "N": "CK",
+        "E": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.5 .Q.QJ.J9876 4.654.AK2.Q3",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:JT9.A.87654. Q87.T987.3.5 .Q.QJ.J9876 4.654.AK2.Q",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3.5 .Q.QJ.J9876 4.654.AK2.Q",
+      "trick_cards": {
+        "S": "D4",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J9876 4.654.AK2.Q",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J9876 4.654.AK2.Q",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J9876 4.654.AK2.Q",
+      "trick_cards": {
+        "S": "D4",
+        "W": "C5",
+        "N": "CA",
+        "E": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J987 4.654.AK2.Q",
+      "trick_cards": {
+        "N": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:JT9.A.8765. Q87.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick as he discards his other heart honour."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:JT9..8765. Q87.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "S": "HA",
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick as he discards his other heart honour."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:JT9..8765. Q8.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problem and virtually guarantee the contract with a jettison play. South should cash his top spades pitching diamonds from the dummy (cashing only 1 high spade also works). The top clubs are cashed next. If the ♣Q is still outstanding, South concedes a club trick as he discards his other heart honour."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:JT9..8765. Q8.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The defense can no longer attack hearts without giving dummy an entry."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:JT9..8765. Q8.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ],
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "The defense can no longer attack hearts without giving dummy an entry. If the defense plays either spades or diamonds,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:JT9..8765. Q8.T987.3. .Q.QJ.J987 4.654.AK2.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "S7",
+        "N": "C6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "The defense can no longer attack hearts without giving dummy an entry. If the defense plays either spades or diamonds, the South hand will become high and only 3 more tricks will be lost."
+    }
+  ]
+}

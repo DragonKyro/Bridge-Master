@@ -1,0 +1,665 @@
+{
+  "title": "Level 3 (Advanced) - C-29",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-29",
+  "deal_pbn": "S:Q2.32.AKQ.AQ5432 K98765.654.65.98 A3.QJT987.432.76 JT4.AK.JT987.KJT",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "3C",
+    "Pass",
+    "3H",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q. South must hope to establish the clubs, but he can only afford to lose the lead once. The defense will always have at least 1 club trick. South should try to maximize his chances of losing only 1 club trick.\n\nSouth begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K, South must decide whether to play the ♣A or the ♣Q.\n\nPlaying the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K. As the ♣K is more likely to be with length than with shortness, South should finesse the ♣Q.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q. South must hope to establish the clubs, but he can only afford to lose the lead once. The defense will always have at least 1 club trick. South should try to maximize his chances of losing only 1 club trick.",
+    "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K, South must decide whether to play the ♣A or the ♣Q.",
+    "Playing the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K. As the ♣K is more likely to be with length than with shortness, South should finesse the ♣Q."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K98765.654.65.98 A3.QJT987.432.76 JT4.AK.JT987.KJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A3.QJT987.432.76 JT4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A3.QJT987.432.76 JT4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A3.QJT987.432.76 JT4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 JT4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q. South must hope to establish the clubs, but he can only afford to lose the lead once."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South's only hope is that West's lead is away from the ♠K. The ♠3 is played from dummy and South wins the ♠Q. South must hope to establish the clubs, but he can only afford to lose the lead once. The defense will always have at least 1 club trick. South should try to maximize his chances of losing only 1 club trick."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.32.AKQ.AQ5432 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S7",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.98 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.76 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 J4.AK.JT987.KJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 J4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 J4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.32.AKQ.AQ543 K9865.654.65.9 A.QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 A.QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SA",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432.7 4.AK.JT987.KJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "SA",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.KJ",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.KJ",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K, South must decide whether to play the ♣A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South begins by ducking the first round of clubs. The defense wins and continues spades, won in dummy. A second round of clubs is played from dummy. When East follows with a club other than the ♣K, South must decide whether to play the ♣A or the ♣Q."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.K .QJT987.432. 4.AK.JT987.9",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "Playing the ♣A will be right when East began with 3 small clubs."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        },
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K. As the ♣K is more likely to be with length"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.32.AKQ.AQ543 K986.654.65.K .QJT987.432. 4.AK.JT987.9",
+      "trick_cards": {
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K. As the ♣K is more likely to be with length than with shortness,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.32.AKQ.A543 K986.654.65.9 .QJT987.432. 4.AK.JT987.K",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing the ♣A will be right when East began with 3 small clubs. Playing the ♣Q will be right when East began with 3 clubs to the ♣K. As the ♣K is more likely to be with length than with shortness, South should finesse the ♣Q."
+    }
+  ]
+}

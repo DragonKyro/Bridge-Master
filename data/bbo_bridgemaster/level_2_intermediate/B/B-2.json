@@ -1,0 +1,615 @@
+{
+  "title": "Level 2 (Intermediate) - B-2",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-2",
+  "deal_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3D",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6D",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DQ",
+  "par_tricks": 13,
+  "notes": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades if the defenders' spades are 3-3 or from the ♥Q if East has the ♥K and the finesse in hearts is taken.\n\nSouth must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner and discard appropriately from the closed hand.\n\nThe correct decision should be made based on probabilities. The odds of a suit breaking 3-3 are about 36%. The odds of a finesse working are 50%.\n\nSouth should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q. When East has the ♥K, South has all 13 tricks.",
+  "commentary_paragraphs": [
+    "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades if the defenders' spades are 3-3 or from the ♥Q if East has the ♥K and the finesse in hearts is taken.",
+    "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner and discard appropriately from the closed hand.",
+    "The correct decision should be made based on probabilities. The odds of a suit breaking 3-3 are about 36%. The odds of a finesse working are 50%.",
+    "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q. When East has the ♥K, South has all 13 tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks)."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT9.8765.QJT9.54 543.432.AK543.32 876.KJT9.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades if the defenders' spades are 3-3"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades if the defenders' spades are 3-3 or from the ♥Q"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spade tricks, the ♥A, 2 diamond tricks, and 6 club tricks). South's thirteenth trick could come from spades if the defenders' spades are 3-3 or from the ♥Q if East has the ♥K and the finesse in hearts is taken."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.QJT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.JT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.JT9.54 543.432.AK543.32 76.KJT98.876.876",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.JT9.54 543.432.K543.32 76.KJT98.876.876",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ2.AQ.2.AKQJT9 JT98.765.JT9.54 543.432.K543.32 76.KJT98.87.876",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.K543.32 76.KJT98.87.876",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.K543.32 76.KJT98.87.876",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.87.876",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ],
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must decide at once which suit is the most likely source for his thirteenth trick. West's diamond opening has put the lead in the dummy for the first and last time. South must cash dummy's other diamond winner and discard appropriately from the closed hand."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT9.8765.JT9.54 543.432.543.32 876.KJT9.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The correct decision should be made based on probabilities. The odds of a suit breaking 3-3 are about 36%."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The correct decision should be made based on probabilities. The odds of a suit breaking 3-3 are about 36%. The odds of a finesse working are 50%."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should, therefore, plan to take the heart finesse."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ2.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT9.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "S": "S2",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D9",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT.54 543.432.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D9",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT.54 543.43.543.32 76.KJT98.8.876",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT.54 543.43.543.32 76.KJT9.8.876",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQ.AQ..AKQJT9 JT98.765.JT.54 543.43.543.32 76.KJT9.8.876",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQ.A..AKQJT9 JT98.765.JT.54 543.43.543.32 76.KJT9.8.876",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQ.A..AKQJT9 JT98.76.JT.54 543.43.543.32 76.KJT9.8.876",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQ.A..AKQJT9 JT98.76.JT.54 543.43.543.32 76.KJT9.8.876",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H2",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should, therefore, plan to take the heart finesse. He should discard the ♠2 on dummy's second diamond honour and play a heart to the ♥Q. When East has the ♥K, South has all 13 tricks."
+    }
+  ]
+}

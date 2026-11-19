@@ -1,0 +1,919 @@
+{
+  "title": "Level 3 (Advanced) - C-16",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-16",
+  "deal_pbn": "S:432.AK432.AQ.A43 JT9.QT98.876.765 AKQ.J65.5432.KQ2 8765.7.KJT9.JT98",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "4NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J against 6♥. West's lead is won in dummy. There is a possible loser in diamonds if the finesse is wrong. The trump suit is also a source of concern.\n\nSouth should begin by taking the diamond finesse. If West wins the ♦K, South will have to play the trump suit for no losers. The only hope is a doubleton ♥Q. South should cash the ♥A and ♥K and hope for the best.\n\nIf the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour will create a second trump loser on this lie of the cards.\n\nTaking the diamond finesse before playing trump is an example of a discovery play. A discovery play involves testing the position in one suit (diamonds) to find out how to play another suit (hearts).",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 6♥. West's lead is won in dummy. There is a possible loser in diamonds if the finesse is wrong. The trump suit is also a source of concern.",
+    "South should begin by taking the diamond finesse. If West wins the ♦K, South will have to play the trump suit for no losers. The only hope is a doubleton ♥Q. South should cash the ♥A and ♥K and hope for the best.",
+    "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour will create a second trump loser on this lie of the cards.",
+    "Taking the diamond finesse before playing trump is an example of a discovery play. A discovery play involves testing the position in one suit (diamonds) to find out how to play another suit (hearts)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.AK432.AQ.A43 JT9.QT98.876.765 AKQ.J65.5432.KQ2 8765.7.KJT9.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.AK432.AQ.A43 T9.QT98.876.765 AKQ.J65.5432.KQ2 8765.7.KJT9.JT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.AK432.AQ.A43 T9.QT98.876.765 AKQ.J65.5432.KQ2 8765.7.KJT9.JT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 8765.7.KJT9.JT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy. There is a possible loser in diamonds if the finesse is wrong."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West's lead is won in dummy. There is a possible loser in diamonds if the finesse is wrong. The trump suit is also a source of concern."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should begin by taking the diamond finesse."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.543.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by taking the diamond finesse."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by taking the diamond finesse."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.876.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by taking the diamond finesse."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:43.AK432.A.A43 T98.QT.K876.765 AK.J65.543.KQ2 76.987.JT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should begin by taking the diamond finesse. If West wins the ♦K,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:43.AK432.A.A43 T98.QT.876.765 AK.J65.543.KQ2 76.987.JT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should begin by taking the diamond finesse. If West wins the ♦K,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:43.AK432.A.A43 T98.QT.876.765 AK.J65.543.KQ2 76.987.JT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should begin by taking the diamond finesse. If West wins the ♦K, South will have to play the trump suit for no losers."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:43.AK432.A.A43 T98.QT.876.765 AK.J65.543.KQ2 76.987.JT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should begin by taking the diamond finesse. If West wins the ♦K, South will have to play the trump suit for no losers. The only hope is a doubleton ♥Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:43.AK432.A.A43 T98.QT.876.765 AK.J65.543.KQ2 76.987.JT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should begin by taking the diamond finesse. If West wins the ♦K, South will have to play the trump suit for no losers. The only hope is a doubleton ♥Q. South should cash the ♥A and ♥K and hope for the best."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.876.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:43.AK432.A.A43 T9.QT98.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT98.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT9.87.765 AK.J65.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876.7.KJT.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:43.K43.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:43.K43.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:43.K432.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "H5",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:43.432.A.A43 T9.QT9.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:43.432.A.A43 T9.QT.87.765 AK.J6.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:43.432.A.A43 T9.QT.87.765 AK.J.543.KQ2 876..KJT.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:43.432.A.A43 T9.QT.87.765 AK.J.543.KQ2 87..KJT.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:43.432.A.A43 T9.QT.87.765 AK.J.543.KQ2 87..KJT.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If the diamond finesse wins, South can afford a loser in trump. He should play to guard against 4 hearts to the ♥Q in West's hand. After cashing a top heart, South should continue a low heart towards dummy's ♥J. West will be unable to defeat the contract regardless of how he defends. Notice that cashing a second top honour will create a second trump loser on this lie of the cards."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Taking the diamond finesse"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Taking the diamond finesse before playing trump is an example of a discovery play."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Taking the diamond finesse before playing trump is an example of a discovery play. A discovery play involves testing the position in one suit (diamonds)"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:43.AK432.AQ.A43 T9.QT98.876.765 AK.J65.5432.KQ2 876.7.KJT9.JT98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Taking the diamond finesse before playing trump is an example of a discovery play. A discovery play involves testing the position in one suit (diamonds) to find out how to play another suit (hearts)."
+    }
+  ]
+}

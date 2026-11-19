@@ -1,0 +1,896 @@
+{
+  "title": "Level 2 (Intermediate) - C-16",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-16",
+  "deal_pbn": "S:AT2.A2.KQJ32.K32 9876.QT98.5.AT98 KQ43.6543.A4.654 J5.KJ7.T9876.QJ7",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 9,
+  "notes": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K. South should win the ♥A as the defense may be able to run the clubs with East on lead.\n\nThe contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds). An additional trick will be available in diamonds unless that suit breaks very badly. The spade suit is another possible source of a ninth trick.\n\nTo maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds so that the fourth spade winner can be cashed.\n\nNotice that if the ♦A is played before the spades are tested, South will not be able to take advantage of a doubleton ♠J. The spade suit will be worth 4 tricks, but the blockage in that suit will make only 3 of those tricks available. The contract is still likely to make, but South will have given up on one of his options for trick 9. On the given lie of the cards, the doubleton ♠J is the only option that is working.",
+  "commentary_paragraphs": [
+    "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K. South should win the ♥A as the defense may be able to run the clubs with East on lead.",
+    "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds). An additional trick will be available in diamonds unless that suit breaks very badly. The spade suit is another possible source of a ninth trick.",
+    "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds so that the fourth spade winner can be cashed.",
+    "Notice that if the ♦A is played before the spades are tested, South will not be able to take advantage of a doubleton ♠J. The spade suit will be worth 4 tricks, but the blockage in that suit will make only 3 of those tricks available. The contract is still likely to make, but South will have given up on one of his options for trick 9. On the given lie of the cards, the doubleton ♠J is the only option that is working."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "HK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.QT98.5.AT98 KQ43.6543.A4.654 J5.KJ7.T9876.QJ7",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.Q98.5.AT98 KQ43.6543.A4.654 J5.KJ7.T9876.QJ7",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.Q98.5.AT98 KQ43.6543.A4.654 J5.KJ7.T9876.QJ7",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.KJ7.T9876.QJ7",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AT2.A2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K. South should win the ♥A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K. South should win the ♥A"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥10 against 3NT. West's opening lead is overtaken by East with the ♥K. South should win the ♥A as the defense may be able to run the clubs with East on lead."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds). An additional trick will be available in diamonds"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds). An additional trick will be available in diamonds unless that suit breaks very badly."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The contract appears almost certain to make. There are 8 top tricks (3 spades, the ♥A, and 4 diamonds). An additional trick will be available in diamonds unless that suit breaks very badly. The spade suit is another possible source of a ninth trick."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AT.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 Q43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 Q43.654.A4.654 J.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 Q43.654.A4.654 J.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 Q4.654.A4.654 J.J7.T9876.QJ7",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AT.2.KQJ32.K32 987.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:T.2.KQJ32.K32 987.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "SA",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:T.2.KQJ32.K32 98.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:T.2.KQJ32.K32 98.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:T.2.KQJ32.K32 98.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.2.KQJ32.K32 98.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.2.KQJ32.K32 9.Q98.5.AT98 Q4.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.2.KQJ32.K32 9.Q98.5.AT98 Q.654.A4.654 .J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.2.KQJ32.K32 9.Q98.5.AT98 Q.654.A4.654 .J.T9876.QJ7",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S8",
+        "N": "S4",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.2.KQJ32.K32 9.Q98.5.AT98 Q.654.A4.654 .J.T9876.QJ7",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S8",
+        "N": "S4",
+        "E": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.2.KQJ3.K32 9.Q98.5.AT98 Q.654.A4.654 .J.T9876.QJ7",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.2.KQJ3.K32 9.Q98..AT98 Q.654.A4.654 .J.T9876.QJ7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.2.KQJ3.K32 9.Q98..AT98 Q.654.4.654 .J.T9876.QJ7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.2.KQJ3.K32 9.Q98..AT98 Q.654.4.654 .J.T987.QJ7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.2.KQJ3.K32 9.Q98..AT98 Q.654.4.654 .J.T987.QJ7",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "To maximize his chances, South should play the ♠2 to dummy and play a spade back to the ♠A. On the given lie of the cards, South is rewarded. The ♠J drops doubleton leaving South in a position to cash the ♠10. The dummy can be entered in diamonds so that the fourth spade winner can be cashed."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Notice that if the ♦A is played"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Notice that if the ♦A is played before the spades are tested,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Notice that if the ♦A is played before the spades are tested, South will not be able to take advantage of a doubleton ♠J."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Notice that if the ♦A is played before the spades are tested, South will not be able to take advantage of a doubleton ♠J. The spade suit will be worth 4 tricks, but the blockage in that suit will make only 3 of those tricks available."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AT2.2.KQJ32.K32 9876.Q98.5.AT98 KQ43.654.A4.654 J5.J7.T9876.QJ7",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Notice that if the ♦A is played before the spades are tested, South will not be able to take advantage of a doubleton ♠J. The spade suit will be worth 4 tricks, but the blockage in that suit will make only 3 of those tricks available. The contract is still likely to make, but South will have given up on one of his options for trick 9. On the given lie of the cards, the doubleton ♠J is the only option that is working."
+    }
+  ]
+}

@@ -1,0 +1,1957 @@
+{
+  "title": "Level 3 (Advanced) - C-28",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-28",
+  "deal_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654.T KT876.32.AQ.5432 .87654.KJT9.9876",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "3S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 12,
+  "notes": "West leads the ♣10 against 6♠. West's lead is won in the closed hand. If trumps are 2-1, the contract will basically depend on either the heart finesse or the diamond finesse working.\n\nIf the defense has a trump trick, it appears at first glance that both the heart finesse and the diamond finesse are required. Depending on which defender has a trump trick, only one finesse is actually necessary.\n\nIf, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart into South's tenace or a diamond conceding a ruff and discard.\n\nIf West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond into dummy's tenace or a heart conceding a ruff and discard.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 6♠. West's lead is won in the closed hand. If trumps are 2-1, the contract will basically depend on either the heart finesse or the diamond finesse working.",
+    "If the defense has a trump trick, it appears at first glance that both the heart finesse and the diamond finesse are required. Depending on which defender has a trump trick, only one finesse is actually necessary.",
+    "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart into South's tenace or a diamond conceding a ruff and discard.",
+    "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond into dummy's tenace or a heart conceding a ruff and discard."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 57,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 58,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 62,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 63,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 64,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 65,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 67,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 68,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 69,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 70,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 72,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 73,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 74,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 75,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 77,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 78,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 79,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 80,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 81,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 82,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 83,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 84,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 85,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 86,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 87,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 88,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 90,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 91,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 92,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 93,
+      "seat": "E",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654.T KT876.32.AQ.5432 .87654.KJT9.9876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654. KT876.32.AQ.5432 .87654.KJT9.9876",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654. KT876.32.AQ.5432 .87654.KJT9.9876",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654. KT876.32.AQ.543 .87654.KJT9.9876",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A5432.AQ.32.AKQJ QJ9.KJT9.87654. KT876.32.AQ.543 .87654.KJT9.987",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.87654. KT876.32.AQ.543 .87654.KJT9.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ.KJT9.87654.9 KT876.32.AQ.543 9.87654.KJT9.87",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand. If trumps are 2-1,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ.KJT9.87654.9 KT876.32.AQ.543 9.87654.KJT9.87",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand. If trumps are 2-1, the contract will basically depend on either the heart finesse"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ.KJT9.87654.9 KT876.32.AQ.543 9.87654.KJT9.87",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 6♠. West's lead is won in the closed hand. If trumps are 2-1, the contract will basically depend on either the heart finesse or the diamond finesse working."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If the defense has a trump trick,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the defense has a trump trick, it appears at first glance that both the heart finesse"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the defense has a trump trick, it appears at first glance that both the heart finesse and the diamond finesse are required."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If the defense has a trump trick, it appears at first glance that both the heart finesse and the diamond finesse are required. Depending on which defender has a trump trick, only one finesse is actually necessary."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:5432.AQ.32.AKQ QJ9.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:5432.AQ.32.AKQ QJ.KJT9.KJT98. KT876.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:5432.AQ.32.AKQ QJ.KJT9.KJT98. KT87.32.AQ.543 .87654.7654.987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:5432.AQ.32.AKQ QJ.KJT9.KJT98. KT87.32.AQ.543 .8765.7654.987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S6",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:5432.AQ.32.AKQ QJ.KJT9.KJT98. KT87.32.AQ.543 .8765.7654.987",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S6",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT98. KT87.32.AQ.543 .8765.7654.987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32.AQ.543 .8765.7654.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32.A.543 .8765.7654.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32.A.543 .8765.765.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32.A.543 .8765.765.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32..543 .8765.765.987",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:5432.AQ.3.AKQ QJ.KJT9.KJT9. KT87.32..543 .8765.76.987",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:5432.AQ..AKQ QJ.KJT9.KJT9. KT87.32..543 .8765.76.987",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:5432.AQ..AKQ QJ.KJT9.KJT. KT87.32..543 .8765.76.987",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:5432.AQ..AKQ QJ.KJT9.KJT. KT87.32..543 .8765.76.987",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D9",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:5432.AQ..AKQ QJ.KJT9.KJT. T87.32..543 .8765.76.987",
+      "trick_cards": {
+        "N": "SK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:5432.AQ..AKQ QJ.KJT9.KJT. T87.32..543 .876.76.987",
+      "trick_cards": {
+        "N": "SK",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:543.AQ..AKQ QJ.KJT9.KJT. T87.32..543 .876.76.987",
+      "trick_cards": {
+        "S": "S2",
+        "N": "SK",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:543.AQ..AKQ Q.KJT9.KJT. T87.32..543 .876.76.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:543.AQ..AKQ Q.KJT9.KJT. T87.32..543 .876.76.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SK",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:543.AQ..AKQ Q.KJT9.KJT. T87.32..54 .876.76.987",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:543.AQ..AKQ Q.KJT9.KJT. T87.32..54 .876.76.98",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:543.AQ..AK Q.KJT9.KJT. T87.32..54 .876.76.98",
+      "trick_cards": {
+        "S": "CQ",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:543.AQ..AK Q.KJT9.KJ. T87.32..54 .876.76.98",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "DT",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:543.AQ..A Q.KJT9.KJ. T87.32..54 .876.76.98",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:543.AQ..A Q.KJT.KJ. T87.32..54 .876.76.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:543.AQ..A Q.KJT.KJ. T87.32..5 .876.76.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "H9",
+        "N": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:543.AQ..A Q.KJT.KJ. T87.32..5 .876.76.9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "H9",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:543.AQ.. Q.KJT.KJ. T87.32..5 .876.76.9",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:543.AQ.. Q.KJ.KJ. T87.32..5 .876.76.9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "HT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:543.AQ.. Q.KJ.KJ. T87.32.. .876.76.9",
+      "trick_cards": {
+        "S": "CA",
+        "W": "HT",
+        "N": "C5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:543.AQ.. Q.KJ.KJ. T87.32.. .876.76.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "HT",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:543.AQ.. Q.KJ.KJ. T87.32.. .876.76.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "HT",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:543.AQ.. Q.KJ.KJ. T87.32.. .876.76.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "HT",
+        "N": "C5",
+        "E": "C9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:54.AQ.. Q.KJ.KJ. T87.32.. .876.76.",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T87.32.. .876.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .876.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .87.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .87.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .87.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart into South's tenace"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .87.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart into South's tenace or a diamond"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:54.AQ.. .KJ.KJ. T8.32.. .87.76.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S7",
+        "E": "H6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If, for example, South cashes the ♠A and East discards, only the diamond finesse is needed. South should finesse the ♦Q and cash the ♦A. The ♠K is played next. South should then play clubs. If West refuses to ruff in, he is put on lead with his trump trick. West must either lead a heart into South's tenace or a diamond conceding a ruff and discard."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:5432.AQ.32.AKQ .87654.8765.987 KT876.32.AQ.543 QJ9.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:5432.AQ.32.AKQ .8765.8765.987 KT876.32.AQ.543 QJ9.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:5432.AQ.32.AKQ .8765.8765.987 KT87.32.AQ.543 QJ9.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "H4",
+        "N": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:5432.AQ.32.AKQ .8765.8765.987 KT87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "H4",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:5432.AQ.32.AKQ .8765.8765.987 KT87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "H4",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:5432.AQ.32.AKQ .8765.8765.987 KT87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "H4",
+        "N": "S6",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:543.AQ.32.AKQ .8765.8765.987 KT87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 KT87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 T87.32.AQ.543 QJ.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H5",
+        "N": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 T87.32.AQ.543 Q.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H5",
+        "N": "SK",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 T87.32.AQ.543 Q.KJT9.KJT94.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "H5",
+        "N": "SK",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 T87.3.AQ.543 Q.KJT9.KJT94.",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken."
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:543.AQ.32.AKQ .876.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:543.A.32.AKQ .876.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:543.A.32.AKQ .87.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H6",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:543.A.32.AKQ .87.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H6",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed"
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:543..32.AKQ .87.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed"
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:543..32.AKQ .8.8765.987 T87.3.AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed"
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:543..32.AKQ .8.8765.987 T87..AQ.543 Q.KJT.KJT94.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed"
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:543..32.AKQ .8.8765.987 T87..AQ.543 Q.KJ.KJT94.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H3",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed"
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:543..32.AKQ .8.8765.987 T87..AQ.543 Q.KJ.KJT94.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H3",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:543..32.AK .8.8765.987 T87..AQ.543 Q.KJ.KJT94.",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 78,
+      "hands_pbn": "S:543..32.AK .8.8765.98 T87..AQ.543 Q.KJ.KJT94.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 79,
+      "hands_pbn": "S:543..32.AK .8.8765.98 T87..AQ.54 Q.KJ.KJT94.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 80,
+      "hands_pbn": "S:543..32.AK .8.8765.98 T87..AQ.54 Q.KJ.KJT9.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C7",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 81,
+      "hands_pbn": "S:543..32.A .8.8765.98 T87..AQ.54 Q.KJ.KJT9.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 82,
+      "hands_pbn": "S:543..32.A .8.8765.9 T87..AQ.54 Q.KJ.KJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 83,
+      "hands_pbn": "S:543..32.A .8.8765.9 T87..AQ.5 Q.KJ.KJT9.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 84,
+      "hands_pbn": "S:543..32.A .8.8765.9 T87..AQ.5 Q.KJ.KJT.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "C4",
+        "E": "D9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 85,
+      "hands_pbn": "S:543..32. .8.8765.9 T87..AQ.5 Q.KJ.KJT.",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 86,
+      "hands_pbn": "S:543..32. .8.8765. T87..AQ.5 Q.KJ.KJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 87,
+      "hands_pbn": "S:543..32. .8.8765. T87..AQ. Q.KJ.KJT.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "C5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 88,
+      "hands_pbn": "S:543..32. .8.8765. T87..AQ. Q.KJ.KJ.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "C5",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run."
+    },
+    {
+      "step": 89,
+      "hands_pbn": "S:543..32. .8.8765. T87..AQ. Q.KJ.KJ.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "C5",
+        "E": "DT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick."
+    },
+    {
+      "step": 90,
+      "hands_pbn": "S:54..32. .8.8765. T87..AQ. Q.KJ.KJ.",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick."
+    },
+    {
+      "step": 91,
+      "hands_pbn": "S:54..32. .8.876. T87..AQ. Q.KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick."
+    },
+    {
+      "step": 92,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. Q.KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick."
+    },
+    {
+      "step": 93,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. .KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick."
+    },
+    {
+      "step": 94,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. .KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond"
+    },
+    {
+      "step": 95,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. .KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond into dummy's tenace"
+    },
+    {
+      "step": 96,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. .KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond into dummy's tenace or a heart"
+    },
+    {
+      "step": 97,
+      "hands_pbn": "S:54..32. .8.876. T8..AQ. .KJ.KJ.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S7",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West discards when the ♠A is cashed, only the heart finesse is required. A second trump is played to the ♠K and the heart finesse is taken. The ♥A is cashed and the clubs are run. East is eventually endplayed with his trump trick. He must either lead a diamond into dummy's tenace or a heart conceding a ruff and discard."
+    }
+  ]
+}

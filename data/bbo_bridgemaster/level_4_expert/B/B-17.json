@@ -1,0 +1,849 @@
+{
+  "title": "Level 4 (Expert) - B-17",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "B-17",
+  "deal_pbn": "S:K32.A32.KJ432.A2 AQ9876.87.Q.9876 J4.K654.A65.K543 T5.QJT9.T987.QJT",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2S",
+    "Pass",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S8",
+  "par_tricks": 9,
+  "notes": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade, 2 hearts, 2 diamonds, and 2 clubs).\n\nSouth must try to develop 2 extra tricks in diamonds without allowing East to gain the lead. A spade return from East will quickly sink the contract.\n\nSouth should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick. South will have 4 diamond tricks and with West on lead, South's spade holding is protected.\n\nIf West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round, not caring if West wins the ♦Q. The contract will be safe as long as diamonds are 3-2.",
+  "commentary_paragraphs": [
+    "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade, 2 hearts, 2 diamonds, and 2 clubs).",
+    "South must try to develop 2 extra tricks in diamonds without allowing East to gain the lead. A spade return from East will quickly sink the contract.",
+    "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick. South will have 4 diamond tricks and with West on lead, South's spade holding is protected.",
+    "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round, not caring if West wins the ♦Q. The contract will be safe as long as diamonds are 3-2."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "DQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ9876.87.Q.9876 J4.K654.A65.K543 T5.QJT9.T987.QJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ976.87.Q.9876 J4.K654.A65.K543 T5.QJT9.T987.QJT",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠8 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ976.87.Q.9876 J4.K654.A65.K543 T5.QJT9.T987.QJT",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T5.QJT9.T987.QJT",
+      "trick_cards": {
+        "W": "S8",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T5.QJT9.T987.QJT",
+      "trick_cards": {
+        "W": "S8",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade, 2 hearts,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade, 2 hearts, 2 diamonds,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. The ♠J might as well be played from the dummy at trick 1. When East plays low, South has a second stopper in spades. South has 7 top tricks (1 spade, 2 hearts, 2 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must try to develop 2 extra tricks in diamonds without allowing East to gain the lead."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South must try to develop 2 extra tricks in diamonds without allowing East to gain the lead. A spade return from East will quickly sink the contract."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K654.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K65.A65.K543 T.QJT9.T987.QJT",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K3.A32.KJ432.A2 AQ976.87.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K3.32.KJ432.A2 AQ976.87.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K3.32.KJ432.A2 AQ976.8.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K3.32.KJ432.A2 AQ976.8.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand and lead a low diamond."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand and lead a low diamond."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A65.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A6.K543 T.QJT.T987.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A6.K543 T.QJT.T98.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A6.K543 T.QJT.T98.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick. South will have 4 diamond tricks"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8..9876 4.K65.A6.K543 T.QJT.T98.QJT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "3"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "Q",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should cross to the closed hand and lead a low diamond. If West produces the ♦Q, he is allowed to hold the trick. South will have 4 diamond tricks and with West on lead, South's spade holding is protected."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q7.876 4.K65.A65.K543 T.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first round of diamonds,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.A65.K543 T.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.A65.K543 T.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.65.K543 T.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.65.K543 T.QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.65.K543 T.QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "J",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.6.K543 T.QJT.T9.QJT9",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:K3.32.KJ43.A2 AQ976.8.Q.876 4.K65.6.K543 T.QJT.T.QJT9",
+      "trick_cards": {
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:K3.32.K43.A2 AQ976.8.Q.876 4.K65.6.K543 T.QJT.T.QJT9",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:K3.32.K43.A2 AQ976.8.Q.876 4.K65.6.K543 T.QJT.T.QJT9",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round, not caring if West wins the ♦Q."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K3.32.K43.A2 AQ976.8..876 4.K65.6.K543 T.QJT.T.QJT9",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round, not caring if West wins the ♦Q."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:K3.32.K43.A2 AQ976.8..876 4.K65.6.K543 T.QJT.T.QJT9",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West follows low on the first round of diamonds, the ♦A is played. South should finesse the ♦J on the second round, not caring if West wins the ♦Q. The contract will be safe as long as diamonds are 3-2."
+    }
+  ]
+}

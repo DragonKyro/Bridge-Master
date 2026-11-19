@@ -1,0 +1,908 @@
+{
+  "title": "Level 3 (Advanced) - C-25",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-25",
+  "deal_pbn": "S:K2.76.QJ2.AJT987 QJT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A, the ♦A, and the ♣A). It appears that the contract will depend on the position of the ♦K.\n\nSouth can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse and switch his attack to diamonds, again making at least 9 tricks.\n\nIf West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks. If the clubs are not good, South will have to depend on the diamond finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A, the ♦A, and the ♣A). It appears that the contract will depend on the position of the ♦K.",
+    "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse and switch his attack to diamonds, again making at least 9 tricks.",
+    "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks. If the clubs are not good, South will have to depend on the diamond finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "C6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 QJT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A, the ♦A,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A, the ♦A, and the ♣A)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. West's lead has found South's weak suit. There are only 5 top tricks (2 spades, the ♥A, the ♦A, and the ♣A). It appears that the contract will depend on the position of the ♦K."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 A3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 3.A5432.AT987.2 7654.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K2.76.QJ2.AJT987 JT98.K.654.Q654 3.A5432.AT987.2 765.QJT98.K3.K3",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K.654.Q654 3.A5432.AT987.2 765.QJT98.K3.K3",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K.654.Q654 3.A5432.AT987.2 765.QJT98.K3.K3",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K.654.Q654 3.A5432.AT987. 765.QJT98.K3.K3",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.KQ63",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.K63",
+      "trick_cards": {
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.K63",
+      "trick_cards": {
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K.76.QJ2.JT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.K63",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K.76.QJ2.JT987 JT98.K98.654.5 3.A5432.AT987. 765.QJT.K3.K63",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K.76.QJ2.JT987 JT98.K98.654.5 3.A5432.AT987. 765.QJT.K3.K63",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "C2",
+        "E": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.KQ63",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "6",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.KQ6",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K.76.QJ2.AJT987 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.KQ6",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K98.654.54 3.A5432.AT987. 765.QJT.K3.KQ6",
+      "trick_cards": {
+        "S": "C7",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K98.654.5 3.A5432.AT987. 765.QJT.K3.KQ6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C4",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K98.654.5 3.A5432.AT987. 765.QJT.K3.KQ6",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C4",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that East has the ♦K by playing clubs first. The opening lead should be won in dummy so that a club can be played towards the closed hand. If East has both the ♣K and ♣Q, the contract is certain. If East splits his honours, South can win the ♣A and develop 4 more club tricks. If East follows low, South can take a winning finesse and switch his attack to diamonds, again making at least 9 tricks."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K.654.Q654 3.A5432.AT987. 765.QJT98.K3.K",
+      "trick_cards": {
+        "S": "C7",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K.654.654 3.A5432.AT987. 765.QJT98.K3.K",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K.76.QJ2.AJT98 JT98.K.654.654 3.A5432.AT987. 765.QJT98.K3.K",
+      "trick_cards": {
+        "S": "C7",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K.76.QJ2.AJT98 T98.K.654.654 3.A5432.AT987. 765.QJT98.K3.K",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K.76.QJ2.AJT98 T98.K.654.654 .A5432.AT987. 765.QJT98.K3.K",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K.76.QJ2.AJT98 T98.K.654.654 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.76.QJ2.AJT98 T98.K.654.654 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.76.QJ2.AJT98 T98.K.654.654 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.K.654.654 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.K.654.654 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.K.654.65 .A5432.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.K.654.65 .A543.AT987. 76.QJT98.K3.K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.K.654.65 .A543.AT987. 76.QJT98.K3.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "H2",
+        "E": "CK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.98.K65.5 .A543.AT987. 76.KQJT.43.K6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks. If the clubs are not good,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.98.K65.5 .A543.AT987. 76.KQJT.43.K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "H2",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks. If the clubs are not good,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.76.QJ2.JT98 T98.98.K65.5 .A543.AT987. 76.KQJT.43.K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C4",
+        "N": "H2",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West is able to win the club trick, he will continue spades to South's ♠K. South can now cash the ♣A. If the other club honour drops, South will have at least 9 tricks. If the clubs are not good, South will have to depend on the diamond finesse."
+    }
+  ]
+}

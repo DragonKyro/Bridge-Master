@@ -1,0 +1,1348 @@
+{
+  "title": "Level 4 (Expert) - D-11",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-11",
+  "deal_pbn": "S:AKJT9.K2.KT98.K2 76.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Dbl",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 10,
+  "notes": "West leads the ♠7 against 4♠. West's takeout double and opening lead strongly suggest that the ♥A is sitting over the ♥K. South thus has 4 likely losers, 2 in hearts as well as the minor suit Aces. It appears that South's extra winner in diamonds is useless as there is no helpful discard to make from the dummy.\n\nWith correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand.\n\nSouth must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A, North-South will have 2 club winners and dummy's ♣Q can be used to discard a heart from the South hand.\n\nIf West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard. In either case South will lose only 1 heart trick.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 4♠. West's takeout double and opening lead strongly suggest that the ♥A is sitting over the ♥K. South thus has 4 likely losers, 2 in hearts as well as the minor suit Aces. It appears that South's extra winner in diamonds is useless as there is no helpful discard to make from the dummy.",
+    "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand.",
+    "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A, North-South will have 2 club winners and dummy's ♣Q can be used to discard a heart from the South hand.",
+    "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard. In either case South will lose only 1 heart trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "D8"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "DT"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 54,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 55,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 60,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 61,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 62,
+      "seat": "S",
+      "card": "H2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 76.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 4♠. West's takeout double and opening lead strongly suggest that the ♥A is sitting over the ♥K. South thus has 4 likely losers, 2 in hearts as well as the minor suit Aces."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "4",
+            "3"
+          ],
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 4♠. West's takeout double and opening lead strongly suggest that the ♥A is sitting over the ♥K. South thus has 4 likely losers, 2 in hearts as well as the minor suit Aces. It appears that South's extra winner in diamonds is useless as there is no helpful discard to make from the dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ],
+          "D": [
+            "A",
+            "4",
+            "3"
+          ],
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ],
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q432.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q43.543.QJ2.Q43 85.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKJT9.K2.KT98.K2 6.AJT9.A43.AJT9 Q43.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKJT.K2.KT98.K2 6.AJT9.A43.AJT9 Q43.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S7",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKJT.K2.KT98.K2 6.AJT9.A43.AJT9 Q43.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S7",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "W": {
+          "S": [
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KJT.K2.KT98.K2 6.AJT9.A43.AJT9 Q43.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KJT.K2.KT98.K2 .AJT9.A43.AJT9 Q43.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KJT.K2.KT98.K2 .AJT9.A43.AJT9 Q4.543.QJ2.Q43 8.Q876.765.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KJT.K2.KT98.K2 .AJT9.A43.AJT9 Q4.543.QJ2.Q43 .Q876.765.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJT.K2.KT98.K2 .AJT9.A43.AJT9 Q4.543.QJ2.Q43 .Q876.765.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3",
+        "E": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A43.AJT9 Q4.543.QJ2.Q43 .Q876.765.8765",
+      "trick_cards": {
+        "S": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A4.AJT9 Q4.543.QJ2.Q43 .Q876.765.8765",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A4.AJT9 Q4.543.J2.Q43 .Q876.765.8765",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3",
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A4.AJT9 Q4.543.J2.Q43 .Q876.76.8765",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A4.AJT9 Q4.543.J.Q43 .Q876.76.8765",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KJT.K2.KT9.K2 .AJT9.A4.AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9.A4.AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9.A4.AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9.4.AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "DA",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9.4.AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "DA",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9..AJT9 Q4.543.J.Q43 .Q876.7.8765",
+      "trick_cards": {
+        "W": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9..AJT9 Q4.543..Q43 .Q876.7.8765",
+      "trick_cards": {
+        "W": "D4",
+        "N": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJT.K2.KT.K2 .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "W": "D4",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJT.K2.T.K2 .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "With correct technique South can succeed when West was dealt certain distributions. South should win West's trump opening lead in hand and draw a second round of trump to which both defenders follow. South's next move should be to knock out the ♦A. West must win the second round of diamonds and return the suit which South must win in the closed hand."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KJT.K2.T.K2 .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must then lead the ♣2,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must then lead the ♣2,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..JT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..JT9 Q4.543..Q4 .Q876..8765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CA",
+        "N": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..JT9 Q4.543..Q4 .Q876..876",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CA",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..JT9 Q4.543..Q4 .Q876..876",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CA",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ],
+          "H": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must then lead the ♣2, executing a Morton's Fork Coup on West. If West takes his ♣A, North-South will have 2 club winners and dummy's ♣Q can be used to discard a heart from the South hand."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT9 Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q4.543..Q43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q4.543..43 .Q876..8765",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9",
+        "N": "CQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q4.543..43 .Q876..876",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q4.543..43 .Q876..876",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C9",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q.543..43 .Q876..876",
+      "trick_cards": {
+        "N": "S4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KJT.K2.T.K .AJT9..AJT Q.543..43 .Q87..876",
+      "trick_cards": {
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KJ.K2.T.K .AJT9..AJT Q.543..43 .Q87..876",
+      "trick_cards": {
+        "S": "ST",
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KJ.K2.T.K .AJT..AJT Q.543..43 .Q87..876",
+      "trick_cards": {
+        "S": "ST",
+        "W": "H9",
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KJ.K2.T.K .AJT..AJT Q.543..43 .Q87..876",
+      "trick_cards": {
+        "S": "ST",
+        "W": "H9",
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KJ.K2..K .AJT..AJT Q.543..43 .Q87..876",
+      "trick_cards": {
+        "S": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KJ.K2..K .AJT..AJ Q.543..43 .Q87..876",
+      "trick_cards": {
+        "S": "DT",
+        "W": "CT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KJ.K2..K .AJT..AJ Q.543..4 .Q87..876",
+      "trick_cards": {
+        "S": "DT",
+        "W": "CT",
+        "N": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KJ.K2..K .AJT..AJ Q.543..4 .Q87..87",
+      "trick_cards": {
+        "S": "DT",
+        "W": "CT",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:KJ.K2..K .AJT..AJ Q.543..4 .Q87..87",
+      "trick_cards": {
+        "S": "DT",
+        "W": "CT",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KJ.K2.. .AJT..AJ Q.543..4 .Q87..87",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KJ.K2.. .AJT..J Q.543..4 .Q87..87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KJ.K2.. .AJT..J Q.543.. .Q87..87",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KJ.K2.. .AJT..J Q.543.. .Q87..8",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:KJ.K2.. .AJT..J Q.543.. .Q87..8",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:KJ.K2.. .AJT..J Q.543.. .Q87..8",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:KJ.K2.. .AJT.. Q.543.. .Q87..8",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:KJ.K2.. .AJT.. Q.543.. .Q87..8",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:KJ.K2.. .AJT.. .543.. .Q87..8",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:KJ.K2.. .AJT.. .543.. .Q87..",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "SQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:KJ.K.. .AJT.. .543.. .Q87..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "CJ",
+        "N": "SQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:KJ.K.. .AJT.. .543.. .Q87..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "CJ",
+        "N": "SQ",
+        "E": "C8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West ducks his ♣A, dummy's ♣Q will win the trick. South can now cross to his hand in spades and play his last diamond, discarding a club from the dummy. South exits with the ♣K to West's ♣A. West is endplayed. He must either lead a heart away from his ♥A or a club conceding a ruff and discard. In either case South will lose only 1 heart trick."
+    }
+  ]
+}

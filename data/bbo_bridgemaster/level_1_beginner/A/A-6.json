@@ -1,0 +1,715 @@
+{
+  "title": "Level 1 (Beginner) - A-6",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-6",
+  "deal_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2C",
+    "Pass",
+    "2S",
+    "Pass",
+    "3H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DQ",
+  "par_tricks": 12,
+  "notes": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers.\n\nSouth should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away. South can win any return and now take his discards on dummy's clubs.\n\nNotice that if South plays clubs before drawing all of the trumps, a defender short in clubs may be able to trump in before South has had a chance to discard all of the spade losers. South would then have no way to avoid losing a spade trick.",
+  "commentary_paragraphs": [
+    "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers.",
+    "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away. South can win any return and now take his discards on dummy's clubs.",
+    "Notice that if South plays clubs before drawing all of the trumps, a defender short in clubs may be able to trump in before South has had a chance to discard all of the spade losers. South would then have no way to avoid losing a spade trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 5,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 3 possible spade losers"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.QJT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.JT98.3 65.432.32.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.7654.87654",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A432.AK8765.AK.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A432.AK8765.K.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 possible spade losers and a possible loser in hearts if the defenders' hearts break 3-1. Dummy's club suit will provide discards for South's spade losers."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A432.AK8765.K.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should draw trump"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A432.AK8765.K.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A432.AK8765.K.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A432.K8765.K.2 JT98.QJT.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A432.K8765.K.2 JT98.QJ.JT98.3 65.432.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A432.K8765.K.2 JT98.QJ.JT98.3 65.43.3.AKQJT9 KQ7.9.765.87654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A432.K8765.K.2 JT98.QJ.JT98.3 65.43.3.AKQJT9 KQ7..765.87654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H2",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A432.8765.K.2 JT98.QJ.JT98.3 65.43.3.AKQJT9 KQ7..765.87654",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.43.3.AKQJT9 KQ7..765.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..765.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A432.876.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A432.876.K.2 JT98..JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A432.876.K.2 JT98..JT98.3 65..3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HQ",
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A432.876.K.2 JT98..JT98.3 65..3.AKQJT9 KQ7..7.87654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A432.876.K.2 JT98..JT98.3 65..3.AKQJT9 KQ7..7.87654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away. South can win any return and now take his discards"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A432.876.K.2 JT98..JT98.3 65..3.AKQJT9 KQ7..7.87654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should draw trump before playing on clubs. After cashing the ♥A and ♥K, South must be careful if it turns out one of the defenders started with 3 hearts. In that case, South should concede his heart loser right away. South can win any return and now take his discards on dummy's clubs."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Notice that if South plays clubs"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Notice that if South plays clubs before drawing all of the trumps,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "Notice that if South plays clubs before drawing all of the trumps, a defender short in clubs"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Notice that if South plays clubs before drawing all of the trumps, a defender short in clubs may be able to trump in"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A432.8765.K.2 JT98.Q.JT98.3 65.4.3.AKQJT9 KQ7..76.87654",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HJ",
+        "N": "H3",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Notice that if South plays clubs before drawing all of the trumps, a defender short in clubs may be able to trump in before South has had a chance to discard all of the spade losers. South would then have no way to avoid losing a spade trick."
+    }
+  ]
+}

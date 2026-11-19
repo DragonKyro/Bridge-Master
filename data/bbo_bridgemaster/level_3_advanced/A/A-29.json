@@ -1,0 +1,615 @@
+{
+  "title": "Level 3 (Advanced) - A-29",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-29",
+  "deal_pbn": "S:AKQ.AKQ.54.A5432 JT98.JT98.J9876. 432.32.AKQT32.76 765.7654..KQJT98",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts, 3 diamonds, and the ♣A). North's diamond suit is the only possible source of 2 extra tricks.\n\nIf diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit.\n\nThis safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely. When East shows out, the marked finesse against West's ♦J on the second round will ensure the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts, 3 diamonds, and the ♣A). North's diamond suit is the only possible source of 2 extra tricks.",
+    "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit.",
+    "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely. When East shows out, the marked finesse against West's ♦J on the second round will ensure the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "CK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.AKQ.54.A5432 JT98.JT98.J9876. 432.32.AKQT32.76 765.7654..KQJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.AKQ.54.A5432 T98.JT98.J9876. 432.32.AKQT32.76 765.7654..KQJT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.AKQ.54.A5432 T98.JT98.J9876. 432.32.AKQT32.76 765.7654..KQJT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 765.7654..KQJT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts, 3 diamonds,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts, 3 diamonds, and the ♣A)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. West's spade lead is won by South. There are 10 top tricks (3 spades, 3 hearts, 3 diamonds, and the ♣A). North's diamond suit is the only possible source of 2 extra tricks."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J76.98 43.32.AKQT32.76 76.7654.98.KQJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J876.9 43.32.AKQT32.76 76.7654.9.KQJT8",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J876.9 43.32.AKQT32.76 76.7654.9.KQJT8",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J876.9 43.32.AKQT32.76 76.7654.9.KQJT8",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J87.9 43.32.AKQT32.76 76.7654.9.KQJT8",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J87.9 43.32.AKQ32.76 76.7654.9.KQJT8",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J87.9 43.32.AKQ32.76 76.7654..KQJT8",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "DT",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-2, South can take all 13 tricks. If diamonds are 4-1, South can guarantee at least 12 tricks by finessing the ♦10 on the first round of the suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK.AKQ.54.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J9876. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J987. 43.32.AKQT32.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J987. 43.32.AKQT3.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J987. 43.32.AKQT3.76 76.7654..KQJT98",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely. When East shows out,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J987. 43.32.AKQT3.76 76.7654..QJT98",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "D2",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely. When East shows out,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.AKQ.5.A5432 T98.JT98.J987. 43.32.AKQT3.76 76.7654..QJT98",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D6",
+        "N": "D2",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "T",
+            "3"
+          ]
+        }
+      },
+      "commentary": "This safety play will not be good enough if West has all 5 diamonds. In this case, South must duck the first round of diamonds completely. When East shows out, the marked finesse against West's ♦J on the second round will ensure the contract."
+    }
+  ]
+}

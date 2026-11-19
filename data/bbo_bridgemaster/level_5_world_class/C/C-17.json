@@ -1,0 +1,758 @@
+{
+  "title": "Level 5 (World Class) - C-17",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-17",
+  "deal_pbn": "S:JT9.A32.A5.T9876 87654.876.76.K54 AKQ.54.QJ432.AQJ 32.KQJT9.KT98.32",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "1H",
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H6",
+  "par_tricks": 9,
+  "notes": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy.\n\nThis unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall South plays a second round of clubs which West must win to block the suit.\n\nIf West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner. South is now free to run the clubs and will end up making his contract with an overtrick.",
+  "commentary_paragraphs": [
+    "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy.",
+    "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall South plays a second round of clubs which West must win to block the suit.",
+    "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner. South is now free to run the clubs and will end up making his contract with an overtrick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "CJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.876.76.K54 AKQ.54.QJ432.AQJ 32.KQJT9.KT98.32",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.87.76.K54 AKQ.54.QJ432.AQJ 32.KQJT9.KT98.32",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.87.76.K54 AKQ.54.QJ432.AQJ 32.KQJT9.KT98.32",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.87.76.K54 AKQ.54.QJ432.AQJ 32.KQJT9.KT98.32",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.87.76.K54 AKQ.5.QJ432.AQJ 32.KQJT9.KT98.32",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:JT9.A32.A5.T9876 87654.87.76.K54 AKQ.5.QJ432.AQJ 32.KQJT.KT98.32",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:JT9.A3.A5.T9876 87654.87.76.K54 AKQ.5.QJ432.AQJ 32.KQJT.KT98.32",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:JT9.A3.A5.T9876 87654.87.76.K54 AKQ.5.QJ432.AQJ 32.QJT.KT98.32",
+      "trick_cards": {
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:JT9.A.A5.T9876 87654.87.76.K54 AKQ.5.QJ432.AQJ 32.QJT.KT98.32",
+      "trick_cards": {
+        "S": "H3",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:JT9.A.A5.T9876 87654.8.76.K54 AKQ.5.QJ432.AQJ 32.QJT.KT98.32",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:JT9.A.A5.T9876 87654.8.76.K54 AKQ..QJ432.AQJ 32.QJT.KT98.32",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:JT9.A.A5.T9876 87654.8.76.K54 AKQ..QJ432.AQJ 32.QJT.KT98.32",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H5",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:JT9.A.A5.T9876 87654.8.76.K54 AKQ..QJ432.AQJ 32.JT.KT98.32",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT9..A5.T9876 87654.8.76.K54 AKQ..QJ432.AQJ 32.JT.KT98.32",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT9..A5.T9876 87654..76.K54 AKQ..QJ432.AQJ 32.JT.KT98.32",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT9..A5.T9876 87654..76.K54 AK..QJ432.AQJ 32.JT.KT98.32",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "SQ",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 3NT. Given that East has shown at least 5 hearts for his overcall, the contract appears to depend on the ♣K being with West. South should duck the first 2 rounds of hearts. When East continues hearts (nothing is better), South wins the ♥A and should discard a spade from the dummy."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT9..A5.T9876 8765..76.5432 AK..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "SQ",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT9..A5.T9876 8765..76.5432 AK..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "SQ",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9..A5.T9876 8765..76.5432 AK..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H8",
+        "N": "SQ",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT..A5.T9876 8765..76.5432 AK..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT..A5.T9876 876..76.5432 AK..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT..A5.T9876 876..76.5432 A..QJ432.AQJ 432.JT.KT98.K",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S5",
+        "N": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:JT..A5.T9876 876..76.5432 A..QJ432.AQJ 43.JT.KT98.K",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S5",
+        "N": "SK",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:JT..A5.T9876 876..76.5432 ..QJ432.AQJ 43.JT.KT98.K",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:JT..A5.T9876 876..76.5432 ..QJ432.AQJ 4.JT.KT98.K",
+      "trick_cards": {
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:J..A5.T9876 876..76.5432 ..QJ432.AQJ 4.JT.KT98.K",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:J..A5.T9876 876..76.5432 ..QJ432.AQJ 4.JT.KT98.K",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:J..A5.T9876 876..76.5432 ..QJ432.AQJ 4.JT.KT98.K",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall South plays a second round of clubs which West must win to block the suit."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "This unusual play allows South the luxury of guarding against a singleton ♣K with East. South should continue by unblocking dummy's spades and then cashing the ♣A. Assuming the ♣K does not fall South plays a second round of clubs which West must win to block the suit."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J..A5.T9876 8764..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J..A5.T9876 876..76.K54 ..QJ432.AQJ .JT.KT98.32",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S4",
+        "N": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:J..A5.T9876 876..76.K54 ..QJ432.AQ .JT.KT98.32",
+      "trick_cards": {
+        "N": "CJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:J..A5.T9876 876..76.K54 ..QJ432.AQ .JT.KT98.32",
+      "trick_cards": {
+        "N": "CJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West returns a diamond in an attempt to remove South's hand entry while the clubs are still blocked South can counter by discarding dummy's blocking club on his spade winner. South is now free to run the clubs and will end up making his contract with an overtrick."
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "title": "Level 2 (Intermediate) - B-15",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-15",
+  "deal_pbn": "S:JT98.K5432.A2.AK KQ543.A.6.QJT987 A2.QJT9876.543.2 76..KQJT987.6543",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "3D",
+    "3H",
+    "Pass",
+    "5H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 12,
+  "notes": "West leads the ♠K which South wins in dummy. West's spade lead creates a third possible loser for South. The ♥A must be lost and a diamond loser looks certain.\n\nSince West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs, discarding dummy's ♠2 on the second round.\n\nSouth now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q.\n\nSouth will have enough spade winners left to take care of the rest of dummy's diamond losers. The ♥A will be the only trick for the defense.",
+  "commentary_paragraphs": [
+    "West leads the ♠K which South wins in dummy. West's spade lead creates a third possible loser for South. The ♥A must be lost and a diamond loser looks certain.",
+    "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs, discarding dummy's ♠2 on the second round.",
+    "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q.",
+    "South will have enough spade winners left to take care of the rest of dummy's diamond losers. The ♥A will be the only trick for the defense."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:JT98.K5432.A2.AK KQ543.A.6.QJT987 A2.QJT9876.543.2 76..KQJT987.6543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:JT98.K5432.A2.AK Q543.A.6.QJT987 A2.QJT9876.543.2 76..KQJT987.6543",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:JT98.K5432.A2.AK Q543.A.6.QJT987 A2.QJT9876.543.2 76..KQJT987.6543",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K which South wins in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:JT98.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 76..KQJT987.6543",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K which South wins in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:JT98.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K which South wins in dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K which South wins in dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K which South wins in dummy. West's spade lead creates a third possible loser for South."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K which South wins in dummy. West's spade lead creates a third possible loser for South. The ♥A must be lost"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K which South wins in dummy. West's spade lead creates a third possible loser for South. The ♥A must be lost and a diamond loser looks certain."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543.2 6..KQJT987.6543",
+      "trick_cards": {
+        "S": "S8",
+        "W": "SK",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543. 6..KQJT987.6543",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:JT9.K5432.A2.AK Q543.A.6.QJT987 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT9.K5432.A2.K Q543.A.6.QJT987 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT9.K5432.A2.K Q543.A.6.QJT98 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT98 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 2.QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs, discarding dummy's ♠2 on the second round."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.654",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs, discarding dummy's ♠2 on the second round."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "S2",
+        "E": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Since West has shown the ♠Q with his lead of the ♠K, South has a line of play available that is certain to succeed. South should play 2 rounds of clubs, discarding dummy's ♠2 on the second round."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "S2",
+        "E": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C8",
+        "N": "S2",
+        "E": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:T9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:T9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:T9.K5432.A2. Q543.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:T9.K5432.A2. Q54.A.6.QJT9 .QJT9876.543. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:T9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. 6..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S3",
+        "N": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:T9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S3",
+        "N": "D3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:T9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S3",
+        "N": "D3",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:9.K5432.A2. Q54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:9.K5432.A2. 54.A.6.QJT9 .QJT9876.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:9.K5432.A2. 54.A.6.QJT9 .QJT987.54. ..KQJT987.65",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SQ",
+        "N": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:9.K5432.A2. 54.A.6.QJT9 .QJT987.54. ..KQJT98.65",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SQ",
+        "N": "H6",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South now has a ruffing finesse position available in spades. South leads a spade out of his hand, discarding a diamond from dummy if West follows low. South continues spades, ruffing in dummy whenever West plays the ♠Q."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:9.K5432.A2. 54.A.6.QJT9 .QJT987.54. ..KQJT98.65",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SQ",
+        "N": "H6",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South will have enough spade winners left to take care of the rest of dummy's diamond losers."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:9.K5432.A2. 54.A.6.QJT9 .QJT987.54. ..KQJT98.65",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SQ",
+        "N": "H6",
+        "E": "D7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will have enough spade winners left to take care of the rest of dummy's diamond losers. The ♥A will be the only trick for the defense."
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "title": "Level 3 (Advanced) - B-22",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-22",
+  "deal_pbn": "S:JT9876.32.K432.2 54.7654.A987.987 AQ32.A.65.KQ6543 K.KQJT98.QJT.AJT",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "2H",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H4",
+  "par_tricks": 10,
+  "notes": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy. South must lose tricks to the ♣A and ♦A. There will be another diamond loser if the ♦A is in West's hand. The ♠K is also a possible defensive winner.\n\nThe normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal. The contract will be in danger only if West has the ♦A. If West has the ♦A, East must have the ♠K as West would not pass his partner's opening bid holding 7 points.\n\nSouth should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K. In that case, West may have the ♦A, making South's spade play necessary.",
+  "commentary_paragraphs": [
+    "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy. South must lose tricks to the ♣A and ♦A. There will be another diamond loser if the ♦A is in West's hand. The ♠K is also a possible defensive winner.",
+    "The normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal. The contract will be in danger only if West has the ♦A. If West has the ♦A, East must have the ♠K as West would not pass his partner's opening bid holding 7 points.",
+    "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K. In that case, West may have the ♦A, making South's spade play necessary."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:JT9876.32.K432.2 54.7654.A987.987 AQ32.A.65.KQ6543 K.KQJT98.QJT.AJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:JT9876.32.K432.2 54.765.A987.987 AQ32.A.65.KQ6543 K.KQJT98.QJT.AJT",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:JT9876.32.K432.2 54.765.A987.987 AQ32.A.65.KQ6543 K.KQJT98.QJT.AJT",
+      "trick_cards": {
+        "W": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:JT9876.32.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT98.QJT.AJT",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:JT9876.32.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy. South must lose tricks to the ♣A and ♦A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy. South must lose tricks to the ♣A and ♦A. There will be another diamond loser if the ♦A is in West's hand."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥4 against 4♠. West's heart opening lead is won in dummy. South must lose tricks to the ♣A and ♦A. There will be another diamond loser if the ♦A is in West's hand. The ♠K is also a possible defensive winner."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal. The contract will be in danger only if West has the ♦A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 AQ32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal. The contract will be in danger only if West has the ♦A. If West has the ♦A, East must have the ♠K"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:JT9876.3.K432.2 K5.765.A987.987 AQ32..65.KQ6543 4.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The normal play when holding 10 cards in a suit missing the King is to finesse for that card. That would not be the correct play on this deal. The contract will be in danger only if West has the ♦A. If West has the ♦A, East must have the ♠K as West would not pass his partner's opening bid holding 7 points."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT9876.3.K432.2 K5.765.T987.987 AQ32..65.KQ6543 4.KQJT9.AQJ.AJT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should therefore cash the ♠A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT9876.3.K432.2 K5.765.T987.987 Q32..65.KQ6543 4.KQJT9.AQJ.AJT",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore cash the ♠A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT9876.3.K432.2 K5.765.T987.987 Q32..65.KQ6543 4.KQJT9.AQJ.AJT",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked),"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT9876.3.K432.2 K5.765.T987.987 Q32..65.KQ6543 4.KQJT9.AQJ.AJT",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 Q32..65.KQ6543 K.KQJT9.QJT.AJT",
+      "trick_cards": {
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9876.3.K432.2 54.765.A987.987 Q32..65.KQ6543 .KQJT9.QJT.AJT",
+      "trick_cards": {
+        "N": "SA",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT987.3.K432.2 54.765.A987.987 Q32..65.KQ6543 .KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "S6",
+        "N": "SA",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT987.3.K432.2 5.765.A987.987 Q32..65.KQ6543 .KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S4",
+        "N": "SA",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT987.3.K432.2 5.765.A987.987 Q32..65.KQ6543 .KQJT9.QJT.AJT",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S4",
+        "N": "SA",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should therefore cash the ♠A. If it turns out that West has the ♠K (and the spade finesse would have worked), South can be certain that East has the ♦A. Playing the ♠A pays big dividends when East has the singleton ♠K. In that case, West may have the ♦A, making South's spade play necessary."
+    }
+  ]
+}

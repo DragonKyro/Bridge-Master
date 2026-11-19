@@ -1,0 +1,1083 @@
+{
+  "title": "Level 3 (Advanced) - C-20",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-20",
+  "deal_pbn": "S:K2.Q76543.AK.K32 A87.A.JT987.8765 6543.JT98.432.A4 QJT9.K2.Q65.QJT9",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A, ♥A, and ♥K. At first glance, the contract seems to depend on the position of the ♠A.\n\nSouth can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed, eliminating diamonds.\n\nThe ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond or club return will yield a ruff and discard.\n\nIf West's heart holding allows him to avoid the endplay, South will need the ♠A to be onside.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A, ♥A, and ♥K. At first glance, the contract seems to depend on the position of the ♠A.",
+    "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed, eliminating diamonds.",
+    "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond or club return will yield a ruff and discard.",
+    "If West's heart holding allows him to avoid the endplay, South will need the ♠A to be onside."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 53,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "H2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.Q76543.AK.K32 A87.A.JT987.8765 6543.JT98.432.A4 QJT9.K2.Q65.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.Q76543.AK.K32 A87.A.T987.8765 6543.JT98.432.A4 QJT9.K2.Q65.QJT9",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.Q76543.AK.K32 A87.A.T987.8765 6543.JT98.432.A4 QJT9.K2.Q65.QJT9",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.Q76543.AK.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q65.QJT9",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.Q76543.AK.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A, ♥A,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A, ♥A, and ♥K."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. West's lead is won by South. Tricks must be lost to the ♠A, ♥A, and ♥K. At first glance, the contract seems to depend on the position of the ♠A."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K2.Q76543.A.K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K2.Q76543..K32 A87.A.T987.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K2.Q76543..K32 A87.A.T98.8765 6543.JT98.43.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K2.Q76543..K32 A87.A.T98.8765 6543.JT98.4.A4 QJT9.K2.Q6.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K2.Q76543..K32 A87.A.T98.8765 6543.JT98.4.A4 QJT9.K2.Q.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K2.Q76543..K32 A87.A.T98.8765 6543.JT98.4.A4 QJT9.K2.Q.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.8765 6543.JT98.4.A4 QJT9.K2.Q.QJT9",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98.4.A4 QJT9.K2.Q.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98.4.4 QJT9.K2.Q.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98.4.4 QJT9.K2.Q.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98.4.4 QJT9.K2.Q.QJT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98..4 QJT9.K2.Q.QJT",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K2.Q76543..K3 A87.A.T98.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K2.Q7654..K3 A87.A.T98.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "H3",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K2.Q7654..K3 A87.A.T9.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D8",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K2.Q7654..K3 A87.A.T9.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D8",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can succeed some of the time that West has the ♠A by playing for an elimination. South should cash his other top diamond and cross to the ♣A. Dummy's last diamond is ruffed, eliminating diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K2.Q7654..K3 A87.A.T9.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "D8",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K2.Q7654..3 A87.A.T9.876 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K2.Q7654..3 A87.A.T9.87 6543.JT98..4 QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K2.Q7654..3 A87.A.T9.87 6543.JT98.. QJT9.K2..QJT",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K2.Q7654..3 A87.A.T9.87 6543.JT98.. QJT9.K2..QJ",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K2.Q7654..3 A87.A.T9.87 6543.JT98.. QJT9.K2..QJ",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C4",
+        "E": "CT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.87 6543.JT98.. QJT9.K2..QJ",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT98.. QJT9.K2..QJ",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT9.. QJT9.K2..QJ",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT9.. QJT9.K2..Q",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "H8",
+        "E": "CJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT9.. QJT9.K2..Q",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "H8",
+        "E": "CJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT9.. QJT9.K2..Q",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "H8",
+        "E": "CJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT.. QJT9.K2..Q",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:K2.Q7654.. A87.A.T9.8 6543.JT.. QJT9.K2..Q",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:K2.Q7654.. A87.AK.T.8 6543.JT.. QJT9.2.9.Q",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:K2.Q7654.. A87.AK.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:K2.Q765.. A87.AK.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond or club return"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond or club return will yield a ruff"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:K2.Q765.. A87.A.T.8 6543.JT.. QJT9..9.Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The ♣K should be cashed next and South's last club should be ruffed in dummy, eliminating clubs. South should now exit with a heart. West may be forced to win. If West began with a singleton heart honour or a doubleton ♥A and ♥K, he will be endplayed. A spade return will make the ♠K into a trick while a diamond or club return will yield a ruff and discard."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:K2.Q7654.. Q8.A2.T9.8 6543.JT.. AJT97.K..Q",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West's heart holding allows him to avoid the endplay,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:K2.Q7654.. Q8.A2.T9.8 6543.JT.. AJT97...Q",
+      "trick_cards": {
+        "N": "H9",
+        "E": "HK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West's heart holding allows him to avoid the endplay,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:K2.Q765.. Q8.A2.T9.8 6543.JT.. AJT97...Q",
+      "trick_cards": {
+        "S": "H4",
+        "N": "H9",
+        "E": "HK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West's heart holding allows him to avoid the endplay,"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:K2.Q765.. Q8.A.T9.8 6543.JT.. AJT97...Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H2",
+        "N": "H9",
+        "E": "HK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West's heart holding allows him to avoid the endplay,"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:K2.Q765.. Q8.A.T9.8 6543.JT.. AJT97...Q",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H2",
+        "N": "H9",
+        "E": "HK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West's heart holding allows him to avoid the endplay, South will need the ♠A to be onside."
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "title": "Level 4 (Expert) - A-26",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-26",
+  "deal_pbn": "S:AK2.AJ2.A987.432 QJT98.54.KQJT.65 43.3.432.AKQJ987 765.KQT9876.65.T",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "3H",
+    "3NT",
+    "Pass",
+    "4C",
+    "Pass",
+    "4D",
+    "Dbl",
+    "4H",
+    "Pass",
+    "4S",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 12,
+  "notes": "There are 11 top tricks available (2 spades, the ♥A, the ♦A, and 7 club tricks). A squeeze represents the only hope for trick 12. If West started with 6 or more spades and 4 or more diamonds a simple squeeze against West will function.\n\nSouth should duck the opening lead and, after winning any switch, cash the ♥A and ♦A. If West has the hoped for distribution, he will be squeezed on the run of the clubs.\n\nOn the last club, West must either discard a spade, making the ♠2 a trick, or give up his diamond guard, establishing dummy's ♦4.\n\nOn the given lie of the cards, East also guards the third round of spades. A simple squeeze will no longer work, but a double squeeze will operate if East has both the ♥K and ♥Q.\n\nThe last club winner forces East to pitch a spade. South discards the ♥J and West is squeezed as before.\n\nDouble squeezes generally lead to more complex endings than simple squeezes. Like simple squeezes, double squeezes also mature with 1 loser (making the diamond duck necessary in this problem).\n\nIn every double squeeze both defenders are squeezed in a common suit. That suit must be accompanied by a winner (the ♠A) and have a small card opposite. Each defender also has a suit that he alone can guard (East guards hearts, West guards diamonds). The double squeeze is like two simple squeezes, one against each defender.",
+  "commentary_paragraphs": [
+    "There are 11 top tricks available (2 spades, the ♥A, the ♦A, and 7 club tricks). A squeeze represents the only hope for trick 12. If West started with 6 or more spades and 4 or more diamonds a simple squeeze against West will function.",
+    "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A. If West has the hoped for distribution, he will be squeezed on the run of the clubs.",
+    "On the last club, West must either discard a spade, making the ♠2 a trick, or give up his diamond guard, establishing dummy's ♦4.",
+    "On the given lie of the cards, East also guards the third round of spades. A simple squeeze will no longer work, but a double squeeze will operate if East has both the ♥K and ♥Q.",
+    "The last club winner forces East to pitch a spade. South discards the ♥J and West is squeezed as before.",
+    "Double squeezes generally lead to more complex endings than simple squeezes. Like simple squeezes, double squeezes also mature with 1 loser (making the diamond duck necessary in this problem).",
+    "In every double squeeze both defenders are squeezed in a common suit. That suit must be accompanied by a winner (the ♠A) and have a small card opposite. Each defender also has a suit that he alone can guard (East guards hearts, West guards diamonds). The double squeeze is like two simple squeezes, one against each defender."
+  ],
+  "play_sequence": [
+    {
+      "step": 3,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "D7"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "HQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT98.54.KQJT.65 43.3.432.AKQJ987 765.KQT9876.65.T",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "There are 11 top tricks available (2 spades, the ♥A, the ♦A, and 7 club tricks). A squeeze represents the only hope for trick 12."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT987.54.KQJT.6 43.3.432.AKQJ987 65.KQT9876.65.T5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ],
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "There are 11 top tricks available (2 spades, the ♥A, the ♦A, and 7 club tricks). A squeeze represents the only hope for trick 12. If West started with 6 or more spades and 4 or more diamonds a simple squeeze against West will function."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT987.54.KQJT.6 43.3.432.AKQJ987 65.KQT9876.65.T5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should duck the opening lead and,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT987.54.QJT.6 43.3.432.AKQJ987 65.KQT9876.65.T5",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT987.54.QJT.6 43.3.43.AKQJ987 65.KQT9876.65.T5",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.AJ2.A987.432 QJT987.54.QJT.6 43.3.43.AKQJ987 65.KQT9876.6.T5",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.AJ2.A98.432 QJT987.54.QJT.6 43.3.43.AKQJ987 65.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "D7",
+        "W": "DK",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.AJ2.A98.432 QJT987.54.QJT.6 43.3.43.AKQJ987 65.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "D7",
+        "W": "DK",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should duck the opening lead and, after winning any switch,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2.AJ2.A98.432 JT987.54.QJT.6 43.3.43.AKQJ987 65.KQT9876.6.T5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2.AJ2.A98.432 JT987.54.QJT.6 4.3.43.AKQJ987 65.KQT9876.6.T5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2.AJ2.A98.432 JT987.54.QJT.6 4.3.43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A2.AJ2.A98.432 JT987.54.QJT.6 4.3.43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A2.AJ2.A98.432 JT987.54.QJT.6 4.3.43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.J2.A98.432 JT987.54.QJT.6 4.3.43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.J2.A98.432 JT987.5.QJT.6 4.3.43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.J2.A98.432 JT987.5.QJT.6 4..43.AKQJ987 6.KQT9876.6.T5",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A2.J2.A98.432 JT987.5.QJT.6 4..43.AKQJ987 6.KQT987.6.T5",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A2.J2.A98.432 JT987.5.QJT.6 4..43.AKQJ987 6.KQT987.6.T5",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H4",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A2.J2.98.432 JT987.5.QJT.6 4..43.AKQJ987 6.KQT987.6.T5",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A2.J2.98.432 JT987.5.QJ.6 4..43.AKQJ987 6.KQT987.6.T5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A2.J2.98.432 JT987.5.QJ.6 4..4.AKQJ987 6.KQT987.6.T5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A2.J2.98.432 JT987.5.QJ.6 4..4.AKQJ987 6.KQT987..T5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A2.J2.98.432 JT987.5.QJ.6 4..4.AKQJ987 6.KQT987..T5",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should duck the opening lead and, after winning any switch, cash the ♥A and ♦A. If West has the hoped for distribution, he will be squeezed on the run of the clubs."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 .KQT..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "S6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the last club,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. .KQT..",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the last club,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the last club,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A2... JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the last club,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A2... JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "On the last club, West must either discard a spade,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A2... JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "On the last club, West must either discard a spade, making the ♠2 a trick,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A2... JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the last club, West must either discard a spade, making the ♠2 a trick, or give up his diamond guard,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A2... JT..Q. 4..4. .KQ..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "HT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the last club, West must either discard a spade, making the ♠2 a trick, or give up his diamond guard, establishing dummy's ♦4."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A2.J2.98.432 JT98.5.QJ.65 4..4.AKQJ987 76.KQT987..T",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, East also guards the third round of spades."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A2.J2.98.432 JT98.5.QJ.65 4..4.AKQJ987 76.KQT987..T",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, East also guards the third round of spades. A simple squeeze will no longer work, but a double squeeze will operate if East has both the ♥K and ♥Q."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 76.K..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "The last club winner"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. 76.K..",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The last club winner"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. 76.K..",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The last club winner forces East to pitch a spade."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. 7.K..",
+      "trick_cards": {
+        "N": "C7",
+        "E": "S6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The last club winner forces East to pitch a spade."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4. 7.K..",
+      "trick_cards": {
+        "N": "C7",
+        "E": "S6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "The last club winner forces East to pitch a spade. South discards the ♥J"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A2... JT..Q. 4..4. 7.K..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "S6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The last club winner forces East to pitch a spade. South discards the ♥J"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A2... JT..Q. 4..4. 7.K..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "C7",
+        "E": "S6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The last club winner forces East to pitch a spade. South discards the ♥J and West is squeezed as before."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 76.K..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Double squeezes generally lead to more complex endings than simple squeezes. Like simple squeezes, double squeezes also mature with 1 loser (making the diamond duck necessary in this problem)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 76.K..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "In every double squeeze both defenders are squeezed in a common suit."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 76.K..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "In every double squeeze both defenders are squeezed in a common suit. That suit must be accompanied by a winner (the ♠A) and have a small card opposite."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A2.J.. JT..Q. 4..4.7 76.K..",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "C8",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "In every double squeeze both defenders are squeezed in a common suit. That suit must be accompanied by a winner (the ♠A) and have a small card opposite. Each defender also has a suit that he alone can guard (East guards hearts, West guards diamonds). The double squeeze is like two simple squeezes, one against each defender."
+    }
+  ]
+}

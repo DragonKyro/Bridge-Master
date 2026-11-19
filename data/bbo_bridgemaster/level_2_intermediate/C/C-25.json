@@ -1,0 +1,749 @@
+{
+  "title": "Level 2 (Intermediate) - C-25",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-25",
+  "deal_pbn": "S:AJ2.A2.K32.KJT98 KQT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually. South may have to lose a trick to the ♣Q in order to develop enough tricks. If South misguesses the location of the ♣Q, the defense may take 3 heart tricks in addition to the ♠K and ♣Q.\n\nSouth can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly. South does not mind losing a club trick as long as he loses that trick to West. West cannot profitably attack spades from his side of the table, but a spade return from East could set the contract.\n\nAfter winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks. If West shows out, it may be necessary to finesse East again for the ♣Q.\n\nIf West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A, the ♥A, 3 diamonds, and 4 clubs).",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually. South may have to lose a trick to the ♣Q in order to develop enough tricks. If South misguesses the location of the ♣Q, the defense may take 3 heart tricks in addition to the ♠K and ♣Q.",
+    "South can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly. South does not mind losing a club trick as long as he loses that trick to West. West cannot profitably attack spades from his side of the table, but a spade return from East could set the contract.",
+    "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks. If West shows out, it may be necessary to finesse East again for the ♣Q.",
+    "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A, the ♥A, 3 diamonds, and 4 clubs)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 KQT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually. South may have to lose a trick to the ♣Q in order to develop enough tricks. If South misguesses the location of the ♣Q,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually. South may have to lose a trick to the ♣Q in order to develop enough tricks. If South misguesses the location of the ♣Q, the defense may take 3 heart tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. This deal looks superficially similar to the last one. It appears at first glance that South should duck, executing the Bath Coup. On this deal, that would not be the correct play. West would shift to hearts and South's ♥A would be driven out eventually. South may have to lose a trick to the ♣Q in order to develop enough tricks. If South misguesses the location of the ♣Q, the defense may take 3 heart tricks in addition to the ♠K and ♣Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 543.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 76.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AJ2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly. South does not mind losing a club trick as long as he loses that trick to West."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly. South does not mind losing a club trick as long as he loses that trick to West. West cannot profitably attack spades from his side of the table,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can actually guarantee the contract by winning the ♠A at trick 1 and subsequently playing clubs properly. South does not mind losing a club trick as long as he loses that trick to West. West cannot profitably attack spades from his side of the table, but a spade return from East could set the contract."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J2.A2.K32.KJT98 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SK",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning the ♠A, South should cross to the ♣A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.54 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.A32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.32 7.K987.JT98.Q76",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.32 7.K987.JT98.Q7",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "N": "CA",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.32 7.K987.JT98.Q7",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C4",
+        "N": "CA",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.3 7.K987.JT98.Q7",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:J2.A2.K32.KJT9 QT98.QJT.765.5 54.6543.AQ4.3 7.K987.JT98.Q",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765.5 54.6543.AQ4.3 7.K987.JT98.Q",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.Q",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.8765. 54.6543.AQ4.3 7.K987.JT9.Q5",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks. If West shows out,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.876. 54.6543.AQ4.3 7.K987.JT9.Q5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "D5",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks. If West shows out,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.876. 54.6543.AQ4.3 7.K987.JT9.Q5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "D5",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the ♠A, South should cross to the ♣A and finesse East for the ♣Q. If East has the ♣Q, South will make at least 9 tricks. If West shows out, it may be necessary to finesse East again for the ♣Q."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765.Q 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West can win the ♣Q, South does not mind."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A, the ♥A,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A, the ♥A, 3 diamonds,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:J2.A2.K32.KT9 QT98.QJT.765. 54.6543.AQ4.3 7.K987.JT98.5",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If West can win the ♣Q, South does not mind. South's ♠J is protected as long as West is on lead and there are 9 easy tricks (the ♠A, the ♥A, 3 diamonds, and 4 clubs)."
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "title": "Level 4 (Expert) - B-18",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "B-18",
+  "deal_pbn": "S:QJT987.K4.Q32.32 54.Q986.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H6",
+  "par_tricks": 10,
+  "notes": "West leads the ♥6 against 4♠. West's heart lead has reduced South's possible heart losers to 1. South should attempt to keep West off lead. A club lead from West, through North's ♣K, will put the contract at risk.\n\nAfter finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A. South will be forced to win the ♥K.\n\nIf the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1. No matter how East defends, West will never be able to get on lead to play clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♥6 against 4♠. West's heart lead has reduced South's possible heart losers to 1. South should attempt to keep West off lead. A club lead from West, through North's ♣K, will put the contract at risk.",
+    "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A. South will be forced to win the ♥K.",
+    "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1. No matter how East defends, West will never be able to get on lead to play clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "HJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q986.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥6 against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 4♠. West's heart lead has reduced South's possible heart losers to 1."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥6 against 4♠. West's heart lead has reduced South's possible heart losers to 1. South should attempt to keep West off lead. A club lead from West, through North's ♣K, will put the contract at risk."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After finessing spades into East's hand and later drawing trump,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "T",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A. South will be forced to win the ♥K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT987.4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After finessing spades into East's hand and later drawing trump, South will eventually be able to use dummy's diamonds to take care of his club losers. If South plays low from dummy at trick 1 East will not take his ♥A. South will be forced to win the ♥K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT987.4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2",
+        "E": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:JT987.4.Q32.32 54.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:JT987.4.Q32.32 5.Q98.87.98765 A32.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:JT987.4.Q32.32 5.Q98.87.98765 A3.J3.AKJT9.K4 K6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:JT987.4.Q32.32 5.Q98.87.98765 A3.J3.AKJT9.K4 6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:JT987.4.Q32.32 5.Q98.87.98765 A3.J3.AKJT9.K4 6.A75.654.AQJT",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S4",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT987.4.Q32.32 5.Q98.87.98765 A3.J3.AKJT9.K4 6.A7.654.AQJT",
+      "trick_cards": {
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:JT987..Q32.32 5.Q98.87.98765 A3.J3.AKJT9.K4 6.A7.654.AQJT",
+      "trick_cards": {
+        "S": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:JT987..Q32.32 5.98.87.98765 A3.J3.AKJT9.K4 6.A7.654.AQJT",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HQ",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:JT987..Q32.32 5.98.87.98765 A3.J.AKJT9.K4 6.A7.654.AQJT",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:JT987..Q32.32 5.98.87.98765 A3.J.AKJT9.K4 6.A7.654.AQJT",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.J32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "T",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1. No matter how East defends,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT987.K4.Q32.32 54.Q98.87.98765 A32.32.AKJT9.K4 K6.AT75.654.AQJT",
+      "trick_cards": {
+        "W": "H6",
+        "N": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ],
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the spade finesse loses, East may be able to lead a low heart to West's ♥Q. A club lead through the dummy may now sink the contract. South can avoid this fate if he plays the ♥J from dummy at trick 1. No matter how East defends, West will never be able to get on lead to play clubs."
+    }
+  ]
+}

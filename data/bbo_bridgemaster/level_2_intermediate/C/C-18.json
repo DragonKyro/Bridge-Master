@@ -1,0 +1,556 @@
+{
+  "title": "Level 2 (Intermediate) - C-18",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-18",
+  "deal_pbn": "S:KQJT9.2.A7.KJT98 .AQT8765.KQ.6543 A32.43.65432.AQ7 87654.KJ9.JT98.2",
+  "contract": "5Sx",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "2H",
+    "3H",
+    "Dbl",
+    "4S",
+    "5H",
+    "Pass",
+    "Pass",
+    "5S",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HA",
+  "par_tricks": 11,
+  "notes": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2. It appears that South's only other loser is in diamonds. However, South should be careful. The bidding indicates that West has a very distributional hand and East's double of the final contract suggests he might have all 5 of the outstanding trumps.\n\nIf South ruffs at trick 2, he will not be able to prevent the loss of a trump trick to East if East was dealt 5 spades.\n\nSouth can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy. South can draw all of the outstanding trumps and easily take the balance.",
+  "commentary_paragraphs": [
+    "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2. It appears that South's only other loser is in diamonds. However, South should be careful. The bidding indicates that West has a very distributional hand and East's double of the final contract suggests he might have all 5 of the outstanding trumps.",
+    "If South ruffs at trick 2, he will not be able to prevent the loss of a trump trick to East if East was dealt 5 spades.",
+    "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy. South can draw all of the outstanding trumps and easily take the balance."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D7"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT9.2.A7.KJT98 .AQT8765.KQ.6543 A32.43.65432.AQ7 87654.KJ9.JT98.2",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 5♠ doubled."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT9.2.A7.KJT98 .QT8765.KQ.6543 A32.43.65432.AQ7 87654.KJ9.JT98.2",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT9.2.A7.KJT98 .QT8765.KQ.6543 A32.43.65432.AQ7 87654.KJ9.JT98.2",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT9.2.A7.KJT98 .QT8765.KQ.6543 A32.4.65432.AQ7 87654.KJ9.JT98.2",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT9.2.A7.KJT98 .QT8765.KQ.6543 A32.4.65432.AQ7 87654.KJ.JT98.2",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H3",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT8765.KQ.6543 A32.4.65432.AQ7 87654.KJ.JT98.2",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HA",
+        "N": "H3",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT8765.KQ.6543 A32.4.65432.AQ7 87654.KJ.JT98.2",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HA",
+        "N": "H3",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "T",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32.4.65432.AQ7 87654.KJ.JT98.2",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.KJ.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2. It appears that South's only other loser is in diamonds. However, South should be careful."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2. It appears that South's only other loser is in diamonds. However, South should be careful. The bidding indicates that West has a very distributional hand"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 5♠ doubled. After winning the first trick he continues the suit at trick 2. It appears that South's only other loser is in diamonds. However, South should be careful. The bidding indicates that West has a very distributional hand and East's double of the final contract suggests he might have all 5 of the outstanding trumps."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South ruffs at trick 2,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South ruffs at trick 2, he will not be able to prevent the loss of a trump trick to East if East was dealt 5 spades."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJT9..A7.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "S": "D7",
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "S": "D7",
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654.J.JT98.2",
+      "trick_cards": {
+        "S": "D7",
+        "W": "H8",
+        "N": "H4",
+        "E": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJT9..A.KJT98 .QT765.KQ.6543 A32..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJT9..A.KJT9 .QT765.KQ.6543 A32..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "S": "C8",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJT9..A.KJT9 .QT76.KQ.6543 A32..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "S": "C8",
+        "W": "H5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJT9..A.KJT9 .QT76.KQ.6543 A3..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "S": "C8",
+        "W": "H5",
+        "N": "S2",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJT9..A.KJT9 .QT76.KQ.6543 A3..65432.AQ7 87654..JT98.2",
+      "trick_cards": {
+        "S": "C8",
+        "W": "H5",
+        "N": "S2",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can make the contract on this layout by discarding his diamond loser at trick 2. A diamond trick must be lost in any event and by losing this trick early, South prevents the defense from scoring a trump trick. If a third round of hearts is continued, the ruff can be taken in dummy. South can draw all of the outstanding trumps and easily take the balance."
+    }
+  ]
+}

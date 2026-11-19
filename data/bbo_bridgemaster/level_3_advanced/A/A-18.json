@@ -1,0 +1,1171 @@
+{
+  "title": "Level 3 (Advanced) - A-18",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-18",
+  "deal_pbn": "S:AJ.432.QJT98.KQJ K9876.76.A76.T98 T432.AKJ5.32.A32 Q5.QT98.K54.7654",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "1NT",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A as South has a sure second stopper in the suit. However, if West has 5 spades to the ♠K and at least 1 of the ♦A or ♦K, the contract will be in serious danger of failing.\n\nEast will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit. West will have 2 established spade tricks and an entry in diamonds. South will need a miracle in hearts to come to 9 tricks.\n\nSouth does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick he has no spades left to return.\n\nAfter regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick and South has the balance.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A as South has a sure second stopper in the suit. However, if West has 5 spades to the ♠K and at least 1 of the ♦A or ♦K, the contract will be in serious danger of failing.",
+    "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit. West will have 2 established spade tricks and an entry in diamonds. South will need a miracle in hearts to come to 9 tricks.",
+    "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick he has no spades left to return.",
+    "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick and South has the balance."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 45,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 46,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 47,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 54,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 55,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 56,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "H2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K9876.76.A76.T98 T432.AKJ5.32.A32 Q5.QT98.K54.7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T432.AKJ5.32.A32 Q5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T432.AKJ5.32.A32 Q5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 Q5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:J.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:J.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A as South has a sure second stopper in the suit."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:J.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "9",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A as South has a sure second stopper in the suit. However, if West has 5 spades to the ♠K"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:J.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. When East plays the ♠Q, it looks very natural to win the ♠A as South has a sure second stopper in the suit. However, if West has 5 spades to the ♠K and at least 1 of the ♦A or ♦K, the contract will be in serious danger of failing."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:J.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 5.QT98.54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 5.QT98.54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:J.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.432.JT98.KQJ K986.76.A7.T98 T43.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.432.JT98.KQJ 986.76.A7.T98 T43.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.432.JT98.KQJ 986.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SK",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.432.JT98.KQJ 986.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "SK",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.432.JT98.KQJ 86.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.432.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "W": "S9",
+        "N": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.432.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.5.7654",
+      "trick_cards": {
+        "W": "S9",
+        "N": "ST",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.43.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.5.7654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "ST",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.43.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.5.7654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "ST",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit. West will have 2 established spade tricks"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.43.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.5.7654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "ST",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit. West will have 2 established spade tricks and an entry in diamonds."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.43.JT98.KQJ 86.76.A7.T98 4.AKJ5.3.A32 .QT98.5.7654",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "ST",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "East will win the first defensive diamond trick and return a spade. West will win the ♠K and clear the suit. West will have 2 established spade tricks and an entry in diamonds. South will need a miracle in hearts to come to 9 tricks."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AJ.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South does better to duck East's ♠Q at trick 1."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 5.QT98.K54.7654",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S7",
+        "N": "S2",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.432.QJT98.KQJ K986.76.A76.T98 T43.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.432.QJT98.KQJ K98.76.A76.T98 T43.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.432.QJT98.KQJ K98.76.A76.T98 T4.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.432.QJT98.KQJ K98.76.A76.T98 T4.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.432.QJT98.KQJ K98.76.A76.T98 T4.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A76.T98 T4.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.32.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.K54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South does better to duck East's ♠Q at trick 1. East will continue the suit, but North's holding still represents a second stopper. When East wins the first diamond trick he has no spades left to return."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.7654",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D2",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "C": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After regaining the lead,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.432.JT98.KQJ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.765",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.432.JT98.KQ K98.76.A7.T98 T4.AKJ5.3.A32 .QT98.54.765",
+      "trick_cards": {
+        "S": "CJ",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.432.JT98.KQ K98.76.A7.T9 T4.AKJ5.3.A32 .QT98.54.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.432.JT98.KQ K98.76.A7.T9 T4.AKJ5.3.A3 .QT98.54.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.432.JT98.KQ K98.76.A7.T9 T4.AKJ5.3.A3 .QT98.54.765",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C8",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After regaining the lead, South can knock out the other diamond honour."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.432.T98.KQ K98.76.A7.T9 T4.AKJ5.3.A3 .QT98.54.765",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.432.T98.KQ K98.76.7.T9 T4.AKJ5.3.A3 .QT98.54.765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:.432.T98.KQ K98.76.7.T9 T4.AKJ5..A3 .QT98.54.765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DA",
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:.432.T98.KQ K98.76.7.T9 T4.AKJ5..A3 .QT98.5.765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DA",
+        "N": "D3",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:.432.T98.KQ K98.76.7.T9 T4.AKJ5..A3 .QT98.5.765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DA",
+        "N": "D3",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:.432.T98.KQ 98.76.7.T9 T4.AKJ5..A3 .QT98.5.765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:.432.T98.KQ 98.76.7.T9 T.AKJ5..A3 .QT98.5.765",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:.432.T98.KQ 98.76.7.T9 T.AKJ5..A3 .QT98.5.76",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:.43.T98.KQ 98.76.7.T9 T.AKJ5..A3 .QT98.5.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "SK",
+        "N": "S4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:.43.T98.KQ 98.76.7.T9 T.AKJ5..A3 .QT98.5.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "SK",
+        "N": "S4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 4,
+      "highlighted": {},
+      "commentary": "After regaining the lead, South can knock out the other diamond honour. West can only cash 1 spade trick and South has the balance."
+    }
+  ]
+}

@@ -1,0 +1,1082 @@
+{
+  "title": "Level 4 (Expert) - A-3",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-3",
+  "deal_pbn": "S:QJT9.A2.A32.AJ98 87.JT986.JT98.T7 432.K3.KQ54.K432 AK65.Q754.76.Q65",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs). Declarer can eventually get 2 more tricks in spades, but by the time South's spades are established the defense will have been able to clear and run the hearts.\n\nDeclarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2, Distribution 3, Distribution 4. In the latter two cases, the first heart trick must have been won with the ♥A to preserve a later dummy entry.\n\nIf diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K and lead towards the ♣J.",
+  "commentary_paragraphs": [
+    "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs). Declarer can eventually get 2 more tricks in spades, but by the time South's spades are established the defense will have been able to clear and run the hearts.",
+    "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2, Distribution 3, Distribution 4. In the latter two cases, the first heart trick must have been won with the ♥A to preserve a later dummy entry.",
+    "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K and lead towards the ♣J."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "C7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT9.A2.A32.AJ98 87.JT986.JT98.T7 432.K3.KQ54.K432 AK65.Q754.76.Q65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT9.A2.A32.AJ98 87.T986.JT98.T7 432.K3.KQ54.K432 AK65.Q754.76.Q65",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT9.A2.A32.AJ98 87.T986.JT98.T7 432.K3.KQ54.K432 AK65.Q754.76.Q65",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT9.A2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q754.76.Q65",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J, which South wins in hand."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT9.A2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J, which South wins in hand."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J, which South wins in hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs). Declarer can eventually get 2 more tricks in spades,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs). Declarer can eventually get 2 more tricks in spades, but by the time South's spades are established"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J, which South wins in hand. Declarer has 7 top tricks (2 hearts, 3 diamonds, and 2 clubs). Declarer can eventually get 2 more tricks in spades, but by the time South's spades are established the defense will have been able to clear and run the hearts."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT9.2.A32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT9.2.32.AJ98 87.T986.JT98.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT9.2.32.AJ98 87.T986.JT9.T7 432.K.KQ54.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT9.2.32.AJ98 87.T986.JT9.T7 432.K.KQ5.K432 AK65.Q54.76.Q65",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT9.2.32.AJ98 87.T986.JT9.T7 432.K.KQ5.K432 AK65.Q54.7.Q65",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D8",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT9.T7 432.K.KQ5.K432 AK65.Q54.7.Q65",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT.T7 432.K.KQ5.K432 AK65.Q54.7.Q65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT.T7 432.K.Q5.K432 AK65.Q54.7.Q65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT.T7 432.K.Q5.K432 AK65.Q54..Q65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "DK",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT.T7 432.K.5.K432 AK65.Q54..Q65",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT9.2.3.AJ98 87.T986.JT.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.JT.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T986.J.T7 432.K.5.K432 AK5.Q54..Q65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions:"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT9.2..AJ98 A87.T98.J.76 432.K.5.K432 K5.Q654..QT5",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT9.2..AJ98 A8.T98.J.T76 432.K.5.K432 K75.Q654..Q5",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT9.2..AJ98 A875.T98.J.Q 432.K.5.K432 K.Q654..T765",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2, Distribution 3,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT9.2..AJ98 A875.T98.J.T 432.K.5.K432 K.Q654..Q765",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2, Distribution 3, Distribution 4."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT9.2..AJ98 A875.T98.J.T 432.K.5.K432 K.Q654..Q765",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Declarer should test diamonds first before playing on clubs. If diamonds do not break, South needs 4 club tricks. He should cash dummy's ♣K and plan to finesse the ♣J, playing for one of the following distributions: Distribution 1, Distribution 2, Distribution 3, Distribution 4. In the latter two cases, the first heart trick must have been won with the ♥A to preserve a later dummy entry."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T98..QT76 432.K.5.K432 AK65.Q654..5",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T98..QT76 432.K.5.K432 AK65.Q654..5",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T98..QT76 432.K.5.K432 AK65.Q654..5",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DT",
+        "N": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T98..QT76 432.K.5.K43 AK65.Q654..5",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT9.2..AJ98 87.T98..QT76 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT9.2..J98 87.T98..QT76 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT9.2..J98 87.T98..QT7 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT9.2..J98 87.T98..QT7 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJT9.2..J9 87.T98..QT7 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJT9.2..J9 87.T98..QT7 432.K.5.K43 AK65.Q654..",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:QJT9.2..J9 A876.T986.. 432.K.5.K43 K5.Q54..QT7",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:QJT9.2..J9 A876.T986.. 432.K.5.K43 K5.Q54..QT7",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:QJT9.2..J9 A87.T986.. 432.K.5.K43 K5.Q54..QT7",
+      "trick_cards": {
+        "S": "C8",
+        "W": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:QJT9.2..J9 A87.T986.. 432.K.5.K43 K5.Q54..QT7",
+      "trick_cards": {
+        "S": "C8",
+        "W": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:QJT9.2..J9 A87.T986.. 432.K.5.43 K5.Q54..QT7",
+      "trick_cards": {
+        "S": "C8",
+        "W": "S6",
+        "N": "CK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:QJT9.2..J9 A87.T986.. 432.K.5.43 K5.Q54..QT",
+      "trick_cards": {
+        "S": "C8",
+        "W": "S6",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:QJT9.2..J9 A87.T986.. 432.K.5.43 K5.Q54..QT",
+      "trick_cards": {
+        "S": "C8",
+        "W": "S6",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If diamonds are 3-3, only 3 club tricks are needed. The club suit can always be played for 3 tricks by cashing the ♣A first and then playing the ♣8 through West, intending to run it if West follows low. If West has 4 clubs, there is nothing he can do. If East has 4 clubs, West will show out on the second round. South can rise with North's ♣K and lead towards the ♣J."
+    }
+  ]
+}

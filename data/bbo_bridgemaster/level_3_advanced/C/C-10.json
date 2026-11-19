@@ -1,0 +1,903 @@
+{
+  "title": "Level 3 (Advanced) - C-10",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-10",
+  "deal_pbn": "S:4.AKQ32.Q2.AJT98 KJT9.7.87653.KQ7 32.654.AKJT9.432 AQ8765.JT98.4.65",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2, South can make an overtrick simply be drawing trump and running the diamonds. South should gear his play towards guarding against a 4-1 trump break.\n\nSouth can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps and run the diamonds. The defense will get a club trick at the end.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2, South can make an overtrick simply be drawing trump and running the diamonds. South should gear his play towards guarding against a 4-1 trump break.",
+    "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps and run the diamonds. The defense will get a club trick at the end."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S4"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "HJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:4.AKQ32.Q2.AJT98 KJT9.7.87653.KQ7 32.654.AKJT9.432 AQ8765.JT98.4.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:4.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 32.654.AKJT9.432 AQ8765.JT98.4.65",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:4.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 32.654.AKJT9.432 AQ8765.JT98.4.65",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "Q",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:4.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 AQ8765.JT98.4.65",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:4.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q8765.JT98.4.65",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q8765.JT98.4.65",
+      "trick_cards": {
+        "S": "S4",
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q8765.JT98.4.65",
+      "trick_cards": {
+        "S": "S4",
+        "W": "SJ",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AKQ32.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT9.7.87653.KQ7 3.654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H2",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.7.87653.KQ7 3.654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.7.87653.KQ7 .654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.87.8765.KQ7 .654.AKJT9.432 Q865.JT9.43.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.87.8765.KQ7 .654.AKJT9.432 Q865.JT9.43.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2, South can make an overtrick simply be drawing trump"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.87.8765.KQ7 .654.AKJT9.432 Q865.JT9.43.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2, South can make an overtrick simply be drawing trump and running the diamonds."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.7.87653.KQ7 .654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4♥. West's lead is won by East. East returns a spade and South should ruff. If trumps are 3-2, South can make an overtrick simply be drawing trump and running the diamonds. South should gear his play towards guarding against a 4-1 trump break."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AKQ3.Q2.AJT98 KT.7.87653.KQ7 .654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "S9",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT.7.87653.KQ7 .654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .654.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT98.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "8",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.65",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "C": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AKQ.Q2.AJT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.6",
+      "trick_cards": {
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AKQ.Q2.JT98 KT..87653.KQ7 .65.AKJT9.432 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AKQ.Q2.JT98 KT..87653.KQ .65.AKJT9.432 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AKQ.Q2.JT98 KT..87653.KQ .65.AKJT9.43 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AKQ.Q2.JT98 KT..87653.KQ .65.AKJT9.43 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AK.Q2.JT98 KT..87653.KQ .65.AKJT9.43 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AK.Q2.JT98 KT..8765.KQ .65.AKJT9.43 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AK.Q2.JT98 KT..8765.KQ .6.AKJT9.43 Q865.JT9.4.6",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "D3",
+        "N": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AK.Q2.JT98 KT..8765.KQ .6.AKJT9.43 Q865.JT.4.6",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "D3",
+        "N": "H5",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.A.Q2.JT98 KT..8765.KQ .6.AKJT9.43 Q865.JT.4.6",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.A.Q2.JT98 KT..876.KQ .6.AKJT9.43 Q865.JT.4.6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.A.Q2.JT98 KT..876.KQ ..AKJT9.43 Q865.JT.4.6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "D5",
+        "N": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.A.Q2.JT98 KT..876.KQ ..AKJT9.43 Q865.J.4.6",
+      "trick_cards": {
+        "S": "HK",
+        "W": "D5",
+        "N": "H6",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:..Q2.JT98 KT..876.KQ ..AKJT9.43 Q865.J.4.6",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:..Q2.JT98 KT..87.KQ ..AKJT9.43 Q865.J.4.6",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:..Q2.JT98 KT..87.KQ ..AKJT9.4 Q865.J.4.6",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D6",
+        "N": "C3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:..Q2.JT98 KT..87.KQ ..AKJT9.4 Q865..4.6",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D6",
+        "N": "C3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:..Q2.JT98 KT..87.KQ ..AKJT9.4 Q865..4.6",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D6",
+        "N": "C3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps and run the diamonds."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:..Q2.JT98 KT..87.KQ ..AKJT9.4 Q865..4.6",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D6",
+        "N": "C3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can virtually guarantee the contract by ducking a trump trick immediately. Dummy's trumps can handle a third round of spades. After winning the return, South can draw the remaining trumps and run the diamonds. The defense will get a club trick at the end."
+    }
+  ]
+}

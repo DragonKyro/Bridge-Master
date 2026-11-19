@@ -1,0 +1,887 @@
+{
+  "title": "Level 1 (Beginner) - B-30",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-30",
+  "deal_pbn": "S:QJT98.KQJT.A2.K2 76.98.KQT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 10,
+  "notes": "West leads the ♦K against 4♠. South has a possible trump loser if East holds the ♠K. West's ♦K lead has set up a trick in that suit for the defense. There is also a risk of losing 2 club tricks if West holds the ♣A.\n\nWest has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q and North's ♦J will be high.\n\nIf West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A. South can afford to lose a trick to the ♠K. However, he cannot afford to lose a trick to East before he discards a club on North's ♦J. If East has the ♠K and West the ♣A, finessing in spades would be fatal.\n\nSouth should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A.",
+  "commentary_paragraphs": [
+    "West leads the ♦K against 4♠. South has a possible trump loser if East holds the ♠K. West's ♦K lead has set up a trick in that suit for the defense. There is also a risk of losing 2 club tricks if West holds the ♣A.",
+    "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q and North's ♦J will be high.",
+    "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A. South can afford to lose a trick to the ♠K. However, he cannot afford to lose a trick to East before he discards a club on North's ♦J. If East has the ♠K and West the ♣A, finessing in spades would be fatal.",
+    "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.KQT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠. South has a possible trump loser if East holds the ♠K."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠. South has a possible trump loser if East holds the ♠K. West's ♦K lead has set up a trick in that suit for the defense."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠. South has a possible trump loser if East holds the ♠K. West's ♦K lead has set up a trick in that suit for the defense. There is also a risk of losing 2 club tricks if West holds the ♣A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J43.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.8765.QJT9",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT98.KQJT.A2.K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT98.KQJT.2.K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT98.KQJT.2.K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D3",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.QT9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.T9.A8765 A432.A432.J4.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.T9.A8765 A432.A432.J.43 K5.765.876.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.T9.A8765 A432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.T9.A8765 A432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West has shown the ♦Q with his ♦K lead. South can establish the ♦J as a discard for one of his possible club losers. If South wins the ♦A and immediately returns the ♦2, West will win the ♦Q and North's ♦J will be high."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QJT98.KQJT..K2 76.98.T9.A8765 A432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DQ",
+        "N": "D4",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West returns a trump after winning the ♦Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJT98.KQJT..K2 7.98.T9.A8765 A432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West returns a trump after winning the ♦Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJT98.KQJT..K2 7.98.T9.A8765 A432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJT98.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K5.765.87.QJT9",
+      "trick_cards": {
+        "W": "S6",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJT98.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A. South can afford to lose a trick to the ♠K."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A. South can afford to lose a trick to the ♠K. However, he cannot afford to lose a trick to East before he discards a club on North's ♦J."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West returns a trump after winning the ♦Q, South should decline the finesse, rising with North's ♠A. South can afford to lose a trick to the ♠K. However, he cannot afford to lose a trick to East before he discards a club on North's ♦J. If East has the ♠K and West the ♣A, finessing in spades would be fatal."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432.J.43 K.765.87.QJT9",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S6",
+        "N": "SA",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should play the ♦J from dummy and take his club discard"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432..43 K.765.87.QJT9",
+      "trick_cards": {
+        "N": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT9.KQJT..K2 7.98.T9.A8765 432.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T9.A8765 432.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T.A8765 432.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D9",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T.A8765 432.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "D9",
+        "N": "DJ",
+        "E": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T.A8765 43.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T.A8765 43.A432..43 K.765.8.QJT9",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT9.KQJT..K 7.98.T.A8765 43.A432..43 .765.8.QJT9",
+      "trick_cards": {
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT.KQJT..K 7.98.T.A8765 43.A432..43 .765.8.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT.KQJT..K .98.T.A8765 43.A432..43 .765.8.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S7",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJT.KQJT..K .98.T.A8765 43.A432..43 .765.8.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S7",
+        "N": "S2",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJT.KQJT..K .98.T.A8765 43.A432..43 .765.8.JT9",
+      "trick_cards": {
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJT.KQJT.. .98.T.A8765 43.A432..43 .765.8.JT9",
+      "trick_cards": {
+        "S": "CK",
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJT.KQJT.. .98.T.8765 43.A432..43 .765.8.JT9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJT.KQJT.. .98.T.8765 43.A432..4 .765.8.JT9",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CA",
+        "N": "C3",
+        "E": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South should play the ♦J from dummy and take his club discard before continuing spades. South will lose just 2 more tricks, the ♠K and the ♣A."
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "title": "Level 2 (Intermediate) - B-19",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-19",
+  "deal_pbn": "S:A432.AT32.432.AK 9876.876.J985.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "D5",
+  "par_tricks": 12,
+  "notes": "West leads the ♦5 against 6♥. With an almost certain trump loser, the diamond finesse represents the best chance of making the contract. Accordingly, South should finesse North's ♦Q at trick 1.\n\nWhen East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts. The ♥A and ♥K will drop the ♥Q and ♥J. The ♥10 will then be high and it can be used to draw the last trump.\n\nWhen South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round. If East was dealt a singleton honour in hearts, West will always have a heart trick. If East was dealt honour doubleton in hearts, he could have guaranteed a defensive heart trick by playing low.",
+  "commentary_paragraphs": [
+    "West leads the ♦5 against 6♥. With an almost certain trump loser, the diamond finesse represents the best chance of making the contract. Accordingly, South should finesse North's ♦Q at trick 1.",
+    "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts. The ♥A and ♥K will drop the ♥Q and ♥J. The ♥10 will then be high and it can be used to draw the last trump.",
+    "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round. If East was dealt a singleton honour in hearts, West will always have a heart trick. If East was dealt honour doubleton in hearts, he could have guaranteed a defensive heart trick by playing low."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J985.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦5 against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 6♥. With an almost certain trump loser,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 6♥. With an almost certain trump loser, the diamond finesse represents the best chance of making the contract."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.AQ.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 6♥. With an almost certain trump loser, the diamond finesse represents the best chance of making the contract. Accordingly, South should finesse North's ♦Q at trick 1."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦5 against 6♥. With an almost certain trump loser, the diamond finesse represents the best chance of making the contract. Accordingly, South should finesse North's ♦Q at trick 1."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.KT76.765432",
+      "trick_cards": {
+        "W": "D5",
+        "N": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A432.AT32.432.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.T76.765432",
+      "trick_cards": {
+        "W": "D5",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A432.AT32.43.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.T76.765432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A432.AT32.43.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.T76.765432",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DQ",
+        "E": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A432.AT32.43.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K and returns a diamond,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J98.98 KQJT.K954.A.QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K and returns a diamond,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954.A.QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K and returns a diamond,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East wins the ♦K and returns a diamond,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "T",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts. The ♥A and ♥K"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts. The ♥A and ♥K will drop the ♥Q and ♥J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "When East wins the ♦K and returns a diamond, South must play the heart suit for no losers. There is only one hope. One of the defenders must hold doubleton Queen and Jack of hearts. The ♥A and ♥K will drop the ♥Q and ♥J. The ♥10 will then be high and it can be used to draw the last trump."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K954..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When South leads a small heart off the dummy"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K95..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When South leads a small heart off the dummy"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K95..QJT 5.QJ.T7.765432",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A432.AT32.4.AK 9876.876.J9.98 KQJT.K95..QJT 5.Q.T7.765432",
+      "trick_cards": {
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A432.T32.4.AK 9876.876.J9.98 KQJT.K95..QJT 5.Q.T7.765432",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A432.T32.4.AK 9876.87.J9.98 KQJT.K95..QJT 5.Q.T7.765432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A432.T32.4.AK 9876.87.J9.98 KQJT.K95..QJT 5.Q.T7.765432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A432.T32.4.AK 9876.Q87.J9.9 KQJT.K95..QJT 5..T7.8765432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round. If East was dealt a singleton honour in hearts,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A432.T32.4.AK 9876.Q87.J9.9 KQJT.K95..QJT 5..T7.8765432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round. If East was dealt a singleton honour in hearts, West will always have a heart trick."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A432.T32.4.AK 9876.Q7.J9.98 KQJT.K95..QJT 5.8.T7.765432",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "When South leads a small heart off the dummy and East follows with the ♥Q or ♥J, South should not be tempted to finesse the ♥9 on the second round. If East was dealt a singleton honour in hearts, West will always have a heart trick. If East was dealt honour doubleton in hearts, he could have guaranteed a defensive heart trick by playing low."
+    }
+  ]
+}

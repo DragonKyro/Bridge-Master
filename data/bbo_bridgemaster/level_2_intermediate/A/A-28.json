@@ -1,0 +1,894 @@
+{
+  "title": "Level 2 (Intermediate) - A-28",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-28",
+  "deal_pbn": "S:A32.A2.QJ2.AT943 KQJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "West leads the ♠K against 3NT. Only 5 top tricks are available (the ♠A, 2 heart tricks, the ♦A, and the ♣A). A successful finesse in either diamonds or clubs would provide enough tricks for the contract.\n\nAs East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades. East's discard on the third round marks the 6-2 spade break.\n\nSouth should play on diamonds first, passing the ♦Q through West. It would be wrong to take the club finesse first. If West turns out to have the ♣K, the contract will fail immediately as West will cash his spades.\n\nWhen the diamond finesse loses, South's chances of making the contract are still good. South now has 8 tricks, but South should not take the club finesse for trick 9.\n\nSouth wins East's return and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop, South will still succeed when East has the ♣K (the finesse would have also worked in this case). South loses only 4 tricks (2 spade tricks, the ♦K, and the ♣K).\n\nIf West was dealt the guarded ♣K, the contract could not have been made.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 3NT. Only 5 top tricks are available (the ♠A, 2 heart tricks, the ♦A, and the ♣A). A successful finesse in either diamonds or clubs would provide enough tricks for the contract.",
+    "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades. East's discard on the third round marks the 6-2 spade break.",
+    "South should play on diamonds first, passing the ♦Q through West. It would be wrong to take the club finesse first. If West turns out to have the ♣K, the contract will fail immediately as West will cash his spades.",
+    "When the diamond finesse loses, South's chances of making the contract are still good. South now has 8 tricks, but South should not take the club finesse for trick 9.",
+    "South wins East's return and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop, South will still succeed when East has the ♣K (the finesse would have also worked in this case). South loses only 4 tricks (2 spade tricks, the ♦K, and the ♣K).",
+    "If West was dealt the guarded ♣K, the contract could not have been made."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "DK"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "C6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 KQJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ],
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. Only 5 top tricks are available (the ♠A, 2 heart tricks, the ♦A, and the ♣A)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. Only 5 top tricks are available (the ♠A, 2 heart tricks, the ♦A, and the ♣A). A successful finesse in either diamonds"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3NT. Only 5 top tricks are available (the ♠A, 2 heart tricks, the ♦A, and the ♣A). A successful finesse in either diamonds or clubs would provide enough tricks for the contract."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 54.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 5.K43.AT943.QJ2 76.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.A2.QJ2.AT943 QJT98.765.876.K 5.K43.AT943.QJ2 7.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A3.A2.QJ2.AT943 QJT98.765.876.K 5.K43.AT943.QJ2 7.QJT98.K5.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A3.A2.QJ2.AT943 JT98.765.876.K 5.K43.AT943.QJ2 7.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A3.A2.QJ2.AT943 JT98.765.876.K .K43.AT943.QJ2 7.QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A3.A2.QJ2.AT943 JT98.765.876.K .K43.AT943.QJ2 .QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.A2.QJ2.AT943 JT98.765.876.K .K43.AT943.QJ2 .QJT98.K5.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.A2.QJ2.AT943 T98.765.876.K .K43.AT943.QJ2 .QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT98.K5.8765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "As East may eventually gain the lead, South should hold up the ♠A until the third round in an effort to exhaust East's spades. East's discard on the third round marks the 6-2 spade break."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should play on diamonds first, passing the ♦Q through West."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should play on diamonds first, passing the ♦Q through West. It would be wrong to take the club finesse first."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ],
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should play on diamonds first, passing the ♦Q through West. It would be wrong to take the club finesse first. If West turns out to have the ♣K, the contract will fail immediately as West will cash his spades."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.A2.QJ2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.876.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT943.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .QJT9.K5.8765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .QJT9.5.8765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .QJT9.5.8765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "When the diamond finesse loses, South's chances of making the contract are still good. South now has 8 tricks, but South should not take the club finesse for trick 9."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .QJT9.5.8765",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D3",
+        "E": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South wins East's return"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.A2.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South wins East's return"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.A.J2.AT943 T98.765.87.K .K4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "S": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South wins East's return"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .K4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South wins East's return"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South wins East's return"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "and should guard against a singleton ♣K with West"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .4.AT94.QJ2 .JT9.5.8765",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HK",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .4.AT94.J2 .JT9.5.8765",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.A.J2.AT943 T98.76.87.K .4.AT94.J2 .JT9.5.876",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.A.J2.T943 T98.76.87.K .4.AT94.J2 .JT9.5.876",
+      "trick_cards": {
+        "S": "CA",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.A.J2.T943 T98.76.87.6 .4.AT94.J2 .JT9.5.K87",
+      "trick_cards": {
+        "S": "CA",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.A.J2.T943 T98.76.87. .4.AT94.J2 .JT9.5.K87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.A.J2.T943 T98.76.87. .4.AT94.J2 .JT9.5.K87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop, South will still succeed when East has the ♣K (the finesse would have also worked in this case)."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.A.J2.T943 T98.76.87. .4.AT94.J2 .JT9.5.K87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "and should guard against a singleton ♣K with West by cashing the ♣A, declining the finesse. If the ♣K does not drop, South will still succeed when East has the ♣K (the finesse would have also worked in this case). South loses only 4 tricks (2 spade tricks, the ♦K, and the ♣K)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.A.J2.T943 T98.76.7.K .4.AT94.J2 .JT9.85.87",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "CQ",
+        "E": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West was dealt the guarded ♣K, the contract could not have been made."
+    }
+  ]
+}

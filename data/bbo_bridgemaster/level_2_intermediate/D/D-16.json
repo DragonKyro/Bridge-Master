@@ -1,0 +1,881 @@
+{
+  "title": "Level 2 (Intermediate) - D-16",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-16",
+  "deal_pbn": "S:A32.QT9.AQ.AKQ32 T98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 12,
+  "notes": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond, and 3 clubs). The diamond finesse could provide South with an extra trick and it should be possible for South to develop at least one extra trick in clubs.\n\nAfter winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit. When the diamond finesse wins, South's total is up to 11 tricks. As only 1 extra club trick is now required, South should start the suit by leading toward dummy's ♣10. This is a safety play against West having 5 clubs headed by the ♣J.\n\nOn the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks. If the diamond finesse had lost to the ♦K with West, South would need 2 extra tricks from clubs and he would know to play that suit from the top, hoping for a 3-3 break.\n\nThe correct play in clubs depends on whether South needs 4 or 5 tricks from that suit. Taking the diamond finesse first is a discovery play that will let South know how many clubs tricks are required (and how that suit should be played).",
+  "commentary_paragraphs": [
+    "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond, and 3 clubs). The diamond finesse could provide South with an extra trick and it should be possible for South to develop at least one extra trick in clubs.",
+    "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit. When the diamond finesse wins, South's total is up to 11 tricks. As only 1 extra club trick is now required, South should start the suit by leading toward dummy's ♣10. This is a safety play against West having 5 clubs headed by the ♣J.",
+    "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks. If the diamond finesse had lost to the ♦K with West, South would need 2 extra tricks from clubs and he would know to play that suit from the top, hoping for a 3-3 break.",
+    "The correct play in clubs depends on whether South needs 4 or 5 tricks from that suit. Taking the diamond finesse first is a discovery play that will let South know how many clubs tricks are required (and how that suit should be played)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "ST"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 T98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond, and 3 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond, and 3 clubs). The diamond finesse could provide South with an extra trick"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. There are 10 top tricks (3 spades, 3 hearts, 1 diamond, and 3 clubs). The diamond finesse could provide South with an extra trick and it should be possible for South to develop at least one extra trick in clubs."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQJ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.65432.T4 7654.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.65432.T4 765.7654.KJT9.5",
+      "trick_cards": {
+        "W": "ST",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A3.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.65432.T4 765.7654.KJT9.5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A3.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.65432.T4 765.7654.KJT9.5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SJ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A3.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.6543.T4 765.7654.KJT9.5",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A3.QT9.AQ.AKQ32 98.832.87.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.87.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.8.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.8.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D7",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit. When the diamond finesse wins, South's total is up to 11 tricks. As only 1 extra club trick is now required, South should start the suit by leading toward dummy's ♣10. This is a safety play against West having 5 clubs headed by the ♣J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's spade opening lead, South should finesse East for the ♦K before he touches the club suit. When the diamond finesse wins, South's total is up to 11 tricks. As only 1 extra club trick is now required, South should start the suit by leading toward dummy's ♣10. This is a safety play against West having 5 clubs headed by the ♣J."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.J9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will win the ♣J."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.9876 KQ.AKJ.6543.T4 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.9876 KQ.AKJ.6543.T 765.7654.KJT.5",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.9876 KQ.AKJ.6543.T 765.7654.KJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 98.832.8.9876 KQ.AKJ.6543.T 765.7654.KJT.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 8.832.8.9876 KQ.AKJ.6543.T 765.7654.KJT.",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543.T 765.7654.KJT.",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A3.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543.T 76.7654.KJT.",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543.T 76.7654.KJT.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543.T 76.7654.KJT.",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S9",
+        "N": "SQ",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543. 76.7654.KJT.",
+      "trick_cards": {
+        "N": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.QT9.A.AKQ3 8.832.8.9876 K.AKJ.6543. 76.765.KJT.",
+      "trick_cards": {
+        "N": "CT",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.QT9.A.AKQ 8.832.8.9876 K.AKJ.6543. 76.765.KJT.",
+      "trick_cards": {
+        "S": "C3",
+        "N": "CT",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.QT9.A.AKQ 8.832.8.987 K.AKJ.6543. 76.765.KJT.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CT",
+        "E": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.KJ87.876 KQ.AKJ.6543.T4 765.7654.T.J95",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks. If the diamond finesse had lost to the ♦K with West,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.J87.876 KQ.AKJ.6543.T4 765.7654.T.J95",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks. If the diamond finesse had lost to the ♦K with West,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A3.QT9.A.AKQ32 98.832.J87.876 KQ.AKJ.6543.T4 765.7654.T.J95",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, West will win the ♣J. South can win any return that West makes, unblock the ♣10, and easily win the rest of the tricks. If the diamond finesse had lost to the ♦K with West, South would need 2 extra tricks from clubs and he would know to play that suit from the top, hoping for a 3-3 break."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.KJ87.876 KQJ.AKJ.65432.T4 7654.7654.T9.J95",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The correct play in clubs depends on whether South needs 4 or 5 tricks from that suit."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A32.QT9.AQ.AKQ32 98.832.KJ87.876 KQJ.AKJ.65432.T4 7654.7654.T9.J95",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The correct play in clubs depends on whether South needs 4 or 5 tricks from that suit. Taking the diamond finesse first is a discovery play that will let South know how many clubs tricks are required (and how that suit should be played)."
+    }
+  ]
+}

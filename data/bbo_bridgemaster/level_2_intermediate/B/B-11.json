@@ -1,0 +1,789 @@
+{
+  "title": "Level 2 (Intermediate) - B-11",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-11",
+  "deal_pbn": "S:QT98.AKQ.JT98.A2 KJ5.JT98.3.76543 A432.32.AKQ2.KQJ 76.7654.7654.T98",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1S",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks. This common card combination is often misplayed.\n\nThe correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small, play low from dummy. On the given lie of the cards, South is immediately successful.\n\nIf East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn and South easily takes the balance.\n\nRemember, when playing a 4-4 fit missing just the King and Jack for 1 loser, the best play is to double finesse.",
+  "commentary_paragraphs": [
+    "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks. This common card combination is often misplayed.",
+    "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small, play low from dummy. On the given lie of the cards, South is immediately successful.",
+    "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn and South easily takes the balance.",
+    "Remember, when playing a 4-4 fit missing just the King and Jack for 1 loser, the best play is to double finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "D8"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "H7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QT98.AKQ.JT98.A2 KJ5.JT98.3.76543 A432.32.AKQ2.KQJ 76.7654.7654.T98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QT98.AKQ.JT98.A2 KJ5.T98.3.76543 A432.32.AKQ2.KQJ 76.7654.7654.T98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QT98.AKQ.JT98.A2 KJ5.T98.3.76543 A432.32.AKQ2.KQJ 76.7654.7654.T98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QT98.AKQ.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.7654.7654.T98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QT98.AKQ.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QT98.AK.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QT98.AK.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's heart lead is won by South. South's only possible problem is the loss of 2 trump tricks. This common card combination is often misplayed."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QT98.AK.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ5.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ.T98.3.76543 A432.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small, play low from dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ.T98.3.76543 A43.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small, play low from dummy."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QT9.AK.JT98.A2 KJ.T98.3.76543 A43.3.AKQ2.KQJ 76.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The correct play is to lead any spade (including the ♠Q) out of the closed hand and, if West follows small, play low from dummy. On the given lie of the cards, South is immediately successful."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QT9.AK.JT98.A2 K6.T98.3.76543 A43.3.AKQ2.KQJ J7.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QT9.AK.JT98.A2 K6.T98.3.76543 A43.3.AKQ2.KQJ 7.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QT9.AK.JT98.A2 K6.T98.3.76543 A43.3.AKQ2.KQJ 7.765.7654.T98",
+      "trick_cards": {
+        "S": "S8",
+        "W": "S5",
+        "N": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply, South wins the return"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QT9.AK.JT98.A2 K6.T98.3.76543 A43.3.AKQ2.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QT9.AK.JT9.A2 K6.T98.3.76543 A43.3.AKQ2.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "D8",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QT9.AK.JT9.A2 K6.T98..76543 A43.3.AKQ2.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QT9.AK.JT9.A2 K6.T98..76543 A43.3.AKQ.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QT9.AK.JT9.A2 K6.T98..76543 A43.3.AKQ.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "D8",
+        "W": "D3",
+        "N": "D2",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QT.AK.JT9.A2 K6.T98..76543 A43.3.AKQ.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QT.AK.JT9.A2 K.T98..76543 A43.3.AKQ.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QT.AK.JT9.A2 K.T98..76543 A4.3.AKQ.KQJ 7.765.765.T98",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QT.AK.JT9.A2 K7.T98..6543 A4.3.AKQ.KQJ .765.765.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QT.AK.JT9.A2 K7.T98..6543 A4.3.AKQ.KQJ .76.765.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "S3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QT.AK.JT9.A2 K7.T98..6543 A4.3.AKQ.KQJ .76.765.T987",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "S3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q.AK.JT9.A2 K7.T98..6543 A4.3.AKQ.KQJ .76.765.T987",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q.AK.JT9.A2 K.T98..6543 A4.3.AKQ.KQJ .76.765.T987",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q.AK.JT9.A2 K.T98..6543 A.3.AKQ.KQJ .76.765.T987",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S7",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q.AK.JT9.A2 K.T98..6543 A.3.AKQ.KQJ .7.765.T987",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S7",
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q.AK.JT9.A2 K.T98..6543 A.3.AKQ.KQJ .7.765.T987",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S7",
+        "N": "S4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AK.JT9.A2 K.T98..6543 A.3.AKQ.KQJ .7.765.T987",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AK.JT9.A2 .T98..6543 A.3.AKQ.KQJ .7.765.T987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AK.JT9.A2 .T98..6543 .3.AKQ.KQJ .7.765.T987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SK",
+        "N": "SA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AK.JT9.A2 .T98..6543 .3.AKQ.KQJ ..765.T987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SK",
+        "N": "SA",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AK.JT9.A2 .T98..6543 .3.AKQ.KQJ ..765.T987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SK",
+        "N": "SA",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East is able to win the trick cheaply, South wins the return and takes a second spade finesse. If East discards, South can take a third spade finesse. The last trump is drawn and South easily takes the balance."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AK.JT9.A2 .T98..6543 .3.AKQ.KQJ ..765.T987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SK",
+        "N": "SA",
+        "E": "H7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Remember, when playing a 4-4 fit missing just the King and Jack for 1 loser, the best play is to double finesse."
+    }
+  ]
+}

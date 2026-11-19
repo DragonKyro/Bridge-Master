@@ -1,0 +1,931 @@
+{
+  "title": "Level 2 (Intermediate) - B-1",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-1",
+  "deal_pbn": "S:AJ987.KQ.32.AKQJ .JT987.876.T9876 Q5432.32.AK54.32 KT6.A654.QJT9.54",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4C",
+    "Pass",
+    "4D",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit, South's only problem is how to play the trump suit for no losers. The correct play is to finesse East for the ♠K. That play is superior to cashing the ♠A on the first round (see hand A-3 on skill level 2).\n\nSouth must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J. After that start, it would be impossible to pick up the suit if East started with all 3 spades.\n\nSouth should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds. A finessing position now exists over East's ♠10.\n\nSouth has nothing to lose by playing spades in this way. Picking up all 3 spades in East's hand is what can be gained.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit, South's only problem is how to play the trump suit for no losers. The correct play is to finesse East for the ♠K. That play is superior to cashing the ♠A on the first round (see hand A-3 on skill level 2).",
+    "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J. After that start, it would be impossible to pick up the suit if East started with all 3 spades.",
+    "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds. A finessing position now exists over East's ♠10.",
+    "South has nothing to lose by playing spades in this way. Picking up all 3 spades in East's hand is what can be gained."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "DT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJ987.KQ.32.AKQJ .JT987.876.T9876 Q5432.32.AK54.32 KT6.A654.QJT9.54",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJ987.KQ.32.AKQJ .T987.876.T9876 Q5432.32.AK54.32 KT6.A654.QJT9.54",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJ987.KQ.32.AKQJ .T987.876.T9876 Q5432.32.AK54.32 KT6.A654.QJT9.54",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJ987.KQ.32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.A654.QJT9.54",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJ987.KQ.32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.654.QJT9.54",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJ987.K.32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.654.QJT9.54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AJ987.K.32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.654.QJT9.54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AJ987.K.32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AJ987..32.AKQJ .T987.876.T9876 Q5432.3.AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432.3.AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit, South's only problem is how to play the trump suit for no losers."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit, South's only problem is how to play the trump suit for no losers. The correct play is to finesse East for the ♠K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 6♠. After the defense takes the ♥A and continues the suit, South's only problem is how to play the trump suit for no losers. The correct play is to finesse East for the ♠K. That play is superior to cashing the ♠A on the first round (see hand A-3 on skill level 2)."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AJ987..32.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.876.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q5432..AK54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q5432..K54.32 KT6.65.QJT9.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q5432..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q5432..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q543..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A987..3.AKQJ .T98.87.T9876 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "S": "SJ",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A987..3.AKQJ .T98.87.T987 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A987..3.AKQJ .T98.87.T987 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J. After that start, it would be impossible to pick up the suit"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A987..3.AKQJ .T98.87.T987 Q543..K54.32 KT.65.QJT.54",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "C6",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South must be careful how he manages the spade finesse. After crossing to the dummy in diamonds, it would be wrong to lead a low spade from dummy and finesse with the ♠J. After that start, it would be impossible to pick up the suit if East started with all 3 spades."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 Q5432..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 5432..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 5432..K54.32 KT6.65.QJT.54",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AJ987..3.AKQJ .T98.87.T9876 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J987..3.AKQJ .T98.87.T9876 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "SA",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J987..3.AKQJ .T98.87.T987 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "C6",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J987..3.AKQJ .T98.87.T987 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "C6",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:J987...AKQJ .T98.87.T987 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..K54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..54.32 T6.65.QJT.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..54.32 T6.65.QJ.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..54.32 T6.65.QJ.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should instead begin by leading the ♠Q from the dummy intending to pass it. When East covers with the ♠K, South wins the ♠A. South crosses back to the dummy in diamonds. A finessing position now exists over East's ♠10."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..54.32 T6.65.QJ.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has nothing to lose by playing spades in this way."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:J987...AKQJ .T98.8.T987 5432..54.32 T6.65.QJ.54",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has nothing to lose by playing spades in this way. Picking up all 3 spades in East's hand is what can be gained."
+    }
+  ]
+}

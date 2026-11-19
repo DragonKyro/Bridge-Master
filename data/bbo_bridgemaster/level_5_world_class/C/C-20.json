@@ -1,0 +1,1667 @@
+{
+  "title": "Level 5 (World Class) - C-20",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-20",
+  "deal_pbn": "S:A9832.5432.A32.2 KJT4.876.765.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+  "contract": "4Sx",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "1S",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "D5",
+  "par_tricks": 10,
+  "notes": "West leads the ♦5 against 4♠ doubled. West's double marks him with all 4 outstanding trumps. As South must lose tricks to the ♥A and ♣A he will have to find a way to hold his trump losers to 1. The only hope is some kind of trump endplay against West.\n\nSouth must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A and a spade is led toward dummy's ♠Q.\n\nAssuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine).\n\nThe defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand. The desired end position has been reached and the lead of South's last heart will hold West to only 1 trump trick.",
+  "commentary_paragraphs": [
+    "West leads the ♦5 against 4♠ doubled. West's double marks him with all 4 outstanding trumps. As South must lose tricks to the ♥A and ♣A he will have to find a way to hold his trump losers to 1. The only hope is some kind of trump endplay against West.",
+    "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A and a spade is led toward dummy's ♠Q.",
+    "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine).",
+    "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand. The desired end position has been reached and the lead of South's last heart will hold West to only 1 trump trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 3,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 3,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 54,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 55,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 57,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 59,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 64,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 65,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 66,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 67,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 70,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 71,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 72,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 73,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 74,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 75,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 76,
+      "seat": "W",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.765.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 4♠ doubled."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦5 against 4♠ doubled."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦5 against 4♠ doubled. West's double marks him with all 4 outstanding trumps. As South must lose tricks to the ♥A and ♣A he will have to find a way to hold his trump losers to 1. The only hope is some kind of trump endplay against West."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A98.5.. KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A98... KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A98... KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A98... JT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A98... JT4... Q76... .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SK",
+        "N": "CK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A98... JT4... Q76... ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SK",
+        "N": "CK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A98... JT4... Q76... ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SK",
+        "N": "CK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A98... KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A98... KT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A98... KT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A98... KT4... 76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A98... KT4... 76...K ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "HJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A98... KT4... 76...K ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "HJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "T",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low)"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A98... KT4... 7...K ..J.AQ",
+      "trick_cards": {
+        "N": "S6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low)"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A98... KT4... 7...K ..J.A",
+      "trick_cards": {
+        "N": "S6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low)"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A9... KT4... 7...K ..J.A",
+      "trick_cards": {
+        "S": "S8",
+        "N": "S6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low)"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A9... K4... 7...K ..J.A",
+      "trick_cards": {
+        "S": "S8",
+        "W": "ST",
+        "N": "S6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low)"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A9... K4... 7...K ..J.A",
+      "trick_cards": {
+        "S": "S8",
+        "W": "ST",
+        "N": "S6",
+        "E": "CQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A98... KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A98... KJT... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "S4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A98... KJT... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "S4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A98... KJT... Q7...K .J.J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "S4",
+        "N": "S6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A98... KJT... Q7...K ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "S4",
+        "N": "S6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A98... KJT... Q7...K ..J.AQ",
+      "trick_cards": {
+        "S": "H5",
+        "W": "S4",
+        "N": "S6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A98... KJT... Q7... ..J.AQ",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A98... KJT... Q7... ..J.Q",
+      "trick_cards": {
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:98... KJT... Q7... ..J.Q",
+      "trick_cards": {
+        "S": "SA",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:98... KJ... Q7... ..J.Q",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:98... KJ... Q7... ..J.Q",
+      "trick_cards": {
+        "S": "SA",
+        "W": "ST",
+        "N": "CK",
+        "E": "CA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South must reach this position. On the lead of South's heart West has no winning play. If he ruffs with the ♠K, West will be endplayed into giving up his second natural trump trick. If instead West ruffs with a middle spade, dummy overruffs with the ♠Q. South ducks a spade to West (or ruffs a club low) and once again West is endplayed in trump. Finally, if West ruffs with the ♠4, dummy overruffs. Dummy's club is ruffed with the ♠A and a spade is led toward dummy's ♠Q."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ],
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "Q",
+            "T",
+            "7",
+            "6"
+          ],
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems)."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.KQ4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.Q4.K543 .AJT9.JT98.AQT76",
+      "trick_cards": {
+        "W": "D5",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A9832.5432.A32.2 KJT4.876.76.J98 Q765.KQ.Q4.K543 .AJT9.JT9.AQT76",
+      "trick_cards": {
+        "W": "D5",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A9832.5432.A3.2 KJT4.876.76.J98 Q765.KQ.Q4.K543 .AJT9.JT9.AQT76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A9832.5432.A3.2 KJT4.876.76.J98 Q765.KQ.Q4.K543 .AJT9.JT9.AQT76",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best)."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A9832.5432.A3.2 KJT4.876.76.J98 Q765.Q.Q4.K543 .AJT9.JT9.AQT76",
+      "trick_cards": {
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best)."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A9832.5432.A3.2 KJT4.876.76.J98 Q765.Q.Q4.K543 .AJT.JT9.AQT76",
+      "trick_cards": {
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best)."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A9832.543.A3.2 KJT4.876.76.J98 Q765.Q.Q4.K543 .AJT.JT9.AQT76",
+      "trick_cards": {
+        "S": "H2",
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best)."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A9832.543.A3.2 KJT4.87.76.J98 Q765.Q.Q4.K543 .AJT.JT9.AQT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best)."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A9832.543.A3.2 KJT4.87.76.J98 Q765.Q.Q4.K543 .AJT.JT9.AQT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HK",
+        "E": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine)."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A9832.543.A3.2 KJT4.87.76.J98 Q765.Q.Q4.K54 .AJT.JT9.AQT76",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine)."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A9832.543.A3.2 KJT4.87.76.J98 Q765.Q.Q4.K54 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine)."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.J98 Q765.Q.Q4.K54 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "S": "C2",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine)."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.J9 Q765.Q.Q4.K54 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Assuming West has 4 spades, he must have 3 diamonds for the contract to have a chance. The only possible distribution that East can have is 0445 (some players open 1♦ instead of 1♣ with this pattern to avoid rebid problems). The timing must be precise. First, South must win the opening lead in dummy. A heart must be led at trick 2. Assume East ducks (best). South must surrender a club trick next (leading either the ♣K or a low club is fine)."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.J9 Q765.Q.Q4.K54 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.9 Q765.Q.Q4.K54 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT7",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:A9832.543.A3. KJT4.87.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:A983.543.A3. KJT4.87.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:A983.543.A3. KJT4.87.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "S": "S2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:A983.54.A3. KJT4.87.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:A983.54.A3. KJT4.8.76.9 Q765.Q.Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:A983.54.A3. KJT4.8.76.9 Q765..Q4.K5 .AJT.JT9.AQT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:A983.54.A3. KJT4.8.76.9 Q765..Q4.K5 .JT.JT9.AQT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:A983.54.A3. KJT4.8.76.9 Q765..Q4.K5 .JT.JT9.AQT",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H7",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "A",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success)."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:A983.54.A3. KJT4.8.76.9 Q765..Q4.K5 .JT.JT9.AQ",
+      "trick_cards": {
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success)."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:A98.54.A3. KJT4.8.76.9 Q765..Q4.K5 .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "S3",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success)."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:A98.54.A3. KJT4.8.76. Q765..Q4.K5 .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C9",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success)."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:A98.54.A3. KJT4.8.76. Q765..Q4.K .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C9",
+        "N": "C5",
+        "E": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success)."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:A98.54.A3. KJT4.8.76. Q765..Q4.K .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "S3",
+        "W": "C9",
+        "N": "C5",
+        "E": "CT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:A98.5.A3. KJT4.8.76. Q765..Q4.K .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q765..Q4.K .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q76..Q4.K .JT.JT9.AQ",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q76..Q4.K .J.JT9.AQ",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "S5",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q76..Q4.K .J.JT9.AQ",
+      "trick_cards": {
+        "S": "H4",
+        "W": "H8",
+        "N": "S5",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q76..4.K .J.JT9.AQ",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:A98.5.A3. KJT4..76. Q76..4.K .J.JT.AQ",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:A98.5.A. KJT4..76. Q76..4.K .J.JT.AQ",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:A98.5.A. KJT4..7. Q76..4.K .J.JT.AQ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D6",
+        "N": "DQ",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:A98.5.A. KJT4..7. Q76...K .J.JT.AQ",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:A98.5.A. KJT4..7. Q76...K .J.J.AQ",
+      "trick_cards": {
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:A98.5.. KJT4..7. Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "DA",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:A98.5.. KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand."
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:A98.5.. KJT4... Q76...K .J.J.AQ",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D4",
+        "E": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "5"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The defense can do no better than return a club for South to ruff. South must now surrender a heart trick to East's ♥A. East returns a low club (nothing is better) and South ruffs (pitching the ♦3 will also lead to success). South continues with a heart ruff in dummy followed by 2 rounds of diamonds ending in the closed hand. The desired end position has been reached and the lead of South's last heart will hold West to only 1 trump trick."
+    }
+  ]
+}

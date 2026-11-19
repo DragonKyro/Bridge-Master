@@ -1,0 +1,763 @@
+{
+  "title": "Level 1 (Beginner) - A-7",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-7",
+  "deal_pbn": "S:KQT9.J32.AKQ.KQJ J876.T98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HT",
+  "par_tricks": 13,
+  "notes": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy.\n\nThe only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard and the ♠10 can now be led through West. Whether or not West covers, South will always have 4 tricks.\n\nThis plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next. A finessing position remains over East's ♠J.",
+  "commentary_paragraphs": [
+    "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy.",
+    "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard and the ♠10 can now be led through West. Whether or not West covers, South will always have 4 tricks.",
+    "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next. A finessing position remains over East's ♠J."
+  ],
+  "play_sequence": [
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.T98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.T98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.T98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.T98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J8.T987.8765.654 A5432.AKQ.J2.A32 76.654.T943.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J87.T987.876.654 A5432.AKQ.J2.A32 6.654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J87.T987.876.654 A5432.AKQ.J2.A32 6.654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J87.T987.876.654 A5432.AKQ.J2.A32 6.654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J87.T987.876.654 A5432.AKQ.J2.A32 6.654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J87.T987.876.654 A5432.AKQ.J2.A32 6.654.T9543.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.98.876.654 A5432.AKQ.J2.A32 .7654.T9543.T987",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .7654.T9543.T987",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQT9.J32.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has 3 tricks in each of hearts, diamonds, and clubs. 4 tricks are required from spades. If the spades break 2-2 or 3-1, the ♠J will fall after the ♠A, ♠K, and ♠Q are played, making the ♠10 high. West's heart opening lead is won in dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A5432.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A543.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A543.AK.J2.A32 .765.T9543.T987",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ J876.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "N": "S2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ J876.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ J87.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ J87.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S6",
+        "N": "S2",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard and the ♠10 can now be led through West."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q9.J3.AKQ.KQJ J87.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard and the ♠10 can now be led through West."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q9.J3.AKQ.KQJ J87.98.876.654 A543.AK.J2.A32 .76.T9543.T987",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only danger is when one of the defenders has 4 spades. When West has 4 spades, it is necessary not to play the ♠A on the first round of the suit. The first spade honour to be cashed must be the ♠K or ♠Q. East will discard and the ♠10 can now be led through West. Whether or not West covers, South will always have 4 tricks."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ .987.T9876.T9876 A5432.AK.J2.A2 J876.65.543.543",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "This plan also works when East is the one with 4 spades."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ .987.T9876.T9876 A543.AK.J2.A2 J876.65.543.543",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQT9.J3.AKQ.KQJ .987.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ .987.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ .987.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ .98.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H7",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QT9.J3.AKQ.KQJ .98.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "H7",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QT.J3.AKQ.KQJ .98.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QT.J3.AKQ.KQJ .9.T9876.T9876 A543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QT.J3.AKQ.KQJ .9.T9876.T9876 543.AK.J2.A2 J87.65.543.543",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8",
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QT.J3.AKQ.KQJ .9.T9876.T9876 543.AK.J2.A2 J8.65.543.543",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QT.J3.AKQ.KQJ .9.T9876.T9876 543.AK.J2.A2 J8.65.543.543",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H8",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "This plan also works when East is the one with 4 spades. After West shows out when the ♠K or ♠Q is played by South, the ♠A is cashed next. A finessing position remains over East's ♠J."
+    }
+  ]
+}

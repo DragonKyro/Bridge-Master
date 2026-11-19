@@ -1,0 +1,486 @@
+{
+  "title": "Level 5 (World Class) - B-21",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "B-21",
+  "deal_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ65 AKQ.K32.AKQ43.32 JT.8765.JT987.A4",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "C5",
+  "par_tricks": 9,
+  "notes": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West. West switches to the ♥Q.\n\nSouth has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour. South's ♥10 and ♥9 represent a sure hand entry to reach the good clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West. West switches to the ♥Q.",
+    "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour. South's ♥10 and ♥9 represent a sure hand entry to reach the good clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ65 AKQ.K32.AKQ43.32 JT.8765.JT987.A4",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.32 JT.8765.JT987.A4",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.32 JT.8765.JT987.A4",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.A4",
+      "trick_cards": {
+        "W": "C5",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:5432.AT9.2.JT987 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.4",
+      "trick_cards": {
+        "W": "C5",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:5432.AT9.2.JT98 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.4",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:5432.AT9.2.JT98 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.4",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C5",
+        "N": "C2",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:5432.AT9.2.JT98 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.QJ4.65.KQ6 AKQ.K32.AKQ43.3 JT.8765.JT987.",
+      "trick_cards": {
+        "S": "CJ",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.QJ4.65.K6 AKQ.K32.AKQ43.3 JT.8765.JT987.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.QJ4.65.K6 AKQ.K32.AKQ43. JT.8765.JT987.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.QJ4.65.K6 AKQ.K32.AKQ43. JT.8765.JT987.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CQ",
+        "N": "C3",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West. West switches to the ♥Q."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.J4.65.K6 AKQ.K32.AKQ43. JT.8765.JT987.",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣5 against 3NT. West's club lead goes to East's ♣A. East returns a club won by West. West switches to the ♥Q."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.J4.65.K6 AKQ.K32.AKQ43. JT.8765.JT987.",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A!"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.J4.65.K6 AKQ.32.AKQ43. JT.8765.JT987.",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A!"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:5432.AT9.2.T98 9876.J4.65.K6 AKQ.32.AKQ43. JT.876.JT987.",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A!"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:5432.T9.2.T98 9876.J4.65.K6 AKQ.32.AKQ43. JT.876.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A!"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:5432.T9.2.T98 9876.J4.65.K6 AKQ.32.AKQ43. JT.876.JT987.",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HQ",
+        "N": "HK",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:5432.T9.2.98 9876.J4.65.K6 AKQ.32.AKQ43. JT.876.JT987.",
+      "trick_cards": {
+        "S": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:5432.T9.2.98 9876.J4.65.6 AKQ.32.AKQ43. JT.876.JT987.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:5432.T9.2.98 9876.J4.65.6 AKQ.32.AKQ4. JT.876.JT987.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:5432.T9.2.98 9876.J4.65.6 AKQ.32.AKQ4. JT.876.JT98.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:5432.T9.2.98 9876.J4.65.6 AKQ.32.AKQ4. JT.876.JT98.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "CK",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "9",
+            "8"
+          ],
+          "H": [
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has only one sure way to make the contract. He must cover the ♥Q with dummy's ♥K and cover again with the ♥A! South can force out West's remaining club honour. South's ♥10 and ♥9 represent a sure hand entry to reach the good clubs."
+    }
+  ]
+}

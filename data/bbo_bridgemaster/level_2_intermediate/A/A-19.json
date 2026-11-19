@@ -1,0 +1,606 @@
+{
+  "title": "Level 2 (Intermediate) - A-19",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-19",
+  "deal_pbn": "S:AK32.K32.432.KQJ QJT9.T98.65.T987 54.AQJ.AQT987.A2 876.7654.KJ.6543",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 12,
+  "notes": "South should win the opening lead as he may have to lose a diamond trick. South has 8 top tricks (2 spades, 3 hearts, and 3 clubs) outside of diamonds. South can afford to lose a trick in diamonds. South should thus gear his play towards maximizing his chances of losing only 1 diamond trick.\n\nIf South starts by leading a diamond to dummy's ♦10 or ♦Q, East may win cheaply leaving South with a critical guess on the second round of the suit. Should South finesse again or play for the drop of the outstanding honour?\n\nSouth can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand to play another diamond towards the dummy.\n\nBy playing diamonds in this way, South will succeed unless East has 3 or more diamonds including the ♦K and ♦J. In this case, the contract cannot be made.",
+  "commentary_paragraphs": [
+    "South should win the opening lead as he may have to lose a diamond trick. South has 8 top tricks (2 spades, 3 hearts, and 3 clubs) outside of diamonds. South can afford to lose a trick in diamonds. South should thus gear his play towards maximizing his chances of losing only 1 diamond trick.",
+    "If South starts by leading a diamond to dummy's ♦10 or ♦Q, East may win cheaply leaving South with a critical guess on the second round of the suit. Should South finesse again or play for the drop of the outstanding honour?",
+    "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand to play another diamond towards the dummy.",
+    "By playing diamonds in this way, South will succeed unless East has 3 or more diamonds including the ♦K and ♦J. In this case, the contract cannot be made."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "H8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK32.K32.432.KQJ QJT9.T98.65.T987 54.AQJ.AQT987.A2 876.7654.KJ.6543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK32.K32.432.KQJ JT9.T98.65.T987 54.AQJ.AQT987.A2 876.7654.KJ.6543",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 876.7654.KJ.6543",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead as he may have to lose a diamond trick."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q"
+          ],
+          "H": [
+            "K"
+          ],
+          "S": [
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead as he may have to lose a diamond trick. South has 8 top tricks (2 spades, 3 hearts, and 3 clubs) outside of diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should win the opening lead as he may have to lose a diamond trick. South has 8 top tricks (2 spades, 3 hearts, and 3 clubs) outside of diamonds. South can afford to lose a trick in diamonds. South should thus gear his play towards maximizing his chances of losing only 1 diamond trick."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.K32.432.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.65.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.6.T987 5.AQJ.AQT987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.6.T987 5.AQJ.AQ987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.6.T987 5.AQJ.AQ987.A2 87.7654.KJ.6543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q, East may win cheaply"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.6.T987 5.AQJ.AQ987.A2 87.7654.K.6543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT",
+        "E": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q, East may win cheaply"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.6.T987 5.AQJ.AQ987.A2 87.7654.K.6543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT",
+        "E": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If South starts by leading a diamond to dummy's ♦10 or ♦Q, East may win cheaply leaving South with a critical guess on the second round of the suit. Should South finesse again or play for the drop of the outstanding honour?"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQJ.AQT987.A2 87.7654.6.76543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQJ.QT987.A2 87.7654.6.76543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQJ.QT987.A2 87.7654.6.76543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQJ.QT987.A2 87.7654..76543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQJ.QT987.A2 87.7654..76543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQ.QT987.A2 87.7654..76543",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K32.K32.43.KQJ JT9.T98.KJ.T98 5.AQ.QT987.A2 87.765..76543",
+      "trick_cards": {
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K32.32.43.KQJ JT9.T98.KJ.T98 5.AQ.QT987.A2 87.765..76543",
+      "trick_cards": {
+        "S": "HK",
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K32.32.43.KQJ JT9.T9.KJ.T98 5.AQ.QT987.A2 87.765..76543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K32.32.43.KQJ JT9.T9.KJ.T98 5.AQ.QT987.A2 87.765..76543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand to play another diamond"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K32.32.43.KQJ JT9.T9.KJ.T98 5.AQ.QT987.A2 87.765..76543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can avoid this dilemma by taking North's ♦A on the first round of the suit. If both defenders follow small, South can return to his hand to play another diamond towards the dummy."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K32.32.43.KQJ JT9.T9..T9876 5.AQ.QT987.A2 87.765.KJ.543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "By playing diamonds in this way, South will succeed unless East has 3 or more diamonds including the ♦K and ♦J. In this case, the contract cannot be made."
+    }
+  ]
+}

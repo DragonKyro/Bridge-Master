@@ -1,0 +1,843 @@
+{
+  "title": "Level 2 (Intermediate) - C-20",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-20",
+  "deal_pbn": "S:32.AK2.Q32.KQJT9 AJ987.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S8",
+  "par_tricks": 9,
+  "notes": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds, and 4 clubs). The only danger is that the defense may be able to take 4 spade tricks after they win the ♣A.\n\nDefenders typically lead the fourth best card from their longest and strongest suit against no trump contracts. West's lead of the ♠8 could be from several possible holdings. The main danger on this deal is that West has a 5 card spade suit along with the ♣A.\n\nIf the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q and he will be able to cash out his spades upon winning the ♣A.\n\nOn the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit. If East wins at trick 1, dummy's remaining spades will provide two stoppers.\n\nPlaying low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit. If West has the ♠A, ♠K, and ♠J it is necessary to play the ♠10 at trick 1. Both of these alternative plays cater to 1 distribution of the outstanding spade honours.\n\nThe recommended play of ducking caters to 2 distributions: West holding both the ♠A and ♠J and West holding both the ♠K and ♠J. South should therefore duck in dummy at trick 1.",
+  "commentary_paragraphs": [
+    "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds, and 4 clubs). The only danger is that the defense may be able to take 4 spade tricks after they win the ♣A.",
+    "Defenders typically lead the fourth best card from their longest and strongest suit against no trump contracts. West's lead of the ♠8 could be from several possible holdings. The main danger on this deal is that West has a 5 card spade suit along with the ♣A.",
+    "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q and he will be able to cash out his spades upon winning the ♣A.",
+    "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit. If East wins at trick 1, dummy's remaining spades will provide two stoppers.",
+    "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit. If West has the ♠A, ♠K, and ♠J it is necessary to play the ♠10 at trick 1. Both of these alternative plays cater to 1 distribution of the outstanding spade honours.",
+    "The recommended play of ducking caters to 2 distributions: West holding both the ♠A and ♠J and West holding both the ♠K and ♠J. South should therefore duck in dummy at trick 1."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "SK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ987.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠8 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds, and 4 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds, and 4 clubs). The only danger is that the defense may be able to take 4 spade tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠8 against 3NT. After South knocks out the ♣A, he will have more than enough tricks (3 hearts, 3 diamonds, and 4 clubs). The only danger is that the defense may be able to take 4 spade tricks after they win the ♣A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Defenders typically lead the fourth best card from their longest and strongest suit against no trump contracts. West's lead of the ♠8 could be from several possible holdings."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Defenders typically lead the fourth best card from their longest and strongest suit against no trump contracts. West's lead of the ♠8 could be from several possible holdings. The main danger on this deal is that West has a 5 card spade suit"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Defenders typically lead the fourth best card from their longest and strongest suit against no trump contracts. West's lead of the ♠8 could be from several possible holdings. The main danger on this deal is that West has a 5 card spade suit along with the ♣A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "ST",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:3.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 6.8765.765.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "ST",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:3.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 6.8765.765.8765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S8",
+        "N": "ST",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:3.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ97.JT9.JT98.A Q54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ9.JT9.JT98.A Q54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ9.JT9.JT98.A 54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ9.JT9.JT98.A 54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q and he will be able to cash out his spades"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AK2.Q32.KQJT9 AJ9.JT9.JT98.A 54.Q43.AK4.432 .8765.765.8765",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If the ♠10 is played from dummy and the defenders' spades are distributed as above, East will win the trick and return the suit. West will drive out the ♠Q and he will be able to cash out his spades upon winning the ♣A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "T",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 K.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 K.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit. If East wins at trick 1,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit. If East wins at trick 1,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT5.Q43.AK4.432 6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8",
+        "N": "S4",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "On the given lie of the cards, South can succeed only by playing low from dummy at trick 1. If East ducks, the blockage in the spade suit will prevent the defense from being able to establish and cash that suit. If East wins at trick 1, dummy's remaining spades will provide two stoppers."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AK97.JT9.JT98.A QT54.Q43.AK4.432 J6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "T",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AK97.JT9.JT98.A QT54.Q43.AK4.432 J6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AK97.JT9.JT98.A QT54.Q43.AK4.432 J6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AKJ7.JT9.JT98.A QT54.Q43.AK4.432 96.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit. If West has the ♠A, ♠K, and ♠J"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AKJ7.JT9.JT98.A QT54.Q43.AK4.432 96.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit. If West has the ♠A, ♠K, and ♠J it is necessary to play the ♠10 at trick 1."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AKJ7.JT9.JT98.A QT54.Q43.AK4.432 96.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing low from dummy at trick 1 does not guarantee the contract. If West has both the ♠A and ♠K, it is necessary to play the ♠Q at trick 1 to block the suit. If West has the ♠A, ♠K, and ♠J it is necessary to play the ♠10 at trick 1. Both of these alternative plays cater to 1 distribution of the outstanding spade honours."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AKJ7.JT9.JT98.A QT54.Q43.AK4.432 96.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The recommended play of ducking caters to 2 distributions:"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 AJ97.JT9.JT98.A QT54.Q43.AK4.432 K6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The recommended play of ducking caters to 2 distributions: West holding both the ♠A and ♠J"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 KJ97.JT9.JT98.A QT54.Q43.AK4.432 A6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The recommended play of ducking caters to 2 distributions: West holding both the ♠A and ♠J and West holding both the ♠K and ♠J."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:32.AK2.Q32.KQJT9 KJ97.JT9.JT98.A QT54.Q43.AK4.432 A6.8765.765.8765",
+      "trick_cards": {
+        "W": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "The recommended play of ducking caters to 2 distributions: West holding both the ♠A and ♠J and West holding both the ♠K and ♠J. South should therefore duck in dummy at trick 1."
+    }
+  ]
+}

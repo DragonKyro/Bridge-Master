@@ -1,0 +1,842 @@
+{
+  "title": "Level 4 (Expert) - A-30",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-30",
+  "deal_pbn": "S:AK.AKQ.K932.QJT9 QJT.JT98.AT87.76 432.32.QJ654.AK2 98765.7654..8543",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠Q which South wins. South needs to play diamonds for 3 tricks. South's other 9 tricks will come from 2 spade tricks, 3 heart tricks, and 4 club tricks.\n\nThe only problem will occur when West started with all 4 diamonds. South should play a diamond to the ♦Q or ♦J early.\n\nWhen East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left. When South leads the ♦K West is held to 1 diamond trick no matter how he defends.\n\nSouth will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs. South starts by cashing clubs. After the clubs are cashed, South may have to guess West's remaining major suit distribution and cash the suit that can be eliminated from West's hand.\n\nSouth will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts.\n\nSouth's remaining spade honour will strip West's last non-diamond. The ♦K can now be played forcing West to surrender.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q which South wins. South needs to play diamonds for 3 tricks. South's other 9 tricks will come from 2 spade tricks, 3 heart tricks, and 4 club tricks.",
+    "The only problem will occur when West started with all 4 diamonds. South should play a diamond to the ♦Q or ♦J early.",
+    "When East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left. When South leads the ♦K West is held to 1 diamond trick no matter how he defends.",
+    "South will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs. South starts by cashing clubs. After the clubs are cashed, South may have to guess West's remaining major suit distribution and cash the suit that can be eliminated from West's hand.",
+    "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts.",
+    "South's remaining spade honour will strip West's last non-diamond. The ♦K can now be played forcing West to surrender."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.AKQ.K932.QJT9 QJT.JT98.AT87.76 432.32.QJ654.AK2 98765.7654..8543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.AKQ.K932.QJT9 JT.JT98.AT87.76 432.32.QJ654.AK2 98765.7654..8543",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.AKQ.K932.QJT9 JT.JT98.AT87.76 432.32.QJ654.AK2 98765.7654..8543",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 98765.7654..8543",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q which South wins. South needs to play diamonds for 3 tricks. South's other 9 tricks will come from 2 spade tricks, 3 heart tricks, and 4 club tricks."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The only problem will occur when West started with all 4 diamonds."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.AKQ.K932.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "9",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The only problem will occur when West started with all 4 diamonds. South should play a diamond"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT87.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only problem will occur when West started with all 4 diamonds. South should play a diamond"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only problem will occur when West started with all 4 diamonds. South should play a diamond"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.QJ654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The only problem will occur when West started with all 4 diamonds. South should play a diamond to the ♦Q or ♦J early."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The only problem will occur when West started with all 4 diamonds. South should play a diamond to the ♦Q or ♦J early."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..8543",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "8",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "When East shows out"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..854",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East shows out"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..854",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When East shows out South's only chance is to lead the ♦K"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:..K93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "HJ",
+        "N": "D4",
+        "E": "S7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "When East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:..K93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "HJ",
+        "N": "D4",
+        "E": "S7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "When East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left. When South leads the ♦K"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:..93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left. When South leads the ♦K"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:..93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "When East shows out South's only chance is to lead the ♦K at a point when West has only diamonds left. When South leads the ♦K West is held to 1 diamond trick no matter how he defends."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..854",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.AKQ.K93.QJT9 JT.JT98.AT8.76 43.32.Q654.AK2 9876.7654..854",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "DJ",
+        "E": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs. South starts by cashing clubs."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.AKQ.K93. JT.JT.AT8. 43.3.Q654. 987.7654..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H9",
+        "N": "H2",
+        "E": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T"
+          ],
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs. South starts by cashing clubs. After the clubs are cashed, South may have to guess West's remaining major suit distribution"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.AKQ.K93. JT.JT.AT8. 43.3.Q654. 987.7654..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H9",
+        "N": "H2",
+        "E": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will be able to squeeze the West hand down to all diamonds as long as West began with fewer than 5 clubs. South starts by cashing clubs. After the clubs are cashed, South may have to guess West's remaining major suit distribution and cash the suit that can be eliminated from West's hand."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.AKQ.K93. JT.JT.AT8. 43.3.Q654. 987.7654..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H9",
+        "N": "H2",
+        "E": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.AKQ.K93. JT.JT.AT8. 43.3.Q654. 987.7654..",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "H9",
+        "N": "H2",
+        "E": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A..K93. JT..AT8. 4..Q654. 987.76..",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A..K93. J..AT8. 4..Q654. 987.76..",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "ST"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A..K93. J..AT8. 4..Q65. 987.76..",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "ST",
+        "N": "D4"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A..K93. J..AT8. 4..Q65. 987.7..",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "ST",
+        "N": "D4",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will usually have some idea as to which suit to play next from West's discards on the clubs. In the absence of any such information, hearts should next be played as there is 1 more winner in hearts than in spades. West is forced to pitch a spade on the third round of hearts."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A..K93. J..AT8. 4..Q65. 987.7..",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "ST",
+        "N": "D4",
+        "E": "H6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South's remaining spade honour"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:..K93. J..AT8. 4..Q65. 987.7..",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's remaining spade honour"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:..K93. J..AT8. 4..Q65. 987.7..",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South's remaining spade honour will strip West's last non-diamond."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:..K93. ..AT8. 4..Q65. 987.7..",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's remaining spade honour will strip West's last non-diamond."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:..K93. ..AT8. ..Q65. 987.7..",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "S4"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's remaining spade honour will strip West's last non-diamond."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:..K93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's remaining spade honour will strip West's last non-diamond."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:..K93. ..AT8. ..Q65. 98.7..",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "S4",
+        "E": "S7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South's remaining spade honour will strip West's last non-diamond. The ♦K can now be played forcing West to surrender."
+    }
+  ]
+}

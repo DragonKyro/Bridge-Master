@@ -1,0 +1,1245 @@
+{
+  "title": "Level 2 (Intermediate) - D-20",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-20",
+  "deal_pbn": "S:KQ2.K32.QJT9.AKQ AJT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+  "contract": "4NT",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2S",
+    "Pass",
+    "Pass",
+    "3NT",
+    "Pass",
+    "4NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs). South can come to an extra trick in both spades and hearts, but careful play is required in order to avoid losing several tricks in one of the major suits.\n\nWhen East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A and a spade return by East through South's remaining honor will allow the defense to run that suit.\n\nWest's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit, East will be unable to return a spade after winning his ♥A.\n\nWest does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail. East will play low and South's ♥K will win the trick (ducking the ♥K would be immediately fatal as the defenders are in a position to cash their major-suit Aces to set the contract).\n\nSouth will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem, but he cannot afford to continue hearts without giving South a trick with dummy's ♥9.\n\nIn practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns).\n\nSouth has lost only 3 tricks. He has established the 2 extra winners he needs and now has full control of both major suits. South can win whatever suit West returns and easily win the balance of the tricks to make the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs). South can come to an extra trick in both spades and hearts, but careful play is required in order to avoid losing several tricks in one of the major suits.",
+    "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A and a spade return by East through South's remaining honor will allow the defense to run that suit.",
+    "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit, East will be unable to return a spade after winning his ♥A.",
+    "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail. East will play low and South's ♥K will win the trick (ducking the ♥K would be immediately fatal as the defenders are in a position to cash their major-suit Aces to set the contract).",
+    "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem, but he cannot afford to continue hearts without giving South a trick with dummy's ♥9.",
+    "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns).",
+    "South has lost only 3 tricks. He has established the 2 extra winners he needs and now has full control of both major suits. South can win whatever suit West returns and easily win the balance of the tricks to make the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 52,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 53,
+      "seat": "N",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AJT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 4NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs)."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs). South can come to an extra trick in both spades"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs). South can come to an extra trick in both spades and hearts,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 4NT. South has 8 top tricks (4 diamonds and 4 clubs). South can come to an extra trick in both spades and hearts, but careful play is required in order to avoid losing several tricks in one of the major suits."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 43.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "When East follows small to the first trick,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 65.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "9",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K2.K3.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K2.K3.QJT9.AKQ AT987.T.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K2.K3.QJT9.AKQ AT987.T.4.5432 4.94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K2.K3.QJT9.AKQ AT987.T.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K2.K3.QJT9.AKQ AT987.T.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H5",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East follows small to the first trick, South has a critical decision to make. If South wins the ♠Q or ♠K the contract will fail. East will eventually gain the lead with the ♥A and a spade return by East through South's remaining honor will allow the defense to run that suit."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ2.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1!"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1!"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ T987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ T987.T5.4.5432 .Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ T987.T5.4.5432 .Q94.AK32.JT98 .AJ876.8765.76",
+      "trick_cards": {
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K.K32.QJT9.AKQ T987.T5.4.5432 .Q94.AK32.JT98 .AJ876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K.K32.QJT9.AKQ T98.T5.4.5432 .Q94.AK32.JT98 .AJ876.8765.76",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K.K32.QJT9.AKQ T98.T5.4.5432 .Q94.AK3.JT98 .AJ876.8765.76",
+      "trick_cards": {
+        "W": "S7",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K.K32.QJT9.AKQ T98.T5.4.5432 .Q94.AK3.JT98 .AJ876.876.76",
+      "trick_cards": {
+        "W": "S7",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.K32.QJT9.AKQ T98.T5.4.5432 .Q94.AK3.JT98 .AJ876.876.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.K32.QJT9.AKQ T98.T5.4.5432 .Q94.AK3.JT98 .AJ876.876.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S7",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's weak 2♠ opening suggests that the actual layout of the majors is to be expected. South can neutralize West's spade suit by playing the ♠2 from his hand at trick 1! The result of this hold up play is that, if West continues spades to clear the suit, East will be unable to return a spade after winning his ♥A."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.T5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades)."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades)."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail. East will play low and South's ♥K will win the trick (ducking the ♥K would be immediately fatal as the defenders are in a position to cash their major-suit Aces to set the contract)."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail. East will play low and South's ♥K will win the trick (ducking the ♥K would be immediately fatal as the defenders are in a position to cash their major-suit Aces to set the contract)."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ.32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HT",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West does better by switching to the ♥10 after the ♠J holds the first trick (instead of clearing the spades). Once again South must be alert - if he plays a low heart from the dummy the contract will fail. East will play low and South's ♥K will win the trick (ducking the ♥K would be immediately fatal as the defenders are in a position to cash their major-suit Aces to set the contract)."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ.32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HT",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q.32.QJT9.AKQ AT987.5.4.5432 4.Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q.32.QJT9.AKQ T987.5.4.5432 4.Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q.32.QJT9.AKQ T987.5.4.5432 .Q9.AK32.JT98 6.AJ76.8765.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q.32.QJT9.AKQ T987.5.4.5432 .Q9.AK32.JT98 .AJ76.8765.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:Q.32.QJT9.AKQ T987.5.4.5432 .Q9.AK32.JT98 .AJ76.8765.76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.Q94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high)."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high)."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.AJ876.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KQ.K32.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "W": "HT",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQ.K3.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem,"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KQ.K3.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "9",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South will have to knock out the ♠A in order to come to 10 tricks, but the defense will now be in a position to run the heart suit and defeat 4NT. South can counter this danger by covering West's ♥10 switch with dummy's ♥Q (second hand high). East must win the ♥A in order to cause any problem, but he cannot afford to continue hearts without giving South a trick with dummy's ♥9."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KQ.K3.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 6.J876.8765.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns)."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KQ.K3.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 .J876.8765.76",
+      "trick_cards": {
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns)."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:K.K3.QJT9.AKQ AT987.5.4.5432 4.94.AK32.JT98 .J876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns)."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:K.K3.QJT9.AKQ T987.5.4.5432 4.94.AK32.JT98 .J876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns)."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:K.K3.QJT9.AKQ T987.5.4.5432 .94.AK32.JT98 .J876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "In practice, East will revert to spades, but in doing so he will be helping to set up South's 10th trick (not that it matters - the contract is now safe regardless of what East returns)."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:K.K3.QJT9.AKQ T987.5.4.5432 .94.AK32.JT98 .J876.8765.76",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SA",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ],
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has lost only 3 tricks. He has established the 2 extra winners he needs and now has full control of both major suits. South can win whatever suit West returns and easily win the balance of the tricks to make the contract."
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "title": "Level 1 (Beginner) - A-9",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-9",
+  "deal_pbn": "S:AT2.K54.987.AK76 K9876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "Pass",
+    "1NT",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S9",
+  "par_tricks": 9,
+  "notes": "West leads the ♠9 against South's 3NT contract. South will have to knock out the ♦A to make his contract. There is a danger that the defense will be able to take 4 spade tricks after winning the ♦A.\n\nIf South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds, he will fail when West has the ♦A.\n\nSouth can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A. South now has a guaranteed second spade stopper with his ♠10 and dummy's ♠J. The spade suit will also provide South's ninth trick after the ♦A is knocked out.",
+  "commentary_paragraphs": [
+    "West leads the ♠9 against South's 3NT contract. South will have to knock out the ♦A to make his contract. There is a danger that the defense will be able to take 4 spade tricks after winning the ♦A.",
+    "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds, he will fail when West has the ♦A.",
+    "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A. South now has a guaranteed second spade stopper with his ♠10 and dummy's ♠J. The spade suit will also provide South's ninth trick after the ♦A is knocked out."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "SA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AT2.K54.987.AK76 K9876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against South's 3NT contract."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠9 against South's 3NT contract."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against South's 3NT contract. South will have to knock out the ♦A to make his contract."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against South's 3NT contract. South will have to knock out the ♦A to make his contract. There is a danger that the defense will be able to take 4 spade tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠9 against South's 3NT contract. South will have to knock out the ♦A to make his contract. There is a danger that the defense will be able to take 4 spade tricks after winning the ♦A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT J3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 Q54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AT.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 54.QJT9.A654.98",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AT.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 4.QJT9.A654.98",
+      "trick_cards": {
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.K54.987.AK76 K876.876.32.QJT 3.A32.KQJT.5432 4.QJT9.A654.98",
+      "trick_cards": {
+        "S": "ST",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.K54.987.AK76 876.876.32.QJT 3.A32.KQJT.5432 4.QJT9.A654.98",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SK",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.K54.987.AK76 876.876.32.QJT .A32.KQJT.5432 4.QJT9.A654.98",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SK",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.K54.987.AK76 87.876.32.QJT .A32.KQJT.5432 4.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.K54.987.AK76 87.876.32.QJT .A32.KQJT.543 4.QJT9.A654.98",
+      "trick_cards": {
+        "W": "S6",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.K54.987.AK76 87.876.32.QJT .A32.KQJT.543 .QJT9.A654.98",
+      "trick_cards": {
+        "W": "S6",
+        "N": "C2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.K54.987.AK76 87.876.32.QJT .A32.KQJT.543 .QJT9.A654.98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "C2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.K54.987.AK76 87.876.A32.QJ .A32.KQJT.543 .QJT9.654.T98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S6",
+        "N": "C2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If South plays the ♠J from dummy and the suit is distributed as above, East will cover with the ♠Q, placing South in a dilemma. If South wins the ♠A, East may have the ♦A and be able to lead through South's ♠10. If South holds up the ♠A for 3 rounds, he will fail when West has the ♦A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.A32.QJ J3.A32.KQJT.5432 Q54.QJT9.654.T98",
+      "trick_cards": {
+        "W": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 Q54.QJT9.654.T98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 Q54.QJT9.654.T98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 54.QJT9.654.T98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AT2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 54.QJT9.654.T98",
+      "trick_cards": {
+        "W": "S9",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 54.QJT9.654.T98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 54.QJT9.654.T98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A. South now has a guaranteed second spade stopper with his ♠10 and dummy's ♠J."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:T2.K54.987.AK76 K876.876.A32.QJ J.A32.KQJT.5432 54.QJT9.654.T98",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can ensure his contract by playing the ♠3 from dummy at trick 1. East will play the ♠Q and South can comfortably win the ♠A. South now has a guaranteed second spade stopper with his ♠10 and dummy's ♠J. The spade suit will also provide South's ninth trick after the ♦A is knocked out."
+    }
+  ]
+}

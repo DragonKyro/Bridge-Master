@@ -1,0 +1,921 @@
+{
+  "title": "Level 4 (Expert) - A-22",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-22",
+  "deal_pbn": "S:AKQ.KQ.A32.KQ432 JT987.76.KJT9.76 432.AJ32.7654.A5 65.T9854.Q8.JT98",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "4NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks, 4 heart tricks, the ♦A, and at least 4 club tricks.\n\nHowever, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds. If a defender with 4 clubs also has 5 hearts he will be able to defeat the contract. When he gains the lead in clubs he will have a heart trick to cash.\n\nA safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked. South will have established a long club trick at a time when the defense cannot cash a heart trick. The ♣A is retained as an entry to dummy's hearts.",
+  "commentary_paragraphs": [
+    "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks, 4 heart tricks, the ♦A, and at least 4 club tricks.",
+    "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds. If a defender with 4 clubs also has 5 hearts he will be able to defeat the contract. When he gains the lead in clubs he will have a heart trick to cash.",
+    "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked. South will have established a long club trick at a time when the defense cannot cash a heart trick. The ♣A is retained as an entry to dummy's hearts."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 35,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "C8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.KQ.A32.KQ432 JT987.76.KJT9.76 432.AJ32.7654.A5 65.T9854.Q8.JT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.KQ.A32.KQ432 T987.76.KJT9.76 432.AJ32.7654.A5 65.T9854.Q8.JT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.KQ.A32.KQ432 T987.76.KJT9.76 432.AJ32.7654.A5 65.T9854.Q8.JT98",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 65.T9854.Q8.JT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J which South wins."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J which South wins."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J which South wins."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks, 4 heart tricks,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks, 4 heart tricks, the ♦A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J which South wins. It looks like 12 tricks should be easy if clubs break no worse than 4-2. South will have 3 spade tricks, 4 heart tricks, the ♦A, and at least 4 club tricks."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.KQ.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.Q.A32.KQ432 T987.76.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.Q.A32.KQ432 T987.7.KJT9.76 43.AJ32.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.Q.A32.KQ432 T987.7.KJT9.76 43.AJ3.7654.A5 6.T9854.Q8.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.Q.A32.KQ432 T987.7.KJT9.76 43.AJ3.7654.A5 6.T985.Q8.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK..A32.KQ432 T987.7.KJT9.76 43.AJ3.7654.A5 6.T985.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ3.7654.A5 6.T985.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ.7654.A5 6.T985.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.5 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.5 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "CA",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.J.7654.5 6.T98.Q8.JT9",
+      "trick_cards": {
+        "N": "HA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.J.7654.5 6.T9.Q8.JT9",
+      "trick_cards": {
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK..A3.KQ43 T987..KJT9.7 43.J.7654.5 6.T9.Q8.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK..A3.KQ43 T98..KJT9.7 43.J.7654.5 6.T9.Q8.JT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "S7",
+        "N": "HA",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK..A3.KQ43 T98..KJT9.7 43..7654.5 6.T9.Q8.JT9",
+      "trick_cards": {
+        "N": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK..A3.KQ43 T98..KJT9.7 43..7654.5 6.T.Q8.JT9",
+      "trick_cards": {
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK..A.KQ43 T98..KJT9.7 43..7654.5 6.T.Q8.JT9",
+      "trick_cards": {
+        "S": "D3",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK..A.KQ43 T9..KJT9.7 43..7654.5 6.T.Q8.JT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "S8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK..A.KQ43 T9..KJT9.7 43..7654.5 6.T.Q8.JT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "S8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ],
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "However, there is a danger. Suppose South cashes the ♥K and ♥Q, plays a club to the ♣A, and cashes dummy's hearts discarding diamonds. If a defender with 4 clubs also has 5 hearts he will be able to defeat the contract. When he gains the lead in clubs he will have a heart trick to cash."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK..A32.KQ432 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.76 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A5 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A 6.T98.Q8.JT98",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked. South will have established a long club trick"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked. South will have established a long club trick at a time when the defense cannot cash a heart trick."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AK..A32.KQ43 T987..KJT9.7 43.AJ.7654.A 6.T98.Q8.JT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "A safety play is available to guard against this distribution. After unblocking South's hearts, the first round of clubs should be ducked. South will have established a long club trick at a time when the defense cannot cash a heart trick. The ♣A is retained as an entry to dummy's hearts."
+    }
+  ]
+}

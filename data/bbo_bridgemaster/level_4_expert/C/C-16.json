@@ -1,0 +1,971 @@
+{
+  "title": "Level 4 (Expert) - C-16",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-16",
+  "deal_pbn": "S:A.K32.KQJ32.5432 QJ54.876.76.Q987 K9876.A54.54.AK6 T32.QJT9.AT98.JT",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "2H",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S4",
+  "par_tricks": 9,
+  "notes": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts, and 2 clubs). If diamonds are no worse than 4-2, it will be possible to develop 3 extra tricks in diamonds.\n\nIf South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick. If diamonds are 4-2, South will lack the hand entries to establish and cash 3 diamond tricks.\n\nSouth can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K to cash the long diamonds. North has entries in clubs to cash the ♠K.",
+  "commentary_paragraphs": [
+    "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts, and 2 clubs). If diamonds are no worse than 4-2, it will be possible to develop 3 extra tricks in diamonds.",
+    "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick. If diamonds are 4-2, South will lack the hand entries to establish and cash 3 diamond tricks.",
+    "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K to cash the long diamonds. North has entries in clubs to cash the ♠K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A.K32.KQJ32.5432 QJ54.876.76.Q987 K9876.A54.54.AK6 T32.QJT9.AT98.JT",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A.K32.KQJ32.5432 QJ5.876.76.Q987 K9876.A54.54.AK6 T32.QJT9.AT98.JT",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A.K32.KQJ32.5432 QJ5.876.76.Q987 K9876.A54.54.AK6 T32.QJT9.AT98.JT",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T32.QJT9.AT98.JT",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts, and 2 clubs)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts, and 2 clubs). If diamonds are no worse than 4-2,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 3NT. West's lead is won with the ♠A. There are 6 top tricks (2 spades, 2 hearts, and 2 clubs). If diamonds are no worse than 4-2, it will be possible to develop 3 extra tricks in diamonds."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond),"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond),"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.7.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT9.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT9.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick. If diamonds are 4-2,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.K32.QJ32.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT9.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South leads a top diamond at trick 2 (or crosses to dummy and leads a diamond), he will be allowed to win the trick. If diamonds are 4-2, South will lack the hand entries to establish and cash 3 diamond tricks."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.K32.KQJ32.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S6",
+        "E": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.76.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.54.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT98.JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT9.JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.QJT9.AT9.JT",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.K32.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.876.7.Q987 K987.A54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "S": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.87.7.Q987 K987.A54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.87.7.Q987 K987.54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HA",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.87.7.Q987 K987.54.5.AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H6",
+        "N": "HA",
+        "E": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.87.7.Q987 K987.54..AK6 T3.JT9.AT9.JT",
+      "trick_cards": {
+        "N": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.K3.KQJ3.5432 QJ5.87.7.Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.K3.QJ3.5432 QJ5.87.7.Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.K3.QJ3.5432 QJ5.87..Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.K3.QJ3.5432 QJ5.87..Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D7",
+        "N": "D5",
+        "E": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.87..Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.54..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.AT.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K to cash the long diamonds."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K to cash the long diamonds. North has entries in clubs"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.K3.J3.5432 QJ5.8..Q987 K987.5..AK6 T3.JT9.T.JT",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "H7",
+        "N": "H4",
+        "E": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can ensure the contract when diamonds are no worse than 4-2 by ducking a diamond trick immediately. If the defense switches to hearts, South must take care to win this trick in the dummy. Diamonds are continued, eventually forcing out the ♦A. South still has a hand entry in the ♥K to cash the long diamonds. North has entries in clubs to cash the ♠K."
+    }
+  ]
+}

@@ -1,0 +1,1149 @@
+{
+  "title": "Level 5 (World Class) - C-4",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-4",
+  "deal_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65.Q 87.K.AQ2.AJ98765 A.AJ9432.K43.T42",
+  "contract": "5S",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "4S",
+    "5H",
+    "5S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 11,
+  "notes": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff. West will return a diamond. When East has the ♦K (as expected) and West has the remaining 2 spades, the contract will fail.\n\nSouth can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high.\n\nSouth must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy. The dummy will win the rest of the tricks with the ♦A and 4 good clubs.",
+  "commentary_paragraphs": [
+    "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff. West will return a diamond. When East has the ♦K (as expected) and West has the remaining 2 spades, the contract will fail.",
+    "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high.",
+    "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy. The dummy will win the rest of the tricks with the ♦A and 4 good clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 49,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 50,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 51,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 52,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 53,
+      "seat": "E",
+      "card": "H4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65.Q 87.K.AQ2.AJ98765 A.AJ9432.K43.T42",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.AJ98765 A.AJ9432.K43.T42",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.AJ98765 A.AJ9432.K43.T42",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T42",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQJT92..JT987.3 6543.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQJT92..JT987.3 6543.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QJT92..JT987.3 6543.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QJT92..JT987.3 654.QT8765.65. 87.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QJT92..JT987.3 654.QT8765.65. 8.K.AQ2.AJ9876 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QJT92..JT987.3 654.QT8765.65. 8.K.AQ2.AJ9876 .AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QJT92..JT987.3 654.QT8765.65. 8.K.AQ2.AJ9876 .AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S3",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QJT92..JT987.3 654.QT8765.65. 8.K.AQ2.AJ9876 .AJ9432.K43.T",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QJT92..JT987. 654.QT8765.65. 8.K.AQ2.AJ9876 .AJ9432.K43.T",
+      "trick_cards": {
+        "S": "C3",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QJT92..JT987. 65.QT8765.65. 8.K.AQ2.AJ9876 .AJ9432.K43.T",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S4",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QJT92..JT987. 65.QT8765.65. 8.K.AQ2.AJ987 .AJ9432.K43.T",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S4",
+        "N": "C6",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QJT92..JT987. 65.QT8765.65. 8.K.AQ2.AJ987 .AJ9432.K43.T",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S4",
+        "N": "C6",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "6",
+            "5"
+          ],
+          "S": [
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "K",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♠. If South wins West's club opening lead (an obvious singleton) in the closed hand and drives out the ♠A, East will win and give West a club ruff. West will return a diamond. When East has the ♦K (as expected) and West has the remaining 2 spades, the contract will fail."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.AJ98765 A.AJ9432.K43.T42",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.J98765 A.AJ9432.K43.T42",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick)."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQJT92..JT987.K3 6543.QT8765.65. 87.K.AQ2.J98765 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick)."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQJT92..JT987.K 6543.QT8765.65. 87.K.AQ2.J98765 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick)."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQJT92..JT987.K 6543.QT8765.65. 87.K.AQ2.J98765 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K"
+          ]
+        },
+        "N": {
+          "H": [
+            "K"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "9",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQJT92..JT987.K 6543.QT8765.65. 87..AQ2.J98765 A.AJ9432.K43.T4",
+      "trick_cards": {
+        "N": "HK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQJT92..JT987.K 6543.QT8765.65. 87..AQ2.J98765 A.J9432.K43.T4",
+      "trick_cards": {
+        "N": "HK",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQJT92..JT987. 6543.QT8765.65. 87..AQ2.J98765 A.J9432.K43.T4",
+      "trick_cards": {
+        "S": "CK",
+        "N": "HK",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQJT92..JT987. 6543.QT876.65. 87..AQ2.J98765 A.J9432.K43.T4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "H5",
+        "N": "HK",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQJT92..JT987. 6543.QT876.65. 87..AQ2.J98765 A.J9432.K43.T4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "H5",
+        "N": "HK",
+        "E": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "2"
+          ]
+        },
+        "E": {
+          "C": [
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQJT92..JT987. 6543.QT876.65. 87..AQ2.J98765 A.J9432.K43.T",
+      "trick_cards": {
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJT92..JT987. 6543.QT876.65. 87..AQ2.J98765 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "SK",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJT92..JT987. 6543.QT876.6. 87..AQ2.J98765 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJT92..JT987. 6543.QT876.6. 87..AQ2.J9876 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "C5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against this distribution with an unusual loser-on-loser play (really a winner-on-loser). The opening lead should be won with dummy's ♣A (it doesn't matter if South plays his ♣K on this trick). South should lead North's ♥K and, when East covers with the ♥A, discard his remaining club. East can do no better than to return a club which South ruffs high."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJT92..JT987. 6543.QT876.6. 87..AQ2.J9876 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D5",
+        "N": "C5",
+        "E": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJT9..JT987. 6543.QT876.6. 87..AQ2.J9876 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJT9..JT987. 654.QT876.6. 87..AQ2.J9876 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJT9..JT987. 654.QT876.6. 8..AQ2.J9876 A.J9432.K43.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJT9..JT987. 654.QT876.6. 8..AQ2.J9876 .J9432.K43.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJT9..JT987. 654.QT876.6. 8..AQ2.J9876 .J9432.K43.T",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S3",
+        "N": "S7",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJT9..JT987. 654.QT876.6. 8..AQ2.J9876 .J9432.K43.",
+      "trick_cards": {
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:JT9..JT987. 654.QT876.6. 8..AQ2.J9876 .J9432.K43.",
+      "trick_cards": {
+        "S": "SQ",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:JT9..JT987. 654.QT876.. 8..AQ2.J9876 .J9432.K43.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "D6",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:JT9..JT987. 654.QT876.. 8..AQ2.J987 .J9432.K43.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "D6",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:JT9..JT987. 654.QT876.. 8..AQ2.J987 .J9432.K43.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "D6",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:T9..JT987. 654.QT876.. 8..AQ2.J987 .J9432.K43.",
+      "trick_cards": {
+        "S": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:T9..JT987. 65.QT876.. 8..AQ2.J987 .J9432.K43.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:T9..JT987. 65.QT876.. ..AQ2.J987 .J9432.K43.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:T9..JT987. 65.QT876.. ..AQ2.J987 .J943.K43.",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "S8",
+        "E": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:9..JT987. 65.QT876.. ..AQ2.J987 .J943.K43.",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:9..JT987. 6.QT876.. ..AQ2.J987 .J943.K43.",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:9..JT987. 6.QT876.. ..AQ.J987 .J943.K43.",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:9..JT987. 6.QT876.. ..AQ.J987 .J94.K43.",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "D2",
+        "E": "H3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:..JT987. 6.QT876.. ..AQ.J987 .J94.K43.",
+      "trick_cards": {
+        "S": "S9"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:..JT987. .QT876.. ..AQ.J987 .J94.K43.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:..JT987. .QT876.. ..A.J987 .J94.K43.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "DQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:..JT987. .QT876.. ..A.J987 .J9.K43.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "DQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:..JT987. .QT876.. ..A.J987 .J9.K43.",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S6",
+        "N": "DQ",
+        "E": "H4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must continue by leading the ♠2 from his hand and use a spot card from dummy to drive out East's ♠A. East returns his last club, but South can ruff high and draw the rest of the trump, discarding diamonds from the dummy. The dummy will win the rest of the tricks with the ♦A and 4 good clubs."
+    }
+  ]
+}

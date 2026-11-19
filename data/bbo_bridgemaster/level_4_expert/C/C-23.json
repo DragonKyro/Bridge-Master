@@ -1,0 +1,1046 @@
+{
+  "title": "Level 4 (Expert) - C-23",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-23",
+  "deal_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "3NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 12,
+  "notes": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch and South's early duck will put the contract in danger when the heart finesse was working.\n\nSouth will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J allows East to build a heart trick by covering with the ♥K when the ♥10 is led.\n\nSouth's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1, South is rectifying the count for a one-suit squeeze against himself. The hand plays very simply if the ♦A is won at trick 1.\n\nSouth unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J. The ♥10 is played next. Whether or not East plays the ♥K, South will lose only 1 trick at the end.",
+  "commentary_paragraphs": [
+    "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch and South's early duck will put the contract in danger when the heart finesse was working.",
+    "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J allows East to build a heart trick by covering with the ♥K when the ♥10 is led.",
+    "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1, South is rectifying the count for a one-suit squeeze against himself. The hand plays very simply if the ♦A is won at trick 1.",
+    "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J. The ♥10 is played next. Whether or not East plays the ♥K, South will lose only 1 trick at the end."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "C2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.QT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.QT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.QT9.432 Q32.T43.3.AT987 7654.K987.876.65",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.QT9.432 Q32.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ JT98.65.QT9.432 Q32.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DK",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ JT98.65.QT9.432 Q32.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DK",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ JT98.65.QT9.432 Q32.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DK",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ T98.65.QT9.432 Q32.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 7654.K987.87.65",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch and South's early duck will put the contract in danger"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 6NT. It appears, on general principles, that it is right to duck this trick. West will not continue diamonds. He will switch and South's early duck will put the contract in danger when the heart finesse was working."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T98.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T9.65.QT9.432 Q3.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T9.65.QT9.432 Q.T43.3.AT987 765.K987.87.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T9.65.QT9.432 Q.T43.3.AT987 76.K987.87.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T9.65.QT9.432 Q.T43.3.AT987 76.K987.87.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AQJ2.AJ5.KQJ T9.65.QT9.432 Q.T43.3.AT987 76.K987.87.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S8",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first)."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. Q.T43.3. .K987.8.",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "H6",
+        "N": "CT",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987.8.",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987.8.",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQJ2.. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "DA",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQJ2.. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "DA",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQJ.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "H2",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQJ.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "H2",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "H": [
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AQJ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AQ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AQ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J allows East to build a heart trick by covering with the ♥K when the ♥10 is led."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AQ2.A. T9..QT9. .T43.3. .K987..",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "SQ",
+        "E": "D8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South will continue by unblocking in spades and running the clubs (it does not matter if the ♦A is cashed first). On the play of dummy's last winner, East easily can let go a diamond, but South is squeezed. Discarding the ♦A leaves South with a heart loser. Discarding the ♥2 blocks the heart suit. Discarding the ♥Q or ♥J allows East to build a heart trick by covering with the ♥K when the ♥10 is led."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1, South is rectifying the count for a one-suit squeeze against himself."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1, South is rectifying the count for a one-suit squeeze against himself. The hand plays very simply if the ♦A is won at trick 1."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's duck \"on general principles\" at trick 1 was wrong. The contract depends strictly on the heart finesse. By ducking at trick 1, South is rectifying the count for a one-suit squeeze against himself. The hand plays very simply if the ♦A is won at trick 1."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK.AQJ2.AJ54.KQJ JT98.65.KQT9.432 Q32.T43.32.AT987 7654.K987.876.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.AQJ2.AJ54.KQJ JT.65.KQT9.432 Q.T43.32.AT987 765.K987.876.65",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before and runs the clubs."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J. The ♥10 is played next."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J. The ♥10 is played next."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.AQJ2.AJ54.KQ JT.65.KQT9.43 Q.T43.32.AT987 76.K987.876.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South unblocks the spades as before and runs the clubs. On the play of the ♠Q, South can painlessly discard the ♦J. The ♥10 is played next. Whether or not East plays the ♥K, South will lose only 1 trick at the end."
+    }
+  ]
+}

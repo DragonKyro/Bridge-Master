@@ -1,0 +1,842 @@
+{
+  "title": "Level 4 (Expert) - D-4",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-4",
+  "deal_pbn": "S:Q2.Q32.QJ932.432 JT98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. South has 6 top tricks in the majors and should plan to take 3 club tricks (this suit offers much better prospects than diamonds). If clubs are 3-2 the contract should be easy, but South must play carefully to maximize his chances when West has 4 clubs.\n\nSouth should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q. South leads a club toward dummy, intending to play the ♣9 if West follows small.\n\nIf West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand for another club lead toward the dummy. The recommended line of play allows South to make the contract whenever West has 4 clubs (provided the defense cannot take 3 diamond tricks).",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. South has 6 top tricks in the majors and should plan to take 3 club tricks (this suit offers much better prospects than diamonds). If clubs are 3-2 the contract should be easy, but South must play carefully to maximize his chances when West has 4 clubs.",
+    "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q. South leads a club toward dummy, intending to play the ♣9 if West follows small.",
+    "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand for another club lead toward the dummy. The recommended line of play allows South to make the contract whenever West has 4 clubs (provided the defense cannot take 3 diamond tricks)."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "SJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 JT98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ],
+          "S": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "4"
+          ],
+          "S": [
+            "A",
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. South has 6 top tricks in the majors"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. South has 6 top tricks in the majors and should plan to take 3 club tricks (this suit offers much better prospects than diamonds)."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.8765.AT.KQ8 AK3.AK4.54.AT965 7654.JT9.K876.J7",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. South has 6 top tricks in the majors and should plan to take 3 club tricks (this suit offers much better prospects than diamonds). If clubs are 3-2 the contract should be easy,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. South has 6 top tricks in the majors and should plan to take 3 club tricks (this suit offers much better prospects than diamonds). If clubs are 3-2 the contract should be easy, but South must play carefully to maximize his chances when West has 4 clubs."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 AK3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.AT965 7654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.AT965 654.JT98.K876.J",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.AT965 654.JT98.K876.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.AT965 654.JT98.K876.J",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.A965 654.JT98.K876.J",
+      "trick_cards": {
+        "N": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.A965 654.JT98.K876.J",
+      "trick_cards": {
+        "N": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q.Q32.QJ932.432 T98.765.AT.KQ87 K3.AK4.54.A965 654.JT98.K876.",
+      "trick_cards": {
+        "N": "CT",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q.Q32.QJ932.43 T98.765.AT.KQ87 K3.AK4.54.A965 654.JT98.K876.",
+      "trick_cards": {
+        "S": "C2",
+        "N": "CT",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q.Q32.QJ932.43 T98.765.AT.KQ8 K3.AK4.54.A965 654.JT98.K876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CT",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q.Q32.QJ932.43 T98.765.AT.KQ8 K3.AK4.54.A965 654.JT98.K876.",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C7",
+        "N": "CT",
+        "E": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q.Q32.QJ932.43 T98.765.AT.KQ8 K3.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.Q32.QJ932.43 T98.765.AT.KQ8 K3.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "SQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.Q32.QJ932.43 T9.765.AT.KQ8 K3.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.Q32.QJ932.43 T9.765.AT.KQ8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.Q32.QJ932.43 T9.765.AT.KQ8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S8",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q. South leads a club toward dummy, intending to play the ♣9 if West follows small."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.KQ8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should win West's spade opening lead in dummy to preserve the ♠Q as an entry to the closed hand. The correct play is to continue by leading the ♣10 or ♣9 from the dummy. The defense will win and continue spades to South's ♠Q. South leads a club toward dummy, intending to play the ♣9 if West follows small."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.KQ8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.A965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.965 65.JT98.K876.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.965 65.JT98.K87.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK4.54.965 65.JT98.K87.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "CA",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK.54.965 65.JT98.K87.",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.Q32.QJ932.4 T9.765.AT.K8 K.AK.54.965 65.JT9.K87.",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.32.QJ932.4 T9.765.AT.K8 K.AK.54.965 65.JT9.K87.",
+      "trick_cards": {
+        "S": "HQ",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.32.QJ932.4 T9.76.AT.K8 K.AK.54.965 65.JT9.K87.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.32.QJ932.4 T9.76.AT.K8 K.AK.54.965 65.JT9.K87.",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "9",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand for another club lead toward the dummy."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q2.Q32.QJ932.432 T98.765.AT.KQJ8 AK3.AK4.54.AT965 7654.JT98.K876.7",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West plays an honor, South can either duck or win dummy's ♣A. In either case, if East discards, the ♥Q will be an entry to the South hand for another club lead toward the dummy. The recommended line of play allows South to make the contract whenever West has 4 clubs (provided the defense cannot take 3 diamond tricks)."
+    }
+  ]
+}

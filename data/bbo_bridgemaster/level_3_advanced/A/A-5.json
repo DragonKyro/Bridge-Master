@@ -1,0 +1,764 @@
+{
+  "title": "Level 3 (Advanced) - A-5",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-5",
+  "deal_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KJT9.T98 432.432.Q432.KQJ KT98.A.A876.7654",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "2H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦J against 4♥. After ruffing the second diamond lead, South has 2 more certain losers, the ♥A and the ♥K. Therefore, it is necessary to assume that the spade finesse is working. Dummy has 2 entries in clubs which South can use to finesse spades twice.\n\nTrump should be drawn first. Ideally, South would like to lead hearts twice from the North hand towards South's honours. Unfortunately, both of dummy's entries must be used to finesse spades. South must lead hearts out of the closed hand.\n\nSouth should start by leading a low heart, not the ♥Q or ♥J. If trumps split 2-2, South's play does not matter as only 2 heart tricks will be lost. South will have no chance if West or East has all 4 hearts.\n\nThe 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first, only two of the 3-1 breaks can be picked up (singleton ♥10 in either hand).\n\nStarting a low trump from South, catering to four 3-1 breaks, is thus twice as likely to succeed as starting with the ♥Q or ♥J.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 4♥. After ruffing the second diamond lead, South has 2 more certain losers, the ♥A and the ♥K. Therefore, it is necessary to assume that the spade finesse is working. Dummy has 2 entries in clubs which South can use to finesse spades twice.",
+    "Trump should be drawn first. Ideally, South would like to lead hearts twice from the North hand towards South's honours. Unfortunately, both of dummy's entries must be used to finesse spades. South must lead hearts out of the closed hand.",
+    "South should start by leading a low heart, not the ♥Q or ♥J. If trumps split 2-2, South's play does not matter as only 2 heart tricks will be lost. South will have no chance if West or East has all 4 hearts.",
+    "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first, only two of the 3-1 breaks can be picked up (singleton ♥10 in either hand).",
+    "Starting a low trump from South, catering to four 3-1 breaks, is thus twice as likely to succeed as starting with the ♥Q or ♥J."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "H7"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KJT9.T98 432.432.Q432.KQJ KT98.A.A876.7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KT9.T98 432.432.Q432.KQJ KT98.A.A876.7654",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KT9.T98 432.432.Q432.KQJ KT98.A.A876.7654",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KT9.T98 432.432.Q43.KQJ KT98.A.A876.7654",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQJ.QJ9876.5.A32 765.KT5.KT9.T98 432.432.Q43.KQJ KT98.A.A87.7654",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AQJ.QJ9876..A32 765.KT5.KT9.T98 432.432.Q43.KQJ KT98.A.A87.7654",
+      "trick_cards": {
+        "S": "D5",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AQJ.QJ9876..A32 765.KT5.K9.T98 432.432.Q43.KQJ KT98.A.A87.7654",
+      "trick_cards": {
+        "W": "DT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AQJ.QJ9876..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A87.7654",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AQJ.QJ9876..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead, South has 2 more certain losers, the ♥A and the ♥K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead, South has 2 more certain losers, the ♥A and the ♥K. Therefore, it is necessary to assume that the spade finesse is working."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♥. After ruffing the second diamond lead, South has 2 more certain losers, the ♥A and the ♥K. Therefore, it is necessary to assume that the spade finesse is working. Dummy has 2 entries in clubs which South can use to finesse spades twice."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Trump should be drawn first. Ideally, South would like to lead hearts twice from the North hand towards South's honours."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Trump should be drawn first. Ideally, South would like to lead hearts twice from the North hand towards South's honours. Unfortunately, both of dummy's entries must be used to finesse spades."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Trump should be drawn first. Ideally, South would like to lead hearts twice from the North hand towards South's honours. Unfortunately, both of dummy's entries must be used to finesse spades. South must lead hearts out of the closed hand."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a low heart,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should start by leading a low heart,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a low heart, not the ♥Q or ♥J."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AQJ.QJ98..A32 8765.K5.K9.T98 432.432.Q4.KQJ KT9.AT.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "5"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a low heart, not the ♥Q or ♥J. If trumps split 2-2, South's play does not matter as only 2 heart tricks will be lost."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AQJ.QJ98..A32 65.AKT5.K9.T98 432.432.Q4.KQJ KT987..A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a low heart, not the ♥Q or ♥J. If trumps split 2-2, South's play does not matter as only 2 heart tricks will be lost. South will have no chance if West"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AQJ.QJ98..A32 8765..K9.T9854 432.432.Q4.KQJ KT9.AKT5.A8.76",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should start by leading a low heart, not the ♥Q or ♥J. If trumps split 2-2, South's play does not matter as only 2 heart tricks will be lost. South will have no chance if West or East has all 4 hearts."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "T",
+            "5"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.AT5.K9.T98 432.432.Q4.KQJ KT98.K.A8.7654",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.A.K9.T9854 432.432.Q4.KQJ KT98.KT5.A8.76",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AQJ.QJ98..A32 765.K.K9.T9854 432.432.Q4.KQJ KT98.AT5.A8.76",
+      "trick_cards": {
+        "S": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.K.K9.T9854 432.432.Q4.KQJ KT98.AT5.A8.76",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AQJ.J987..A32 765.T.K9.T9854 432.432.Q4.KQJ KT98.AK5.A8.76",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AQJ.J987..A32 765.T.K9.T9854 432.432.Q4.KQJ KT98.AK5.A8.76",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first, only two of the 3-1 breaks can be picked up (singleton ♥10 in either hand)."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AQJ.J987..A32 765.AK5.K9.T98 432.432.Q4.KQJ KT98.T.A8.7654",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The 3-1 trump breaks are critical. Leading low on the first round will work when either defender has a singleton honour in hearts. There are four ways this can happen. When hearts are played by leading the ♥J or ♥Q first, only two of the 3-1 breaks can be picked up (singleton ♥10 in either hand)."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.KT5.K9.T98 432.432.Q4.KQJ KT98.A.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Starting a low trump from South, catering to four 3-1 breaks, is thus twice as likely to succeed"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AQJ.QJ987..A32 765.AK5.K9.T98 432.432.Q4.KQJ KT98.T.A8.7654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "DT",
+        "N": "D3",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        },
+        "E": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Starting a low trump from South, catering to four 3-1 breaks, is thus twice as likely to succeed as starting with the ♥Q or ♥J."
+    }
+  ]
+}

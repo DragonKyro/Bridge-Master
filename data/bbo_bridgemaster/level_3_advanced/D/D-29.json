@@ -1,0 +1,997 @@
+{
+  "title": "Level 3 (Advanced) - D-29",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-29",
+  "deal_pbn": "S:AKQJ432.K32..K32 5.876.AK7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "2D",
+    "2S",
+    "3D",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 10,
+  "notes": "West leads the ♦K against 4♠. South has 1 heart loser and up to 3 club losers if West was dealt the ♣A. On the reasonable assumption that West has the ♦A for his lead of the ♦K, the contract can be guaranteed regardless of the position of the ♣A. South should play for a loser-on-loser elimination.\n\nSouth should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit.\n\nSouth has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A. West has won 2 unexpected diamond tricks, but he is now endplayed. He must either lead away from the ♣A or lead a diamond and concede a ruff and discard. In either case South will lose only 1 more club trick.",
+  "commentary_paragraphs": [
+    "West leads the ♦K against 4♠. South has 1 heart loser and up to 3 club losers if West was dealt the ♣A. On the reasonable assumption that West has the ♦A for his lead of the ♦K, the contract can be guaranteed regardless of the position of the ♣A. South should play for a loser-on-loser elimination.",
+    "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit.",
+    "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A. West has won 2 unexpected diamond tricks, but he is now endplayed. He must either lead away from the ♣A or lead a diamond and concede a ruff and discard. In either case South will lose only 1 more club trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.AK7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠. South has 1 heart loser"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦K against 4♠. South has 1 heart loser and up to 3 club losers if West was dealt the ♣A. On the reasonable assumption that West has the ♦A for his lead of the ♦K, the contract can be guaranteed regardless of the position of the ♣A. South should play for a loser-on-loser elimination."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q32.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q3.654 6.QJT9.JT98.QJT9",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJ432.K32..K32 5.876.A7654.A87 T987.A54.Q3.654 6.QJT9.T98.QJT9",
+      "trick_cards": {
+        "W": "DK",
+        "N": "D2",
+        "E": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJ432.K3..K32 5.876.A7654.A87 T987.A54.Q3.654 6.QJT9.T98.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "DK",
+        "N": "D2",
+        "E": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJ432.K3..K32 5.876.A7654.A87 T987.A54.Q3.654 6.QJT9.T98.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "DK",
+        "N": "D2",
+        "E": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJ432.K3..K32 5.76.A7654.A87 T987.A54.Q3.654 6.QJT9.T98.QJT9",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJ432.K3..K32 5.76.A7654.A87 T987.A5.Q3.654 6.QJT9.T98.QJT9",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJ432.K3..K32 5.76.A7654.A87 T987.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "W": "H8",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJ432.3..K32 5.76.A7654.A87 T987.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJ432.3..K32 5.76.A7654.A87 T987.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H8",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJ43.3..K32 5.76.A7654.A87 T987.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T987.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T98.A5.Q3.654 6.QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T98.A5.Q3.654 .QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T98.A5.Q3.654 .QJT.T98.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S5",
+        "N": "S7",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T98.A5.Q.654 .QJT.T98.QJT9",
+      "trick_cards": {
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQJ43.3..K32 .76.A7654.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ43.3..K32 .76.A7654.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "SJ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ43.3..K32 .76.A765.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "D4",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQ43.3..K32 .76.A765.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "D4",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQ43...K32 .76.A765.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98.A5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98.5.Q.654 .QJT.T9.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98.5.Q.654 .QJ.T9.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98.5.Q.654 .QJ.T9.QJT9",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98..Q.654 .QJ.T9.QJT9",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQ43...K32 .7.A765.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "N": "H5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK43...K32 .7.A765.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "N": "H5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK43...K32 ..A765.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7",
+        "N": "H5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should discard a heart at trick 1, allowing West's ♦K opening lead to win the first trick. West switches to a heart and South wins the ♥K. South plays a spade to the dummy and ruffs dummy's remaining small diamond in the closed hand. South crosses back with the ♥A and ruffs dummy's last heart, eliminating that suit."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK43...K32 ..A765.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7",
+        "N": "H5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK4...K32 ..A765.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T98..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9..Q.654 .Q.T9.QJT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9..Q.654 .Q.T.QJT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S8",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9..Q.654 .Q.T.QJT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "D5",
+        "N": "S8",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9...654 .Q.T.QJT9",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9...654 .Q.T.QJT9",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK4...K32 ..A76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AK4...K3 ..A76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AK4...K3 ..A76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AK4...K3 ..76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AK4...K3 ..76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A. West has won 2 unexpected diamond tricks, but he is now endplayed. He must either lead away from the ♣A"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AK4...K3 ..76.A87 T9...654 .Q..QJT9",
+      "trick_cards": {
+        "S": "C2",
+        "W": "DA",
+        "N": "DQ",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3"
+          ]
+        },
+        "W": {
+          "D": [
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has been careful to preserve a small spade in order to cross back to the dummy so that the ♦Q can be led for a loser-on-loser play. When East follow small, South discards a club from his hand and West wins the ♦A. West has won 2 unexpected diamond tricks, but he is now endplayed. He must either lead away from the ♣A or lead a diamond and concede a ruff and discard. In either case South will lose only 1 more club trick."
+    }
+  ]
+}

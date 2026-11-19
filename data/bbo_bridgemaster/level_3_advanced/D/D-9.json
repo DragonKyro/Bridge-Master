@@ -1,0 +1,1602 @@
+{
+  "title": "Level 3 (Advanced) - D-9",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-9",
+  "deal_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.KQT9876 J9876.65.Q6543.2 K543.JT98.T.J543",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "3C",
+    "Pass",
+    "5C",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 12,
+  "notes": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump South has a certain trump loser and will have to avoid losing a spade trick in order to make his contract.\n\nIn the above layout South can succeed easily by finessing against East's ♠K, but if the ♠K is in West's hand, South's only's chance is that diamonds are 3-2 so that dummy's diamonds can be used to discard South's spade losers. If South is to make use of dummy's diamonds then East's trumps must be extracted first so that East cannot ruff in to stop the run of the suit.\n\nSuppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade, South will not know what to do. With the ♠K dealt to West and the diamonds 3-2 South must rise with the ♠A to make the contract, but if East has the ♠K and diamonds break 4-1 then South must finesse in spades in order to succeed.\n\nSouth can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick and the ♦Q can be used as a later entry to finesse against the ♠K with East.\n\nIf both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A and run the diamonds for 2 spade discards.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump South has a certain trump loser and will have to avoid losing a spade trick in order to make his contract.",
+    "In the above layout South can succeed easily by finessing against East's ♠K, but if the ♠K is in West's hand, South's only's chance is that diamonds are 3-2 so that dummy's diamonds can be used to discard South's spade losers. If South is to make use of dummy's diamonds then East's trumps must be extracted first so that East cannot ruff in to stop the run of the suit.",
+    "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade, South will not know what to do. With the ♠K dealt to West and the diamonds 3-2 South must rise with the ♠A to make the contract, but if East has the ♠K and diamonds break 4-1 then South must finesse in spades in order to succeed.",
+    "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick and the ♦Q can be used as a later entry to finesse against the ♠K with East.",
+    "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A and run the diamonds for 2 spade discards."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "S6"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 55,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 57,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 58,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 61,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 62,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 63,
+      "seat": "N",
+      "card": "S7"
+    },
+    {
+      "step": 64,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 66,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 67,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "S2"
+    },
+    {
+      "step": 69,
+      "seat": "N",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.KQT9876 J9876.65.Q6543.2 K543.JT98.T.J543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.QT9876 J9876.65.Q6543.2 K543.JT98.T.J543",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.QT9876 J9876.65.Q6543.2 K543.JT98.T.J543",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.QT9876 J9876.65.Q6543. K543.JT98.T.J543",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQT.AKQ432.AK2.A 2.7.J987.QT9876 J9876.65.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AQT.AKQ432.AK2. 2.7.J987.QT9876 J9876.65.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AQT.AKQ432.AK2. 2.7.J987.QT9876 J9876.65.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CK",
+        "N": "C2",
+        "E": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AQT.KQ432.AK2. 2.7.J987.QT9876 J9876.65.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AQT.KQ432.AK2. 2..J987.QT9876 J9876.65.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AQT.KQ432.AK2. 2..J987.QT9876 J9876.6.Q6543. K543.JT98.T.J54",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AQT.KQ432.AK2. 2..J987.QT9876 J9876.6.Q6543. K543.JT9.T.J54",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H5",
+        "E": "H8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT9876 J9876.6.Q6543. K543.JT9.T.J54",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT9876 J9876.6.Q6543. K543.JT9.T.J54",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876.6.Q6543. K543.JT9.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876..Q6543. K543.JT9.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876..Q6543. K543.JT.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876..Q6543. K543.JT.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump South has a certain trump loser"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876..Q6543. K543.JT.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 6♥. South wins the ♣A and draws 2 rounds of trump. When West discards on the second round of trump South has a certain trump loser and will have to avoid losing a spade trick in order to make his contract."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AQT.Q432.AK2. 2..J987.QT987 J9876..Q6543. K543.JT.T.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "In the above layout South can succeed easily by finessing against East's ♠K,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AQT.Q432.AK2. K2..J98.QT987 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "In the above layout South can succeed easily by finessing against East's ♠K, but if the ♠K is in West's hand,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AQT.Q432.AK2. K2..J98.QT987 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ],
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "In the above layout South can succeed easily by finessing against East's ♠K, but if the ♠K is in West's hand, South's only's chance is that diamonds are 3-2 so that dummy's diamonds can be used to discard South's spade losers."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AQT.Q432.AK2. K2..J98.QT987 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ],
+          "H": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "In the above layout South can succeed easily by finessing against East's ♠K, but if the ♠K is in West's hand, South's only's chance is that diamonds are 3-2 so that dummy's diamonds can be used to discard South's spade losers. If South is to make use of dummy's diamonds then East's trumps must be extracted first so that East cannot ruff in to stop the run of the suit."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AQT.Q432.AK2. K2..J98.QT987 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HK",
+        "W": "C6",
+        "N": "H6",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AQT.432.AK2. K2..J98.QT987 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AQT.432.AK2. K2..J98.QT98 J9876..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AQT.432.AK2. K2..J98.QT98 J987..Q6543. 543.JT.T7.J54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AQT.432.AK2. K2..J98.QT98 J987..Q6543. 543.J.T7.J54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "S6",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AQT.432.AK2. K2..J98.QT98 J987..Q6543. 543.J.T7.J54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "S6",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT98 J987..Q6543. 543.J.T7.J54",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J987..Q6543. 543.J.T7.J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 543.J.T7.J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 543..T7.J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7",
+        "E": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 543..T7.J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7",
+        "E": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 54..T7.J54",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 54..T7.J54",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade, South will not know what to do."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AQT.43.AK2. K2..J98.QT9 J98..Q6543. 54..T7.J54",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8"
+          ],
+          "S": [
+            "K",
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade, South will not know what to do. With the ♠K dealt to West and the diamonds 3-2 South must rise with the ♠A to make the contract,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AQT.43.AK2. 2..J987.QT9 J98..Q6543. K54..T.J54",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ],
+          "S": [
+            "2"
+          ]
+        },
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Suppose South continues with his remaining high trump and surrenders a trump trick to East. If East switches to a spade, South will not know what to do. With the ♠K dealt to West and the diamonds 3-2 South must rise with the ♠A to make the contract, but if East has the ♠K and diamonds break 4-1 then South must finesse in spades in order to succeed."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AQT.432.AK2. 2..J987.QT98 J987..Q6543. K543.J.T.J54",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "C7",
+        "N": "S6",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AQT.432.K2. 2..J987.QT98 J987..Q6543. K543.J.T.J54",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AQT.432.K2. 2..J98.QT98 J987..Q6543. K543.J.T.J54",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AQT.432.K2. 2..J98.QT98 J987..Q654. K543.J.T.J54",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AQT.432.K2. 2..J98.QT98 J987..Q654. K543.J..J54",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AQT.432.2. 2..J98.QT98 J987..Q654. K543.J..J54",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q654. K543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q65. K543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q65. K543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q65. K543.J..J5",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q65. K543.J..J5",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:AQT.432.2. 2..J9.QT98 J987..Q65. K543.J..J5",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "C4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT98 J987..Q65. K543.J..J5",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT9 J987..Q65. K543.J..J5",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT9 J987..Q6. K543.J..J5",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT9 J987..Q6. K543...J5",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "D5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT9 J987..Q6. K543...J5",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "D5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick and the ♦Q can be used as a later entry"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:AQT.43.2. 2..J9.QT9 J987..Q6. K543...J5",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "D5",
+        "E": "HJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can solve this problem by cashing the ♦A and ♦K before surrendering a trump trick to East. If either defender discards (or ruffs) on the second round of diamonds, South will know that the spade finesse is required. East can be given his trump trick and the ♦Q can be used as a later entry to finesse against the ♠K with East."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:AQT.432.2. K2..J8.QT98 J987..Q654. 543.J.9.J54",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of diamonds,"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:AQT.432.2. K2..J.QT98 J987..Q654. 543.J.9.J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:AQT.432.2. K2..J.QT98 J987..Q65. 543.J.9.J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:AQT.432.2. K2..J.QT98 J987..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:AQT.432.2. K2..J.QT98 J987..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:AQT.432.2. K2..J.QT98 J987..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D8",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT98 J987..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT9 J987..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT9 J98..Q65. 543.J..J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT9 J98..Q65. 543...J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7",
+        "E": "HJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT9 J98..Q65. 543...J54",
+      "trick_cards": {
+        "S": "H2",
+        "W": "C8",
+        "N": "S7",
+        "E": "HJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:AQT.43.2. K2..J.QT9 J98..Q65. 54...J54",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:QT.43.2. K2..J.QT9 J98..Q65. 54...J54",
+      "trick_cards": {
+        "S": "SA",
+        "E": "S3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:QT.43.2. K..J.QT9 J98..Q65. 54...J54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:QT.43.2. K..J.QT9 J9..Q65. 54...J54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S2",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A"
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:QT.43.2. K..J.QT9 J9..Q65. 54...J54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S2",
+        "N": "S8",
+        "E": "S3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ],
+          "S": [
+            "Q",
+            "T"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If both defenders follow to the second round of diamonds, there is no reason to risk the spade finesse. South surrenders a trump trick to East. When East returns a spade South now knows to win the ♠A and run the diamonds for 2 spade discards."
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "title": "Level 1 (Beginner) - B-9",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-9",
+  "deal_pbn": "S:AK92.AKQ.432.AK2 T654.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S4",
+  "par_tricks": 12,
+  "notes": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds, and 2 clubs). If West has led away from the ♠Q, South can get his twelfth trick immediately by playing the ♠J from the dummy.\n\nIf East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q, the ♠J will be worth a trick.\n\nIf East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q and the ♠9 will provide trick number 12.",
+  "commentary_paragraphs": [
+    "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds, and 2 clubs). If West has led away from the ♠Q, South can get his twelfth trick immediately by playing the ♠J from the dummy.",
+    "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q, the ♠J will be worth a trick.",
+    "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q and the ♠9 will provide trick number 12."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T654.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "9",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 Q65.J65.8765.87 J3.432.AKQJ.6543 T87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds, and 2 clubs). If West has led away from the ♠Q, South can get his twelfth trick immediately by playing the ♠J from the dummy."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 Q65.J65.8765.87 3.432.AKQJ.6543 T87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6NT. South starts with 11 top tricks (2 spades, 3 hearts, 4 diamonds, and 2 clubs). If West has led away from the ♠Q, South can get his twelfth trick immediately by playing the ♠J from the dummy."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 3.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K92.AKQ.432.AK2 T65.J65.8765.87 3.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J3.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q8.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q8.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK2.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q8.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S9",
+        "W": "S4",
+        "N": "S3",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 Q87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K92.AKQ.432.AK2 T65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠Q, however, he will cover dummy's ♠J with the ♠Q and the contract will not be certain. South can guarantee his contract by playing the ♠3 from dummy at trick 1. If East plays low, South will be able to take a trick with his ♠9. If East plays the ♠Q, the ♠J will be worth a trick."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 T87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East plays the ♠10,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK92.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "W": "S4",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "9",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K92.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K92.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S4",
+        "N": "S3",
+        "E": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K9.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K9.AKQ.432.AK2 Q65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K9.AKQ.432.AK2 65.J65.8765.87 J.432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K9.AKQ.432.AK2 65.J65.8765.87 .432.AKQJ.6543 87.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K9.AKQ.432.AK2 65.J65.8765.87 .432.AKQJ.6543 8.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K9.AKQ.432.AK2 65.J65.8765.87 .432.AKQJ.6543 8.T987.T9.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SQ",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East plays the ♠10, South can win the ♠A or ♠K and lead back his ♠2. North's now singleton ♠J will force the ♠Q and the ♠9 will provide trick number 12."
+    }
+  ]
+}

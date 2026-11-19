@@ -1,0 +1,640 @@
+{
+  "title": "Level 2 (Intermediate) - A-9",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-9",
+  "deal_pbn": "S:K32.A32.AKQ.8762 AT98.KQ876.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H7",
+  "par_tricks": 9,
+  "notes": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead as the defenders may be able to run the spades if South ducks.\n\nNow, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2 for the fourth round of that suit to make sure the clubs don't get blocked. In the above position, South has played his ♣2 on 1 of the first 3 rounds of the suit. South can now take only 4 club tricks.\n\nBy saving his ♣2, 9 tricks become easy as all 5 of dummy's clubs can be enjoyed.",
+  "commentary_paragraphs": [
+    "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead as the defenders may be able to run the spades if South ducks.",
+    "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2 for the fourth round of that suit to make sure the clubs don't get blocked. In the above position, South has played his ♣2 on 1 of the first 3 rounds of the suit. South can now take only 4 club tricks.",
+    "By saving his ♣2, 9 tricks become easy as all 5 of dummy's clubs can be enjoyed."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "CJ"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "D6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ876.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.54.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT9.JT98.JT9",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.A32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥7 against 3NT. South appears to have 9 easy tricks (the ♥A, 3 diamond tricks, and 5 club tricks). South should win the opening lead as the defenders may be able to run the spades if South ducks."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8",
+            "7",
+            "6",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2 for the fourth round of that suit to make sure the clubs don't get blocked."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32.32.AKQ.8 AT98.KQ86.7. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "S": "C7",
+        "W": "D6",
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2 for the fourth round of that suit to make sure the clubs don't get blocked. In the above position, South has played his ♣2 on 1 of the first 3 rounds of the suit."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32.32.AKQ.8 AT98.KQ86.7. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "S": "C7",
+        "W": "D6",
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Now, as long as clubs are breaking no worse than 3-1, 9 tricks look easy. There is only 1 pitfall. South must save his ♣2 for the fourth round of that suit to make sure the clubs don't get blocked. In the above position, South has played his ♣2 on 1 of the first 3 rounds of the suit. South can now take only 4 club tricks."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32.32.AKQ.8762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765.3 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765. 654.5.432.AKQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765. 654.5.432.KQ54 QJ7.JT.JT98.JT9",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C3",
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765. 654.5.432.KQ54 QJ7.JT.JT98.JT",
+      "trick_cards": {
+        "S": "C8",
+        "W": "C3",
+        "N": "CA",
+        "E": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765. 654.5.432.Q54 QJ7.JT.JT98.JT",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K32.32.AKQ.762 AT98.KQ86.765. 654.5.432.Q54 QJ7.JT.JT98.J",
+      "trick_cards": {
+        "N": "CK",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K32.32.AKQ.62 AT98.KQ86.765. 654.5.432.Q54 QJ7.JT.JT98.J",
+      "trick_cards": {
+        "S": "C7",
+        "N": "CK",
+        "E": "CT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K32.32.AKQ.62 AT98.KQ86.76. 654.5.432.Q54 QJ7.JT.JT98.J",
+      "trick_cards": {
+        "S": "C7",
+        "W": "D5",
+        "N": "CK",
+        "E": "CT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K32.32.AKQ.62 AT98.KQ86.76. 654.5.432.54 QJ7.JT.JT98.J",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K32.32.AKQ.62 AT98.KQ86.76. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K32.32.AKQ.2 AT98.KQ86.76. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "S": "C6",
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K32.32.AKQ.2 AT98.KQ86.7. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "D6",
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By saving his ♣2,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K32.32.AKQ.2 AT98.KQ86.7. 654.5.432.54 QJ7.JT.JT98.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "D6",
+        "N": "CQ",
+        "E": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "By saving his ♣2, 9 tricks become easy as all 5 of dummy's clubs can be enjoyed."
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "title": "Level 3 (Advanced) - B-2",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-2",
+  "deal_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.QJT98 QJT9.A432.654.32 6543.K.QJT9.7654",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3C",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 10,
+  "notes": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand. South is in danger of losing a trick to the ♥K as well as 3 diamond tricks if West has the ♦A. North's spades will eventually provide a discard for 1 of South's diamonds.\n\nSouth should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit as a safety play against East having a singleton ♥K.\n\nIf East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked) the contract is safe as West cannot effectively attack diamonds from his side of the table.\n\nIf East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A and when West has a doubleton ♦A.",
+  "commentary_paragraphs": [
+    "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand. South is in danger of losing a trick to the ♥K as well as 3 diamond tricks if West has the ♦A. North's spades will eventually provide a discard for 1 of South's diamonds.",
+    "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit as a safety play against East having a singleton ♥K.",
+    "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked) the contract is safe as West cannot effectively attack diamonds from his side of the table.",
+    "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A and when West has a doubleton ♦A."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "HK"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "D5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.QJT98 QJT9.A432.654.32 6543.K.QJT9.7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.JT98 QJT9.A432.654.32 6543.K.QJT9.7654",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.JT98 QJT9.A432.654.32 6543.K.QJT9.7654",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.7654",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.QJT98.K32.AK 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand. South is in danger of losing a trick to the ♥K"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand. South is in danger of losing a trick to the ♥K as well as 3 diamond tricks if West has the ♦A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 4♥. West's opening club lead is won in the closed hand. South is in danger of losing a trick to the ♥K as well as 3 diamond tricks if West has the ♦A. North's spades will eventually provide a discard for 1 of South's diamonds."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2.QJT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C2",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.765.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.76.A87.JT98 QJT9.A432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.76.A87.JT98 QJT9.432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.76.A87.JT98 QJT9.432.654.3 6543.K.QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should begin by drawing trump. The normal play with this combination would be to finesse against the ♥K. On this deal, however, South should play the ♥A on the first round of the suit as a safety play against East having a singleton ♥K."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.432.654.3 6543.7.QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East follows low,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.432.654.3 6543..QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East follows low,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.432.654.3 6543..QJT9.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H5",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East follows low, South plays another round of trumps."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.43.654.3 6543..QJT9.765",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East follows low, South plays another round of trumps."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.43.654.3 6543..QJT9.765",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked)"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.43.654.3 6543..QJT9.765",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked)"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK2.JT98.K32.A 87.K6.A87.JT98 QJT9.43.654.3 6543..QJT9.76",
+      "trick_cards": {
+        "N": "H2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked)"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK2.JT9.K32.A 87.K6.A87.JT98 QJT9.43.654.3 6543..QJT9.76",
+      "trick_cards": {
+        "S": "H8",
+        "N": "H2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked)"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK2.JT9.K32.A 87.6.A87.JT98 QJT9.43.654.3 6543..QJT9.76",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HK",
+        "N": "H2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked)"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK2.JT9.K32.A 87.6.A87.JT98 QJT9.43.654.3 6543..QJT9.76",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HK",
+        "N": "H2",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East follows low, South plays another round of trumps. If West wins the ♥K (the heart finesse would have worked) the contract is safe as West cannot effectively attack diamonds from his side of the table."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK2.JT98.K32.A 8743.6.87.JT98 QJT9.43.654.3 65.K.AQJT9.765",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK2.JT98.K32.A 8743.6.87.JT98 QJT9.43.654.3 65..AQJT9.765",
+      "trick_cards": {
+        "N": "H2",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK2.JT9.K32.A 8743.6.87.JT98 QJT9.43.654.3 65..AQJT9.765",
+      "trick_cards": {
+        "S": "H8",
+        "N": "H2",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK2.JT9.K32.A 8743..87.JT98 QJT9.43.654.3 65..AQJT9.765",
+      "trick_cards": {
+        "S": "H8",
+        "W": "H6",
+        "N": "H2",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK2.JT9.K32.A 8743..87.JT98 QJT9.43.654.3 65..AQJT9.765",
+      "trick_cards": {
+        "S": "H8",
+        "W": "H6",
+        "N": "H2",
+        "E": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK2.JT9.K32.A 8743..87.JT98 QJT9.43.654.3 65..AJT9.765",
+      "trick_cards": {
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK2.JT9.K32.A 8743..87.JT98 QJT9.43.654.3 65..AJT9.765",
+      "trick_cards": {
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..87.JT98 QJT9.43.654.3 65..AJT9.765",
+      "trick_cards": {
+        "S": "D2",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..8.JT98 QJT9.43.654.3 65..AJT9.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..8.JT98 QJT9.43.65.3 65..AJT9.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..8.JT98 QJT9.43.65.3 65..AJT9.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D7",
+        "N": "D4",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..8.JT98 QJT9.43.65.3 65..AT9.765",
+      "trick_cards": {
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK2.JT9.K3.A 8743..8.JT98 QJT9.43.65.3 65..AT9.765",
+      "trick_cards": {
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK2.JT9.3.A 8743..8.JT98 QJT9.43.65.3 65..AT9.765",
+      "trick_cards": {
+        "S": "DK",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AK2.JT9.3.A 8743..8.JT98 QJT9.43.65.3 65..AT9.765",
+      "trick_cards": {
+        "S": "DK",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AK2.JT9.3.A 8743..A.JT98 QJT9.43.65.3 65..T98.765",
+      "trick_cards": {
+        "S": "DK",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A and when West has a doubleton ♦A."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AK2.JT9.3.A 8743...JT98 QJT9.43.65.3 65..T98.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A and when West has a doubleton ♦A."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AK2.JT9.3.A 8743...JT98 QJT9.43.6.3 65..T98.765",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D5",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If East has the guarded ♥K, he will play back a diamond. South should play low on the first round of the suit. On the second round of diamonds, South should play the ♦K. He will succeed when East has the ♦A and when West has a doubleton ♦A."
+    }
+  ]
+}

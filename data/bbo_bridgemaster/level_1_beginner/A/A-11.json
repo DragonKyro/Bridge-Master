@@ -1,0 +1,665 @@
+{
+  "title": "Level 1 (Beginner) - A-11",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-11",
+  "deal_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "South begins with only 6 top tricks (1 in spades, 2 in hearts, and 3 in diamonds). 3 additional tricks can easily be developed in clubs once the ♣A is dislodged.\n\nThere is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round.\n\nWhen East wins his ♣A he has no spades left to play and South has his nine tricks. The contract would still be secure if the defensive spades were divided 4-4. In this case, East would have a spade to return upon winning the ♣A, but the defense would only have 4 tricks available.\n\nIf West was dealt 5 spades and the ♣A, there is nothing South can do. The contract will always fail on that lie of the cards.",
+  "commentary_paragraphs": [
+    "South begins with only 6 top tricks (1 in spades, 2 in hearts, and 3 in diamonds). 3 additional tricks can easily be developed in clubs once the ♣A is dislodged.",
+    "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round.",
+    "When East wins his ♣A he has no spades left to play and South has his nine tricks. The contract would still be secure if the defensive spades were divided 4-4. In this case, East would have a spade to return upon winning the ♣A, but the defense would only have 4 tricks available.",
+    "If West was dealt 5 spades and the ♣A, there is nothing South can do. The contract will always fail on that lie of the cards."
+  ],
+  "play_sequence": [
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South begins with only 6 top tricks (1 in spades,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South begins with only 6 top tricks (1 in spades, 2 in hearts,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South begins with only 6 top tricks (1 in spades, 2 in hearts, and 3 in diamonds)."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South begins with only 6 top tricks (1 in spades, 2 in hearts, and 3 in diamonds). 3 additional tricks can easily be developed in clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South begins with only 6 top tricks (1 in spades, 2 in hearts, and 3 in diamonds). 3 additional tricks can easily be developed in clubs once the ♣A is dislodged."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.654.A32.KQJT KQJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.654.A32.KQJT QJT9.7.T987.432 54.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.654.A32.KQJT QJT9.7.T987.432 5.AK32.KQJ.9876 876.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.654.A32.KQJT QJT9.7.T987.432 5.AK32.KQJ.9876 87.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A3.654.A32.KQJT QJT9.7.T987.432 5.AK32.KQJ.9876 87.QJT98.654.A5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A3.654.A32.KQJT QJT9.7.T987.432 5.AK32.KQJ.9876 87.QJT98.654.A5",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SK",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A3.654.A32.KQJT JT9.7.T987.432 5.AK32.KQJ.9876 87.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A3.654.A32.KQJT JT9.7.T987.432 .AK32.KQJ.9876 87.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A3.654.A32.KQJT JT9.7.T987.432 .AK32.KQJ.9876 8.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A3.654.A32.KQJT JT9.7.T987.432 .AK32.KQJ.9876 8.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.654.A32.KQJT JT9.7.T987.432 .AK32.KQJ.9876 8.QJT98.654.A5",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.654.A32.KQJT JT9.7.T987.432 .AK32.KQJ.9876 8.QJT98.654.A5",
+      "trick_cards": {
+        "S": "S3",
+        "W": "SQ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.654.A32.KQJT T9.7.T987.432 .AK32.KQJ.9876 8.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.654.A32.KQJT T9.7.T987.432 .AK32.KQJ.987 8.QJT98.654.A5",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.654.A32.KQJT T9.7.T987.432 .AK32.KQJ.987 .QJT98.654.A5",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.654.A32.KQJT T9.7.T987.432 .AK32.KQJ.987 .QJT98.654.A5",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "There is only one slight problem. The defense might be in a position to take the setting trick in spades when they gain the lead with the ♣A. South can increase his chances of success by allowing West to win the first trick. West will continue spades, but South should hold up his ♠A until the third round."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.654.A32.KQJT T9.7.T987.432 .AK32.KQJ.987 .QJT98.654.A5",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When East wins his ♣A"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.654.A32.QJT T9.7.T987.432 .AK32.KQJ.987 .QJT98.654.A5",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.654.A32.QJT T9.7.T987.43 .AK32.KQJ.987 .QJT98.654.A5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.654.A32.QJT T9.7.T987.43 .AK32.KQJ.98 .QJT98.654.A5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.654.A32.QJT T9.7.T987.43 .AK32.KQJ.98 .QJT98.654.5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.654.A32.QJT T9.7.T987.43 .AK32.KQJ.98 .QJT98.654.5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A he has no spades left to play and South has his nine tricks."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.654.A32.QJT T.87.T987.43 .AK32.KQJ.98 9.QJT9.654.5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "When East wins his ♣A he has no spades left to play and South has his nine tricks. The contract would still be secure if the defensive spades were divided 4-4. In this case, East would have a spade to return"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.654.A32.QJT T.87.T987.43 .AK32.KQJ.98 9.QJT9.654.5",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C2",
+        "N": "C7",
+        "E": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "When East wins his ♣A he has no spades left to play and South has his nine tricks. The contract would still be secure if the defensive spades were divided 4-4. In this case, East would have a spade to return upon winning the ♣A, but the defense would only have 4 tricks available."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.654.A32.KQJT T9.7.T987.A32 .AK32.KQJ.987 .QJT98.654.54",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ],
+          "S": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If West was dealt 5 spades and the ♣A, there is nothing South can do. The contract will always fail on that lie of the cards."
+    }
+  ]
+}

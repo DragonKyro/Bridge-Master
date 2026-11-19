@@ -1,0 +1,1335 @@
+{
+  "title": "Level 4 (Expert) - D-29",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-29",
+  "deal_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.JT98 K65.A543.AK.K432 QJT9.QT76.32.765",
+  "contract": "6D",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "6D",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand. South has a certain spade loser. If a trump trick must be lost then South's best chance is to score all of the small trumps in his hand with ruffs.\n\nSouth should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard.\n\nSouth should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs. In this layout, West is forced to ruff his partner's spade winner at trick 13.",
+  "commentary_paragraphs": [
+    "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand. South has a certain spade loser. If a trump trick must be lost then South's best chance is to score all of the small trumps in his hand with ruffs.",
+    "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard.",
+    "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs. In this layout, West is forced to ruff his partner's spade winner at trick 13."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "D6"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "D7"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "D8"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 49,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 54,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 55,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 57,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 59,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 62,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 63,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 64,
+      "seat": "W",
+      "card": "CT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.JT98 K65.A543.AK.K432 QJT9.QT76.32.765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 6♦."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.T98 K65.A543.AK.K432 QJT9.QT76.32.765",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣J against 6♦."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.T98 K65.A543.AK.K432 QJT9.QT76.32.765",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.765",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A432.2.J98765.AQ 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A432.2.J98765.Q 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A432.2.J98765.Q 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand. South has a certain spade loser."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A432.2.J98765.Q 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q",
+            "T",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣J against 6♦. South wins West's club opening lead in the closed hand. South has a certain spade loser. If a trump trick must be lost then South's best chance is to score all of the small trumps in his hand with ruffs."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A432.2.J98765.Q 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C2",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ98.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.A543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.543.AK.K43 QJT9.QT76.32.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.543.AK.K43 QJT9.QT7.32.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.543.AK.K43 QJT9.QT7.32.76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HA",
+        "E": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.54.AK.K43 QJT9.QT7.32.76",
+      "trick_cards": {
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A432..J98765.Q 87.KJ9.QT4.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A432..J9876.Q 87.KJ9.QT4.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D5",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A432..J9876.Q 87.KJ.QT4.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D5",
+        "W": "H9",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A432..J9876.Q 87.KJ.QT4.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D5",
+        "W": "H9",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT4.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.54.AK.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.54.A.K43 QJT9.QT.32.76",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D4",
+        "N": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.54.A.K43 QJT9.QT.3.76",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D4",
+        "N": "DK",
+        "E": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.54.A.K43 QJT9.QT.3.76",
+      "trick_cards": {
+        "S": "D6",
+        "W": "D4",
+        "N": "DK",
+        "E": "D2"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.5.A.K43 QJT9.QT.3.76",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A432..J987.Q 87.KJ.QT.T98 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A432..J98.Q 87.KJ.QT.T98 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "D7",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A432..J98.Q 87.K.QT.T98 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "D7",
+        "W": "HJ",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A432..J98.Q 87.K.QT.T98 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "D7",
+        "W": "HJ",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A432..J98. 87.K.QT.T98 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A432..J98. 87.K.QT.T9 K65.5.A.K43 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A432..J98. 87.K.QT.T9 K65.5.A.K4 QJT9.Q.3.76",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C8",
+        "N": "C3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A432..J98. 87.K.QT.T9 K65.5.A.K4 QJT9.Q.3.7",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A432..J98. 87.K.QT.T9 K65.5.A.K4 QJT9.Q.3.7",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C8",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A432..J9. 87.K.QT.T9 K65.5.A.K4 QJT9.Q.3.7",
+      "trick_cards": {
+        "S": "D8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5.A.K4 QJT9.Q.3.7",
+      "trick_cards": {
+        "S": "D8",
+        "W": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5..K4 QJT9.Q.3.7",
+      "trick_cards": {
+        "S": "D8",
+        "W": "DT",
+        "N": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5..K4 QJT9.Q..7",
+      "trick_cards": {
+        "S": "D8",
+        "W": "DT",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5..K4 QJT9.Q..7",
+      "trick_cards": {
+        "S": "D8",
+        "W": "DT",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5..4 QJT9.Q..7",
+      "trick_cards": {
+        "N": "CK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A432..J9. 87.K.Q.T9 K65.5..4 QJT9.Q..",
+      "trick_cards": {
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A43..J9. 87.K.Q.T9 K65.5..4 QJT9.Q..",
+      "trick_cards": {
+        "S": "S2",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A43..J9. 87.K.Q.T K65.5..4 QJT9.Q..",
+      "trick_cards": {
+        "S": "S2",
+        "W": "C9",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a heart to the dummy at trick 2 and ruff a heart in the closed hand. South should cross in diamonds and ruff another heart. South should cash his remaining high club before crossing back to the dummy in diamonds. When the ♦Q does not fall (otherwise there is no problem), South should cash dummy's ♣K for a spade discard."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A43..J9. 87.K.Q.T K65.5..4 QJT9.Q..",
+      "trick_cards": {
+        "S": "S2",
+        "W": "C9",
+        "N": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A43..J9. 87.K.Q.T K65...4 QJT9.Q..",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A43..J9. 87.K.Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A43..J. 87.K.Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "S": "D9",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A43..J. 87..Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "S": "D9",
+        "W": "HK",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A43..J. 87..Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "S": "D9",
+        "W": "HK",
+        "N": "H5",
+        "E": "HQ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A,"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:43..J. 87..Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:43..J. 8..Q.T K65...4 QJT9...",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:43..J. 8..Q.T K6...4 QJT9...",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S5"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:43..J. 8..Q.T K6...4 QJT...",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S5",
+        "E": "S9"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:43..J. 8..Q.T K6...4 QJT...",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S7",
+        "N": "S5",
+        "E": "S9"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:4..J. 8..Q.T K6...4 QJT...",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:4..J. ..Q.T K6...4 QJT...",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:4..J. ..Q.T 6...4 QJT...",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:4..J. ..Q.T 6...4 QJ...",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "ST"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:4..J. ..Q.T 6...4 QJ...",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S8",
+        "N": "SK",
+        "E": "ST"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:4..J. ..Q.T 6... QJ...",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:4..J. Q...T 6... J..Q.",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:4..J. ..Q.T 6... QJ...",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        },
+        "W": {
+          "C": [
+            "T"
+          ],
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:4..J. ..Q.T 6... Q...",
+      "trick_cards": {
+        "N": "C4",
+        "E": "SJ"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs."
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:4... ..Q.T 6... Q...",
+      "trick_cards": {
+        "S": "DJ",
+        "N": "C4",
+        "E": "SJ"
+      },
+      "declarer_tricks": 11,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:4... ..Q. 6... Q...",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "CT",
+        "N": "C4",
+        "E": "SJ"
+      },
+      "declarer_tricks": 12,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs."
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:4... ..Q. 6... Q...",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "CT",
+        "N": "C4",
+        "E": "SJ"
+      },
+      "declarer_tricks": 12,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should take another heart ruff in the closed hand and cash the ♠A, followed by a spade to dummy's ♠K. Finally, South should lead dummy's last club. If East has the ♦Q, the contract is certain as South will score his ♦J en passant. If West has the ♦Q, South must hope that West has to follow suit in clubs as South ruffs. In this layout, West is forced to ruff his partner's spade winner at trick 13."
+    }
+  ]
+}

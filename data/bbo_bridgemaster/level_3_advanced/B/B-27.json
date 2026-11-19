@@ -1,0 +1,812 @@
+{
+  "title": "Level 3 (Advanced) - B-27",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-27",
+  "deal_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.AK54 65432.32.AQT9.32 QJT98.JT987.7.76",
+  "contract": "5D",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "2D",
+    "Pass",
+    "3D",
+    "Pass",
+    "4D",
+    "Pass",
+    "5D",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 11,
+  "notes": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit. South must decide how high to ruff in the dummy and subsequently how to play the trump suit.\n\nSouth can use inferences from the bidding to come up with the right answer. The opponents have 9 hearts between them. One of them must have at least a 5 card suit. If West had 5 hearts, he would have opened the bidding 1♥, not 1♣.\n\nEast must therefore have 5 hearts. East must also have at least 5 spades. With only 4 spades, East would have responded 1♥, not 1♠.\n\nEast has already shown up with 2 clubs. Twelve of East's cards (5 spades, 5 hearts, and 2 clubs) are accounted for. East's thirteenth card must be a diamond. If West had 4 diamonds, he would have opened the bidding 1♦, not 1♣.\n\nAs West is known to have 3 diamonds, South has a sure-fire play. South should ruff the third round of clubs high. East may have a singleton ♦J making a ruff with the ♦10 or ♦9 too risky.\n\nAfter ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit. South must decide how high to ruff in the dummy and subsequently how to play the trump suit.",
+    "South can use inferences from the bidding to come up with the right answer. The opponents have 9 hearts between them. One of them must have at least a 5 card suit. If West had 5 hearts, he would have opened the bidding 1♥, not 1♣.",
+    "East must therefore have 5 hearts. East must also have at least 5 spades. With only 4 spades, East would have responded 1♥, not 1♠.",
+    "East has already shown up with 2 clubs. Twelve of East's cards (5 spades, 5 hearts, and 2 clubs) are accounted for. East's thirteenth card must be a diamond. If West had 4 diamonds, he would have opened the bidding 1♦, not 1♣.",
+    "As West is known to have 3 diamonds, South has a sure-fire play. South should ruff the third round of clubs high. East may have a singleton ♦J making a ruff with the ♦10 or ♦9 too risky.",
+    "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "CA"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "CT"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.AK54 65432.32.AQT9.32 QJT98.JT987.7.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♦."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.A54 65432.32.AQT9.32 QJT98.JT987.7.76",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.A54 65432.32.AQT9.32 QJT98.JT987.7.76",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.A54 65432.32.AQT9.3 QJT98.JT987.7.76",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A.AK.K5432.QJT98 K7.Q654.J86.A54 65432.32.AQT9.3 QJT98.JT987.7.6",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A.AK.K5432.QJT9 K7.Q654.J86.A54 65432.32.AQT9.3 QJT98.JT987.7.6",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CK",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A.AK.K5432.QJT9 K7.Q654.J86.54 65432.32.AQT9.3 QJT98.JT987.7.6",
+      "trick_cards": {
+        "W": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A.AK.K5432.QJT9 K7.Q654.J86.54 65432.32.AQT9. QJT98.JT987.7.6",
+      "trick_cards": {
+        "W": "CA",
+        "N": "C3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A.AK.K5432.QJT9 K7.Q654.J86.54 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "CA",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.54 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.54 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "CA",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit. South must decide how high to ruff in the dummy"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♦. West cashes 2 rounds of clubs and continues the suit. South must decide how high to ruff in the dummy and subsequently how to play the trump suit."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can use inferences from the bidding to come up with the right answer."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can use inferences from the bidding to come up with the right answer. The opponents have 9 hearts between them. One of them must have at least a 5 card suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q7654.86.5 65432.32.AQT9. QJT98.JT98.J7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can use inferences from the bidding to come up with the right answer. The opponents have 9 hearts between them. One of them must have at least a 5 card suit. If West had 5 hearts, he would have opened the bidding 1♥, not 1♣."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East must therefore have 5 hearts."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "East must therefore have 5 hearts. East must also have at least 5 spades."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.AK.K5432.QJT K87.Q654.86.5 65432.32.AQT9. QJT9.JT987.J7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "East must therefore have 5 hearts. East must also have at least 5 spades. With only 4 spades, East would have responded 1♥, not 1♠."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "East has already shown up with 2 clubs. Twelve of East's cards (5 spades, 5 hearts, and 2 clubs) are accounted for. East's thirteenth card must be a diamond."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.AK.K5432.QJT K.Q654.J876.5 65432.32.AQT9. QJT987.JT987..",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "East has already shown up with 2 clubs. Twelve of East's cards (5 spades, 5 hearts, and 2 clubs) are accounted for. East's thirteenth card must be a diamond. If West had 4 diamonds, he would have opened the bidding 1♦, not 1♣."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "As West is known to have 3 diamonds, South has a sure-fire play."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "As West is known to have 3 diamonds, South has a sure-fire play. South should ruff the third round of clubs high."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.876.5 65432.32.AQT9. QJT98.JT987.J.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "As West is known to have 3 diamonds, South has a sure-fire play. South should ruff the third round of clubs high. East may have a singleton ♦J making a ruff with the ♦10 or ♦9 too risky."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.AQT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After ruffing high,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.QT9. QJT98.JT987.7.",
+      "trick_cards": {
+        "W": "C4",
+        "N": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.AK.K5432.QJT K7.Q654.J86.5 65432.32.QT9. QJT98.JT98.7.",
+      "trick_cards": {
+        "W": "C4",
+        "N": "DA",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.AK.K5432.QJ K7.Q654.J86.5 65432.32.QT9. QJT98.JT98.7.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C4",
+        "N": "DA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.AK.K5432.QJ K7.Q654.J86.5 65432.32.QT9. QJT98.JT98.7.",
+      "trick_cards": {
+        "S": "CT",
+        "W": "C4",
+        "N": "DA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After ruffing high, South should cross to the ♦K."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A.AK.K5432.QJ K7.Q654.J86.5 65432.32.QT. QJT98.JT98.7.",
+      "trick_cards": {
+        "N": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A.AK.K5432.QJ K7.Q654.J86.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "N": "D9",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A.AK.5432.QJ K7.Q654.J86.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D9",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A.AK.5432.QJ K7.Q654.J8.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D9",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A.AK.5432.QJ K7.Q654.J8.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D6",
+        "N": "D9",
+        "E": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A.AK.543.QJ K7.Q654.J8.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A.AK.543.QJ K7.Q654.J.5 65432.32.QT. QJT98.JT98..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A.AK.543.QJ K7.Q654.J.5 65432.32.Q. QJT98.JT98..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A.AK.543.QJ K7.Q654.J.5 65432.32.Q. QJT9.JT98..",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DT",
+        "E": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After ruffing high, South should cross to the ♦K. If the ♦J is outstanding, South should confidently finesse West for that card."
+    }
+  ]
+}

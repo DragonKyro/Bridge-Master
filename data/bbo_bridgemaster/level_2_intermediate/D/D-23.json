@@ -1,0 +1,742 @@
+{
+  "title": "Level 2 (Intermediate) - D-23",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-23",
+  "deal_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "2H",
+    "Pass",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H8",
+  "par_tricks": 9,
+  "notes": "West leads the ♥8 against 3NT. It's now or never for the ♥J and, when it holds, South's remaining ♥K doubleton will act as a second stopper as long as East can be kept off lead. South must play on diamonds to come close to 9 tricks. He can afford to lose a diamond trick as long as East does not gain the lead.\n\nSouth should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K in order to cash dummy's 3 remaining diamond winners. The ♠A will be South's 9th trick.\n\nIf South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round and lead a heart through South's ♥K to defeat 3NT. Given that South can afford to lose a diamond trick, he should take the recommended line in order to minimize the chances of having to lose that trick to East.",
+  "commentary_paragraphs": [
+    "West leads the ♥8 against 3NT. It's now or never for the ♥J and, when it holds, South's remaining ♥K doubleton will act as a second stopper as long as East can be kept off lead. South must play on diamonds to come close to 9 tricks. He can afford to lose a diamond trick as long as East does not gain the lead.",
+    "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K in order to cash dummy's 3 remaining diamond winners. The ♠A will be South's 9th trick.",
+    "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round and lead a heart through South's ♥K to defeat 3NT. Given that South can afford to lose a diamond trick, he should take the recommended line in order to minimize the chances of having to lose that trick to East."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "D2"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 19,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "C2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥8 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT76.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥8 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT76.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {
+        "W": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {
+        "W": "H8",
+        "N": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "W": "H8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J and, when it holds, South's remaining ♥K doubleton will act as a second stopper as long as East can be kept off lead."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥8 against 3NT. It's now or never for the ♥J and, when it holds, South's remaining ♥K doubleton will act as a second stopper as long as East can be kept off lead. South must play on diamonds to come close to 9 tricks. He can afford to lose a diamond trick as long as East does not gain the lead."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J87654.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "HJ",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q32.KT76",
+      "trick_cards": {
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A432.K3.AK9.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A432.K3.AK.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A432.K3.AK.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A432.K3.AK.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A432.K3.AK.Q54 J98.AQT76.T.J98 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "D9",
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A432.K3.AK.Q54 J98.AQT76.T.J9 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "D9",
+        "W": "C8",
+        "N": "D4",
+        "E": "D2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J9 K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A32 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A3 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A3 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A3 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A3 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K in order to cash dummy's 3 remaining diamond winners."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A432.K3.AK.Q5 J98.AQT76.T.J K5.4.J8765.A3 QT76.5.Q3.KT76",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C9",
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should lead a low diamond from the dummy at trick 2. When East follows small, South should play the ♦9 from his hand. West is welcome to win this trick, but he cannot attack hearts profitably from his side of the table. South should win West's club return with dummy's ♣A and unblock the diamonds. South can now cross to the ♠K in order to cash dummy's 3 remaining diamond winners. The ♠A will be South's 9th trick."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "Q",
+            "T",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round and lead a heart through South's ♥K to defeat 3NT."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A432.K32.AK9.Q54 J98.AQT876.T.J98 K5.J4.J87654.A32 QT76.95.Q32.KT76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "J",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If South had to play diamonds for 6 tricks, the percentage play would be to cash the ♦A and ♦K hoping for the ♦Q to drop. On this deal it would be wrong to play this way as East would win the ♦Q on the third round and lead a heart through South's ♥K to defeat 3NT. Given that South can afford to lose a diamond trick, he should take the recommended line in order to minimize the chances of having to lose that trick to East."
+    }
+  ]
+}

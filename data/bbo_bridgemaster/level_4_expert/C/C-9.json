@@ -1,0 +1,936 @@
+{
+  "title": "Level 4 (Expert) - C-9",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-9",
+  "deal_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.QJT AQ3.32.5432.9876 KT984.KJT987.98.",
+  "contract": "6C",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3C",
+    "Pass",
+    "4C",
+    "Pass",
+    "4D",
+    "Pass",
+    "4S",
+    "Pass",
+    "6C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♣Q against 6♣. West's trump lead should be won by South. The opening lead reveals a trump loser. It looks like South has a choice of either finessing in spades or in hearts. A successful finesse in either suit will see the contract home while a losing finesse will leave the contract with no hope.\n\nBy using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed. A spade play will set up dummy's ♠Q for a heart discard. A heart return will also solve South's problems.\n\nIf East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South. Dummy can be entered in trump and South can try the heart finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♣Q against 6♣. West's trump lead should be won by South. The opening lead reveals a trump loser. It looks like South has a choice of either finessing in spades or in hearts. A successful finesse in either suit will see the contract home while a losing finesse will leave the contract with no hope.",
+    "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed. A spade play will set up dummy's ♠Q for a heart discard. A heart return will also solve South's problems.",
+    "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South. Dummy can be entered in trump and South can try the heart finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 40,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "C3"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.QJT AQ3.32.5432.9876 KT984.KJT987.98.",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 6♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.JT AQ3.32.5432.9876 KT984.KJT987.98.",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 6♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.JT AQ3.32.5432.9876 KT984.KJT987.98.",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.JT AQ3.32.5432.987 KT984.KJT987.98.",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.AQ.AKQJ.AK5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South. The opening lead reveals a trump loser."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South. The opening lead reveals a trump loser. It looks like South has a choice of either finessing in spades"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 6♣. West's trump lead should be won by South. The opening lead reveals a trump loser. It looks like South has a choice of either finessing in spades or in hearts. A successful finesse in either suit will see the contract home while a losing finesse will leave the contract with no hope."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.AQ.AKQJ.A5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CQ",
+        "N": "C6",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.AQ.AKQJ.5432 J765.654.T76.JT AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.AQ.AKQJ.5432 J765.654.T76.J AQ3.32.5432.987 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.AQ.AKQJ.5432 J765.654.T76.J AQ3.32.5432.98 KT94.KJT987.98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "N": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.AQ.AKQJ.5432 J765.654.T76.J AQ3.32.5432.98 KT94.KJT98.98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "N": "C7",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.AQ.AKQJ.5432 J765.654.T76.J AQ3.32.5432.98 KT94.KJT98.98.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CT",
+        "N": "C7",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AQ.AKQJ.5432 J765.654.T76.J AQ3.32.5432.98 KT94.KJT98.98.",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AQ.AKQJ.5432 J75.654.T76.J AQ3.32.5432.98 KT94.KJT98.98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AQ.AKQJ.5432 J75.654.T76.J Q3.32.5432.98 KT94.KJT98.98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AQ.AKQJ.5432 J75.654.T76.J Q3.32.5432.98 KT9.KJT98.98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AQ.AKQJ.5432 J75.654.T76.J Q3.32.5432.98 KT9.KJT98.98.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AQ..5432 J75.654..J Q3.32.5.98 KT9.KJT9..",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AQ..5432 J7.654..J Q3.32.5.98 KT9.KJT9..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "S5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AQ..5432 J7.654..J Q3.32..98 KT9.KJT9..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "S5",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AQ..5432 J7.654..J Q3.32..98 KT9.KJT..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "S5",
+        "N": "D5",
+        "E": "H9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AQ..5432 J7.654..J Q3.32..98 KT9.KJT..",
+      "trick_cards": {
+        "S": "DA",
+        "W": "S5",
+        "N": "D5",
+        "E": "H9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQ..543 J7.654..J Q3.32..98 KT9.KJT..",
+      "trick_cards": {
+        "S": "C2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQ..543 J7.654.. Q3.32..98 KT9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQ..543 J7.654.. Q3.32..9 KT9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQ..543 J7.654.. Q3.32..9 K9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQ..543 K7.654.. Q3.32..9 J9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQ..543 K7.654.. Q3.32..9 J9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed. A spade play will set up dummy's ♠Q"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AQ..543 K7.654.. Q3.32..9 J9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed. A spade play will set up dummy's ♠Q for a heart discard."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AQ..543 K7.654.. Q3.32..9 J9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "By using elimination technique, South can improve his chances and make the contract if either finesse works. South should cash his other top club honour followed by the ♠A. South next plays his diamonds. If West refuses to ruff, he will be thrown in with his trump trick. If West has the ♠K, he will be endplayed. A spade play will set up dummy's ♠Q for a heart discard. A heart return will also solve South's problems."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AQ..543 J7.654.. Q3.32..9 K9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AQ..543 J7.654.. Q3.32..9 K9.KJT..",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C8",
+        "E": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AQ..543 J.654.. Q3.32..9 K9.KJT..",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the ♠K, West can return a spade without cost."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AQ..543 J.654.. Q3.32..9 K9.KJT..",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AQ..543 J.654.. 3.32..9 K9.KJT..",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AQ..543 J.654.. 3.32..9 K9.KJT..",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.AQ..543 J.654.. 3.32..9 9.KJT..",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.AQ..543 J.654.. 3.32..9 9.KJT..",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.AQ..54 J.654.. 3.32..9 9.KJT..",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.AQ..54 J.654.. 3.32..9 9.KJT..",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South. Dummy can be entered in trump"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.AQ..54 J.654.. 3.32..9 9.KJT..",
+      "trick_cards": {
+        "S": "C3",
+        "W": "S7",
+        "N": "SQ",
+        "E": "SK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East has the ♠K, West can return a spade without cost. Dummy's ♠Q is covered by the ♠K and ruffed by South. Dummy can be entered in trump and South can try the heart finesse."
+    }
+  ]
+}

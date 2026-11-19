@@ -1,0 +1,597 @@
+{
+  "title": "Level 3 (Advanced) - B-25",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "B-25",
+  "deal_pbn": "S:432.AKQ5.AKQ.JT9 JT9.JT9.5432.432 AKQ5.432.JT9.AKQ 876.876.876.8765",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "Pass",
+    "2NT",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 13,
+  "notes": "West leads the ♥J against 7NT. South has 12 top tricks, 3 in each suit. If either hearts or spades are 3-3, a thirteenth trick will be available.\n\nSouth can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead, South should cash his tricks in diamonds and clubs.\n\nA position similar to the above will occur when the last minor suit winner is about to be played. West is squeezed. A spade discard will set up North's small spade. A heart discard will set up South's small heart.\n\nThis squeeze is referred to as a simple squeeze. Simple squeezes mature with 1 loser. One defender (West in the above position) must have the sole defensive guard in 2 suits (spades and hearts above).\n\nDue to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts. It would be a mistake to test both spades and hearts before playing the diamonds and clubs. To operate, simple squeezes need entries in at least 1 of the threat suits.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 7NT. South has 12 top tricks, 3 in each suit. If either hearts or spades are 3-3, a thirteenth trick will be available.",
+    "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead, South should cash his tricks in diamonds and clubs.",
+    "A position similar to the above will occur when the last minor suit winner is about to be played. West is squeezed. A spade discard will set up North's small spade. A heart discard will set up South's small heart.",
+    "This squeeze is referred to as a simple squeeze. Simple squeezes mature with 1 loser. One defender (West in the above position) must have the sole defensive guard in 2 suits (spades and hearts above).",
+    "Due to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts. It would be a mistake to test both spades and hearts before playing the diamonds and clubs. To operate, simple squeezes need entries in at least 1 of the threat suits."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D3"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 10,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT9.JT9.5432.432 AKQ5.432.JT9.AKQ 876.876.876.8765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 7NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT9.T9.5432.432 AKQ5.432.JT9.AKQ 876.876.876.8765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 7NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT9.T9.5432.432 AKQ5.432.JT9.AKQ 876.876.876.8765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 7NT. South has 12 top tricks, 3 in each suit."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT9.T9.5432.432 AKQ5.432.JT9.AKQ 876.876.876.8765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ],
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 7NT. South has 12 top tricks, 3 in each suit. If either hearts or spades are 3-3, a thirteenth trick will be available."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT98.T98.32.432 AKQ5.432.JT9.AKQ 76.76.87654.8765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT98.T98.32.432 AKQ5.432.JT9.AKQ 76.76.87654.8765",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT98.T98.32.432 AKQ5.43.JT9.AKQ 76.76.87654.8765",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:432.AKQ5.AKQ.JT9 JT98.T98.32.432 AKQ5.43.JT9.AKQ 76.7.87654.8765",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:432.AK5.AKQ.JT9 JT98.T98.32.432 AKQ5.43.JT9.AKQ 76.7.87654.8765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:432.AK5.AKQ.JT9 JT98.T98.32.432 AKQ5.43.JT9.AKQ 76.7.87654.8765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can also make his contract if either defender has 4 or more cards in both spades and hearts. After winning the heart lead, South should cash his tricks in diamonds and clubs."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:432.AK5.A. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D3",
+        "N": "DT",
+        "E": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "A position similar to the above will occur when the last minor suit winner is about to be played."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "A position similar to the above will occur when the last minor suit winner is about to be played."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "A position similar to the above will occur when the last minor suit winner is about to be played. West is squeezed."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "A position similar to the above will occur when the last minor suit winner is about to be played. West is squeezed. A spade discard will set up North's small spade."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "A position similar to the above will occur when the last minor suit winner is about to be played. West is squeezed. A spade discard will set up North's small spade. A heart discard will set up South's small heart."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "This squeeze is referred to as a simple squeeze. Simple squeezes mature with 1 loser. One defender (West in the above position) must have the sole defensive guard in 2 suits (spades and hearts above)."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:432.AK5.. JT98.T98.. AKQ5.43.J. 76.7.876.8",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Due to the fact that the threat suits are divided between the North and South hands,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:432.AK5.. JT.T.876.8 AKQ5.43.J. 9876.987..",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "9",
+            "8",
+            "7"
+          ],
+          "S": [
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Due to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:432.AK5.AKQ.JT9 JT.T.87632.8432 AKQ5.43.JT9.AKQ 9876.987.54.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Due to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts. It would be a mistake to test both spades and hearts"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:432.AK5.AKQ.JT9 JT.T.87632.8432 AKQ5.43.JT9.AKQ 9876.987.54.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Due to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts. It would be a mistake to test both spades and hearts before playing the diamonds and clubs."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:432.AK5.AKQ.JT9 JT.T.87632.8432 AKQ5.43.JT9.AKQ 9876.987.54.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "5"
+          ],
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "4",
+            "3"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Due to the fact that the threat suits are divided between the North and South hands, the squeeze would be equally effective if East has length in both spades and hearts. It would be a mistake to test both spades and hearts before playing the diamonds and clubs. To operate, simple squeezes need entries in at least 1 of the threat suits."
+    }
+  ]
+}

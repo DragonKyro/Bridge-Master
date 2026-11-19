@@ -1,0 +1,795 @@
+{
+  "title": "Level 2 (Intermediate) - D-10",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-10",
+  "deal_pbn": "S:KQ7654.987.AK5.2 A2.KQJ.JT9.T9876 JT98.32.432.AQ43 3.AT654.Q876.KJ5",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "Pass",
+    "Pass",
+    "Pass",
+    "1S",
+    "Pass",
+    "2S",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South. With the ♠A as a certain loser, South will have to hope that dummy's ♣Q will provide a parking place for his diamond loser.\n\nThere is no hurry to finesse in clubs and South should start by driving out the ♠A. West wins the ♠A and continues with the ♦10 to South's remaining honor. It looks like South needs a winning club finesse in order to dispose of his diamond loser. However, South should know by now that East must have the ♣K! West is a passed hand and he is known to have started with the ♠A, ♥KQ, and ♦J. With the ♣K in addition, he would have opened the bidding.\n\nSouth should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy so that the established ♣Q can be cashed for a diamond discard.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South. With the ♠A as a certain loser, South will have to hope that dummy's ♣Q will provide a parking place for his diamond loser.",
+    "There is no hurry to finesse in clubs and South should start by driving out the ♠A. West wins the ♠A and continues with the ♦10 to South's remaining honor. It looks like South needs a winning club finesse in order to dispose of his diamond loser. However, South should know by now that East must have the ♣K! West is a passed hand and he is known to have started with the ♠A, ♥KQ, and ♦J. With the ♣K in addition, he would have opened the bidding.",
+    "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy so that the established ♣Q can be cashed for a diamond discard."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H7"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "H8"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.KQJ.JT9.T9876 JT98.32.432.AQ43 3.AT654.Q876.KJ5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.32.432.AQ43 3.AT654.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.32.432.AQ43 3.AT654.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.32.432.AQ43 3.AT654.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.3.432.AQ43 3.AT654.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.3.432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.3.432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ7654.987.AK5.2 A2.QJ.JT9.T9876 JT98.3.432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.QJ.JT9.T9876 JT98.3.432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "S": "H7",
+        "W": "HK",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98.3.432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "W": {
+          "S": [
+            "A"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South. With the ♠A as a certain loser,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and he continues with the ♥Q before switching to the ♦J, which is won by South. With the ♠A as a certain loser, South will have to hope that dummy's ♣Q will provide a parking place for his diamond loser."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "There is no hurry to finesse in clubs and South should start by driving out the ♠A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is no hurry to finesse in clubs and South should start by driving out the ♠A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "There is no hurry to finesse in clubs and South should start by driving out the ♠A. West wins the ♠A and continues with the ♦10 to South's remaining honor."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "There is no hurry to finesse in clubs and South should start by driving out the ♠A. West wins the ♠A and continues with the ♦10 to South's remaining honor."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "There is no hurry to finesse in clubs and South should start by driving out the ♠A. West wins the ♠A and continues with the ♦10 to South's remaining honor. It looks like South needs a winning club finesse in order to dispose of his diamond loser. However, South should know by now that East must have the ♣K! West is a passed hand and he is known to have started with the ♠A, ♥KQ, and ♦J. With the ♣K in addition, he would have opened the bidding."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT65.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ7654.98.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ7654.9.AK5.2 A2.Q.JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "S": "H8",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ7654.9.AK5.2 A2..JT9.T9876 JT98..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ7654.9.AK5.2 A2..JT9.T9876 JT9..432.AQ43 3.AT6.Q876.KJ5",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ7654.9.AK5.2 A2..JT9.T9876 JT9..432.AQ43 3.AT.Q876.KJ5",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "S8",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ7654.9.AK5.2 A2..JT9.T9876 JT9..432.AQ43 3.AT.Q876.KJ5",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "S8",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should reject the club finesse and hope instead that East's ♣K is no more than doubly guarded. There are several winning play sequences from this point. For example, a club to dummy's ♣A, a club ruff, a trump to the dummy, and another club ruff will bring down the ♣K on the above layout. A heart can then be ruffed in dummy so that the established ♣Q can be cashed for a diamond discard."
+    }
+  ]
+}

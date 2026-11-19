@@ -1,0 +1,969 @@
+{
+  "title": "Level 5 (World Class) - B-6",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "B-6",
+  "deal_pbn": "S:K2.AQJ765.AQ2.AK JT.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "2NT",
+    "Pass",
+    "4C",
+    "4H",
+    "Pass",
+    "5H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump. West is very likely to have the ♦K. If his spade lead is a singleton, the contract has no chance. South should assume that West started with a doubleton ♠J10 (and thus no more than a singleton heart).\n\nEast wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q.\n\nSouth can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover. South must plan to draw West's singleton trump while keeping the lead in the dummy. It will also be necessary to keep a late dummy entry in trumps to enjoy the long spades. South's best play is to finesse against the ♥10 in East's hand.\n\nThe ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy. North will have 2 established spades for South's diamond losers.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump. West is very likely to have the ♦K. If his spade lead is a singleton, the contract has no chance. South should assume that West started with a doubleton ♠J10 (and thus no more than a singleton heart).",
+    "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q.",
+    "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover. South must plan to draw West's singleton trump while keeping the lead in the dummy. It will also be necessary to keep a late dummy entry in trumps to enjoy the long spades. South's best play is to finesse against the ♥10 in East's hand.",
+    "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy. North will have 2 established spades for South's diamond losers."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "C8"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "HK"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "HT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK JT.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ],
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump. West is very likely to have the ♦K."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK .42.KJT98.QT987 Q8765.K98.543.32 AT943.T3.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "T",
+            "9",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump. West is very likely to have the ♦K. If his spade lead is a singleton, the contract has no chance."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ],
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6♥. West has shown at least 5 diamonds and 5 clubs with his unusual no trump. West is very likely to have the ♦K. If his spade lead is a singleton, the contract has no chance. South should assume that West started with a doubleton ♠J10 (and thus no more than a singleton heart)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q8765.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East wins the ♠A (ducking is superior)"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 A943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior)"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior)"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 943.T32.76.J654",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 943.T32.76.J654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 943.T32.76.J654",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SJ",
+        "N": "S5",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "9",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "E": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AQJ765.AQ2.AK T.4.KJT98.QT987 Q876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 Q876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "E": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "East wins the ♠A (ducking is superior) and South should drop the ♠K. East continues the suit and North wins the ♠Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        },
+        "E": {
+          "S": [
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover. South must plan to draw West's singleton trump while keeping the lead in the dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "8"
+          ],
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover. South must plan to draw West's singleton trump while keeping the lead in the dummy. It will also be necessary to keep a late dummy entry in trumps to enjoy the long spades."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South can now set up 2 spade winners by taking a ruffing finesse against the ♠9. This play will not work while West has a trump as East will not cover. South must plan to draw West's singleton trump while keeping the lead in the dummy. It will also be necessary to keep a late dummy entry in trumps to enjoy the long spades. South's best play is to finesse against the ♥10 in East's hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K98.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T32.76.J654",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AQJ765.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQJ76.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "S": "H5",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQJ76.AQ2.AK .4.KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "S": "H5",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQJ76.AQ2.AK ..KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "H4",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQJ76.AQ2.AK ..KJT98.QT987 876.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "S": "H5",
+        "W": "H4",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQJ76.AQ2.AK ..KJT98.QT987 76.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQJ76.AQ2.AK ..KJT98.QT987 76.K8.543.32 94.T3.76.J654",
+      "trick_cards": {
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "7",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AQJ76.AQ2.AK ..KJT98.QT987 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "N": "S8",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AQ76.AQ2.AK ..KJT98.QT987 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "S8",
+        "E": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AQ76.AQ2.AK ..KJT98.QT98 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "C7",
+        "N": "S8",
+        "E": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AQ76.AQ2.AK ..KJT98.QT98 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "C7",
+        "N": "S8",
+        "E": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "T",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.Q76.AQ2.AK ..KJT98.QT98 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.Q76.AQ2.AK ..KJT9.QT98 76.K8.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.Q76.AQ2.AK ..KJT9.QT98 76.K.543.32 4.T3.76.J654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D8",
+        "N": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.Q76.AQ2.AK ..KJT9.QT98 76.K.543.32 4.T.76.J654",
+      "trick_cards": {
+        "S": "HA",
+        "W": "D8",
+        "N": "H8",
+        "E": "H3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.Q7.AQ2.AK ..KJT9.QT98 76.K.543.32 4.T.76.J654",
+      "trick_cards": {
+        "S": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.Q7.AQ2.AK ..KJT9.QT9 76.K.543.32 4.T.76.J654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.Q7.AQ2.AK ..KJT9.QT9 76..543.32 4.T.76.J654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "C8",
+        "N": "HK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.Q7.AQ2.AK ..KJT9.QT9 76..543.32 4..76.J654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "C8",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.Q7.AQ2.AK ..KJT9.QT9 76..543.32 4..76.J654",
+      "trick_cards": {
+        "S": "H6",
+        "W": "C8",
+        "N": "HK",
+        "E": "HT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "The ♥8 or ♥9 is played and when East follows low, so does South. When West produces a low heart, spades can safely be played. When East covers with the ♠9, South ruffs. East's remaining trumps can be drawn ending in the dummy. North will have 2 established spades for South's diamond losers."
+    }
+  ]
+}

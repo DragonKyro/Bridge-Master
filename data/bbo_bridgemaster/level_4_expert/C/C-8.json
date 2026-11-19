@@ -1,0 +1,971 @@
+{
+  "title": "Level 4 (Expert) - C-8",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-8",
+  "deal_pbn": "S:AKQ.A2.5432.5432 JT987.JT98.KT.87 2.KQ543.9876.AK6 6543.76.AQJ.QJT9",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "1H",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts, and 2 clubs). Dummy's heart suit is the most likely source of a ninth trick. Hearts are likely to divide 4-2 and South should try to guard against this possibility.\n\nIf South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed, but South will be unable to reach his remaining spade winners. The defense will play clubs locking the lead in the dummy.\n\nIt would have done no good to cash the top spades before playing hearts. In this case, the defense would be in a position to cash enough tricks to defeat the contract upon winning the fourth round of hearts.\n\nSouth can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick while retaining a hand entry to cash the remaining spade honours. Dummy has 2 entries in clubs making it impossible for the defense to cut South off from the dummy.\n\nIt is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick. The recommended play is correct as the odds of hearts being 3-3 and diamonds being 4-1 are considerably less than the odds of a 4-2 heart break.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts, and 2 clubs). Dummy's heart suit is the most likely source of a ninth trick. Hearts are likely to divide 4-2 and South should try to guard against this possibility.",
+    "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed, but South will be unable to reach his remaining spade winners. The defense will play clubs locking the lead in the dummy.",
+    "It would have done no good to cash the top spades before playing hearts. In this case, the defense would be in a position to cash enough tricks to defeat the contract upon winning the fourth round of hearts.",
+    "South can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick while retaining a hand entry to cash the remaining spade honours. Dummy has 2 entries in clubs making it impossible for the defense to cut South off from the dummy.",
+    "It is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick. The recommended play is correct as the odds of hearts being 3-3 and diamonds being 4-1 are considerably less than the odds of a 4-2 heart break."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.A2.5432.5432 JT987.JT98.KT.87 2.KQ543.9876.AK6 6543.76.AQJ.QJT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.A2.5432.5432 T987.JT98.KT.87 2.KQ543.9876.AK6 6543.76.AQJ.QJT9",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.A2.5432.5432 T987.JT98.KT.87 2.KQ543.9876.AK6 6543.76.AQJ.QJT9",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 6543.76.AQJ.QJT9",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts, and 2 clubs). Dummy's heart suit is the most likely source of a ninth trick."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 3NT. West's lead is won by South. There are 8 top tricks (3 spades, 3 hearts, and 2 clubs). Dummy's heart suit is the most likely source of a ninth trick. Hearts are likely to divide 4-2 and South should try to guard against this possibility."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK..543.5432 T987.J.KT.87 .54.9876.AK6 65..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK..543.5432 T987.J.KT.87 .54.9876.AK6 65..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "HT",
+        "N": "HQ",
+        "E": "S4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK..543.5432 T987.J.KT.87 .5.9876.AK6 65..AQJ.QJT9",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK..543.5432 T987.J.KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK..54.5432 T987.J.KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK..54.5432 T987..KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "HJ",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK..54.5432 T987..KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "HJ",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK..54.5432 T987..KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "HJ",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed, but South will be unable to reach his remaining spade winners."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK..54.5432 T987..KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "HJ",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7"
+          ]
+        },
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed, but South will be unable to reach his remaining spade winners. The defense will play clubs"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK..54.5432 T987..KT.87 .5.9876.AK6 6..AQJ.QJT9",
+      "trick_cards": {
+        "S": "D3",
+        "W": "HJ",
+        "N": "H4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If South cashes the top hearts and that suit is indeed 4-2, the contract will be in trouble. By surrending a heart trick, the ninth trick can be developed, but South will be unable to reach his remaining spade winners. The defense will play clubs locking the lead in the dummy."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "It would have done no good to cash the top spades"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.A2.5432.5432 T9.JT98.KT.87 .KQ543.987.AK 6.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "C6",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "It would have done no good to cash the top spades before playing hearts."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.A2.5432.5432 T9.JT98.KT.87 .KQ543.987.AK 6.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "C6",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "It would have done no good to cash the top spades before playing hearts. In this case, the defense would be in a position to cash enough tricks to defeat the contract upon winning the fourth round of hearts."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK.A2.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT98.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ543.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.76.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "K",
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick while retaining a hand entry"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick while retaining a hand entry to cash the remaining spade honours."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "A",
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can resolve his communication problems by ducking a heart at trick 2. By playing this way, South is able to establish a long heart trick while retaining a hand entry to cash the remaining spade honours. Dummy has 2 entries in clubs making it impossible for the defense to cut South off from the dummy."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK.A.5432.5432 T987.T9.K.T987 .KQ54.9876.AK6 654.J7.AQJT.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It is true that South may go down by playing this way when hearts were 3-3 all along."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK.A.5432.5432 T987.T9.K.T987 .KQ54.9876.AK6 654.J7.AQJT.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "It is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AK.A.5432.5432 T987.T9.K.T987 .KQ54.9876.AK6 654.J7.AQJT.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "J",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick. The recommended play is correct as the odds of hearts being 3-3"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AK.A.5432.5432 T987.T9.K.T987 .KQ54.9876.AK6 654.J7.AQJT.QJ",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "It is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick. The recommended play is correct as the odds of hearts being 3-3 and diamonds being 4-1"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AK.A.5432.5432 T987.JT9.KT.87 .KQ54.9876.AK6 654.7.AQJ.QJT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H8",
+        "N": "H3",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "It is true that South may go down by playing this way when hearts were 3-3 all along. The defense may be able to cash 4 diamond tricks after winning a heart trick. The recommended play is correct as the odds of hearts being 3-3 and diamonds being 4-1 are considerably less than the odds of a 4-2 heart break."
+    }
+  ]
+}

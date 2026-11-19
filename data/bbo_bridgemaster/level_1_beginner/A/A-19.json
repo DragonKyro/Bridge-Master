@@ -1,0 +1,898 @@
+{
+  "title": "Level 1 (Beginner) - A-19",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-19",
+  "deal_pbn": "S:KQJ.Q32.432.AKQ5 T987.7654.QJ95.6 432.AKJ.AKT.J432 A65.T98.876.T987",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "4NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 12,
+  "notes": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades, 3 hearts, 2 diamonds, and 4 clubs).\n\nThe only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low.\n\nSouth should make sure not to cash too many tricks before playing diamonds. Diamonds will have to be played twice from the South hand.",
+  "commentary_paragraphs": [
+    "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades, 3 hearts, 2 diamonds, and 4 clubs).",
+    "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low.",
+    "South should make sure not to cash too many tricks before playing diamonds. Diamonds will have to be played twice from the South hand."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 41,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 42,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 43,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQJ.Q32.432.AKQ5 T987.7654.QJ95.6 432.AKJ.AKT.J432 A65.T98.876.T987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQJ.Q32.432.AKQ5 987.7654.QJ95.6 432.AKJ.AKT.J432 A65.T98.876.T987",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQJ.Q32.432.AKQ5 987.7654.QJ95.6 432.AKJ.AKT.J432 A65.T98.876.T987",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQJ.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 A65.T98.876.T987",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQJ.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 65.T98.876.T987",
+      "trick_cards": {
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 65.T98.876.T987",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 65.T98.876.T987",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "ST",
+        "N": "S2",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 987.7654.QJ95.6 43.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 43.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades, 3 hearts,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades, 3 hearts, 2 diamonds,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 6NT. East takes the ♠A at trick 1 and returns the suit. South has 11 top tricks (2 spades, 3 hearts, 2 diamonds, and 4 clubs)."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q.Q32.432.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S8",
+        "N": "S3",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ9.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ9.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ9.6 4.AKJ.AK.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ9.6 4.AKJ.AK.J432 5.T98.87.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.QJ95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AKT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AT.J432 5.T98.876.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AT.J432 5.T98.87.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AT.J432 5.T98.87.T987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AT.J43 5.T98.87.T987",
+      "trick_cards": {
+        "N": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q.Q32.43.AKQ5 97.7654.Q95.6 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q.Q32.43.KQ5 97.7654.Q95.6 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q.Q32.43.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q.Q32.43.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C2",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q95. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q9. 4.AKJ.AT.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q9. 4.AKJ.A.J43 5.T98.87.T98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D5",
+        "N": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q9. 4.AKJ.A.J43 5.T98.8.T98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D5",
+        "N": "DT",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The only suit that offers a chance for trick 12 is diamonds. South must take a trick with dummy's ♦10. South can succeed via a double finesse if West has both the ♦Q and ♦J. South should lead a diamond towards North. If West follows low, the ♦10 is played. If West plays the ♦J or ♦Q, North wins the trick. South travels back to his hand and leads another diamond towards North, again planning to play the ♦10 if West follows low."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:Q.Q32.4.KQ5 97.7654.Q9. 4.AKJ.A.J43 5.T98.8.T98",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D5",
+        "N": "DT",
+        "E": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should make sure not to cash too many tricks before playing diamonds. Diamonds will have to be played twice from the South hand."
+    }
+  ]
+}

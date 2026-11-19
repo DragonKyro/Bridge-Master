@@ -1,0 +1,903 @@
+{
+  "title": "Level 1 (Beginner) - B-8",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-8",
+  "deal_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KJT98.JT AJ2.AKQJT.32.654 76.7654.A76.A987",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "2S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks, 5 heart tricks, and at least 2 club tricks, trumps should be drawn immediately.\n\nSouth must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn. South easily has the rest of the tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks, 5 heart tricks, and at least 2 club tricks, trumps should be drawn immediately.",
+    "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn. South easily has the rest of the tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "DA"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "S4"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KJT98.JT AJ2.AKQJT.32.654 76.7654.A76.A987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KT98.JT AJ2.AKQJT.32.654 76.7654.A76.A987",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KT98.JT AJ2.AKQJT.32.654 76.7654.A76.A987",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "D": [
+            "A",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KT98.JT AJ2.AKQJT.3.654 76.7654.A76.A987",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ43.32.Q54.KQ32 T985.98.KT98.JT AJ2.AKQJT.3.654 76.7654.76.A987",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ43.32.Q5.KQ32 T985.98.KT98.JT AJ2.AKQJT.3.654 76.7654.76.A987",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DJ",
+        "N": "D2",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ43.32.Q5.KQ32 T985.98.KT98.JT AJ2.AKQJT.3.654 76.7654.7.A987",
+      "trick_cards": {
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT98.JT AJ2.AKQJT.3.654 76.7654.7.A987",
+      "trick_cards": {
+        "S": "D5",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.JT AJ2.AKQJT.3.654 76.7654.7.A987",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D8",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.JT AJ2.AKQJT..654 76.7654.7.A987",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D8",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.JT AJ2.AKQJT..654 76.7654.7.A987",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D8",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.T AJ2.AKQJT..654 76.7654.7.A987",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.A987",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ43.32.Q.KQ32 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.987",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C4",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ43.32.Q.KQ3 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.987",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ43.32.Q.KQ3 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.987",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CJ",
+        "N": "C4",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "E": {
+          "C": [
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ43.32.Q.KQ3 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.98",
+      "trick_cards": {
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9.T AJ2.AKQJT..65 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..65 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks, 5 heart tricks,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks, 5 heart tricks, and at least 2 club tricks,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♦J against 4♠. The defense wins the first 2 diamond tricks before taking the ♣A and continuing the suit. South must take the balance. As South has 4 spade tricks, 5 heart tricks, and at least 2 club tricks, trumps should be drawn immediately."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ43.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South must be careful to play the ♠A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T985.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. AJ2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. J2.AKQJT..6 76.7654.7.98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S5",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. J2.AKQJT..6 7.7654.7.98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. J2.AKQJT..6 7.7654.7.98",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S5",
+        "N": "SA",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. 2.AKQJT..6 7.7654.7.98",
+      "trick_cards": {
+        "N": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KQ4.32.Q.Q3 T98.98.KT9. 2.AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KQ.32.Q.Q3 T98.98.KT9. 2.AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "S": "S4",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KQ.32.Q.Q3 T9.98.KT9. 2.AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "S": "S4",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:KQ.32.Q.Q3 T9.98.KT9. 2.AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "S": "S4",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:KQ.32.Q.Q3 T9.98.KT9. 2.AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "S": "S4",
+        "W": "S8",
+        "N": "SJ",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:KQ.32.Q.Q3 T9.98.KT9. .AKQJT..6 .7654.7.98",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:KQ.32.Q.Q3 T9.98.KT9. .AKQJT..6 .765.7.98",
+      "trick_cards": {
+        "N": "S2",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:Q.32.Q.Q3 T9.98.KT9. .AKQJT..6 .765.7.98",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:Q.32.Q.Q3 T.98.KT9. .AKQJT..6 .765.7.98",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S9",
+        "N": "S2",
+        "E": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.32.Q.Q3 T.98.KT9. .AKQJT..6 .765.7.98",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.32.Q.Q3 .98.KT9. .AKQJT..6 .765.7.98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "ST"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.32.Q.Q3 .98.KT9. .AKQJT.. .765.7.98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "ST",
+        "N": "C6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.32.Q.Q3 .98.KT9. .AKQJT.. .76.7.98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "ST",
+        "N": "C6",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.32.Q.Q3 .98.KT9. .AKQJT.. .76.7.98",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "ST",
+        "N": "C6",
+        "E": "H5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "South must be careful to play the ♠A and ♠J from dummy on the first 2 rounds of trump. By playing trumps in this way, the spade suit will remain unblocked. When both defenders follow to the first two rounds of spades, the remaining trumps can be drawn. South easily has the rest of the tricks."
+    }
+  ]
+}

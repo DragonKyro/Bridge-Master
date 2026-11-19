@@ -1,0 +1,795 @@
+{
+  "title": "Level 3 (Advanced) - A-23",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-23",
+  "deal_pbn": "S:A987.6.KQJ.A6543 2.K.87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "2D",
+    "Pass",
+    "3D",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 12,
+  "notes": "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks, the ♥A, and the ♣A outside of the trump suit. If those tricks hold up, South will have no trouble scoring all 8 trumps separately.\n\nAs only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff. A trump return will now defeat the contract.\n\nAfter cashing 2 rounds of diamonds, South should cash the ♣A. The next 8 tricks can be taken by ruffing clubs high in North's hand and hearts high in South's hand.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks, the ♥A, and the ♣A outside of the trump suit. If those tricks hold up, South will have no trouble scoring all 8 trumps separately.",
+    "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff. A trump return will now defeat the contract.",
+    "After cashing 2 rounds of diamonds, South should cash the ♣A. The next 8 tricks can be taken by ruffing clubs high in North's hand and hearts high in South's hand."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "CK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2.K.87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠. This looks like a cross-ruff deal."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks, the ♥A,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks, the ♥A, and the ♣A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 6♠. This looks like a cross-ruff deal. South has 3 diamond tricks, the ♥A, and the ♣A outside of the trump suit. If those tricks hold up, South will have no trouble scoring all 8 trumps separately."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.A5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.5432.A32.2 6543.QJT987.T9.K",
+      "trick_cards": {
+        "W": "HK",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A987.6.KQJ.A6543 2..87654.QJT987 KQJT.5432.A32.2 6543.QJT98.T9.K",
+      "trick_cards": {
+        "W": "HK",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A987..KQJ.A6543 2..87654.QJT987 KQJT.5432.A32.2 6543.QJT98.T9.K",
+      "trick_cards": {
+        "S": "H6",
+        "W": "HK",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A987..KQJ.A6543 2..87654.QJT987 KQJT.5432.A32.2 6543.QJT98.T9.K",
+      "trick_cards": {
+        "S": "H6",
+        "W": "HK",
+        "N": "HA",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A987..KQJ.A6543 2..87654.QJT987 KQJT.5432.A3.2 6543.QJT98.T9.K",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A987..KQJ.A6543 2..87654.QJT987 KQJT.5432.A3.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A987..QJ.A6543 2..87654.QJT987 KQJT.5432.A3.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "S": "DK",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A987..QJ.A6543 2..8765.QJT987 KQJT.5432.A3.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D4",
+        "N": "D2",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A987..J.A6543 2..8765.QJT987 KQJT.5432.A3.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A3.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98.T.K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A987...A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A987...A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A987...A6543 2..87.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A987...A6543 2..87.QJT987 KQJT.5432..2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6",
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A987...A6543 2..87.QJT987 KQJT.5432..2 654.QJT98..K",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6",
+        "N": "DA",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A987...A6543 2..87.QJT987 KQJT.5432..2 654.QJT98..K",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D6",
+        "N": "DA",
+        "E": "S3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "As only 12 tricks are needed, declarer should win the opening heart lead and cash only 2 diamond tricks before beginning the cross-ruff. There is no reason to risk playing a third round of diamonds. A defender with only 2 diamonds will be able to ruff. A trump return will now defeat the contract."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After cashing 2 rounds of diamonds,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A987..J.A6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT987 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT98 KQJT.5432.A.2 6543.QJT98..K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT98 KQJT.5432.A. 6543.QJT98..K",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT98 KQJT.5432.A. 6543.QJT98..",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT98 KQJT.5432.A. 6543.QJT98..",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A. The next 8 tricks can be taken by ruffing clubs high in North's hand"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A987..J.6543 2..876.QJT98 KQJT.5432.A. 6543.QJT98..",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After cashing 2 rounds of diamonds, South should cash the ♣A. The next 8 tricks can be taken by ruffing clubs high in North's hand and hearts high in South's hand."
+    }
+  ]
+}

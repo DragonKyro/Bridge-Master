@@ -1,0 +1,1373 @@
+{
+  "title": "Level 3 (Advanced) - D-20",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "D-20",
+  "deal_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.KQJT9 T432.QJ42.A2.654 J875.7.K7653.A87",
+  "contract": "5H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "2NT",
+    "3H",
+    "5D",
+    "5H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CK",
+  "par_tricks": 11,
+  "notes": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A. South's only possible remaining loser is in the spade suit. South should try to get a count on the East-West hands in order to maximize his chances of success against a 4-1 spade break.\n\nSouth should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts, South should play West to have 2155 distribution (or 6-5 in the minors with a singleton ♠J) and play spades from the top.\n\nIf West follows to the second round of hearts, he must have 1255 distribution for there to be a chance. South could plan to lead a top spade from the closed hand on the first round of the suit, hoping that West's singleton spade is the ♠J. There is a another plan, however, that offers much better odds, succeeding when West's singleton spade is the ♠9, ♠8, or ♠7.\n\nSouth should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick as West's discard confirms the spade distribution.\n\nSouth can now play his ♥3 to dummy's ♥4, placing the lead in the correct hand for a third spade finesse against East.",
+  "commentary_paragraphs": [
+    "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A. South's only possible remaining loser is in the spade suit. South should try to get a count on the East-West hands in order to maximize his chances of success against a 4-1 spade break.",
+    "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts, South should play West to have 2155 distribution (or 6-5 in the minors with a singleton ♠J) and play spades from the top.",
+    "If West follows to the second round of hearts, he must have 1255 distribution for there to be a chance. South could plan to lead a top spade from the closed hand on the first round of the suit, hoping that West's singleton spade is the ♠J. There is a another plan, however, that offers much better odds, succeeding when West's singleton spade is the ♠9, ♠8, or ♠7.",
+    "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick as West's discard confirms the spade distribution.",
+    "South can now play his ♥3 to dummy's ♥4, placing the lead in the correct hand for a third spade finesse against East."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "H5"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "ST"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "HJ"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 52,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 54,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 56,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 60,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 61,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 63,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.KQJT9 T432.QJ42.A2.654 J875.7.K7653.A87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.QJT9 T432.QJ42.A2.654 J875.7.K7653.A87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.QJT9 T432.QJ42.A2.654 J875.7.K7653.A87",
+      "trick_cards": {
+        "W": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "C": [
+            "A",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.QJT9 T432.QJ42.A2.65 J875.7.K7653.A87",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ6.AKT983.4.32 9.65.QJT98.QJT9 T432.QJ42.A2.65 J875.7.K7653.A7",
+      "trick_cards": {
+        "W": "CK",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ6.AKT983.4.3 9.65.QJT98.QJT9 T432.QJ42.A2.65 J875.7.K7653.A7",
+      "trick_cards": {
+        "S": "C2",
+        "W": "CK",
+        "N": "C4",
+        "E": "C8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ6.AKT983.4.3 9.65.QJT98.JT9 T432.QJ42.A2.65 J875.7.K7653.A7",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ6.AKT983.4.3 9.65.QJT98.JT9 T432.QJ42.A2.6 J875.7.K7653.A7",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ6.AKT983.4.3 9.65.QJT98.JT9 T432.QJ42.A2.6 J875.7.K7653.A",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQ6.AKT983.4. 9.65.QJT98.JT9 T432.QJ42.A2.6 J875.7.K7653.A",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQ6.AKT983.4. 9.65.QJT98.JT9 T432.QJ42.A2.6 J875.7.K7653.A",
+      "trick_cards": {
+        "S": "C3",
+        "W": "CQ",
+        "N": "C5",
+        "E": "C7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQ6.AKT983.4. 9.65.JT98.JT9 T432.QJ42.A2.6 J875.7.K7653.A",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQ6.AKT983.4. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K7653.A",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQ6.AKT983.4. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A. South's only possible remaining loser is in the spade suit."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣K against 5♥. West wins the first 2 tricks in clubs and switches to the ♦Q to dummy's ♦A. South's only possible remaining loser is in the spade suit. South should try to get a count on the East-West hands in order to maximize his chances of success against a 4-1 spade break."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ42.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "S": "D4",
+        "W": "DQ",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "T",
+            "9",
+            "8",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "4",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should continue by leading dummy's ♥2 to his hand"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ4.2.6 J875.7.K765.A",
+      "trick_cards": {
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKQ6.AKT983.. 9.65.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKQ6.AT983.. 9.65.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKQ6.AT983.. 9.6.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKQ6.AT983.. 9.6.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H5",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKQ6.A983.. 9.6.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKQ6.A983.. 9.6.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ],
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKQ6.A983.. 95..JT98.JT9 T432.QJ4.2.6 J87.6.K765.A",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKQ6.A983.. 95..JT9.JT9 T432.QJ4.2.6 J87.6.K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKQ6.A983.. 95..JT9.JT9 T432.QJ.2.6 J87.6.K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "D8",
+        "N": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKQ6.A983.. 95..JT9.JT9 T432.QJ.2.6 J87..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "D8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKQ6.A983.. 95..JT9.JT9 T432.QJ.2.6 J87..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "D8",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "9",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should continue by leading dummy's ♥2 to his hand followed by a middle heart. West has shown at least 5-5 in the minors with his unusual 2NT overcall. If West discards on the second round of hearts, South should play West to have 2155 distribution (or 6-5 in the minors with a singleton ♠J) and play spades from the top."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKQ6.A983.. 9.6.JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West follows to the second round of hearts,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If West follows to the second round of hearts,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If West follows to the second round of hearts, he must have 1255 distribution for there to be a chance."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKQ6.A983.. J..JT98.JT9 T432.QJ4.2.6 9875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If West follows to the second round of hearts, he must have 1255 distribution for there to be a chance. South could plan to lead a top spade from the closed hand on the first round of the suit, hoping that West's singleton spade is the ♠J."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "If West follows to the second round of hearts, he must have 1255 distribution for there to be a chance. South could plan to lead a top spade from the closed hand on the first round of the suit, hoping that West's singleton spade is the ♠J. There is a another plan, however, that offers much better odds, succeeding when West's singleton spade is the ♠9, ♠8, or ♠7."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.QJ4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.J4.2.6 J875..K765.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.J4.2.6 J875..K76.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 T432.J4.2.6 J875..K76.A",
+      "trick_cards": {
+        "S": "HT",
+        "W": "H6",
+        "N": "HQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "T",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 432.J4.2.6 J875..K76.A",
+      "trick_cards": {
+        "N": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 432.J4.2.6 J875..K76.A",
+      "trick_cards": {
+        "N": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AKQ6.A983.. 9..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:KQ6.A983.. 9..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "SA",
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:KQ6.A983.. 9..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "SA",
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:KQ6.A983.. ..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:KQ6.A983.. ..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S9",
+        "N": "ST",
+        "E": "SJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "9",
+            "8",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "J",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:KQ6.A83.. ..JT98.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "H9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 432.J4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "H9",
+        "W": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 432.4.2.6 875..K76.A",
+      "trick_cards": {
+        "S": "H9",
+        "W": "D8",
+        "N": "HJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 432.4.2.6 875..K7.A",
+      "trick_cards": {
+        "S": "H9",
+        "W": "D8",
+        "N": "HJ",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 432.4.2.6 875..K7.A",
+      "trick_cards": {
+        "S": "H9",
+        "W": "D8",
+        "N": "HJ",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 43.4.2.6 875..K7.A",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 43.4.2.6 875..K7.A",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6)"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6)"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:KQ6.A83.. ..JT9.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:Q6.A83.. ..JT9.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:Q6.A83.. ..JT9.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick as West's discard confirms the spade distribution."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:Q6.A83.. ..JT.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D9",
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should win the second round of trump in the dummy and lead the ♠10, planning to play the ♠6 from the closed hand if East does not cover with the ♠J. When East does play the ♠J, South wins the trick as West follows with the ♠9. South crosses back to the dummy in hearts for a second spade play. East must split his ♠87 (or South would finesse the ♠6) and South wins the trick as West's discard confirms the spade distribution."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:Q6.A83.. ..JT.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "SK",
+        "W": "D9",
+        "N": "S2",
+        "E": "S8"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "8",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can now play his ♥3 to dummy's ♥4,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:Q6.A8.. ..JT.JT9 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can now play his ♥3 to dummy's ♥4,"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:Q6.A8.. ..JT.JT 43.4.2.6 75..K7.A",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can now play his ♥3 to dummy's ♥4,"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:Q6.A8.. ..JT.JT 43..2.6 75..K7.A",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C9",
+        "N": "H4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can now play his ♥3 to dummy's ♥4,"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:Q6.A8.. ..JT.JT 43..2.6 75..K.A",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C9",
+        "N": "H4",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can now play his ♥3 to dummy's ♥4,"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:Q6.A8.. ..JT.JT 43..2.6 75..K.A",
+      "trick_cards": {
+        "S": "H3",
+        "W": "C9",
+        "N": "H4",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South can now play his ♥3 to dummy's ♥4, placing the lead in the correct hand for a third spade finesse against East."
+    }
+  ]
+}

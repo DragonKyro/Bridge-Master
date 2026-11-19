@@ -1,0 +1,1380 @@
+{
+  "title": "Level 4 (Expert) - C-15",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "C-15",
+  "deal_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7.Q 43.32.AK432.7654 Q.54.QJT98.KJT98",
+  "contract": "5H",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "4S",
+    "Pass",
+    "Pass",
+    "5H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CQ",
+  "par_tricks": 11,
+  "notes": "West leads the ♣Q against 5♥. West's club is overtaken by East. As West's lead is almost certainly a singleton, South should win the ♣A.\n\nSouth has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades and 2 in clubs). The count must be rectified to 1 loser without allowing East on lead. If East gains the lead he can play clubs destroying any possible squeeze.\n\nSouth should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades and South discards a club, rectifying the count to 1 loser.\n\nWest plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good and a club discard makes South's club good.",
+  "commentary_paragraphs": [
+    "West leads the ♣Q against 5♥. West's club is overtaken by East. As West's lead is almost certainly a singleton, South should win the ♣A.",
+    "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades and 2 in clubs). The count must be rectified to 1 loser without allowing East on lead. If East gains the lead he can play clubs destroying any possible squeeze.",
+    "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades and South discards a club, rectifying the count to 1 loser.",
+    "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good and a club discard makes South's club good."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "H8"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C5"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D5"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 38,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 44,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 47,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 49,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "H9"
+    },
+    {
+      "step": 54,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 55,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 56,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 57,
+      "seat": "E",
+      "card": "CT"
+    },
+    {
+      "step": 59,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 60,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 65,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 68,
+      "seat": "E",
+      "card": "CJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7.Q 43.32.AK432.7654 Q.54.QJT98.KJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7. 43.32.AK432.7654 Q.54.QJT98.KJT98",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7. 43.32.AK432.7654 Q.54.QJT98.KJT98",
+      "trick_cards": {
+        "W": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♥. West's club is overtaken by East."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.KJT98",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♥. West's club is overtaken by East."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C4",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♥. West's club is overtaken by East."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A2.AKQJT9.65.A32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "W": "CQ",
+        "N": "C4",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣Q against 5♥. West's club is overtaken by East. As West's lead is almost certainly a singleton, South should win the ♣A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A2.AKQJT9.65.32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣Q against 5♥. West's club is overtaken by East. As West's lead is almost certainly a singleton, South should win the ♣A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A2.AKQJT9.65.32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CQ",
+        "N": "C4",
+        "E": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A2.KQJT9.65.32 KJT98765.876.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A2.KQJT9.65.32 KJT98765.87.7. 43.32.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A2.KQJT9.65.32 KJT98765.87.7. 43.3.AK432.765 Q.54.QJT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A2.KQJT9.65.32 KJT98765.87.7. 43.3.AK432.765 Q.5.QJT98.JT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A2.QJT9.65.32 KJT98765.87.7. 43.3.AK432.765 Q.5.QJT98.JT98",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A2.QJT9.65.32 KJT98765.8.7. 43.3.AK432.765 Q.5.QJT98.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A2.QJT9.65.32 KJT98765.8.7. 43..AK432.765 Q.5.QJT98.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A2.QJT9.65.32 KJT98765.8.7. 43..AK432.765 Q..QJT98.JT98",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H7",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765.8.7. 43..AK432.765 Q..QJT98.JT98",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.765 Q..QJT98.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT98",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ],
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades and 2 in clubs)."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades and 2 in clubs). The count must be rectified to 1 loser without allowing East on lead."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South has no reason not to draw trump. West's 4 spade opening bid indicates an 8 card suit. When West turns up with 3 hearts, it appears his distribution is 8311. South should aim to squeeze East in diamonds and clubs. There are currently 3 losers (1 in spades and 2 in clubs). The count must be rectified to 1 loser without allowing East on lead. If East gains the lead he can play clubs destroying any possible squeeze."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A2.JT9.65.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H8",
+        "N": "C5",
+        "E": "C8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765..7. 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 43..AK432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 43..A432.76 Q..QJT98.JT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 43..A432.76 Q..QJT9.JT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 43..A432.76 Q..QJT9.JT9",
+      "trick_cards": {
+        "S": "D5",
+        "W": "D7",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 4..A432.76 Q..QJT9.JT9",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A2.JT9.6.32 KJT98765... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:2.JT9.6.32 KJT98765... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "SA",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:2.JT9.6.32 KJT9876... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:2.JT9.6.32 KJT9876... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S3",
+        "E": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.JT9.6.32 KJT9876... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.JT9.6.32 KJT987... 4..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.JT9.6.32 KJT987... ..A432.76 ..QJT9.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S4"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.JT9.6.32 KJT987... ..A432.76 ..QJT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S4",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.JT9.6.32 KJT987... ..A432.76 ..QJT.JT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S4",
+        "E": "D9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.JT9.6.32 JT987... ..A432.76 ..QJT.JT9",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.JT9.6.32 JT987... ..A43.76 ..QJT.JT9",
+      "trick_cards": {
+        "W": "SK",
+        "N": "D2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.JT9.6.32 JT987... ..A43.76 ..QJT.JT",
+      "trick_cards": {
+        "W": "SK",
+        "N": "D2",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.JT9.6.32 JT987... ..A43.76 ..QJT.JT",
+      "trick_cards": {
+        "W": "SK",
+        "N": "D2",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades and South discards a club, rectifying the count to 1 loser."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.JT9.6.3 JT987... ..A43.76 ..QJT.JT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "SK",
+        "N": "D2",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should cash one of dummy's top diamonds, removing West's last non-spade, followed by the ♠A. A spade is exited to West reducing South's loser count to 2. West must continue spades and South discards a club, rectifying the count to 1 loser."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.JT9.6.3 JT987... ..A43.76 ..QJT.JT",
+      "trick_cards": {
+        "S": "C2",
+        "W": "SK",
+        "N": "D2",
+        "E": "C9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.JT9.6.3 T987... ..A43.76 ..QJT.JT",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.JT9.6.3 T987... ..A4.76 ..QJT.JT",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "D3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:.JT9.6.3 T987... ..A4.76 ..QJ.JT",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:.JT.6.3 T987... ..A4.76 ..QJ.JT",
+      "trick_cards": {
+        "S": "H9",
+        "W": "SJ",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:.JT.6.3 T987... ..A4.76 ..QJ.JT",
+      "trick_cards": {
+        "S": "H9",
+        "W": "SJ",
+        "N": "D3",
+        "E": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:.T.6.3 T987... ..A4.76 ..QJ.JT",
+      "trick_cards": {
+        "S": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:.T.6.3 T98... ..A4.76 ..QJ.JT",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps."
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:.T.6.3 T98... ..A4.7 ..QJ.JT",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7",
+        "N": "C6"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:.T.6.3 T98... ..A4.7 ..QJ.J",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:.T.6.3 T98... ..A4.7 ..QJ.J",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7",
+        "N": "C6",
+        "E": "CT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:..6.3 T98... ..A4.7 ..QJ.J",
+      "trick_cards": {
+        "S": "HT"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:..6.3 T9... ..A4.7 ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart,"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:..6.3 T9... ..A4.7 ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ],
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed."
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..Q.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7",
+        "E": "DJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard"
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..Q.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7",
+        "E": "DJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good"
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.J",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good and a club discard"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good and a club discard"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:..6.3 T9... ..A4. ..QJ.",
+      "trick_cards": {
+        "S": "HT",
+        "W": "S8",
+        "N": "C7",
+        "E": "CJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "West plays another spade and South ruffs. South finishes the trumps. On the play of the last heart, a club is discarded from dummy and East is squeezed. A diamond discard makes dummy's diamonds good and a club discard makes South's club good."
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "title": "Level 2 (Intermediate) - B-21",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-21",
+  "deal_pbn": "S:AK2.A2.432.AT987 76.QJT98.876.K43 543.43.AKJT9.QJ2 QJT98.K765.Q5.65",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead. South has only 6 tricks (2 spade tricks, the ♥A, 2 diamond tricks, and the ♣A). South will be able to make his contract if he can bring in the diamonds or clubs without losing a trick.\n\nBoth suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A and the ♦K. When the ♦Q drops, South has his 9 tricks and should cash them.\n\nIf the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him. If East has the ♣K, South will have enough club tricks for the contract.",
+  "commentary_paragraphs": [
+    "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead. South has only 6 tricks (2 spade tricks, the ♥A, 2 diamond tricks, and the ♣A). South will be able to make his contract if he can bring in the diamonds or clubs without losing a trick.",
+    "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A and the ♦K. When the ♦Q drops, South has his 9 tricks and should cash them.",
+    "If the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him. If East has the ♣K, South will have enough club tricks for the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 5,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "CQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.A2.432.AT987 76.QJT98.876.K43 543.43.AKJT9.QJ2 QJT98.K765.Q5.65",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.A2.432.AT987 76.JT98.876.K43 543.43.AKJT9.QJ2 QJT98.K765.Q5.65",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.A2.432.AT987 76.JT98.876.K43 543.4.AKJT9.QJ2 QJT98.K765.Q5.65",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.A2.432.AT987 76.JT98.876.K43 543.4.AKJT9.QJ2 QJT98.K65.Q5.65",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.A.432.AT987 76.JT98.876.K43 543.4.AKJT9.QJ2 QJT98.K65.Q5.65",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.A.432.AT987 76.T98.876.K43 543.4.AKJT9.QJ2 QJT98.K65.Q5.65",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.A.432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K65.Q5.65",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.A.432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "H": [
+            "K",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "S": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead. South has only 6 tricks (2 spade tricks, the ♥A, 2 diamond tricks, and the ♣A)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead. South has only 6 tricks (2 spade tricks, the ♥A, 2 diamond tricks, and the ♣A). South will be able to make his contract if he can bring in the diamonds"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's heart lead has set up enough defensive tricks such that South cannot afford to lose the lead. South has only 6 tricks (2 spade tricks, the ♥A, 2 diamond tricks, and the ♣A). South will be able to make his contract if he can bring in the diamonds or clubs without losing a trick."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK2..432.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.876.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..AKJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..KJT9.QJ2 QJT98.K6.Q5.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..KJT9.QJ2 QJT98.K6.Q.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..KJT9.QJ2 QJT98.K6.Q.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A and the ♦K."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..JT9.QJ2 QJT98.K6.Q.65",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A and the ♦K."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK2..43.AT987 76.T98.87.K43 543..JT9.QJ2 QJT98.K6.Q.65",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Both suits offer finessing possibilities. South should play the minors so as to combine his chances in both suits. South starts by cashing the ♦A and the ♦K. When the ♦Q drops, South has his 9 tricks and should cash them."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK2..43.AT987 876.T98.7.543 543..JT9.QJ2 QJT9.K6.Q8.K6",
+      "trick_cards": {
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If the ♦Q does not drop,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK2..43.AT987 876.T98.7.543 543..JT9.QJ2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♦Q does not drop,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK2..4.AT987 876.T98.7.543 543..JT9.QJ2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♦Q does not drop,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.QJ2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♦Q does not drop,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.QJ2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If the ♦Q does not drop, South can finesse East for the ♣K"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.QJ2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D7",
+        "N": "DK",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.J2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.J2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him. If East has the ♣K,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK2..4.AT987 876.T98..543 543..JT9.J2 QJT9.K6.Q.K6",
+      "trick_cards": {
+        "N": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If the ♦Q does not drop, South can finesse East for the ♣K by playing dummy's high clubs through him. If East has the ♣K, South will have enough club tricks for the contract."
+    }
+  ]
+}

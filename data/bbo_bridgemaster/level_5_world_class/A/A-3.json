@@ -1,0 +1,903 @@
+{
+  "title": "Level 5 (World Class) - A-3",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-3",
+  "deal_pbn": "S:A32.AQJT98.K2.Q2 4.43.AJT98.KJT98 KQJ.K765.Q43.A43 T98765.2.765.765",
+  "contract": "6H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "2NT",
+    "3C",
+    "Pass",
+    "3S",
+    "Pass",
+    "4C",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "6H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S4",
+  "par_tricks": 12,
+  "notes": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump, South appears to have a loser in both diamonds and clubs. West has shown at least 5-5 in the minors with his Unusual Notrump bid. West is very likely to have both the ♦A and the ♣K.\n\nAs West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q. South runs all of his spade and heart winners, counting West's discards.\n\nOn the play of the last winner, West must pitch a diamond. South can now exit the ♦K. West must lead away from his ♣K.",
+  "commentary_paragraphs": [
+    "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump, South appears to have a loser in both diamonds and clubs. West has shown at least 5-5 in the minors with his Unusual Notrump bid. West is very likely to have both the ♦A and the ♣K.",
+    "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q. South runs all of his spade and heart winners, counting West's discards.",
+    "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K. West must lead away from his ♣K."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "H3"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "HT"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "D7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A32.AQJT98.K2.Q2 4.43.AJT98.KJT98 KQJ.K765.Q43.A43 T98765.2.765.765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A32.AQJT98.K2.Q2 .43.AJT98.KJT98 KQJ.K765.Q43.A43 T98765.2.765.765",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A32.AQJT98.K2.Q2 .43.AJT98.KJT98 KQJ.K765.Q43.A43 T98765.2.765.765",
+      "trick_cards": {
+        "W": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A32.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K765.Q43.A43 T98765.2.765.765",
+      "trick_cards": {
+        "W": "S4",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A32.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K765.Q43.A43 T9876.2.765.765",
+      "trick_cards": {
+        "W": "S4",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A3.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K765.Q43.A43 T9876.2.765.765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A3.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K765.Q43.A43 T9876.2.765.765",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S4",
+        "N": "SJ",
+        "E": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A3.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K76.Q43.A43 T9876.2.765.765",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A3.AQJT98.K2.Q2 .43.AJT98.KJT98 KQ.K76.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "N": "H5",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A3.QJT98.K2.Q2 .43.AJT98.KJT98 KQ.K76.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "S": "HA",
+        "N": "H5",
+        "E": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A3.QJT98.K2.Q2 .4.AJT98.KJT98 KQ.K76.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H3",
+        "N": "H5",
+        "E": "H2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A3.JT98.K2.Q2 .4.AJT98.KJT98 KQ.K76.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "S": "HQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K76.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T9876..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "2"
+          ],
+          "D": [
+            "K",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3"
+          ],
+          "D": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump, South appears to have a loser in both diamonds and clubs."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump, South appears to have a loser in both diamonds and clubs. West has shown at least 5-5 in the minors with his Unusual Notrump bid."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ],
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠4 against 6♥. After winning the opening lead and drawing trump, South appears to have a loser in both diamonds and clubs. West has shown at least 5-5 in the minors with his Unusual Notrump bid. West is very likely to have both the ♦A and the ♣K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A3.JT98.K2.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "H4",
+        "N": "H6",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT98.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.Q43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.43.A43 T987..765.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.43.A43 T987..76.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.43.A43 T987..76.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "S": [
+            "A",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "7"
+          ],
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q. South runs all of his spade and heart winners,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A3.JT98.K.Q2 ..AJT9.KJT98 KQ.K7.43.A43 T987..76.765",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D8",
+        "N": "DQ",
+        "E": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ],
+          "D": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "As West has already shown up with 3 major suit cards, his shape must be 1255. East thus guards the third round of diamonds and a simple squeeze against West will not work. South can make the contract on a strip squeeze. South begins by leading the ♦2. West must duck and North wins the ♦Q. South runs all of his spade and heart winners, counting West's discards."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.J.K.Q2 ..AJ.KJ ..43.A4 ..76.76",
+      "trick_cards": {
+        "S": "HT",
+        "W": "DT",
+        "N": "C3",
+        "E": "C5"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "On the play of the last winner,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:..K.Q2 ..AJ.KJ ..43.A4 ..76.76",
+      "trick_cards": {
+        "S": "HJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:..K.Q2 ..AJ.KJ ..43.A4 ..76.76",
+      "trick_cards": {
+        "S": "HJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "J"
+          ]
+        }
+      },
+      "commentary": "On the play of the last winner, West must pitch a diamond."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:..K.Q2 ..A.KJ ..43.A4 ..76.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "DJ"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:..K.Q2 ..A.KJ ..4.A4 ..76.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "DJ",
+        "N": "D3"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:..K.Q2 ..A.KJ ..4.A4 ..7.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "DJ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:..K.Q2 ..A.KJ ..4.A4 ..7.76",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "DJ",
+        "N": "D3",
+        "E": "D6"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:...Q2 ..A.KJ ..4.A4 ..7.76",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:...Q2 ...KJ ..4.A4 ..7.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:...Q2 ...KJ ...A4 ..7.76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:...Q2 ...KJ ...A4 ...76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:...Q2 ...KJ ...A4 ...76",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the play of the last winner, West must pitch a diamond. South can now exit the ♦K. West must lead away from his ♣K."
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+{
+  "title": "Level 3 (Advanced) - A-26",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "A-26",
+  "deal_pbn": "S:2.AQ2.AQ2.QJ5432 JT98.K76.6543.76 KQ3.543.KJT9.KT9 A7654.JT98.87.A8",
+  "contract": "5C",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1D",
+    "1S",
+    "2C",
+    "2S",
+    "3C",
+    "Pass",
+    "5C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 11,
+  "notes": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts. If West has the ♥K, the defense will be able to take 3 tricks (the ♣A must be knocked out before diamonds are played).\n\nSouth can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A.\n\nAfter drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A. North will have 2 winners (a spade trick and the long diamond) to take care of South's heart losers.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts. If West has the ♥K, the defense will be able to take 3 tricks (the ♣A must be knocked out before diamonds are played).",
+    "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A.",
+    "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A. North will have 2 winners (a spade trick and the long diamond) to take care of South's heart losers."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C9"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 45,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 46,
+      "seat": "W",
+      "card": "S8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 JT98.K76.6543.76 KQ3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.T98.87.A8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.T98.87.A8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts. If West has the ♥K, the defense will be able to take 3 tricks"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.T98.87.A8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts. If West has the ♥K, the defense will be able to take 3 tricks (the ♣A must be knocked out"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 K3.543.KJT9.KT9 7654.T98.87.A8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 5♣. It seems natural to play the ♠K or ♠Q from dummy, but there is great risk in that play. East will win the ♠A and switch to hearts. If West has the ♥K, the defense will be able to take 3 tricks (the ♣A must be knocked out before diamonds are played)."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ3.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 7654.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts)."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A7654.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "K",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.76 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "S": "S2",
+        "W": "SJ",
+        "N": "S3",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.7 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "W": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.7 KQ.543.KJT9.KT9 A765.JT98.87.A8",
+      "trick_cards": {
+        "W": "C6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.7 KQ.543.KJT9.KT A765.JT98.87.A8",
+      "trick_cards": {
+        "W": "C6",
+        "N": "C9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQ2.AQ2.QJ5432 T98.K76.6543.7 KQ.543.KJT9.KT A765.JT98.87.8",
+      "trick_cards": {
+        "W": "C6",
+        "N": "C9",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQ2.AQ2.QJ543 T98.K76.6543.7 KQ.543.KJT9.KT A765.JT98.87.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C9",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQ2.AQ2.QJ543 T98.K76.6543.7 KQ.543.KJT9.KT A765.JT98.87.8",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C6",
+        "N": "C9",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQ2.AQ2.QJ543 T98.K76.6543.7 KQ.543.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQ2.AQ2.QJ543 T98.K76.6543.7 KQ.543.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.Q2.AQ2.QJ543 T98.K76.6543.7 KQ.543.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "HA",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.Q2.AQ2.QJ543 T98.K7.6543.7 KQ.543.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.Q2.AQ2.QJ543 T98.K7.6543.7 KQ.54.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South can improve his chances by ducking in dummy at trick 1. East cannot afford to play the ♠A (that would set up 2 quick discards for South's hearts). East must duck leaving West on lead. West cannot profitably attack hearts from his side of the table. West does best to switch to a trump. If East wins the ♣A and switches to a heart, South wins the ♥A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.Q2.AQ2.QJ543 T98.K7.6543.7 KQ.54.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H6",
+        "N": "H3",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After drawing trump,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543.7 KQ.54.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. KQ.54.KJT9.KT A765.T98.87.8",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. KQ.54.KJT9.K A765.T98.87.8",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "CT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. KQ.54.KJT9.K A765.T98.87.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "CT",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. KQ.54.KJT9.K A765.T98.87.",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C7",
+        "N": "CT",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After drawing trump, South can set up a spade winner in dummy"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. Q.54.KJT9.K A765.T98.87.",
+      "trick_cards": {
+        "N": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump, South can set up a spade winner in dummy"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. Q.54.KJT9.K A765.T98.87.",
+      "trick_cards": {
+        "N": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q",
+            "J",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. Q.54.KJT9.K A765.T98.87.",
+      "trick_cards": {
+        "N": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.Q2.AQ2.QJ54 T98.K7.6543. Q.54.KJT9.K 765.T98.87.",
+      "trick_cards": {
+        "N": "SK",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.Q2.AQ2.QJ5 T98.K7.6543. Q.54.KJT9.K 765.T98.87.",
+      "trick_cards": {
+        "S": "C4",
+        "N": "SK",
+        "E": "SA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A."
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.Q2.AQ2.QJ5 T9.K7.6543. Q.54.KJT9.K 765.T98.87.",
+      "trick_cards": {
+        "S": "C4",
+        "W": "S8",
+        "N": "SK",
+        "E": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A."
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.Q2.AQ2.QJ5 T9.K7.6543. Q.54.KJT9.K 765.T98.87.",
+      "trick_cards": {
+        "S": "C4",
+        "W": "S8",
+        "N": "SK",
+        "E": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9"
+          ],
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A. North will have 2 winners (a spade trick and the long diamond)"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.Q2.AQ2.QJ5 T9.K7.6543. Q.54.KJT9.K 765.T98.87.",
+      "trick_cards": {
+        "S": "C4",
+        "W": "S8",
+        "N": "SK",
+        "E": "SA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After drawing trump, South can set up a spade winner in dummy by taking a ruffing finesse against East's ♠A. North will have 2 winners (a spade trick and the long diamond) to take care of South's heart losers."
+    }
+  ]
+}

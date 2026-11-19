@@ -1,0 +1,876 @@
+{
+  "title": "Level 2 (Intermediate) - A-10",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-10",
+  "deal_pbn": "S:AJT3.32.AKQJ.KQJ 54.KQJT9.876.AT9 Q92.A4.5432.5432 K876.8765.T9.876",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 9,
+  "notes": "West leads the ♥K to dummy's ♥A. There are only 6 top tricks (the ♠A, the ♥A, and 4 diamond tricks). If the lead is lost in trying to establish club tricks the defense will be able to cash enough heart tricks to defeat the contract.\n\nSouth must hope that East has the ♠K and finesse him for that card. The 3 extra spade tricks will be enough for the contract. As dummy only has one entry, the spades must be played carefully.\n\nIf East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K and develop a sure stopper with his remaining ♠8 and ♠7.\n\nSouth does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again, the lead remains in the North hand to take a third spade finesse.",
+  "commentary_paragraphs": [
+    "West leads the ♥K to dummy's ♥A. There are only 6 top tricks (the ♠A, the ♥A, and 4 diamond tricks). If the lead is lost in trying to establish club tricks the defense will be able to cash enough heart tricks to defeat the contract.",
+    "South must hope that East has the ♠K and finesse him for that card. The 3 extra spade tricks will be enough for the contract. As dummy only has one entry, the spades must be played carefully.",
+    "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K and develop a sure stopper with his remaining ♠8 and ♠7.",
+    "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again, the lead remains in the North hand to take a third spade finesse."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 29,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AJT3.32.AKQJ.KQJ 54.KQJT9.876.AT9 Q92.A4.5432.5432 K876.8765.T9.876",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AJT3.32.AKQJ.KQJ 54.QJT9.876.AT9 Q92.A4.5432.5432 K876.8765.T9.876",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AJT3.32.AKQJ.KQJ 54.QJT9.876.AT9 Q92.A4.5432.5432 K876.8765.T9.876",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K to dummy's ♥A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AJT3.32.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.8765.T9.876",
+      "trick_cards": {
+        "W": "HK",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K to dummy's ♥A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AJT3.32.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K to dummy's ♥A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K to dummy's ♥A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "J"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K to dummy's ♥A. There are only 6 top tricks (the ♠A, the ♥A, and 4 diamond tricks)."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "C": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K to dummy's ♥A. There are only 6 top tricks (the ♠A, the ♥A, and 4 diamond tricks). If the lead is lost in trying to establish club tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K to dummy's ♥A. There are only 6 top tricks (the ♠A, the ♥A, and 4 diamond tricks). If the lead is lost in trying to establish club tricks the defense will be able to cash enough heart tricks to defeat the contract."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must hope that East has the ♠K and finesse him for that card."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "3"
+          ]
+        },
+        "N": {
+          "S": [
+            "Q",
+            "9",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must hope that East has the ♠K and finesse him for that card. The 3 extra spade tricks will be enough for the contract. As dummy only has one entry, the spades must be played carefully."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "9",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AT3.3.AKQJ.KQJ 54.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "SJ",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q,"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AT3.3.AKQJ.KQJ 5.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AT3.3.AKQJ.KQJ 5.QJT9.876.AT9 92.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "S4",
+        "N": "SQ",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AT3.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "S9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AT3.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 87.876.T9.876",
+      "trick_cards": {
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:T3.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 87.876.T9.876",
+      "trick_cards": {
+        "S": "SA",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:T3.3.AKQJ.KQJ .QJT9.876.AT9 2.4.5432.5432 87.876.T9.876",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:T3.3.AKQJ.KQJ .QJT9.876.AT9 2.4.5432.5432 87.876.T9.876",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S9",
+        "E": "SK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If East has four or more spades to the ♠K, and the ♠Q is led from the dummy, East will not cover. If the ♠3 is played by South the suit is blocked and only one more finesse can be taken when two more are needed. If South tries to unblock the spades by playing the ♠10 or ♠J under North's ♠Q, East will cover North's ♠9 with the ♠K and develop a sure stopper with his remaining ♠8 and ♠7."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q92.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HK",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "South does better by playing the ♠9 the first time"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q2.4.5432.5432 K876.876.T9.876",
+      "trick_cards": {
+        "N": "S9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AJT3.3.AKQJ.KQJ 54.QJT9.876.AT9 Q2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 54.QJT9.876.AT9 Q2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 Q2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 Q2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "S9",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 K87.876.T9.876",
+      "trick_cards": {
+        "N": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AJT.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 K8.876.T9.876",
+      "trick_cards": {
+        "N": "SQ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AJ.3.AKQJ.KQJ 5.QJT9.876.AT9 2.4.5432.5432 K8.876.T9.876",
+      "trick_cards": {
+        "S": "ST",
+        "N": "SQ",
+        "E": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AJ.3.AKQJ.KQJ .QJT9.876.AT9 2.4.5432.5432 K8.876.T9.876",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "SQ",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AJ.3.AKQJ.KQJ .QJT9.876.AT9 2.4.5432.5432 K8.876.T9.876",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "SQ",
+        "E": "S7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South does better by playing the ♠9 the first time and underplaying with his ♠3 when East doesn't cover. The lead will remain in the dummy and the ♠Q is played next. If East ducks again, the lead remains in the North hand to take a third spade finesse."
+    }
+  ]
+}

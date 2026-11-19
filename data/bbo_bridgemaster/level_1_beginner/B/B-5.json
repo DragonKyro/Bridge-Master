@@ -1,0 +1,660 @@
+{
+  "title": "Level 1 (Beginner) - B-5",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-5",
+  "deal_pbn": "S:AKQ.KJ.432.AK432 JT98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2NT",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SJ",
+  "par_tricks": 12,
+  "notes": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy. When West follows low, South must decide whether or not to play dummy's ♦K.\n\nPlaying dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit.\n\nPlaying dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q. South can return to his hand and finesse twice more if necessary. Finessing against West's ♦Q is actually the percentage play. Remember that when you have a 9 card fit missing just the Ace and Queen, finesse against the Queen, not the Ace.",
+  "commentary_paragraphs": [
+    "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy. When West follows low, South must decide whether or not to play dummy's ♦K.",
+    "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit.",
+    "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q. South can return to his hand and finesse twice more if necessary. Finessing against West's ♦Q is actually the percentage play. Remember that when you have a 9 card fit missing just the Ace and Queen, finesse against the Queen, not the Ace."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "DQ"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S4"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 JT98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "J"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs)."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 32.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 7654.76543.5.987",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQ.KJ.432.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK.KJ.432.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK.KJ.432.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "Q",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy. When West follows low,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy. When West follows low,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠J against 6NT. South has 8 top tricks (3 spades, 3 hearts, and 2 clubs). After winning the opening spade lead, South must play on diamonds to come to 12 tricks. South starts by playing a diamond towards the dummy. When West follows low, South must decide whether or not to play dummy's ♦K."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.A5.QJT 3.AQ2.KJT987.65 765.76543.Q.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.KJT987.65 765.6543.Q5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "5"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.JT987.65 765.6543.Q5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.JT987.65 765.6543.Q.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.JT987.65 765.6543.Q.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.JT98.65 765.6543.Q.987",
+      "trick_cards": {
+        "N": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T987.A.QJT 3.AQ2.JT98.65 765.6543..987",
+      "trick_cards": {
+        "N": "D7",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK.KJ.4.AK432 T98.T987.A.QJT 3.AQ2.JT98.65 765.6543..987",
+      "trick_cards": {
+        "S": "D3",
+        "N": "D7",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK.KJ.4.AK432 T98.T987..QJT 3.AQ2.JT98.65 765.6543..987",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DA",
+        "N": "D7",
+        "E": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦K will succeed when East has a singleton Queen of diamonds or when East was dealt Queen doubleton of diamonds. In the latter case, the ♦Q and ♦A will crash on the second round of the suit."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KT987.65 765.76543..987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK.KJ.43.AK432 T98.T98.AQ.QJT 3.AQ2.KT987.65 765.76543..987",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q. South can return to his hand and finesse twice more if necessary."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK.KJ.432.AK432 T98.T98.AQ6.QJT 3.AQ2.KJT987.65 765.76543.5.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "SJ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "Playing dummy's ♦J (or any other diamond besides the ♦K) will succeed any time West has the ♦Q. South can return to his hand and finesse twice more if necessary. Finessing against West's ♦Q is actually the percentage play. Remember that when you have a 9 card fit missing just the Ace and Queen, finesse against the Queen, not the Ace."
+    }
+  ]
+}

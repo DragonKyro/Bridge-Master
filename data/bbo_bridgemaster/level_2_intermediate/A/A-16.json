@@ -1,0 +1,673 @@
+{
+  "title": "Level 2 (Intermediate) - A-16",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-16",
+  "deal_pbn": "S:AK987.K432.AK.K2 QT65.T987.QJT.43 J32.A65.432.AQJT 4.QJ.98765.98765",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1C",
+    "Pass",
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3H",
+    "Pass",
+    "3S",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DQ",
+  "par_tricks": 12,
+  "notes": "After winning the opening lead, South's only problem is not losing 2 trump tricks. South does have 2 heart losers, but Dummy's clubs can eventually be used to take care of those losers.\n\nSouth has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy. This plan will always work unless West was dealt all 5 spades. If East has all 5 spades the second round of spades must come from the dummy.\n\nOn the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q, but a finessing position exists over East's ♠10. After drawing trump, South can discard his heart losers on North's clubs.",
+  "commentary_paragraphs": [
+    "After winning the opening lead, South's only problem is not losing 2 trump tricks. South does have 2 heart losers, but Dummy's clubs can eventually be used to take care of those losers.",
+    "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy. This plan will always work unless West was dealt all 5 spades. If East has all 5 spades the second round of spades must come from the dummy.",
+    "On the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q, but a finessing position exists over East's ♠10. After drawing trump, South can discard his heart losers on North's clubs."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 2,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 4,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 20,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 23,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK987.K432.AK.K2 QT65.T987.QJT.43 J32.A65.432.AQJT 4.QJ.98765.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK987.K432.AK.K2 QT65.T987.JT.43 J32.A65.432.AQJT 4.QJ.98765.98765",
+      "trick_cards": {
+        "W": "DQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK987.K432.AK.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.98765.98765",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK987.K432.AK.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South's only problem is not losing 2 trump tricks."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead, South's only problem is not losing 2 trump tricks. South does have 2 heart losers, but Dummy's clubs can eventually be used to take care of those losers."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A987.K432.K.K2 QT65.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A987.K432.K.K2 QT6.T987.JT.43 J32.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A987.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT 4.QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S5",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A987.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT .QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S5",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A987.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT .QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S5",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A987.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT .QJ.9876.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S5",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A98.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT .QJ.9876.98765",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A98.K432.K.K2 QT6.T987.JT.43 J3.A65.43.AQJT .QJ.9876.98765",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK987.K432.K.K2 QT654.T987.J.43 J32.A65.43.AQJT .QJ.T9876.98765",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "T",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy. This plan will always work unless West was dealt all 5 spades."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK987.K432.K.K2 .T987.JT9.98743 J32.A65.43.AQJT QT654.QJ.876.65",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "T",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy. This plan will always work unless West was dealt all 5 spades. If East has all 5 spades"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK987.K432.K.K2 .T987.JT9.98743 J32.A65.43.AQJT QT654.QJ.876.65",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has an almost certain way of playing the spade suit for only 1 loser. South should cash the ♠A or ♠K. When both defenders follow small, South should lead a low spade towards the ♠J in dummy. This plan will always work unless West was dealt all 5 spades. If East has all 5 spades the second round of spades must come from the dummy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A987.K432.K.K2 .T987.JT9.6543 J3.A65.43.AQJT QT6.QJ.876.987",
+      "trick_cards": {
+        "S": "SK",
+        "W": "S4",
+        "N": "S2",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT9.6543 J3.A65.43.AQJT QT6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 J3.A65.43.AQJT QT6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 3.A65.43.AQJT QT6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9",
+        "N": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 3.A65.43.AQJT QT6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9",
+        "N": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 3.A65.43.AQJT T6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 3.A65.43.AQJT T6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "3"
+          ]
+        },
+        "E": {
+          "S": [
+            "T",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q, but a finessing position exists over East's ♠10."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A98.K432.K.K2 .T987.JT.6543 3.A65.43.AQJT T6.QJ.876.987",
+      "trick_cards": {
+        "S": "S7",
+        "W": "D9",
+        "N": "SJ",
+        "E": "SQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "On the above distribution, for example, West will show out on the second spade lead towards the ♠J. East will win the ♠Q, but a finessing position exists over East's ♠10. After drawing trump, South can discard his heart losers on North's clubs."
+    }
+  ]
+}

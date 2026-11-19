@@ -1,0 +1,767 @@
+{
+  "title": "Level 2 (Intermediate) - C-13",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-13",
+  "deal_pbn": "S:QT98765.65.AKQ.A KJ3.AKQ.32.QJT98 A2.432.JT9.K5432 4.JT987.87654.76",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2H",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HA",
+  "par_tricks": 10,
+  "notes": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing. South's problem is to avoid the loss of 2 trump tricks.\n\nThe normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding. On this deal, however, this play is not correct. There are only 17 outstanding high card points. West must have the ♠K for his 1NT opening bid (which shows 15-17 high card points).\n\nSouth should start by leading the ♠Q from his hand. As long as West began with fewer than 4 spades, South will be able to hold his trump losers to one.\n\nOn the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid. If East is allowed to win a singleton ♠J, West will still have a certain trump trick.",
+  "commentary_paragraphs": [
+    "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing. South's problem is to avoid the loss of 2 trump tricks.",
+    "The normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding. On this deal, however, this play is not correct. There are only 17 outstanding high card points. West must have the ♠K for his 1NT opening bid (which shows 15-17 high card points).",
+    "South should start by leading the ♠Q from his hand. As long as West began with fewer than 4 spades, South will be able to hold his trump losers to one.",
+    "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid. If East is allowed to win a singleton ♠J, West will still have a certain trump trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "H6"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "S3"
+    },
+    {
+      "step": 33,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "SJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:QT98765.65.AKQ.A KJ3.AKQ.32.QJT98 A2.432.JT9.K5432 4.JT987.87654.76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:QT98765.65.AKQ.A KJ3.KQ.32.QJT98 A2.432.JT9.K5432 4.JT987.87654.76",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:QT98765.65.AKQ.A KJ3.KQ.32.QJT98 A2.432.JT9.K5432 4.JT987.87654.76",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:QT98765.65.AKQ.A KJ3.KQ.32.QJT98 A2.43.JT9.K5432 4.JT987.87654.76",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:QT98765.65.AKQ.A KJ3.KQ.32.QJT98 A2.43.JT9.K5432 4.JT98.87654.76",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:QT98765.6.AKQ.A KJ3.KQ.32.QJT98 A2.43.JT9.K5432 4.JT98.87654.76",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HA",
+        "N": "H2",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:QT98765.6.AKQ.A KJ3.Q.32.QJT98 A2.43.JT9.K5432 4.JT98.87654.76",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:QT98765.6.AKQ.A KJ3.Q.32.QJT98 A2.4.JT9.K5432 4.JT98.87654.76",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:QT98765.6.AKQ.A KJ3.Q.32.QJT98 A2.4.JT9.K5432 4.JT9.87654.76",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:QT98765..AKQ.A KJ3.Q.32.QJT98 A2.4.JT9.K5432 4.JT9.87654.76",
+      "trick_cards": {
+        "S": "H6",
+        "W": "HK",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:QT98765..AKQ.A KJ3.Q.32.QJT98 A2.4.JT9.K5432 4.JT9.87654.76",
+      "trick_cards": {
+        "S": "H6",
+        "W": "HK",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:QT98765..AKQ.A KJ3..32.QJT98 A2.4.JT9.K5432 4.JT9.87654.76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:QT98765..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT9.87654.76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:QT98765..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥A against 4♠. West cashes 2 heart tricks and continues a third round, South ruffing. South's problem is to avoid the loss of 2 trump tricks."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The normal play with this suit combination is to cash the ♠A"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:QT987..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S3",
+        "N": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 2..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S3",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 2..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "S3",
+        "N": "SA",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "The normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 ..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QT987..AKQ.A KJ..32.QJT98 ..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding. On this deal, however, this play is not correct."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The normal play with this suit combination is to cash the ♠A and lead low from dummy towards South's holding. On this deal, however, this play is not correct. There are only 17 outstanding high card points. West must have the ♠K for his 1NT opening bid (which shows 15-17 high card points)."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should start by leading the ♠Q from his hand."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:T9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should start by leading the ♠Q from his hand."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:T9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should start by leading the ♠Q from his hand. As long as West began with fewer than 4 spades, South will be able to hold his trump losers to one."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QT9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "S5",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:Q9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:Q9876..AKQ.A KJ3..32.QJT98 A2..JT9.K5432 4.JT.87654.76",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:Q9876..AKQ.A K43..32.QJT98 A2..JT9.K5432 J.JT.87654.76",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:Q9876..AKQ.A K4..32.QJT98 A2..JT9.K5432 J.JT.87654.76",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:Q9876..AKQ.A K4..32.QJT98 A..JT9.K5432 J.JT.87654.76",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S3",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:Q9876..AKQ.A K4..32.QJT98 A..JT9.K5432 J.JT.87654.76",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S3",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid. If East is allowed to win a singleton ♠J,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:Q9876..AKQ.A K4..32.QJT98 A..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S3",
+        "N": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid. If East is allowed to win a singleton ♠J,"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:Q9876..AKQ.A K4..32.QJT98 A..JT9.K5432 .JT.87654.76",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S3",
+        "N": "S2",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the above lie of the cards, South can also succeed by passing a low spade through West. This play is not correct as there is room for East to have a singleton ♠J and West to still have a 1NT opening bid. If East is allowed to win a singleton ♠J, West will still have a certain trump trick."
+    }
+  ]
+}

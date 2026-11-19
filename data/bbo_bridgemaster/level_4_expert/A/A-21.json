@@ -1,0 +1,823 @@
+{
+  "title": "Level 4 (Expert) - A-21",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "A-21",
+  "deal_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "Pass",
+    "1S",
+    "Pass",
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DJ",
+  "par_tricks": 10,
+  "notes": "South has a certain loser in spades and trump. Possible slow losers also exist in diamonds and clubs.\n\nSouth should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond and trumps it in the dummy.\n\nAlthough South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner. South can concede 3 tricks and take the balance.\n\nThis line of play ensures the contract as long as diamonds are no worse than 5-2.",
+  "commentary_paragraphs": [
+    "South has a certain loser in spades and trump. Possible slow losers also exist in diamonds and clubs.",
+    "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond and trumps it in the dummy.",
+    "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner. South can concede 3 tricks and take the balance.",
+    "This line of play ensures the contract as long as diamonds are no worse than 5-2."
+  ],
+  "play_sequence": [
+    {
+      "step": 5,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "H6"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "S9"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "C7"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "C9"
+    },
+    {
+      "step": 34,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "H7"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "ST"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has a certain loser in spades"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South has a certain loser in spades and trump."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South has a certain loser in spades and trump. Possible slow losers also exist in diamonds"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South has a certain loser in spades and trump. Possible slow losers also exist in diamonds and clubs."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.JT987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should win the opening diamond lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.T987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.T987.KJT9 K6543.76.K2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {
+        "W": "DJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the opening diamond lead in the dummy"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.T987.KJT9 K6543.76.2.6543 AQJT9.543.65.Q87",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.KQJT98.AQ43.A2 87.A2.T987.KJT9 K6543.76.2.6543 AQJT9.543.5.Q87",
+      "trick_cards": {
+        "W": "DJ",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.KQJT98.AQ4.A2 87.A2.T987.KJT9 K6543.76.2.6543 AQJT9.543.5.Q87",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DJ",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.KQJT98.AQ4.A2 87.A2.T987.KJT9 K6543.76.2.6543 AQJT9.543.5.Q87",
+      "trick_cards": {
+        "S": "D3",
+        "W": "DJ",
+        "N": "DK",
+        "E": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "2"
+          ]
+        }
+      },
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.KQJT98.AQ4.A2 87.A2.T987.KJT9 K6543.76..6543 AQJT9.543.5.Q87",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.KQJT98.AQ4.A2 87.A2.T987.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.KQJT98.Q4.A2 87.A2.T987.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "DA",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.KQJT98.Q4.A2 87.A2.T98.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.KQJT98.Q4.A2 87.A2.T98.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "DA",
+        "W": "D7",
+        "N": "D2",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T98.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.76..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond and trumps it in the dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..6543 AQJT9.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "H6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond and trumps it in the dummy."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..6543 AQJT.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "H6",
+        "E": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should win the opening diamond lead in the dummy and cash another round of diamonds. South next plays his remaining small diamond and trumps it in the dummy."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..6543 AQJT.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "H6",
+        "E": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543...6543 AQJT.543..Q87",
+      "trick_cards": {
+        "N": "H7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543...6543 AQJT.54..Q87",
+      "trick_cards": {
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:2.QJT98.Q.A2 87.A2.T9.KJT9 K6543...6543 AQJT.54..Q87",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:2.QJT98.Q.A2 87.A2.T9.KJT9 K6543...6543 AQJT.54..Q87",
+      "trick_cards": {
+        "S": "HK",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:2.QJT98.Q.A2 87.2.T9.KJT9 K6543...6543 AQJT.54..Q87",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:2.QJT98.Q.A2 87.2.T9.KJT9 K6543...6543 AQJT.54..Q87",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T",
+            "9"
+          ]
+        },
+        "E": {
+          "H": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..6543 AQJT.543..Q87",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D8",
+        "N": "H6",
+        "E": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..654 AQJT.543..Q87",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:2.KQJT98.Q.A2 87.A2.T9.KJT9 K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:2.KQJT98.Q.2 87.A2.T9.KJT9 K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:2.KQJT98.Q.2 87.A2.T9.KJT K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:2.KQJT98.Q.2 87.A2.T9.KJT K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C9",
+        "N": "C3",
+        "E": "C7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T9.KJT K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T.KJT K6543.7..654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T.KJT K6543...654 AQJT.543..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D9",
+        "N": "H7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T.KJT K6543...654 AQJ.543..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D9",
+        "N": "H7",
+        "E": "ST"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T.KJT K6543...654 AQJ.543..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D9",
+        "N": "H7",
+        "E": "ST"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Although South now only has 3 losers, there is a danger in playing trump. The defense might be able to win the ♥A and get a diamond ruff. South should, therefore, cross to the ♣A and ruff his remaining diamond winner. South can concede 3 tricks and take the balance."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:2.KQJT98..2 87.A2.T.KJT K6543...654 AQJ.543..Q8",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D9",
+        "N": "H7",
+        "E": "ST"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "This line of play ensures the contract as long as diamonds are no worse than 5-2."
+    }
+  ]
+}

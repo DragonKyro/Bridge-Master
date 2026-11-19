@@ -1,0 +1,915 @@
+{
+  "title": "Level 4 (Expert) - B-4",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "B-4",
+  "deal_pbn": "S:32.AQJ5432.92.32 T9874.7.6.KJ8765 QJ.KT98.AQT43.A4 AK65.6.KJ875.QT9",
+  "contract": "4H",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "3H",
+    "Pass",
+    "4H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "ST",
+  "par_tricks": 10,
+  "notes": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1, South has a certain method of establishing a diamond trick to take care of his club loser.\n\nThe ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J. North's ♦Q and ♦10 can be used to take a ruffing finesse against East's ♦K.\n\nIf, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply, revealing at worst a 4-2 diamond break. North still has sufficient entries to establish and cash a long diamond by ruffing.",
+  "commentary_paragraphs": [
+    "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1, South has a certain method of establishing a diamond trick to take care of his club loser.",
+    "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J. North's ♦Q and ♦10 can be used to take a ruffing finesse against East's ♦K.",
+    "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply, revealing at worst a 4-2 diamond break. North still has sufficient entries to establish and cash a long diamond by ruffing."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "SJ"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "SK"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "SA"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "S3"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "S4"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "H8"
+    },
+    {
+      "step": 19,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 26,
+      "seat": "S",
+      "card": "HJ"
+    },
+    {
+      "step": 27,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 29,
+      "seat": "S",
+      "card": "D9"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "DJ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.AQJ5432.92.32 T9874.7.6.KJ8765 QJ.KT98.AQT43.A4 AK65.6.KJ875.QT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.AQJ5432.92.32 9874.7.6.KJ8765 QJ.KT98.AQT43.A4 AK65.6.KJ875.QT9",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.AQJ5432.92.32 9874.7.6.KJ8765 QJ.KT98.AQT43.A4 AK65.6.KJ875.QT9",
+      "trick_cards": {
+        "W": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.AQJ5432.92.32 9874.7.6.KJ8765 Q.KT98.AQT43.A4 AK65.6.KJ875.QT9",
+      "trick_cards": {
+        "W": "ST",
+        "N": "SJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.AQJ5432.92.32 9874.7.6.KJ8765 Q.KT98.AQT43.A4 A65.6.KJ875.QT9",
+      "trick_cards": {
+        "W": "ST",
+        "N": "SJ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:3.AQJ5432.92.32 9874.7.6.KJ8765 Q.KT98.AQT43.A4 A65.6.KJ875.QT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SJ",
+        "E": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:3.AQJ5432.92.32 9874.7.6.KJ8765 Q.KT98.AQT43.A4 65.6.KJ875.QT9",
+      "trick_cards": {
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.AQJ5432.92.32 9874.7.6.KJ8765 Q.KT98.AQT43.A4 65.6.KJ875.QT9",
+      "trick_cards": {
+        "S": "S3",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 Q.KT98.AQT43.A4 65.6.KJ875.QT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65.6.KJ875.QT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65.6.KJ875.QT9",
+      "trick_cards": {
+        "S": "S3",
+        "W": "S4",
+        "N": "SQ",
+        "E": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better)."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.AQJ5432.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.AQJ543.92.32 987.7.6.KJ8765 .KT98.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT98.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H7",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT9.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H7",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1,"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT9.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H7",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠10 against 4♥. The defense cashes the first 2 spade tricks and exits a trump (a club shift would be better). When hearts prove to be 1-1, South has a certain method of establishing a diamond trick to take care of his club loser."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT9.AQT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H7",
+        "N": "H8",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT9.QT43.A4 65..KJ875.QT9",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.AQJ543.92.32 987..6.KJ8765 .KT9.QT43.A4 65..KJ87.QT9",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.AQJ543.9.32 987..6.KJ8765 .KT9.QT43.A4 65..KJ87.QT9",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.AQJ543.9.32 987...KJ8765 .KT9.QT43.A4 65..KJ87.QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.AQJ543.9.32 987...KJ8765 .KT9.QT43.A4 65..KJ87.QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D6",
+        "N": "DA",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "J",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "K",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.AQJ543.9.32 987...KJ8765 .KT.QT43.A4 65..KJ87.QT9",
+      "trick_cards": {
+        "N": "H9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.AQJ543.9.32 987...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "N": "H9",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.AQ543.9.32 987...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "HJ",
+        "N": "H9",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.AQ543.9.32 98...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7",
+        "N": "H9",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.AQ543.9.32 98...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "HJ",
+        "W": "S7",
+        "N": "H9",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.AQ543..32 98...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.AQ543..32 98...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "J",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.AQ543..32 98...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "S": [
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.AQ543..32 9...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9",
+        "W": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.AQ543..32 9...KJ8765 .KT.QT43.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9",
+        "W": "S8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.AQ543..32 9...KJ8765 .KT.QT4.A4 6..KJ87.QT9",
+      "trick_cards": {
+        "S": "D9",
+        "W": "S8",
+        "N": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.AQ543..32 9...KJ8765 .KT.QT4.A4 6..K87.QT9",
+      "trick_cards": {
+        "S": "D9",
+        "W": "S8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.AQ543..32 9...KJ8765 .KT.QT4.A4 6..K87.QT9",
+      "trick_cards": {
+        "S": "D9",
+        "W": "S8",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The ♦A should be cashed next. The closed hand is entered in trumps and the ♦9 is played. The defense will have no answer regardless of how their diamonds are divided. If West discards, a low diamond is played from dummy and East wins the ♦J. North's ♦Q and ♦10 can be used to take a ruffing finesse against East's ♦K."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.AQ543..32 98..K87.KJ8 .KT.QT43.A4 6..J.QT9765",
+      "trick_cards": {
+        "S": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If, on the play of the ♦9, West follows small,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT43.A4 6..J.QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If, on the play of the ♦9, West follows small,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT43.A4 6..J.QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "T",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT4.A4 6..J.QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT4.A4 6..J.QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7",
+        "N": "D3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT4.A4 6...QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT4.A4 6...QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply, revealing at worst a 4-2 diamond break."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.AQ543..32 98..K8.KJ8 .KT.QT4.A4 6...QT9765",
+      "trick_cards": {
+        "S": "D9",
+        "W": "D7",
+        "N": "D3",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "Q",
+            "5",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ],
+          "D": [
+            "Q",
+            "T",
+            "4"
+          ],
+          "H": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If, on the play of the ♦9, West follows small, any diamond can be played from the dummy. East can win cheaply, revealing at worst a 4-2 diamond break. North still has sufficient entries to establish and cash a long diamond by ruffing."
+    }
+  ]
+}

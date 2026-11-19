@@ -1,0 +1,769 @@
+{
+  "title": "Level 4 (Expert) - D-26",
+  "level": 4,
+  "level_name": "Expert",
+  "deal_id": "D-26",
+  "deal_pbn": "S:AK2.AKQ.AJ32.KJ3 76.JT9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥J against 3NT. South has 6 tricks outside of clubs and can develop at least 2 club tricks. If the defense is able to duck 2 rounds of clubs, South will have to look elsewhere for his 9th trick. The diamond suit is the only other possibility.\n\nAfter winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A.\n\nSouth should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem. South is now well placed to lead toward the ♦J for his 9th trick. The recommended line will also succeed when diamonds are 3-3.",
+  "commentary_paragraphs": [
+    "West leads the ♥J against 3NT. South has 6 tricks outside of clubs and can develop at least 2 club tricks. If the defense is able to duck 2 rounds of clubs, South will have to look elsewhere for his 9th trick. The diamond suit is the only other possibility.",
+    "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A.",
+    "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem. South is now well placed to lead toward the ♦J for his 9th trick. The recommended line will also succeed when diamonds are 3-3."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 6,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "HQ"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 27,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "C2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.JT9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥J against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 6 tricks outside of clubs and can develop at least 2 club tricks. If the defense is able to duck 2 rounds of clubs, South will have to look elsewhere for his 9th trick."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥J against 3NT. South has 6 tricks outside of clubs and can develop at least 2 club tricks. If the defense is able to duck 2 rounds of clubs, South will have to look elsewhere for his 9th trick. The diamond suit is the only other possibility."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.32.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.3.654.QT987 QJT98.54.QT87.62",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK2.AKQ.AJ32.KJ3 76.T9876.K9.A54 543.3.654.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK2.AK.AJ32.KJ3 76.T9876.K9.A54 543.3.654.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK2.AK.AJ32.KJ3 76.T9876.K9.A54 543.3.654.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "S": "HQ",
+        "W": "HJ",
+        "N": "H2",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.T9876.K9.A54 543.3.654.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.T9876.K.A54 543.3.654.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.T9876.K.A54 543.3.65.QT987 QJT98.5.QT87.62",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.T9876.K.A54 543.3.65.QT987 QJT98.5.QT8.62",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.T9876.K.A54 543.3.65.QT987 QJT98.5.QT8.62",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D9",
+        "N": "D4",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        },
+        "W": {
+          "H": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.9876.K.A54 543.3.65.QT987 QJT98.5.QT8.62",
+      "trick_cards": {
+        "W": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.9876.K.A54 543..65.QT987 QJT98.5.QT8.62",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AK2.AK.AJ3.KJ3 76.9876.K.A54 543..65.QT987 QJT98..QT8.62",
+      "trick_cards": {
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AK2.K.AJ3.KJ3 76.9876.K.A54 543..65.QT987 QJT98..QT8.62",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AK2.K.AJ3.KJ3 76.9876.K.A54 543..65.QT987 QJT98..QT8.62",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HT",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AK2.K.AJ3.J3 76.9876.K.A54 543..65.QT987 QJT98..QT8.62",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AK2.K.AJ3.J3 76.9876.K.A5 543..65.QT987 QJT98..QT8.62",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AK2.K.AJ3.J3 76.9876.K.A5 543..65.QT98 QJT98..QT8.62",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AK2.K.AJ3.J3 76.9876.K.A5 543..65.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C7",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AK2.K.AJ3.J3 76.9876.K.A5 543..65.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C4",
+        "N": "C7",
+        "E": "C6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "J",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876.K.A5 543..65.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876.K.A5 543..65.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876..A5 543..65.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876..A5 543..6.QT98 QJT98..QT8.2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876..A5 543..6.QT98 QJT98..QT.2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead, South should immediately duck a diamond trick to the defense. The defense can do no better than to return a heart to South. The ♣K should come next and, when that holds, South should cash the ♦A. South's careful timing is rewarded when West drops an honor under the ♦A."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AK2.K.J3.J3 76.9876..A5 543..6.QT98 QJT98..QT.2",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DK",
+        "N": "D5",
+        "E": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "C": [
+            "A",
+            "5"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AK2.K.J3.3 76.9876..A5 543..6.QT98 QJT98..QT.2",
+      "trick_cards": {
+        "S": "CJ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AK2.K.J3.3 76.9876..A 543..6.QT98 QJT98..QT.2",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AK2.K.J3.3 76.9876..A 543..6.T98 QJT98..QT.2",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5",
+        "N": "CQ"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AK2.K.J3.3 76.9876..A 543..6.T98 QJT98..QT.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AK2.K.J3.3 76.9876..A 543..6.T98 QJT98..QT.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem. South is now well placed to lead toward the ♦J for his 9th trick."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AK2.K.J3.3 76.987.Q.A 543..6.T98 QJT98.6.T.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "C5",
+        "N": "CQ",
+        "E": "C2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J",
+            "3"
+          ]
+        },
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "N": {
+          "D": [
+            "6"
+          ]
+        },
+        "E": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should now lead either the ♣3 to a small club in dummy or the ♣J, overtaking with ♣Q. The defense must duck for there to be a problem. South is now well placed to lead toward the ♦J for his 9th trick. The recommended line will also succeed when diamonds are 3-3."
+    }
+  ]
+}

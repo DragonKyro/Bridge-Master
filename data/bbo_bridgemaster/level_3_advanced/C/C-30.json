@@ -1,0 +1,1120 @@
+{
+  "title": "Level 3 (Advanced) - C-30",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-30",
+  "deal_pbn": "S:AQ.K32.A432.A654 T98765.96.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "E",
+  "vulnerability": "None",
+  "auction": [
+    "1H",
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "H9",
+  "par_tricks": 9,
+  "notes": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick, at least 5 diamond tricks, and the ♣A. However, if the defense has a trick in diamonds, there is a danger that they will be able to take 5 tricks before South takes 9.\n\nIf a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand, West will switch to spades or clubs and the contract will be in trouble.\n\nSouth should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick (or the defense might be able to take the ♥A, the ♦K, and 3 club tricks).\n\nEast will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K, but he will be out of hearts. The ♠A and ♣A still stop the other two suits and South has 9 certain tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick, at least 5 diamond tricks, and the ♣A. However, if the defense has a trick in diamonds, there is a danger that they will be able to take 5 tricks before South takes 9.",
+    "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand, West will switch to spades or clubs and the contract will be in trouble.",
+    "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick (or the defense might be able to take the ♥A, the ♦K, and 3 club tricks).",
+    "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K, but he will be out of hearts. The ♠A and ♣A still stop the other two suits and South has 9 certain tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 9,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "E",
+      "card": "HA"
+    },
+    {
+      "step": 25,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 28,
+      "seat": "E",
+      "card": "CK"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "C4"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 44,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 46,
+      "seat": "N",
+      "card": "SK"
+    },
+    {
+      "step": 47,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "S3"
+    },
+    {
+      "step": 51,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "DK"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.96.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥9 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick,"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick, at least 5 diamond tricks,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick, at least 5 diamond tricks, and the ♣A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥9 against 3NT. West's lead is in response to his partner's opening bid. South should be able to come to 9 tricks via 2 spade tricks, 1 heart trick, at least 5 diamond tricks, and the ♣A. However, if the defense has a trick in diamonds, there is a danger that they will be able to take 5 tricks before South takes 9."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a low heart is played from dummy at trick 1,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AQ.32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AQ.32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ],
+          "H": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AQ.32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "A",
+            "J",
+            "T",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AQ.32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand,"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "T",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand, West will switch to spades"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.Q5.QJT987.J32 J432.AJT8..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "H4",
+        "E": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If a low heart is played from dummy at trick 1, East will duck. If South wins the ♥K and West has another heart and the guarded ♦K, the defense will take 4 hearts and the ♦K. If South ducks the opening lead in hand, West will switch to spades or clubs and the contract will be in trouble."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.Q54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.AJT87..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AQ.K32.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..KQT9",
+      "trick_cards": {
+        "W": "H9",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper)."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..KQT9",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H9",
+        "N": "HQ",
+        "E": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "K",
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..QT9",
+      "trick_cards": {
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AQ.K3.A432.A654 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..QT9",
+      "trick_cards": {
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.87 K.54.QJT987.J32 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J32 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick (or the defense might be able to take the ♥A,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick (or the defense might be able to take the ♥A, the ♦K,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South should thus play the ♥Q from dummy at trick 1. East must win the ♥A (or South will have a second heart stopper). If East switches to a high club, South should allow him to hold the trick (or the defense might be able to take the ♥A, the ♦K, and 3 club tricks)."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.JT87..QT9",
+      "trick_cards": {
+        "S": "C4",
+        "W": "C7",
+        "N": "C2",
+        "E": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AQ.K3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AQ.3.A432.A65 T98765.6.K65.8 K.54.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "HK",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AQ.3.A432.A65 T98765..K65.8 K.54.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "E": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AQ.3.A432.A65 T98765..K65.8 K.5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AQ.3.A432.A65 T98765..K65.8 K.5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "E": {
+          "H": [
+            "T",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AQ.3.A432.A65 T98765..K65.8 K.5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "HK",
+        "W": "H6",
+        "N": "H4",
+        "E": "HJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {
+        "N": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A.3.A432.A65 T98765..K65.8 K.5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 K.5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 .5.QJT987.J3 J432.T87..QT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S5",
+        "N": "SK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 .5.QJT987.J3 J43.T87..QT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S5",
+        "N": "SK",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 .5.QJT987.J3 J43.T87..QT9",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "S5",
+        "N": "SK",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 .5.JT987.J3 J43.T87..QT9",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:A.3.A432.A65 T9876..K65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:A.3.A43.A65 T9876..K65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:A.3.A43.A65 T9876..K65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:A.3.A43.A65 T9876..65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K,"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:A.3.A43.A65 T9876..65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K, but he will be out of hearts."
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:A.3.A43.A65 T9876..65.8 .5.JT987.J3 J4.T87..QT9",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DQ",
+        "E": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "East will switch back to hearts. South can win the ♥K as East's opening bid showed 5 or more hearts. South crosses to the ♠K and finesses diamonds into West. West can win the ♦K, but he will be out of hearts. The ♠A and ♣A still stop the other two suits and South has 9 certain tricks."
+    }
+  ]
+}

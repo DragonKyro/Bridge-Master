@@ -1,0 +1,1627 @@
+{
+  "title": "Level 2 (Intermediate) - C-22",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-22",
+  "deal_pbn": "S:T2.AK32.Q32.AK32 .QJT9.8765.T9876 AKQ843.54.AK4.54 J9765.876.JT9.QJ",
+  "contract": "6NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2C",
+    "Pass",
+    "3S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "6NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts, 3 diamonds, and 2 clubs). Dummy's spade suit is the only possible source of 2 extra tricks.\n\nIf spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick thereby establishing 2 long card tricks in spades.\n\nSouth should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds and leading a small spade towards the ♠10.\n\nIf East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East. Again South will have 5 spade tricks.\n\nIf West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West once again establishing a long spade trick in dummy.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts, 3 diamonds, and 2 clubs). Dummy's spade suit is the only possible source of 2 extra tricks.",
+    "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick thereby establishing 2 long card tricks in spades.",
+    "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds and leading a small spade towards the ♠10.",
+    "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East. Again South will have 5 spade tricks.",
+    "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West once again establishing a long spade trick in dummy."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 28,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 32,
+      "seat": "E",
+      "card": "SJ"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 34,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 36,
+      "seat": "E",
+      "card": "DJ"
+    },
+    {
+      "step": 37,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 38,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 39,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 41,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 42,
+      "seat": "W",
+      "card": "D7"
+    },
+    {
+      "step": 43,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 44,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 47,
+      "seat": "W",
+      "card": "D8"
+    },
+    {
+      "step": 48,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 49,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "S5"
+    },
+    {
+      "step": 54,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 55,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 59,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 60,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 62,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 64,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 66,
+      "seat": "S",
+      "card": "ST"
+    },
+    {
+      "step": 68,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 71,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 73,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 74,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 75,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 76,
+      "seat": "E",
+      "card": "D8"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:T2.AK32.Q32.AK32 .QJT9.8765.T9876 AKQ843.54.AK4.54 J9765.876.JT9.QJ",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:T2.AK32.Q32.AK32 .JT9.8765.T9876 AKQ843.54.AK4.54 J9765.876.JT9.QJ",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:T2.AK32.Q32.AK32 .JT9.8765.T9876 AKQ843.54.AK4.54 J9765.876.JT9.QJ",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:T2.AK32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.876.JT9.QJ",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:T2.AK32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts, 3 diamonds,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts, 3 diamonds, and 2 clubs)."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6NT. West's lead is won by South. There are 10 top tricks (3 spades, 2 hearts, 3 diamonds, and 2 clubs). Dummy's spade suit is the only possible source of 2 extra tricks."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:T2.A32.Q32.AK32 J9.JT9.8765.T98 AKQ843.5.AK4.54 765.87.JT9.QJ76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If spades are 3-2,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:T2.A32.Q32.AK32 J9.JT9.8765.T98 AKQ843.5.AK4.54 765.87.JT9.QJ76",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:T2.A32.Q32.AK32 5.JT9.8765.9876 AKQ843.5.AK4.54 J976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:T2.A32.Q32.AK32 5.JT9.8765.9876 AKQ843.5.AK4.54 J976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.A32.Q32.AK32 5.JT9.8765.9876 AKQ843.5.AK4.54 J976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.A32.Q32.AK32 .JT9.8765.9876 AKQ843.5.AK4.54 J976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.A32.Q32.AK32 .JT9.8765.9876 AKQ84.5.AK4.54 J976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "S3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.A32.Q32.AK32 .JT9.8765.9876 AKQ84.5.AK4.54 976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.A32.Q32.AK32 .JT9.8765.9876 AKQ84.5.AK4.54 976.87.JT9.QJT",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If spades are 3-2, South can easily take all 13 tricks by cashing the ♠A, ♠K, and ♠Q. If spades are 4-1, there still will be no problem as South can concede a spade trick thereby establishing 2 long card tricks in spades."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:T2.A32.Q32.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "4"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.8765.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ843.5.AK4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ843.5.A4.54 J9765.87.JT9.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ843.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ843.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "D5",
+        "N": "DK",
+        "E": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds and leading a small spade"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds and leading a small spade"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South should turn his attention to the possibility that one of the defenders was dealt all 5 spades. South can in fact guard against any distribution of the cards by crossing to the dummy in diamonds and leading a small spade towards the ♠10."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J,"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:T.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 9765.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J,"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:T.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 9765.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "C6",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J,"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:T.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 9765.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "C6",
+        "N": "S3",
+        "E": "SJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:T.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 9765.87.T.QJ",
+      "trick_cards": {
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:T.A32.3.AK32 .JT9.876.T987 AKQ84.5.A4.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "DQ",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:T.A32.3.AK32 .JT9.87.T987 AKQ84.5.A4.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "E": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:T.A32.3.AK32 .JT9.87.T987 AKQ84.5.A.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:T.A32.3.AK32 .JT9.87.T987 AKQ84.5.A.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D6",
+        "N": "D4",
+        "E": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:.A32.3.AK32 .JT9.87.T987 AKQ84.5.A.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "ST"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:.A32.3.AK32 .JT9.8.T987 AKQ84.5.A.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "D7"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:.A32.3.AK32 .JT9.8.T987 AKQ8.5.A.54 9765.87.T.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "D7",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:.A32.3.AK32 .JT9.8.T987 AKQ8.5.A.54 976.87.T.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "D7",
+        "N": "S4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:.A32.3.AK32 .JT9.8.T987 AKQ8.5.A.54 976.87.T.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "D7",
+        "N": "S4",
+        "E": "S5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:.A32..AK32 .JT9.8.T987 AKQ8.5.A.54 976.87.T.QJ",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:.A32..AK32 .JT9..T987 AKQ8.5.A.54 976.87.T.QJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:.A32..AK32 .JT9..T987 AKQ8.5..54 976.87.T.QJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:.A32..AK32 .JT9..T987 AKQ8.5..54 976.87..QJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:.A32..AK32 .JT9..T987 AKQ8.5..54 976.87..QJ",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D8",
+        "N": "DA",
+        "E": "DT"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J9765.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:T2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:2.A32.Q3.AK32 .JT9.876.T9876 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:2.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "C6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:2.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "ST",
+        "W": "C6",
+        "N": "S3",
+        "E": "S5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East."
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:.A32.Q3.AK32 .JT9.876.T987 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East."
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:.A32.Q3.AK32 .JT9.87.T987 AKQ84.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East."
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:.A32.Q3.AK32 .JT9.87.T987 AKQ8.5.A4.54 J976.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D6",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East."
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:.A32.Q3.AK32 .JT9.87.T987 AKQ8.5.A4.54 J97.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D6",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East."
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:.A32.Q3.AK32 .JT9.87.T987 AKQ8.5.A4.54 J97.87.JT.QJ",
+      "trick_cards": {
+        "S": "S2",
+        "W": "D6",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If East has all 5 spades, he has no answer. If East rises with the ♠J, South can win any return in hand. South then unblocks the ♠10 and crosses in diamonds to enjoy 4 more spade tricks. If East ducks the first spade play from dummy, South can win the ♠10 and concede a spade trick to East. Again South will have 5 spade tricks."
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:T2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT98",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades,"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:T2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT98",
+      "trick_cards": {
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round,"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:T2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round,"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:T2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick,"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:2.A32.Q3.AK32 9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SJ",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick,"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:2.A32.Q3.AK32 9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "SJ",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9."
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:2.A32.Q3.AK32 J9765.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10,"
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:2.A32.Q3.AK32 J976.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10,"
+    },
+    {
+      "step": 72,
+      "hands_pbn": "S:2.A32.Q3.AK32 J976.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "ST",
+        "W": "S5",
+        "N": "S3",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West"
+    },
+    {
+      "step": 73,
+      "hands_pbn": "S:.A32.Q3.AK32 J976.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West"
+    },
+    {
+      "step": 74,
+      "hands_pbn": "S:.A32.Q3.AK32 J76.JT.76.76 AKQ84.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West"
+    },
+    {
+      "step": 75,
+      "hands_pbn": "S:.A32.Q3.AK32 J76.JT.76.76 AKQ8.5.A4.54 .987.JT8.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "S4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West"
+    },
+    {
+      "step": 76,
+      "hands_pbn": "S:.A32.Q3.AK32 J76.JT.76.76 AKQ8.5.A4.54 .987.JT.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "S4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West"
+    },
+    {
+      "step": 77,
+      "hands_pbn": "S:.A32.Q3.AK32 J76.JT.76.76 AKQ8.5.A4.54 .987.JT.QJT9",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S9",
+        "N": "S4",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West has all 5 spades, East discards on the first round, and South plays the ♠10. If West wins this trick, South later can take the marked finesse against West's ♠9. If West allows South to win the ♠10, a spade trick can be conceded to West once again establishing a long spade trick in dummy."
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "title": "Level 2 (Intermediate) - D-26",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-26",
+  "deal_pbn": "S:AK32.KQJT.K2.AKQ QJT98.A5.A65.432 54.2.Q987.JT9876 76.987643.JT43.5",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. The blockage in the club suit and the fact that dummy has no sure entry makes this problem more difficult than it first appears. South can, in fact, guarantee the contract, but only by playing the first several tricks in a specific order.\n\nSouth must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A, the ♦Q will become an entry to the long club suit in dummy. With 2 spade tricks, the ♦Q, and 6 club tricks, South will make his contract without a single trick from the heart suit.\n\nIf instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South, but South has won 6 tricks at this point and his 3 heart winners will be enough to secure the contract.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. The blockage in the club suit and the fact that dummy has no sure entry makes this problem more difficult than it first appears. South can, in fact, guarantee the contract, but only by playing the first several tricks in a specific order.",
+    "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A, the ♦Q will become an entry to the long club suit in dummy. With 2 spade tricks, the ♦Q, and 6 club tricks, South will make his contract without a single trick from the heart suit.",
+    "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South, but South has won 6 tricks at this point and his 3 heart winners will be enough to secure the contract."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "C6"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 12,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "C3"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "CQ"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "C4"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 19,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "DA"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 25,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 38,
+      "seat": "N",
+      "card": "S5"
+    },
+    {
+      "step": 39,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 40,
+      "seat": "S",
+      "card": "SA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ QJT98.A5.A65.432 54.2.Q987.JT9876 76.987643.JT43.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ JT98.A5.A65.432 54.2.Q987.JT9876 76.987643.JT43.5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ JT98.A5.A65.432 54.2.Q987.JT9876 76.987643.JT43.5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. The blockage in the club suit and the fact that dummy has no sure entry makes this problem more difficult than it first appears. South can, in fact, guarantee the contract, but only by playing the first several tricks in a specific order."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ JT98.A5.A65.432 54.2.Q987.JT9876 76.987643.JT43.5",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must win West's spade opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ JT98.A5.A65.432 5.2.Q987.JT9876 76.987643.JT43.5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK32.KQJT.K2.AKQ JT98.A5.A65.432 5.2.Q987.JT9876 7.987643.JT43.5",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A32.KQJT.K2.AKQ JT98.A5.A65.432 5.2.Q987.JT9876 7.987643.JT43.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A32.KQJT.K2.AKQ JT98.A5.A65.432 5.2.Q987.JT9876 7.987643.JT43.5",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S4",
+        "E": "S6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A32.KQJT.K2.KQ JT98.A5.A65.432 5.2.Q987.JT9876 7.987643.JT43.5",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A32.KQJT.K2.KQ JT98.A5.A65.43 5.2.Q987.JT9876 7.987643.JT43.5",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A32.KQJT.K2.KQ JT98.A5.A65.43 5.2.Q987.JT987 7.987643.JT43.5",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C2",
+        "N": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A32.KQJT.K2.KQ JT98.A5.A65.43 5.2.Q987.JT987 7.987643.JT43.",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C2",
+        "N": "C6",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A32.KQJT.K2.Q JT98.A5.A65.43 5.2.Q987.JT987 7.987643.JT43.",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A32.KQJT.K2.Q JT98.A5.A65.4 5.2.Q987.JT987 7.987643.JT43.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A32.KQJT.K2.Q JT98.A5.A65.4 5.2.Q987.JT98 7.987643.JT43.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3",
+        "N": "C7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A32.KQJT.K2.Q JT98.A5.A65.4 5.2.Q987.JT98 7.98764.JT43.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C3",
+        "N": "C7",
+        "E": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A32.KQJT.K2. JT98.A5.A65.4 5.2.Q987.JT98 7.98764.JT43.",
+      "trick_cards": {
+        "S": "CQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A32.KQJT.K2. JT98.A5.A65. 5.2.Q987.JT98 7.98764.JT43.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A32.KQJT.K2. JT98.A5.A65. 5.2.Q987.JT9 7.98764.JT43.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C4",
+        "N": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A32.KQJT.K2. JT98.A5.A65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C4",
+        "N": "C8",
+        "E": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A32.KQJT.K2. JT98.A5.A65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "CQ",
+        "W": "C4",
+        "N": "C8",
+        "E": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A,"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.65. 5.2.Q98.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.65. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D7",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.65. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "DA",
+        "N": "D7",
+        "E": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "J",
+            "T",
+            "9"
+          ],
+          "D": [
+            "Q",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South must win West's spade opening lead and immediately unblock the club suit by cashing the ♣A, ♣K, and ♣Q. South must continue with the ♦K from hand. This places the defenders in a no-win situation. If West takes the ♦A, the ♦Q will become an entry to the long club suit in dummy. With 2 spade tricks, the ♦Q, and 6 club tricks, South will make his contract without a single trick from the heart suit."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A65. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A6. 5.2.Q987.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A6. 5.2.Q98.JT9 7.9876.JT43.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "D7"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A6. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "D7",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A32.KQJT.2. JT98.A5.A6. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "D5",
+        "N": "D7",
+        "E": "D3"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "Q",
+            "J",
+            "T"
+          ]
+        },
+        "W": {
+          "H": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A32.QJT.2. JT98.A5.A6. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "HK"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A32.QJT.2. JT98.5.A6. 5.2.Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A32.QJT.2. JT98.5.A6. 5..Q98.JT9 7.9876.JT4.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H2"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A32.QJT.2. JT98.5.A6. 5..Q98.JT9 7.987.JT4.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A32.QJT.2. JT98.5.A6. 5..Q98.JT9 7.987.JT4.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South,"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A32.QJT.2. T98.5.A6. 5..Q98.JT9 7.987.JT4.",
+      "trick_cards": {
+        "W": "SJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South,"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A32.QJT.2. T98.5.A6. ..Q98.JT9 7.987.JT4.",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S5"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A32.QJT.2. T98.5.A6. ..Q98.JT9 .987.JT4.",
+      "trick_cards": {
+        "W": "SJ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:32.QJT.2. T98.5.A6. ..Q98.JT9 .987.JT4.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:32.QJT.2. T98.5.A6. ..Q98.JT9 .987.JT4.",
+      "trick_cards": {
+        "S": "SA",
+        "W": "SJ",
+        "N": "S5",
+        "E": "S7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If instead West chooses to duck his ♦A, South will have a diamond trick in the bag. South can now turn his attention to hearts and lead that suit to force out the ♥A. West can do no better than return a spade to South, but South has won 6 tricks at this point and his 3 heart winners will be enough to secure the contract."
+    }
+  ]
+}

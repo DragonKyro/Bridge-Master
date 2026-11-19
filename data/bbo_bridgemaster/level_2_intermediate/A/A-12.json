@@ -1,0 +1,612 @@
+{
+  "title": "Level 2 (Intermediate) - A-12",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-12",
+  "deal_pbn": "S:32.432.2.KQJ9876 J654.T9.KQJT9.T2 AKQT.A8765.A.A43 987.KQJ.876543.5",
+  "contract": "7C",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "3C",
+    "Pass",
+    "5NT",
+    "Pass",
+    "7C",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "DK",
+  "par_tricks": 13,
+  "notes": "South has 12 top tricks (3 spades, the ♥A, the ♦A, and 7 club tricks). North's ♠10 is the only hope for a thirteenth trick.\n\nAfter winning the opening lead and drawing trump, South must decide on how to play spades. South could cash the ♠A, ♠K, and ♠Q hoping that the ♠J drops, making the ♠10 high. Alternatively, South could play West for the ♠J, finessing the ♠10.\n\nFinessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit. Since the ♠J is more likely to be with length than with shortness, South should finesse.\n\nA top honour in spades should be cashed first in case East has a singleton ♠J.",
+  "commentary_paragraphs": [
+    "South has 12 top tricks (3 spades, the ♥A, the ♦A, and 7 club tricks). North's ♠10 is the only hope for a thirteenth trick.",
+    "After winning the opening lead and drawing trump, South must decide on how to play spades. South could cash the ♠A, ♠K, and ♠Q hoping that the ♠J drops, making the ♠10 high. Alternatively, South could play West for the ♠J, finessing the ♠10.",
+    "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit. Since the ♠J is more likely to be with length than with shortness, South should finesse.",
+    "A top honour in spades should be cashed first in case East has a singleton ♠J."
+  ],
+  "play_sequence": [
+    {
+      "step": 3,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 8,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 9,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 10,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 11,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "CT"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.KQJT9.T2 AKQT.A8765.A.A43 987.KQJ.876543.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3"
+          ],
+          "D": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ],
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spades, the ♥A, the ♦A, and 7 club tricks)."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.KQJT9.T2 AKQT.A8765.A.A43 987.KQJ.876543.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South has 12 top tricks (3 spades, the ♥A, the ♦A, and 7 club tricks). North's ♠10 is the only hope for a thirteenth trick."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.KQJT9.T2 AKQT.A8765.A.A43 987.KQJ.876543.5",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.QJT9.T2 AKQT.A8765.A.A43 987.KQJ.876543.5",
+      "trick_cards": {
+        "W": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..A43 987.KQJ.876543.5",
+      "trick_cards": {
+        "W": "DK",
+        "N": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.432.2.KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..A43 987.KQJ.87654.5",
+      "trick_cards": {
+        "W": "DK",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.432..KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..A43 987.KQJ.87654.5",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.432..KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..A43 987.KQJ.87654.5",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK",
+        "N": "DA",
+        "E": "D3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:32.432..KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..43 987.KQJ.87654.5",
+      "trick_cards": {
+        "N": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:32.432..KQJ9876 J654.T9.QJT9.T2 AKQT.A8765..43 987.KQJ.87654.",
+      "trick_cards": {
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.432..KQJ987 J654.T9.QJT9.T2 AKQT.A8765..43 987.KQJ.87654.",
+      "trick_cards": {
+        "S": "C6",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.432..KQJ987 J654.T9.QJT9.T AKQT.A8765..43 987.KQJ.87654.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "C2",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.432..KQJ987 J654.T9.QJT9.T AKQT.A8765..4 987.KQJ.87654.",
+      "trick_cards": {
+        "N": "C3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.432..KQJ987 J654.T9.QJT9.T AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9.T AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the opening lead and drawing trump,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead and drawing trump, South must decide on how to play spades."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J"
+          ]
+        },
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead and drawing trump, South must decide on how to play spades. South could cash the ♠A, ♠K, and ♠Q hoping that the ♠J drops,"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead and drawing trump, South must decide on how to play spades. South could cash the ♠A, ♠K, and ♠Q hoping that the ♠J drops, making the ♠10 high."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the opening lead and drawing trump, South must decide on how to play spades. South could cash the ♠A, ♠K, and ♠Q hoping that the ♠J drops, making the ♠10 high. Alternatively, South could play West for the ♠J, finessing the ♠10."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:32.432..QJ987 7654.T9.QJT9. AKQT.A8765..4 J98.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit. Since the ♠J is more likely to be with length"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:32.432..QJ987 7654.T9.QJT9. AKQT.A8765..4 J98.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit. Since the ♠J is more likely to be with length than with shortness,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:32.432..QJ987 J654.T9.QJT9. AKQT.A8765..4 987.KQJ.8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Finessing the ♠10 is in fact the percentage play. The finesse is necessary when West has the ♠J and length in the suit. Playing for the drop is necessary when East has the ♠J and shortness in the suit. Since the ♠J is more likely to be with length than with shortness, South should finesse."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:32.432..QJ987 987654.9.QJ9. AKQT.A8765..4 J.KQJT.T8765.",
+      "trick_cards": {
+        "S": "CK",
+        "W": "CT",
+        "N": "C3",
+        "E": "D4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "T"
+          ]
+        },
+        "E": {
+          "S": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "A top honour in spades should be cashed first in case East has a singleton ♠J."
+    }
+  ]
+}

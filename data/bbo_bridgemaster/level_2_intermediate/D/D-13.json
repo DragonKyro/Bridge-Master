@@ -1,0 +1,786 @@
+{
+  "title": "Level 2 (Intermediate) - D-13",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-13",
+  "deal_pbn": "S:J32.AK2.AKQ32.AK AK87.QJT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♥Q against 3NT. Dummy's strong club suit will provide more than enough tricks for the contract, but the blockage in that suit and the lack of a quick dummy entry is a problem. South's diamonds will produce 5 tricks if that suit is divided 3-3 (and with 4 tricks between hearts and clubs, 3NT would succeed).\n\nThe contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs.\n\nSouth can win whatever suit West returns and cross to the dummy with the diamond entry that was just created in order to cash the rest of dummy's clubs. It seems strange that South will never win a trick with the ♦AKQ, but the 4 tricks he wins with dummy's clubs will provide more than adequate compensation.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 3NT. Dummy's strong club suit will provide more than enough tricks for the contract, but the blockage in that suit and the lack of a quick dummy entry is a problem. South's diamonds will produce 5 tricks if that suit is divided 3-3 (and with 4 tricks between hearts and clubs, 3NT would succeed).",
+    "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs.",
+    "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created in order to cash the rest of dummy's clubs. It seems strange that South will never win a trick with the ♦AKQ, but the 4 tricks he wins with dummy's clubs will provide more than adequate compensation."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 11,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 12,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 14,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "D9"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 30,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 31,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 33,
+      "seat": "E",
+      "card": "D6"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.QJT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. Dummy's strong club suit will provide more than enough tricks for the contract, but the blockage in that suit and the lack of a quick dummy entry is a problem."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK8.JT98.J54.65 QT9.43.T9.QJT987 7654.765.876.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "5",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. Dummy's strong club suit will provide more than enough tricks for the contract, but the blockage in that suit and the lack of a quick dummy entry is a problem. South's diamonds will produce 5 tricks if that suit is divided 3-3"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK8.JT98.J54.65 QT9.43.T9.QJT987 7654.765.876.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ],
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 3NT. Dummy's strong club suit will provide more than enough tricks for the contract, but the blockage in that suit and the lack of a quick dummy entry is a problem. South's diamonds will produce 5 tricks if that suit is divided 3-3 (and with 4 tricks between hearts and clubs, 3NT would succeed)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "J",
+            "4"
+          ]
+        },
+        "E": {
+          "D": [
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.43.T9.QJT987 654.765.8765.432",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome)"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.4.T9.QJT987 654.765.8765.432",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome)"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:J32.AK2.AKQ32.AK AK87.JT98.J4.65 QT9.4.T9.QJT987 654.76.8765.432",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome)"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:J32.A2.AKQ32.AK AK87.JT98.J4.65 QT9.4.T9.QJT987 654.76.8765.432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome)"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:J32.A2.AKQ32.AK AK87.JT98.J4.65 QT9.4.T9.QJT987 654.76.8765.432",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:J32.A2.AKQ32.K AK87.JT98.J4.65 QT9.4.T9.QJT987 654.76.8765.432",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:J32.A2.AKQ32.K AK87.JT98.J4.6 QT9.4.T9.QJT987 654.76.8765.432",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:J32.A2.AKQ32.K AK87.JT98.J4.6 QT9.4.T9.QJT98 654.76.8765.432",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:J32.A2.AKQ32.K AK87.JT98.J4.6 QT9.4.T9.QJT98 654.76.8765.43",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C5",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:J32.A2.AKQ32. AK87.JT98.J4.6 QT9.4.T9.QJT98 654.76.8765.43",
+      "trick_cards": {
+        "S": "CK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:J32.A2.AKQ32. AK87.JT98.J4. QT9.4.T9.QJT98 654.76.8765.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:J32.A2.AKQ32. AK87.JT98.J4. QT9.4.T9.QJT9 654.76.8765.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:J32.A2.AKQ32. AK87.JT98.J4. QT9.4.T9.QJT9 654.76.8765.4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:J32.A2.AKQ32. AK87.JT98.J4. QT9.4.T9.QJT9 654.76.8765.4",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C6",
+        "N": "C8",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "D": [
+            "J",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.JT98.J4. QT9.4.T9.QJT9 654.76.8765.4",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.JT98.4. QT9.4.T9.QJT9 654.76.8765.4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.JT98.4. QT9.4.T.QJT9 654.76.8765.4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.JT98.4. QT9.4.T.QJT9 654.76.876.4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D9",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The contract is actually guaranteed regardless of how diamonds divide. South should win West's heart opening lead (as a spade shift would not be welcome) and unblock the ♣A and ♣K. South must now make the key play of leading a small diamond out of his hand. The defense must take the ♦J or South will have immediate access to the dummy's long clubs."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.JT98.4. QT9.4.T.QJT9 654.76.876.4",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DJ",
+        "N": "D9",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        },
+        "W": {
+          "H": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South can win whatever suit West returns"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.T98.4. QT9.4.T.QJT9 654.76.876.4",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.T98.4. QT9..T.QJT9 654.76.876.4",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:J32.A2.AKQ3. AK87.T98.4. QT9..T.QJT9 654.7.876.4",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:J32.2.AKQ3. AK87.T98.4. QT9..T.QJT9 654.7.876.4",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:J32.2.AKQ3. AK87.T98.4. QT9..T.QJT9 654.7.876.4",
+      "trick_cards": {
+        "S": "HA",
+        "W": "HJ",
+        "N": "H4",
+        "E": "H6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.4. QT9..T.QJT9 654.7.876.4",
+      "trick_cards": {
+        "S": "D3"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.. QT9..T.QJT9 654.7.876.4",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.. QT9...QJT9 654.7.876.4",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D4",
+        "N": "DT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.. QT9...QJT9 654.7.87.4",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D4",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created"
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.. QT9...QJT9 654.7.87.4",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D4",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created in order to cash the rest of dummy's clubs."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:J32.2.AKQ. AK87.T98.. QT9...QJT9 654.7.87.4",
+      "trick_cards": {
+        "S": "D3",
+        "W": "D4",
+        "N": "DT",
+        "E": "D6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "K",
+            "Q"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South can win whatever suit West returns and cross to the dummy with the diamond entry that was just created in order to cash the rest of dummy's clubs. It seems strange that South will never win a trick with the ♦AKQ, but the 4 tricks he wins with dummy's clubs will provide more than adequate compensation."
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "title": "Level 5 (World Class) - A-29",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-29",
+  "deal_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..T98 A43.A43.A654.432 Q765.Q765.JT987.",
+  "contract": "7NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "3C",
+    "3D",
+    "Pass",
+    "4C",
+    "4NT",
+    "Pass",
+    "5S",
+    "Pass",
+    "7NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 13,
+  "notes": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond. South might as well cash a top diamond at trick 2.\n\nWest's discard is hardly surprising in view of all the defensive bidding. It seems that each defender bid their void in an attempted major suit takeout. West is presumably 5503 leaving East with 4450 distribution. On the run of the clubs the defense will be subject to a compound squeeze.\n\nOn the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal). The position in spades and hearts is identical. Assume for the sake of argument that East discards a spade.\n\nWest is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand.\n\nOn the last club both defenders are squeezed, West in spades and hearts and East in diamonds and hearts.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond. South might as well cash a top diamond at trick 2.",
+    "West's discard is hardly surprising in view of all the defensive bidding. It seems that each defender bid their void in an attempted major suit takeout. West is presumably 5503 leaving East with 4450 distribution. On the run of the clubs the defense will be subject to a compound squeeze.",
+    "On the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal). The position in spades and hearts is identical. Assume for the sake of argument that East discards a spade.",
+    "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand.",
+    "On the last club both defenders are squeezed, West in spades and hearts and East in diamonds and hearts."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 7,
+      "seat": "S",
+      "card": "DK"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "S8"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 11,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "C5"
+    },
+    {
+      "step": 13,
+      "seat": "W",
+      "card": "S9"
+    },
+    {
+      "step": 13,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 15,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 29,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 30,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 31,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 32,
+      "seat": "W",
+      "card": "SJ"
+    },
+    {
+      "step": 34,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 35,
+      "seat": "E",
+      "card": "DT"
+    },
+    {
+      "step": 36,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 37,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "C7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..T98 A43.A43.A654.432 Q765.Q765.JT987.",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 7NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..98 A43.A43.A654.432 Q765.Q765.JT987.",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 7NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..98 A43.A43.A654.432 Q765.Q765.JT987.",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "E": {
+          "D": [
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT987.",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.2.KQ32.AKQJ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "W": "CT",
+        "N": "C2",
+        "E": "D7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.2.KQ32.AKQ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:2.2.KQ32.AKQ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "C2",
+        "E": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "K",
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond. South might as well cash a top diamond at trick 2."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 7NT. West's club lead is won by South as East discards a diamond. South might as well cash a top diamond at trick 2."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT98.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West's discard is hardly surprising in view of all the defensive bidding."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT9.KJT98..98 A43.A43.A654.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's discard is hardly surprising in view of all the defensive bidding."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT9.KJT98..98 A43.A43.A65.43 Q765.Q765.JT98.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S8",
+        "N": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's discard is hardly surprising in view of all the defensive bidding."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT9.KJT98..98 A43.A43.A65.43 Q765.Q765.JT9.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S8",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's discard is hardly surprising in view of all the defensive bidding."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.2.Q32.AKQ765 KJT9.KJT98..98 A43.A43.A65.43 Q765.Q765.JT9.",
+      "trick_cards": {
+        "S": "DK",
+        "W": "S8",
+        "N": "D4",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's discard is hardly surprising in view of all the defensive bidding. It seems that each defender bid their void in an attempted major suit takeout. West is presumably 5503 leaving East with 4450 distribution. On the run of the clubs the defense will be subject to a compound squeeze."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:2.2.Q32.76 KJT.KJT9.. A4.A4.A65. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C5",
+        "W": "S9",
+        "N": "S3",
+        "E": "H6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "On the second last club a diamond is thrown from dummy"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT9.. A4.A4.A65. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the second last club a diamond is thrown from dummy"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A65. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the second last club a diamond is thrown from dummy"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the second last club a diamond is thrown from dummy"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q",
+            "7"
+          ],
+          "S": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal)."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "2"
+          ],
+          "S": [
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "4"
+          ],
+          "S": [
+            "A",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal). The position in spades and hearts is identical."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q7.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal). The position in spades and hearts is identical. Assume for the sake of argument that East discards a spade."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5",
+        "E": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the second last club a diamond is thrown from dummy and East must abandon either spades or hearts (a diamond discard is immediately fatal). The position in spades and hearts is identical. Assume for the sake of argument that East discards a spade."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5",
+        "E": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West is now left with the only defensive spade guard."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5",
+        "E": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "E": {
+          "H": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:2.2.Q32.7 KJT.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "C6",
+        "W": "H9",
+        "N": "D5",
+        "E": "S7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.2.Q32.7 KJT.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "S2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. A4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. 4.A4.A6. Q.Q7.JT9.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. 4.A4.A6. .Q7.JT9.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. 4.A4.A6. .Q7.JT9.",
+      "trick_cards": {
+        "S": "S2",
+        "W": "ST",
+        "N": "SA",
+        "E": "SQ"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. 4.A4.6. .Q7.JT9.",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:.2.Q32.7 KJ.KJT.. 4.A4.6. .Q7.JT.",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:.2.Q3.7 KJ.KJT.. 4.A4.6. .Q7.JT.",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:.2.Q3.7 K.KJT.. 4.A4.6. .Q7.JT.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "SJ",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:.2.Q3.7 K.KJT.. 4.A4.6. .Q7.JT.",
+      "trick_cards": {
+        "S": "D2",
+        "W": "SJ",
+        "N": "DA",
+        "E": "D9"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:.2.Q3.7 K.KJT.. 4.A4.. .Q7.JT.",
+      "trick_cards": {
+        "N": "D6"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:.2.Q3.7 K.KJT.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:.2.3.7 K.KJT.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:.2.3.7 K.KJ.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "HT",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West is now left with the only defensive spade guard. South can arrange for a double squeeze with hearts being the suit guarded by both defenders. The ♠A is cashed followed by the ♦A and a diamond to the South hand."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:.2.3.7 K.KJ.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "HT",
+        "N": "D6",
+        "E": "DT"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the last club both defenders are squeezed,"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:.2.3. K.KJ.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "S": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "On the last club both defenders are squeezed,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:.2.3. K.KJ.. 4.A4.. .Q7.J.",
+      "trick_cards": {
+        "S": "C7"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J"
+          ],
+          "S": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "J"
+          ],
+          "H": [
+            "Q",
+            "7"
+          ]
+        }
+      },
+      "commentary": "On the last club both defenders are squeezed, West in spades and hearts and East in diamonds and hearts."
+    }
+  ]
+}

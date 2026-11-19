@@ -1,0 +1,1269 @@
+{
+  "title": "Level 5 (World Class) - C-6",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "C-6",
+  "deal_pbn": "S:A87654.AK.4.K876 J9.QJT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+  "contract": "7S",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3S",
+    "Pass",
+    "4C",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5H",
+    "Pass",
+    "5NT",
+    "Pass",
+    "6H",
+    "Pass",
+    "7S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 13,
+  "notes": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy. When dummy's heart is played the defense's \"certain\" trump trick evaporates in a variation of the Devil's Coup.\n\nSouth will need 4 dummy entries to reach this end position; 3 to take ruffs in the closed hand and 1 to return to dummy in order to play the last heart. There is only 1 entry in the diamond suit so South must try to reach the dummy 3 times in clubs. West must have ♣J10x for the contract to have a chance.\n\nAfter winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand.\n\nSouth's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy and the play of dummy's last heart leaves the defense with no answer.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy. When dummy's heart is played the defense's \"certain\" trump trick evaporates in a variation of the Devil's Coup.",
+    "South will need 4 dummy entries to reach this end position; 3 to take ruffs in the closed hand and 1 to return to dummy in order to play the last heart. There is only 1 entry in the diamond suit so South must try to reach the dummy 3 times in clubs. West must have ♣J10x for the contract to have a chance.",
+    "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand.",
+    "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy and the play of dummy's last heart leaves the defense with no answer."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 3,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 3,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 3,
+      "seat": "E",
+      "card": "C5"
+    },
+    {
+      "step": 5,
+      "seat": "N",
+      "card": "H5"
+    },
+    {
+      "step": 8,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H6"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "H9"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "H7"
+    },
+    {
+      "step": 20,
+      "seat": "S",
+      "card": "D4"
+    },
+    {
+      "step": 21,
+      "seat": "W",
+      "card": "D9"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 23,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "D6"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 32,
+      "seat": "S",
+      "card": "S4"
+    },
+    {
+      "step": 33,
+      "seat": "W",
+      "card": "HT"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "C6"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "CQ"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "D7"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "DJ"
+    },
+    {
+      "step": 45,
+      "seat": "S",
+      "card": "C7"
+    },
+    {
+      "step": 46,
+      "seat": "W",
+      "card": "C2"
+    },
+    {
+      "step": 47,
+      "seat": "N",
+      "card": "C9"
+    },
+    {
+      "step": 48,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 50,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 51,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 55,
+      "seat": "S",
+      "card": "C8"
+    },
+    {
+      "step": 56,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 57,
+      "seat": "N",
+      "card": "CA"
+    },
+    {
+      "step": 58,
+      "seat": "E",
+      "card": "C5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.QJT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 7♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 7♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "S": [
+            "K",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:A87... J9.J.. KT.5.. Q32...",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CJ",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:A87... J9.J.. KT.5.. Q32...",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CJ",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy. When dummy's heart is played"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:A87... J9.J.. KT... Q32...",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy. When dummy's heart is played"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:A87... J9.J.. KT... Q32...",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 7♠. The only way to play the trump suit without loss is to hope that West was dealt either ♠Q9 or ♠J9 doubleton and to reach this end position with the lead in the dummy. When dummy's heart is played the defense's \"certain\" trump trick evaporates in a variation of the Devil's Coup."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:A87... J9.J.. KT... Q32...",
+      "trick_cards": {
+        "N": "H5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South will need 4 dummy entries to reach this end position; 3 to take ruffs in the closed hand and 1 to return to dummy in order to play the last heart."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South will need 4 dummy entries to reach this end position; 3 to take ruffs in the closed hand and 1 to return to dummy in order to play the last heart. There is only 1 entry in the diamond suit"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South will need 4 dummy entries to reach this end position; 3 to take ruffs in the closed hand and 1 to return to dummy in order to play the last heart. There is only 1 entry in the diamond suit so South must try to reach the dummy 3 times in clubs. West must have ♣J10x for the contract to have a chance."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.5432.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.543.AK32.AQ9 Q32.876.8765.543",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A87654.AK.4.K876 J9.JT9.QJT9.JT2 KT.543.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A87654.A.4.K876 J9.JT9.QJT9.JT2 KT.543.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A87654.A.4.K876 J9.JT9.QJT9.JT2 KT.543.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HQ",
+        "N": "H2",
+        "E": "H6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A87654..4.K876 J9.JT9.QJT9.JT2 KT.543.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "S": "HA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A87654..4.K876 J9.JT.QJT9.JT2 KT.543.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A87654..4.K876 J9.JT.QJT9.JT2 KT.54.AK32.AQ9 Q32.87.8765.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A87654..4.K876 J9.JT.QJT9.JT2 KT.54.AK32.AQ9 Q32.8.8765.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A87654..4.K876 J9.JT.QJT9.JT2 KT.54.AK32.AQ9 Q32.8.8765.543",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H9",
+        "N": "H3",
+        "E": "H7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT9.JT2 KT.54.AK32.AQ9 Q32.8.8765.543",
+      "trick_cards": {
+        "S": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.AK32.AQ9 Q32.8.8765.543",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D9"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.A32.AQ9 Q32.8.8765.543",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D9",
+        "N": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.A32.AQ9 Q32.8.876.543",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D9",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.A32.AQ9 Q32.8.876.543",
+      "trick_cards": {
+        "S": "D4",
+        "W": "D9",
+        "N": "DK",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy)."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.32.AQ9 Q32.8.876.543",
+      "trick_cards": {
+        "N": "DA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy)."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A87654...K876 J9.JT.QJT.JT2 KT.54.32.AQ9 Q32.8.87.543",
+      "trick_cards": {
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy)."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A87654...876 J9.JT.QJT.JT2 KT.54.32.AQ9 Q32.8.87.543",
+      "trick_cards": {
+        "S": "CK",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy)."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A87654...876 J9.JT.QJ.JT2 KT.54.32.AQ9 Q32.8.87.543",
+      "trick_cards": {
+        "S": "CK",
+        "W": "DT",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy)."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A87654...876 J9.JT.QJ.JT2 KT.54.32.AQ9 Q32.8.87.543",
+      "trick_cards": {
+        "S": "CK",
+        "W": "DT",
+        "N": "DA",
+        "E": "D6"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "H": [
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:A87654...876 J9.JT.QJ.JT2 KT.5.32.AQ9 Q32.8.87.543",
+      "trick_cards": {
+        "N": "H4"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:A87654...876 J9.JT.QJ.JT2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:A8765...876 J9.JT.QJ.JT2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "S": "S4",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:A8765...876 J9.J.QJ.JT2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "S": "S4",
+        "W": "HT",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning West's heart opening lead there are several possible winning sequences. South can, for example, cash the other top heart and cross to the dummy in diamonds. Dummy's remaining diamond honor is cashed on which South must discard the ♣K (if South discards a small club then West can deny declarer the dummy entries he needs by playing a high club whenever South leads a low club toward the dummy). South then ruffs a heart in the closed hand."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:A8765...876 J9.J.QJ.JT2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "S": "S4",
+        "W": "HT",
+        "N": "H4",
+        "E": "H8"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.JT2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "S": "C6"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.32.AQ9 Q32..87.543",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CJ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small."
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.32.A9 Q32..87.543",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CJ",
+        "N": "CQ"
+      },
+      "declarer_tricks": 5,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small."
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.32.A9 Q32..87.54",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CJ",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small."
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.32.A9 Q32..87.54",
+      "trick_cards": {
+        "S": "C6",
+        "W": "CJ",
+        "N": "CQ",
+        "E": "C3"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        },
+        "N": {
+          "D": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand,"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.3.A9 Q32..87.54",
+      "trick_cards": {
+        "N": "D2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand,"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:A8765...87 J9.J.QJ.T2 KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand,"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:A876...87 J9.J.QJ.T2 KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "S": "S5",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand,"
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:A876...87 J9.J.Q.T2 KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "S": "S5",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:A876...87 J9.J.Q.T2 KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "S": "S5",
+        "W": "DJ",
+        "N": "D2",
+        "E": "D7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8",
+            "7"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "9"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round),"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:A876...8 J9.J.Q.T2 KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "S": "C7"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round),"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5.3.A9 Q32..8.54",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C2"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round),"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5.3.A Q32..8.54",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C2",
+        "N": "C9"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round),"
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5.3.A Q32..8.5",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C2",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round),"
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5.3.A Q32..8.5",
+      "trick_cards": {
+        "S": "C7",
+        "W": "C2",
+        "N": "C9",
+        "E": "C4"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "N": {
+          "D": [
+            "3"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5..A Q32..8.5",
+      "trick_cards": {
+        "N": "D3"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:A876...8 J9.J.Q.T KT.5..A Q32...5",
+      "trick_cards": {
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond."
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:A87...8 J9.J.Q.T KT.5..A Q32...5",
+      "trick_cards": {
+        "S": "S6",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond."
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:A87...8 J9.J..T KT.5..A Q32...5",
+      "trick_cards": {
+        "S": "S6",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:A87...8 J9.J..T KT.5..A Q32...5",
+      "trick_cards": {
+        "S": "S6",
+        "W": "DQ",
+        "N": "D3",
+        "E": "D8"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "8"
+          ]
+        },
+        "N": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:A87... J9.J..T KT.5..A Q32...5",
+      "trick_cards": {
+        "S": "C8"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:A87... J9.J.. KT.5..A Q32...5",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CT"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:A87... J9.J.. KT.5.. Q32...5",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CT",
+        "N": "CA"
+      },
+      "declarer_tricks": 9,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:A87... J9.J.. KT.5.. Q32...",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CT",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:A87... J9.J.. KT.5.. Q32...",
+      "trick_cards": {
+        "S": "C8",
+        "W": "CT",
+        "N": "CA",
+        "E": "C5"
+      },
+      "declarer_tricks": 10,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "J",
+            "9"
+          ]
+        },
+        "N": {
+          "H": [
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South's next move is to play a club towards the dummy, planning to finesse the ♣9 if West follows small. South ruffs a diamond in hand, crosses back to the dummy in clubs (finessing if West split his honors on the first round), and ruffs dummy's last diamond. The third round of clubs puts the lead back in dummy and the play of dummy's last heart leaves the defense with no answer."
+    }
+  ]
+}

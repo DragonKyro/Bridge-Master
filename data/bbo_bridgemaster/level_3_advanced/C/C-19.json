@@ -1,0 +1,842 @@
+{
+  "title": "Level 3 (Advanced) - C-19",
+  "level": 3,
+  "level_name": "Advanced",
+  "deal_id": "C-19",
+  "deal_pbn": "S:KJT9876.K3.A6.A2 Q.QJT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+  "contract": "6S",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1S",
+    "Pass",
+    "2D",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "4NT",
+    "Pass",
+    "5D",
+    "Pass",
+    "6S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HQ",
+  "par_tricks": 12,
+  "notes": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy for a trump play.\n\nWhen East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q. If East has the ♠A and West has the ♠Q, it is necessary to play the ♠K. These two distributions are equally likely, making South's play a strict guess if spades are 2-2.\n\nIf West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs. South's best chance at this point is to play the ♠K, hoping for the ♠Q to drop.\n\nSouth cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand. As this is the only relevant 3-1 break, South should play the ♠K from his hand at trick 2.",
+  "commentary_paragraphs": [
+    "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy for a trump play.",
+    "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q. If East has the ♠A and West has the ♠Q, it is necessary to play the ♠K. These two distributions are equally likely, making South's play a strict guess if spades are 2-2.",
+    "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs. South's best chance at this point is to play the ♠K, hoping for the ♠Q to drop.",
+    "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand. As this is the only relevant 3-1 break, South should play the ♠K from his hand at trick 2."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HQ"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "H4"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 10,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 18,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "S6"
+    },
+    {
+      "step": 23,
+      "seat": "W",
+      "card": "SA"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "CJ"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "C3"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 31,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 31,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "SQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.QJT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "Q",
+            "5",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.A2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.2.KQ5432.543 A54.87654.7.KQ76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KJT9876.K3.A6.A2 Q.JT9.JT98.JT98 32.2.KQ5432.543 A54.8765.7.KQ76",
+      "trick_cards": {
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 32.2.KQ5432.543 A54.8765.7.KQ76",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 32.2.KQ5432.543 A54.8765.7.KQ76",
+      "trick_cards": {
+        "S": "H3",
+        "W": "HQ",
+        "N": "HA",
+        "E": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy for a trump play."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A54.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥Q against 6♠. South is lucky to have avoided a club lead. South's club loser can be discarded on dummy's diamonds eventually. West's opening lead should be won in the dummy for a trump play."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A54.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "When East follows low,"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "When East follows low,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KJT9876.K.A6.A2 A5.JT9.JT98.JT9 3.2.KQ5432.543 Q.8765.7.KQ876",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KJT9876.K.A6.A2 A5.JT9.JT98.JT9 3.2.KQ5432.543 Q.8765.7.KQ876",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KJT987.K.A6.A2 A5.JT9.JT98.JT9 3.2.KQ5432.543 Q.8765.7.KQ876",
+      "trick_cards": {
+        "S": "S6",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q5.JT9.JT98.JT9 3.2.KQ5432.543 A.8765.7.KQ876",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q. If East has the ♠A and West has the ♠Q, it is necessary to play the ♠K."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:JT9876.K.A6.A2 Q5.JT9.JT98.JT9 3.2.KQ5432.543 A.8765.7.KQ876",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q. If East has the ♠A and West has the ♠Q, it is necessary to play the ♠K."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q5.JT9.JT98.JT9 3.2.KQ5432.543 A.8765.7.KQ876",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "5"
+          ]
+        },
+        "E": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "When East follows low, South must decide what spade to play from hand. If the defensive spades are 2-2, playing a low spade from hand will be right when West has the ♠A and East has the ♠Q. If East has the ♠A and West has the ♠Q, it is necessary to play the ♠K. These two distributions are equally likely, making South's play a strict guess if spades are 2-2."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KJT9876.K.A6.A2 A.JT9.JT98.JT98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KJT987.K.A6.A2 A.JT9.JT98.JT98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "S6",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KJT987.K.A6.A2 A.JT9.JT98.JT98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "S6",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KJT987.K.A6.A2 .JT9.JT98.JT98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "SA",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KJT987.K.A6.A2 .JT9.JT98.JT98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "S6",
+        "W": "SA",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KJT987.K.A6.A2 .JT9.JT98.T98 3.2.KQ5432.543 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "W": "CJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:KJT987.K.A6.A2 .JT9.JT98.T98 3.2.KQ5432.54 Q5.8765.7.KQ76",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:KJT987.K.A6.A2 .JT9.JT98.T98 3.2.KQ5432.54 Q5.8765.7.KQ7",
+      "trick_cards": {
+        "W": "CJ",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:KJT987.K.A6.2 .JT9.JT98.T98 3.2.KQ5432.54 Q5.8765.7.KQ7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:KJT987.K.A6.2 .JT9.JT98.T98 3.2.KQ5432.54 Q5.8765.7.KQ7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs. South's best chance at this point is to play the ♠K,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:KJT987.K.A6.2 .JT9.JT98.T98 3.2.KQ5432.54 Q5.8765.7.KQ7",
+      "trick_cards": {
+        "S": "CA",
+        "W": "CJ",
+        "N": "C3",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West has a singleton ♠A, the contract will fail even if South plays a low spade from hand. West will win the ♠A and switch to clubs. South's best chance at this point is to play the ♠K, hoping for the ♠Q to drop."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:KJT9876.K.A6.A2 5.JT9.JT98.JT98 3.2.KQ5432.543 AQ.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "A",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:KJT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "E": {
+          "S": [
+            "A",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand. As this is the only relevant 3-1 break, South should play the ♠K from his hand at trick 2."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:JT9876.K.A6.A2 Q.JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "SK",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand. As this is the only relevant 3-1 break, South should play the ♠K from his hand at trick 2."
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:JT9876.K.A6.A2 .JT9.JT98.JT98 3.2.KQ5432.543 A5.8765.7.KQ76",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South cannot, in practice, pick up 3 spades to the ♠A and ♠Q with East. If West has a singleton ♠Q, South can succeed by playing the ♠K from hand. As this is the only relevant 3-1 break, South should play the ♠K from his hand at trick 2."
+    }
+  ]
+}

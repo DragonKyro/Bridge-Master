@@ -1,0 +1,665 @@
+{
+  "title": "Level 1 (Beginner) - B-13",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "B-13",
+  "deal_pbn": "S:AK.K32.432.AQJT9 QJT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SQ",
+  "par_tricks": 9,
+  "notes": "West leads the ♠Q against 3NT. South has only 7 top tricks (2 spades and 5 clubs). If South tries to develop tricks in diamonds, the defenders will be able to establish and run the spades before South can enjoy North's long diamonds.\n\nAfter winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however, he will take 2 heart tricks whenever the ♥J is held by West.\n\nNotice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover, holding South to 1 heart trick.",
+  "commentary_paragraphs": [
+    "West leads the ♠Q against 3NT. South has only 7 top tricks (2 spades and 5 clubs). If South tries to develop tricks in diamonds, the defenders will be able to establish and run the spades before South can enjoy North's long diamonds.",
+    "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however, he will take 2 heart tricks whenever the ♥J is held by West.",
+    "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover, holding South to 1 heart trick."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 14,
+      "seat": "W",
+      "card": "H4"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 17,
+      "seat": "W",
+      "card": "SQ"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 17,
+      "seat": "E",
+      "card": "S4"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "C9"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 24,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 26,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 27,
+      "seat": "S",
+      "card": "HK"
+    },
+    {
+      "step": 28,
+      "seat": "W",
+      "card": "HA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AK.K32.432.AQJT9 QJT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠Q against 3NT. South has only 7 top tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 7 top tricks (2 spades"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 7 top tricks (2 spades and 5 clubs)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "4",
+            "3",
+            "2"
+          ]
+        },
+        "W": {
+          "S": [
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠Q against 3NT. South has only 7 top tricks (2 spades and 5 clubs). If South tries to develop tricks in diamonds, the defenders will be able to establish and run the spades before South can enjoy North's long diamonds."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 32.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "After winning the spade opening lead"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 7654.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AK.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:A.K3.432.AQJT9 JT98.J654.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "H2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however,"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:A.K3.432.AQJT9 JT98.J65.7.875 3.QT.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however,"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:A.K3.432.AQJT9 JT98.J65.7.875 3.Q.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however,"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:A.K3.432.AQJT9 JT98.J65.7.875 3.Q.QJT98.K432 765.A987.AK65.6",
+      "trick_cards": {
+        "S": "H2",
+        "W": "H4",
+        "N": "HT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "After winning the spade opening lead South should look towards hearts for the 2 extra tricks he needs. Playing to the ♥Q is almost certain to produce only 1 extra trick. If South plays a heart to dummy's ♥10, however, he will take 2 heart tricks whenever the ♥J is held by West."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.A654.7.875 3.QT.QJT98.K432 765.J987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:A.K32.432.AQJT9 JT98.A654.7.875 3.QT.QJT98.K432 765.J987.AK65.6",
+      "trick_cards": {
+        "S": "SK",
+        "W": "SQ",
+        "N": "S2",
+        "E": "S4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.875 3.QT.QJT98.K432 765.J987.AK65.6",
+      "trick_cards": {
+        "S": "C9"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.QT.QJT98.K432 765.J987.AK65.6",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.QT.QJT98.432 765.J987.AK65.6",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.QT.QJT98.432 765.J987.AK65.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CK",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.QT.QJT98.432 765.J987.AK65.",
+      "trick_cards": {
+        "S": "C9",
+        "W": "C5",
+        "N": "CK",
+        "E": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "H": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North,"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.Q.QJT98.432 765.J987.AK65.",
+      "trick_cards": {
+        "N": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North,"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.Q.QJT98.432 765.J987.AK65.",
+      "trick_cards": {
+        "N": "HT"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover,"
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:A.K32.432.AQJT JT98.A654.7.87 3.Q.QJT98.432 765.987.AK65.",
+      "trick_cards": {
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover,"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:A.32.432.AQJT JT98.A654.7.87 3.Q.QJT98.432 765.987.AK65.",
+      "trick_cards": {
+        "S": "HK",
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover,"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:A.32.432.AQJT JT98.654.7.87 3.Q.QJT98.432 765.987.AK65.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover,"
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:A.32.432.AQJT JT98.654.7.87 3.Q.QJT98.432 765.987.AK65.",
+      "trick_cards": {
+        "S": "HK",
+        "W": "HA",
+        "N": "HT",
+        "E": "HJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "H": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "Notice that South cannot finesse against the ♥J in East's hand. If South crosses in clubs to play the ♥10 from North, if East has the ♥J, he will cover, holding South to 1 heart trick."
+    }
+  ]
+}

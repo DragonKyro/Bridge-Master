@@ -1,0 +1,501 @@
+{
+  "title": "Level 1 (Beginner) - A-30",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-30",
+  "deal_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.QT98 32.5.QJT9876.K32 AJT9.K9876..7654",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "N",
+  "vulnerability": "None",
+  "auction": [
+    "3D",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "CT",
+  "par_tricks": 9,
+  "notes": "West leads the ♣10 against 3NT. South should try to establish and run dummy's diamond suit. Since only 6 diamond tricks are required (the ♣A, ♣K, and ♥A will be declarer's other 3 tricks), South can afford to lose a trick to the ♦K.\n\nThe contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K or his own ♣J, and the diamonds break 3-0, the defense will be able to hold up the ♦K and prevent declarer from enjoying the long diamonds. South will then have no hope of scoring enough tricks in the other suits.\n\nNotice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K and the contract will thus be defeated.",
+  "commentary_paragraphs": [
+    "West leads the ♣10 against 3NT. South should try to establish and run dummy's diamond suit. Since only 6 diamond tricks are required (the ♣A, ♣K, and ♥A will be declarer's other 3 tricks), South can afford to lose a trick to the ♦K.",
+    "The contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K or his own ♣J, and the diamonds break 3-0, the defense will be able to hold up the ♦K and prevent declarer from enjoying the long diamonds. South will then have no hope of scoring enough tricks in the other suits.",
+    "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K and the contract will thus be defeated."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "CK"
+    },
+    {
+      "step": 13,
+      "seat": "E",
+      "card": "C4"
+    },
+    {
+      "step": 14,
+      "seat": "S",
+      "card": "CJ"
+    },
+    {
+      "step": 16,
+      "seat": "N",
+      "card": "DQ"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "D4"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "DJ"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "D5"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "D3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "S7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.QT98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♣10 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3NT. South should try to establish and run dummy's diamond suit."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ],
+          "H": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3NT. South should try to establish and run dummy's diamond suit. Since only 6 diamond tricks are required (the ♣A, ♣K, and ♥A will be declarer's other 3 tricks),"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♣10 against 3NT. South should try to establish and run dummy's diamond suit. Since only 6 diamond tricks are required (the ♣A, ♣K, and ♥A will be declarer's other 3 tricks), South can afford to lose a trick to the ♦K."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "The contract is certain as long as South wins the opening lead in his hand with the ♣A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "The contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K or his own ♣J,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "The contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K or his own ♣J, and the diamonds break 3-0,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 876.QJT.K54.Q98 32.5.QJT9876.K32 AJT9.K9876..7654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "The contract is certain as long as South wins the opening lead in his hand with the ♣A. If South carelessly wins the opening lead with either dummy's ♣K or his own ♣J, and the diamonds break 3-0, the defense will be able to hold up the ♦K and prevent declarer from enjoying the long diamonds. South will then have no hope of scoring enough tricks in the other suits."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 9876.QJT9..Q987 32.5.QJT9876.K32 AJT.K876.K54.654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "Notice that if East has 3 diamonds,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 9876.QJT9..Q987 32.5.QJT9876.K32 AJT.K876.K54.654",
+      "trick_cards": {
+        "W": "CT"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K"
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 9876.QJT9..Q987 32.5.QJT9876.32 AJT.K876.K54.654",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:KQ54.A432.A32.AJ 9876.QJT9..Q987 32.5.QJT9876.32 AJT.K876.K54.65",
+      "trick_cards": {
+        "W": "CT",
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:KQ54.A432.A32.A 9876.QJT9..Q987 32.5.QJT9876.32 AJT.K876.K54.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQ54.A432.A32.A 9876.QJT9..Q987 32.5.QJT9876.32 AJT.K876.K54.65",
+      "trick_cards": {
+        "S": "CJ",
+        "W": "CT",
+        "N": "CK",
+        "E": "C4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "D": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQ54.A432.A32.A 9876.QJT9..Q987 32.5.JT9876.32 AJT.K876.K54.65",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQ54.A432.A32.A 9876.QJT9..Q987 32.5.JT9876.32 AJT.K876.K54.65",
+      "trick_cards": {
+        "N": "DQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQ54.A432.A32.A 9876.QJT9..Q987 32.5.JT9876.32 AJT.K876.K5.65",
+      "trick_cards": {
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:KQ54.A432.A3.A 9876.QJT9..Q987 32.5.JT9876.32 AJT.K876.K5.65",
+      "trick_cards": {
+        "S": "D2",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:KQ54.A432.A3.A 987.QJT9..Q987 32.5.JT9876.32 AJT.K876.K5.65",
+      "trick_cards": {
+        "S": "D2",
+        "W": "S6",
+        "N": "DQ",
+        "E": "D4"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:KQ54.A432.A3.A 987.QJT9..Q987 32.5.T9876.32 AJT.K876.K5.65",
+      "trick_cards": {
+        "N": "DJ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:KQ54.A432.A3.A 987.QJT9..Q987 32.5.T9876.32 AJT.K876.K.65",
+      "trick_cards": {
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:KQ54.A432.A.A 987.QJT9..Q987 32.5.T9876.32 AJT.K876.K.65",
+      "trick_cards": {
+        "S": "D3",
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:KQ54.A432.A.A 98.QJT9..Q987 32.5.T9876.32 AJT.K876.K.65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "S7",
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:KQ54.A432.A.A 98.QJT9..Q987 32.5.T9876.32 AJT.K876.K.65",
+      "trick_cards": {
+        "S": "D3",
+        "W": "S7",
+        "N": "DJ",
+        "E": "D5"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "Notice that if East has 3 diamonds, you cannot succeed by winning the ♣K and finessing in diamonds. East simply will not cover with his ♦K and the contract will thus be defeated."
+    }
+  ]
+}

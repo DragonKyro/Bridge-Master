@@ -1,0 +1,399 @@
+{
+  "title": "Level 1 (Beginner) - A-13",
+  "level": 1,
+  "level_name": "Beginner",
+  "deal_id": "A-13",
+  "deal_pbn": "S:32.KQJ.AQJT9.K32 AKT76.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S7",
+  "par_tricks": 9,
+  "notes": "West leads the ♠7 against 3NT. South has enough tricks for his contract in the form of 5 diamond tricks and 4 club tricks. South's problem is that the defenders may be able to take the first 5 tricks (at least 4 spade tricks and the ♥A).\n\nSouth's best chance of preventing this from happening is to play the ♠Q at trick 1. This will succeed whenever West has both the ♠A and the ♠K.\n\nIf the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10 and the defense will be able to run the spade suit.",
+  "commentary_paragraphs": [
+    "West leads the ♠7 against 3NT. South has enough tricks for his contract in the form of 5 diamond tricks and 4 club tricks. South's problem is that the defenders may be able to take the first 5 tricks (at least 4 spade tricks and the ♥A).",
+    "South's best chance of preventing this from happening is to play the ♠Q at trick 1. This will succeed whenever West has both the ♠A and the ♠K.",
+    "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10 and the defense will be able to run the spade suit."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S7"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "SQ"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S8"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 12,
+      "seat": "N",
+      "card": "S4"
+    },
+    {
+      "step": 15,
+      "seat": "E",
+      "card": "ST"
+    },
+    {
+      "step": 16,
+      "seat": "S",
+      "card": "S2"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT76.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠7 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South has enough tricks for his contract in the form of 5 diamond tricks"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "A",
+            "Q",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South has enough tricks for his contract in the form of 5 diamond tricks and 4 club tricks."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K",
+            "T",
+            "6"
+          ]
+        },
+        "E": {
+          "H": [
+            "A"
+          ],
+          "S": [
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠7 against 3NT. South has enough tricks for his contract in the form of 5 diamond tricks and 4 club tricks. South's problem is that the defenders may be able to take the first 5 tricks (at least 4 spade tricks and the ♥A)."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 Q54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "South's best chance of preventing this from happening is to play the ♠Q at trick 1."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 54.432.K32.AQJT J98.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance of preventing this from happening is to play the ♠Q at trick 1."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AKT6.765.54.654 54.432.K32.AQJT J9.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "SQ",
+        "E": "S8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance of preventing this from happening is to play the ♠Q at trick 1."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:3.KQJ.AQJT9.K32 AKT6.765.54.654 54.432.K32.AQJT J9.AT98.876.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South's best chance of preventing this from happening is to play the ♠Q at trick 1."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:3.KQJ.AQJT9.K32 AKT6.765.54.654 54.432.K32.AQJT J9.AT98.876.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "SQ",
+        "E": "S8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "K"
+          ]
+        }
+      },
+      "commentary": "South's best chance of preventing this from happening is to play the ♠Q at trick 1. This will succeed whenever West has both the ♠A and the ♠K."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q54.432.K32.AQJT KT8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A"
+          ]
+        },
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If the ♠A and ♠K are split,"
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q54.432.K32.AQJT KT8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT KT8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT KT8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT KT8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "S": [
+            "T"
+          ]
+        }
+      },
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:32.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT K8.AT98.876.987",
+      "trick_cards": {
+        "W": "S7",
+        "N": "S4",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:3.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT K8.AT98.876.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S4",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:3.KQJ.AQJT9.K32 AJ96.765.54.654 Q5.432.K32.AQJT K8.AT98.876.987",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S7",
+        "N": "S4",
+        "E": "ST"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "A",
+            "J",
+            "9",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "K",
+            "8"
+          ]
+        }
+      },
+      "commentary": "If the ♠A and ♠K are split, playing low from the dummy at trick 1 is unlikely to help. East will not play his ♠K in the above layout. He will play the ♠10 and the defense will be able to run the spade suit."
+    }
+  ]
+}

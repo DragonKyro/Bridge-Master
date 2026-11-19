@@ -1,0 +1,1262 @@
+{
+  "title": "Level 5 (World Class) - A-13",
+  "level": 5,
+  "level_name": "World Class",
+  "deal_id": "A-13",
+  "deal_pbn": "S:AKQJ987.5.AJ6.AQ T5.AK76.KQ87.KJT 432.432.5432.432 6.QJT98.T9.98765",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2H",
+    "Dbl",
+    "3H",
+    "Pass",
+    "4H",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds.\n\nSouth must hope to eventually force West to lead away from the ♣K. If West started with 3 diamonds he will always be able to get out of his own way (unless those diamonds are the ♦K, ♦Q, and ♦10).\n\nSouth should play West for 4 diamonds. This distribution is likely as East probably has some extra shape for his 4♥ bid considering his very limited high card values.\n\nSouth should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count. The only safe way to lose a trick without allowing East on lead (to play a club) is to exit with the ♦J.\n\nWest will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond, endplaying West.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds.",
+    "South must hope to eventually force West to lead away from the ♣K. If West started with 3 diamonds he will always be able to get out of his own way (unless those diamonds are the ♦K, ♦Q, and ♦10).",
+    "South should play West for 4 diamonds. This distribution is likely as East probably has some extra shape for his 4♥ bid considering his very limited high card values.",
+    "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count. The only safe way to lose a trick without allowing East on lead (to play a club) is to exit with the ♦J.",
+    "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond, endplaying West."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H2"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H5"
+    },
+    {
+      "step": 9,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "H8"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 15,
+      "seat": "S",
+      "card": "SA"
+    },
+    {
+      "step": 16,
+      "seat": "W",
+      "card": "S5"
+    },
+    {
+      "step": 17,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 18,
+      "seat": "E",
+      "card": "S6"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "SK"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "ST"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "S3"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "H9"
+    },
+    {
+      "step": 33,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 35,
+      "seat": "W",
+      "card": "DQ"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "D2"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 39,
+      "seat": "W",
+      "card": "HA"
+    },
+    {
+      "step": 41,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 42,
+      "seat": "E",
+      "card": "HT"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "S8"
+    },
+    {
+      "step": 45,
+      "seat": "S",
+      "card": "SJ"
+    },
+    {
+      "step": 45,
+      "seat": "W",
+      "card": "CT"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "D3"
+    },
+    {
+      "step": 45,
+      "seat": "E",
+      "card": "C6"
+    },
+    {
+      "step": 46,
+      "seat": "S",
+      "card": "SQ"
+    },
+    {
+      "step": 48,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 49,
+      "seat": "N",
+      "card": "C2"
+    },
+    {
+      "step": 50,
+      "seat": "E",
+      "card": "HJ"
+    },
+    {
+      "step": 52,
+      "seat": "S",
+      "card": "DA"
+    },
+    {
+      "step": 53,
+      "seat": "W",
+      "card": "DT"
+    },
+    {
+      "step": 54,
+      "seat": "N",
+      "card": "D4"
+    },
+    {
+      "step": 55,
+      "seat": "E",
+      "card": "D9"
+    },
+    {
+      "step": 57,
+      "seat": "S",
+      "card": "D6"
+    },
+    {
+      "step": 58,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 59,
+      "seat": "N",
+      "card": "D5"
+    },
+    {
+      "step": 60,
+      "seat": "E",
+      "card": "C7"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKQJ987.5.AJ6.AQ T5.AK76.KQ87.KJT 432.432.5432.432 6.QJT98.T9.98765",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKQJ987.5.AJ6.AQ T5.A76.KQ87.KJT 432.432.5432.432 6.QJT98.T9.98765",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKQJ987.5.AJ6.AQ T5.A76.KQ87.KJT 432.432.5432.432 6.QJT98.T9.98765",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "E": {
+          "H": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKQJ987.5.AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.QJT98.T9.98765",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKQJ987.5.AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K"
+          ],
+          "D": [
+            "K",
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A76.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "S": "H5",
+        "W": "HK",
+        "N": "H2",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A7.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2"
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A7.KQ87.KJT 432.43.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "W": "H6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A7.KQ87.KJT 432.4.5432.432 6.JT98.T9.98765",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKQJ987..AJ6.AQ T5.A7.KQ87.KJT 432.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "W": "H6",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKQJ98..AJ6.AQ T5.A7.KQ87.KJT 432.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H6",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKQJ98..AJ6.AQ T5.A7.KQ87.KJT 432.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "S": "S7",
+        "W": "H6",
+        "N": "H3",
+        "E": "H8"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "Q",
+            "J",
+            "9",
+            "8"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:KQJ98..AJ6.AQ T5.A7.KQ87.KJT 432.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "S": "SA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:KQJ98..AJ6.AQ T.A7.KQ87.KJT 432.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:KQJ98..AJ6.AQ T.A7.KQ87.KJT 43.4.5432.432 6.JT9.T9.98765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:KQJ98..AJ6.AQ T.A7.KQ87.KJT 43.4.5432.432 .JT9.T9.98765",
+      "trick_cards": {
+        "S": "SA",
+        "W": "S5",
+        "N": "S2",
+        "E": "S6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:QJ98..AJ6.AQ T.A7.KQ87.KJT 43.4.5432.432 .JT9.T9.98765",
+      "trick_cards": {
+        "S": "SK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQ87.KJT 43.4.5432.432 .JT9.T9.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQ87.KJT 4.4.5432.432 .JT9.T9.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQ87.KJT 4.4.5432.432 .JT.T9.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠ East's ♥Q at trick 1 shows the ♥J and marks West with the ♦K, ♦Q, and ♣K for his 1NT opening. West leads a low heart at trick 2 and South ruffs. South draws trumps in 2 rounds."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQ87.KJT 4.4.5432.432 .JT.T9.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "W": {
+          "C": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South must hope to eventually force West to lead away from the ♣K."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQ8.KJT5 4.4.5432.432 .JT.T97.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "8"
+          ]
+        }
+      },
+      "commentary": "South must hope to eventually force West to lead away from the ♣K. If West started with 3 diamonds he will always be able to get out of his own way"
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT.KJT5 4.4.5432.432 .JT.987.9876",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "T"
+          ]
+        }
+      },
+      "commentary": "South must hope to eventually force West to lead away from the ♣K. If West started with 3 diamonds he will always be able to get out of his own way (unless those diamonds are the ♦K, ♦Q, and ♦10)."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should play West for 4 diamonds."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should play West for 4 diamonds. This distribution is likely as East probably has some extra shape for his 4♥ bid considering his very limited high card values."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ],
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should aim to strip squeeze West."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "Q"
+          ],
+          "D": [
+            "J",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "9",
+            "8",
+            "7",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count. The only safe way to lose a trick without allowing East on lead (to play a club)"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:QJ98..AJ6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "SK",
+        "W": "ST",
+        "N": "S3",
+        "E": "H9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "J"
+          ]
+        }
+      },
+      "commentary": "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count. The only safe way to lose a trick without allowing East on lead (to play a club) is to exit with the ♦J."
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South should aim to strip squeeze West. West will eventually be squeezed out of his last exit card in hearts. For this type of squeeze to work there must be exactly 2 losers. As South has 3 losers he must rectify the count. The only safe way to lose a trick without allowing East on lead (to play a club) is to exit with the ♦J."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KQT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "Q",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West will win"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KT7.KJT 4.4.5432.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will win"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KT7.KJT 4.4.543.432 .JT.98.98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West will win"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KT7.KJT 4.4.543.432 .JT.9.98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:QJ98..A6.AQ .A7.KT7.KJT 4.4.543.432 .JT.9.98765",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DQ",
+        "N": "D2",
+        "E": "D8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:QJ98..A6.AQ .7.KT7.KJT 4.4.543.432 .JT.9.98765",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:QJ98..A6.AQ .7.KT7.KJT 4.4.543.432 .JT.9.98765",
+      "trick_cards": {
+        "W": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:QJ98..A6.AQ .7.KT7.KJT 4..543.432 .JT.9.98765",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:QJ98..A6.AQ .7.KT7.KJT 4..543.432 .J.9.98765",
+      "trick_cards": {
+        "W": "HA",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:QJ9..A6.AQ .7.KT7.KJT 4..543.432 .J.9.98765",
+      "trick_cards": {
+        "S": "S8",
+        "W": "HA",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:QJ9..A6.AQ .7.KT7.KJT 4..543.432 .J.9.98765",
+      "trick_cards": {
+        "S": "S8",
+        "W": "HA",
+        "N": "H4",
+        "E": "HT"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "J",
+            "9"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:Q..A6.AQ .7.KT.KJ ..54.432 .J.9.987",
+      "trick_cards": {
+        "S": "SJ",
+        "W": "CT",
+        "N": "D3",
+        "E": "C6"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:..A6.AQ .7.KT.KJ ..54.432 .J.9.987",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:..A6.AQ .7.KT.KJ ..54.432 .J.9.987",
+      "trick_cards": {
+        "S": "SQ"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {
+        "W": {
+          "H": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:..A6.AQ ..KT.KJ ..54.432 .J.9.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:..A6.AQ ..KT.KJ ..54.43 .J.9.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7",
+        "N": "C2"
+      },
+      "declarer_tricks": 6,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart."
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:..A6.AQ ..KT.KJ ..54.43 ..9.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7",
+        "N": "C2",
+        "E": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart."
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:..A6.AQ ..KT.KJ ..54.43 ..9.987",
+      "trick_cards": {
+        "S": "SQ",
+        "W": "H7",
+        "N": "C2",
+        "E": "HJ"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:..6.AQ ..KT.KJ ..54.43 ..9.987",
+      "trick_cards": {
+        "S": "DA"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:..6.AQ ..K.KJ ..54.43 ..9.987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A"
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:..6.AQ ..K.KJ ..5.43 ..9.987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D4"
+      },
+      "declarer_tricks": 7,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:..6.AQ ..K.KJ ..5.43 ...987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:..6.AQ ..K.KJ ..5.43 ...987",
+      "trick_cards": {
+        "S": "DA",
+        "W": "DT",
+        "N": "D4",
+        "E": "D9"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {
+        "S": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:...AQ ..K.KJ ..5.43 ...987",
+      "trick_cards": {
+        "S": "D6"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:...AQ ...KJ ..5.43 ...987",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DK"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:...AQ ...KJ ...43 ...987",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DK",
+        "N": "D5"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond,"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:...AQ ...KJ ...43 ...98",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DK",
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond,"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:...AQ ...KJ ...43 ...98",
+      "trick_cards": {
+        "S": "D6",
+        "W": "DK",
+        "N": "D5",
+        "E": "C7"
+      },
+      "declarer_tricks": 8,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "Q"
+          ]
+        },
+        "W": {
+          "C": [
+            "K",
+            "J"
+          ]
+        }
+      },
+      "commentary": "West will win and get out a heart which South ruffs. Next South runs his trumps. On the last spade West is forced to part with a heart. South cashes the ♦A and exits with a diamond, endplaying West."
+    }
+  ]
+}

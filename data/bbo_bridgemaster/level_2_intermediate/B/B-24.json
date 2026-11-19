@@ -1,0 +1,391 @@
+{
+  "title": "Level 2 (Intermediate) - B-24",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "B-24",
+  "deal_pbn": "S:Q5.AKQJT9.54.K32 AKJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+  "contract": "3H",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "Pass",
+    "Dbl",
+    "Pass",
+    "Pass",
+    "2D",
+    "2H",
+    "Pass",
+    "3H",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "SK",
+  "par_tricks": 9,
+  "notes": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K, West switches to the ♦6. South is forced to guess diamonds at trick 2.\n\nIf West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy. This play will lose if West has the ♦Q and East has the ♦A.\n\nThe above layout is impossible. West opened the bidding with 1NT showing 15-17 high card points. As the defense has only 18 high card points in total, West can have a maximum of 14 points without the ♦A.\n\nWest must have the ♦A. Therefore, the ♦K from dummy is the correct play.",
+  "commentary_paragraphs": [
+    "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K, West switches to the ♦6. South is forced to guess diamonds at trick 2.",
+    "If West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy. This play will lose if West has the ♦Q and East has the ♦A.",
+    "The above layout is impossible. West opened the bidding with 1NT showing 15-17 high card points. As the defense has only 18 high card points in total, West can have a maximum of 14 points without the ♦A.",
+    "West must have the ♦A. Therefore, the ♦K from dummy is the correct play."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "SK"
+    },
+    {
+      "step": 6,
+      "seat": "N",
+      "card": "S2"
+    },
+    {
+      "step": 7,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 8,
+      "seat": "S",
+      "card": "S5"
+    },
+    {
+      "step": 10,
+      "seat": "W",
+      "card": "D6"
+    },
+    {
+      "step": 14,
+      "seat": "N",
+      "card": "DK"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "DA"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AKJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "S": [
+            "Q",
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks,"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A,"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 432.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K,"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 43.432.KJ32.QJT T987.8.QT987.764",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K,"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:Q5.AKQJT9.54.K32 AJ6.765.A6.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "SK",
+        "N": "S2",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K,"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A6.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "S": "S5",
+        "W": "SK",
+        "N": "S2",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K,"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A6.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "S": "S5",
+        "W": "SK",
+        "N": "S2",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K, West switches to the ♦6."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K, West switches to the ♦6."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠K against 3♥. South must lose 2 spade tricks, the ♣A, and at least 1 diamond trick. After cashing the ♠K, West switches to the ♦6. South is forced to guess diamonds at trick 2."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "E": {
+          "D": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦A and East the ♦Q,"
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.J32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.Q.A985 43.432.J32.QJT T98.8.AT987.764",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "Q"
+          ]
+        },
+        "E": {
+          "D": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "If West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy. This play will lose if West has the ♦Q and East has the ♦A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.Q.A985 43.432.J32.QJT T98.8.T987.764",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West has the ♦A and East the ♦Q, it is necessary to play the ♦K from dummy. This play will lose if West has the ♦Q and East has the ♦A."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.Q.A985 43.432.J32.QJT T98.8.T987.764",
+      "trick_cards": {
+        "W": "D6",
+        "N": "DK",
+        "E": "DA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "The above layout is impossible. West opened the bidding with 1NT showing 15-17 high card points. As the defense has only 18 high card points in total, West can have a maximum of 14 points without the ♦A."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:Q.AKQJT9.54.K32 AJ6.765.A.A985 43.432.KJ32.QJT T98.8.QT987.764",
+      "trick_cards": {
+        "W": "D6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West must have the ♦A. Therefore, the ♦K from dummy is the correct play."
+    }
+  ]
+}

@@ -1,0 +1,1066 @@
+{
+  "title": "Level 2 (Intermediate) - D-18",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "D-18",
+  "deal_pbn": "S:AKJT97.4.AQJ7.32 Q54.AK7.6542.Q65 86.QJT9.KT98.KJT 32.86532.3.A9874",
+  "contract": "4S",
+  "declarer": "S",
+  "dealer": "W",
+  "vulnerability": "None",
+  "auction": [
+    "Pass",
+    "Pass",
+    "Pass",
+    "1S",
+    "Pass",
+    "1NT",
+    "Pass",
+    "3S",
+    "Pass",
+    "4S",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HK",
+  "par_tricks": 10,
+  "notes": "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift presents South with a guess a trick 2. If South misguesses and plays the wrong club from dummy, then 2 club tricks will have to be lost. If there is also a trump loser then the contract will fail.\n\nAs there are 8 spades between the North-South hands, declarer should plan to finesse East for the ♠Q. If East has that card then it won't matter if South misguesses in clubs. South should, therefore, think about the worst case and assume that West has the ♠Q and that a trump trick will have to be lost. Using this reasoning (called 'second-degree assumption' by Reese) South can deduce the correct play in clubs.\n\nWest's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A. That would give West 13 HCP, but West passed in first seat. It is possible that West has the ♣Q so South should play the ♣10 or ♣J from the dummy.\n\nOn the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7.\n\nSouth must now avoid losing a trump trick and will have to hope that the ♠Q is with East, but it would be wrong to lay down a top honor before crossing to dummy for a finesse. To do so would gain if West were dealt a singleton ♠Q, but if West has a singleton spade it is 4 times as likely to be a low card. Laying down a high trump would be fatal on the above layout of the East-West cards.\n\nInstead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8. Thanks to South's thoughtful ruff with a middle trump on the second round of hearts, the lead is still in the dummy and the trump finesse can be repeated. By playing in this manner South has to cross to the dummy only once in diamonds, minimizing the risk of a defensive ruff in that suit.",
+  "commentary_paragraphs": [
+    "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift presents South with a guess a trick 2. If South misguesses and plays the wrong club from dummy, then 2 club tricks will have to be lost. If there is also a trump loser then the contract will fail.",
+    "As there are 8 spades between the North-South hands, declarer should plan to finesse East for the ♠Q. If East has that card then it won't matter if South misguesses in clubs. South should, therefore, think about the worst case and assume that West has the ♠Q and that a trump trick will have to be lost. Using this reasoning (called 'second-degree assumption' by Reese) South can deduce the correct play in clubs.",
+    "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A. That would give West 13 HCP, but West passed in first seat. It is possible that West has the ♣Q so South should play the ♣10 or ♣J from the dummy.",
+    "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7.",
+    "South must now avoid losing a trump trick and will have to hope that the ♠Q is with East, but it would be wrong to lay down a top honor before crossing to dummy for a finesse. To do so would gain if West were dealt a singleton ♠Q, but if West has a singleton spade it is 4 times as likely to be a low card. Laying down a high trump would be fatal on the above layout of the East-West cards.",
+    "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8. Thanks to South's thoughtful ruff with a middle trump on the second round of hearts, the lead is still in the dummy and the trump finesse can be repeated. By playing in this manner South has to cross to the dummy only once in diamonds, minimizing the risk of a defensive ruff in that suit."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HK"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H9"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H2"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H4"
+    },
+    {
+      "step": 7,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 18,
+      "seat": "N",
+      "card": "CJ"
+    },
+    {
+      "step": 20,
+      "seat": "E",
+      "card": "CQ"
+    },
+    {
+      "step": 21,
+      "seat": "S",
+      "card": "C2"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "CA"
+    },
+    {
+      "step": 23,
+      "seat": "S",
+      "card": "C3"
+    },
+    {
+      "step": 24,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 25,
+      "seat": "N",
+      "card": "CT"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H3"
+    },
+    {
+      "step": 28,
+      "seat": "S",
+      "card": "S9"
+    },
+    {
+      "step": 29,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 30,
+      "seat": "N",
+      "card": "HT"
+    },
+    {
+      "step": 35,
+      "seat": "S",
+      "card": "D7"
+    },
+    {
+      "step": 36,
+      "seat": "W",
+      "card": "D2"
+    },
+    {
+      "step": 37,
+      "seat": "N",
+      "card": "DT"
+    },
+    {
+      "step": 38,
+      "seat": "E",
+      "card": "D3"
+    },
+    {
+      "step": 40,
+      "seat": "N",
+      "card": "S8"
+    },
+    {
+      "step": 41,
+      "seat": "E",
+      "card": "S2"
+    },
+    {
+      "step": 42,
+      "seat": "S",
+      "card": "S7"
+    },
+    {
+      "step": 43,
+      "seat": "W",
+      "card": "S5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:AKJT97.4.AQJ7.32 Q54.AK7.6542.Q65 86.QJT9.KT98.KJT 32.86532.3.A9874",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:AKJT97.4.AQJ7.32 Q54.A7.6542.Q65 86.QJT9.KT98.KJT 32.86532.3.A9874",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:AKJT97.4.AQJ7.32 Q54.A7.6542.Q65 86.QJT9.KT98.KJT 32.86532.3.A9874",
+      "trick_cards": {
+        "W": "HK"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:AKJT97.4.AQJ7.32 Q54.A7.6542.Q65 86.QJT.KT98.KJT 32.86532.3.A9874",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:AKJT97.4.AQJ7.32 Q54.A7.6542.Q65 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q65 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q65 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "S": "H4",
+        "W": "HK",
+        "N": "H9",
+        "E": "H2"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "6",
+            "5"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift"
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift presents South with a guess a trick 2."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "3",
+            "2"
+          ],
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "7"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ],
+          "S": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♥K against 4♠. West's ♥K wins the first trick and his club shift presents South with a guess a trick 2. If South misguesses and plays the wrong club from dummy, then 2 club tricks will have to be lost. If there is also a trump loser then the contract will fail."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:AKJT97..AQJ7.32 543.A7.6542.Q6 86.QJT.KT98.KJT Q2.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "2"
+          ]
+        }
+      },
+      "commentary": "As there are 8 spades between the North-South hands, declarer should plan to finesse East for the ♠Q. If East has that card then it won't matter if South misguesses in clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "7"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "As there are 8 spades between the North-South hands, declarer should plan to finesse East for the ♠Q. If East has that card then it won't matter if South misguesses in clubs. South should, therefore, think about the worst case and assume that West has the ♠Q and that a trump trick will have to be lost."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "As there are 8 spades between the North-South hands, declarer should plan to finesse East for the ♠Q. If East has that card then it won't matter if South misguesses in clubs. South should, therefore, think about the worst case and assume that West has the ♠Q and that a trump trick will have to be lost. Using this reasoning (called 'second-degree assumption' by Reese) South can deduce the correct play in clubs."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "H": [
+            "A",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "S": [
+            "Q",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy),"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.A6 86.QJT.KT98.KJT 32.8653.3.Q9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A."
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.A6 86.QJT.KT98.KJT 32.8653.3.Q9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "A",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A. That would give West 13 HCP, but West passed in first seat."
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KJT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "C": [
+            "Q",
+            "6"
+          ]
+        },
+        "N": {
+          "C": [
+            "K",
+            "J",
+            "T"
+          ]
+        }
+      },
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A. That would give West 13 HCP, but West passed in first seat. It is possible that West has the ♣Q so South should play the ♣10 or ♣J from the dummy."
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:AKJT97..AQJ7.32 Q54.A7.6542.Q6 86.QJT.KT98.KT 32.8653.3.A9874",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's lead of the ♥K strongly suggests that he was dealt the ♥A as well. Under the assumption that West has the ♠Q (otherwise the contract will be easy), West cannot have the ♣A. That would give West 13 HCP, but West passed in first seat. It is possible that West has the ♣Q so South should play the ♣10 or ♣J from the dummy."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:AKJT97..AQJ7.32 5.A87.6542.876 86.QJT.KT98.KT Q432.653.3.AQ94",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "C": [
+            "A",
+            "Q",
+            "9",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:AKJT97..AQJ7.32 5.A87.6542.876 86.QJT.KT98.KT Q432.653.3.A94",
+      "trick_cards": {
+        "W": "C5",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:AKJT97..AQJ7.3 5.A87.6542.876 86.QJT.KT98.KT Q432.653.3.A94",
+      "trick_cards": {
+        "S": "C2",
+        "W": "C5",
+        "N": "CJ",
+        "E": "CQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:AKJT97..AQJ7.3 5.A87.6542.876 86.QJT.KT98.KT Q432.653.3.94",
+      "trick_cards": {
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:AKJT97..AQJ7. 5.A87.6542.876 86.QJT.KT98.KT Q432.653.3.94",
+      "trick_cards": {
+        "S": "C3",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:AKJT97..AQJ7. 5.A87.6542.87 86.QJT.KT98.KT Q432.653.3.94",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 2,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:AKJT97..AQJ7. 5.A87.6542.87 86.QJT.KT98.K Q432.653.3.94",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CT",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:AKJT97..AQJ7. 5.A87.6542.87 86.QJT.KT98.K Q432.653.3.94",
+      "trick_cards": {
+        "S": "C3",
+        "W": "C6",
+        "N": "CT",
+        "E": "CA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "9",
+            "7"
+          ]
+        },
+        "E": {
+          "H": [
+            "6",
+            "5",
+            "3"
+          ]
+        }
+      },
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:AKJT97..AQJ7. 5.A87.6542.87 86.QJT.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "E": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A87.6542.87 86.QJT.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "E": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A8.6542.87 86.QJT.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "E": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7."
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A8.6542.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "N": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "On the actual layout, South's club play is irrelevant as East, who was dealt both the ♣A and ♣Q, wins the next 2 tricks in that suit. When East returns a heart, South should be careful to ruff with a middle trump, preserving the ♠7."
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A8.6542.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "N": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must now avoid losing a trump trick and will have to hope that the ♠Q is with East, but it would be wrong to lay down a top honor before crossing to dummy for a finesse."
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:AKJT7..AQJ7. Q.A8.6542.87 86.QJ.KT98.K 5432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "N": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "7"
+          ]
+        },
+        "W": {
+          "S": [
+            "Q"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South must now avoid losing a trump trick and will have to hope that the ♠Q is with East, but it would be wrong to lay down a top honor before crossing to dummy for a finesse. To do so would gain if West were dealt a singleton ♠Q,"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A8.6542.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "N": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "7"
+          ]
+        },
+        "W": {
+          "S": [
+            "5"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South must now avoid losing a trump trick and will have to hope that the ♠Q is with East, but it would be wrong to lay down a top honor before crossing to dummy for a finesse. To do so would gain if West were dealt a singleton ♠Q, but if West has a singleton spade it is 4 times as likely to be a low card. Laying down a high trump would be fatal on the above layout of the East-West cards."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:AKJT7..AQJ7. 5.A8.6542.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "S9",
+        "W": "H7",
+        "N": "HT",
+        "E": "H3"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "J",
+            "7"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "T",
+            "9",
+            "8"
+          ]
+        }
+      },
+      "commentary": "Instead, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.6542.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "D7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 86.QJ.KT98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 86.QJ.K98.K Q432.65.3.94",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D2",
+        "N": "DT"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 86.QJ.K98.K Q432.65..94",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D2",
+        "N": "DT",
+        "E": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 86.QJ.K98.K Q432.65..94",
+      "trick_cards": {
+        "S": "D7",
+        "W": "D2",
+        "N": "DT",
+        "E": "D3"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T",
+            "7"
+          ]
+        },
+        "N": {
+          "S": [
+            "8",
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "4",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8."
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 6.QJ.K98.K Q432.65..94",
+      "trick_cards": {
+        "N": "S8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8."
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:AKJT7..AQJ. 5.A8.654.87 6.QJ.K98.K Q43.65..94",
+      "trick_cards": {
+        "N": "S8",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8."
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:AKJT..AQJ. 5.A8.654.87 6.QJ.K98.K Q43.65..94",
+      "trick_cards": {
+        "S": "S7",
+        "N": "S8",
+        "E": "S2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:AKJT..AQJ. .A8.654.87 6.QJ.K98.K Q43.65..94",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "S8",
+        "E": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {},
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8."
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:AKJT..AQJ. .A8.654.87 6.QJ.K98.K Q43.65..94",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "S8",
+        "E": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "S": [
+            "A",
+            "K",
+            "J",
+            "T"
+          ]
+        },
+        "N": {
+          "S": [
+            "6"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8. Thanks to South's thoughtful ruff with a middle trump on the second round of hearts, the lead is still in the dummy and the trump finesse can be repeated."
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:AKJT..AQJ. .A8.654.87 6.QJ.K98.K Q43.65..94",
+      "trick_cards": {
+        "S": "S7",
+        "W": "S5",
+        "N": "S8",
+        "E": "S2"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 3,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A",
+            "Q",
+            "J"
+          ]
+        },
+        "N": {
+          "D": [
+            "K",
+            "9",
+            "8"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q",
+            "4",
+            "3"
+          ]
+        }
+      },
+      "commentary": "Instead, South should cross to the dummy in diamonds and take a first round spade finesse by passing dummy's ♠8. Thanks to South's thoughtful ruff with a middle trump on the second round of hearts, the lead is still in the dummy and the trump finesse can be repeated. By playing in this manner South has to cross to the dummy only once in diamonds, minimizing the risk of a defensive ruff in that suit."
+    }
+  ]
+}

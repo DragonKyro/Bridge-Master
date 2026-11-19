@@ -1,0 +1,1519 @@
+{
+  "title": "Level 2 (Intermediate) - A-36",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "A-36",
+  "deal_pbn": "S:K32.A2.QJ32.AK32 87.KJT987.K954.7 A654.43.AT76.654 QJT9.Q65.8.QJT98",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1NT",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "HJ",
+  "par_tricks": 9,
+  "notes": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required. South should plan to finesse West for the ♦K. If West has 2 or 3 diamonds the contract will be made easily.\n\nSouth can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit. When West follows with the ♦K, South has no trouble taking 4 diamond tricks.\n\nDue to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K. It is necessary, however, to start diamonds this way in the more likely event the East has a singleton ♦9 or ♦8.\n\nIf West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor and finesse against West's high diamond spot card.\n\nIf West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand and finesse against West's high spot card in diamonds.\n\nOn the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West or picking up a singleton ♦9 or ♦8 with East. As there are 2 combinations that favor starting with a diamond honor (versus 1 combination for starting with a low diamond), it is correct to play the ♦Q or ♦J on the first round.",
+  "commentary_paragraphs": [
+    "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required. South should plan to finesse West for the ♦K. If West has 2 or 3 diamonds the contract will be made easily.",
+    "South can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit. When West follows with the ♦K, South has no trouble taking 4 diamond tricks.",
+    "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K. It is necessary, however, to start diamonds this way in the more likely event the East has a singleton ♦9 or ♦8.",
+    "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor and finesse against West's high diamond spot card.",
+    "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand and finesse against West's high spot card in diamonds.",
+    "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West or picking up a singleton ♦9 or ♦8 with East. As there are 2 combinations that favor starting with a diamond honor (versus 1 combination for starting with a low diamond), it is correct to play the ♦Q or ♦J on the first round."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "HJ"
+    },
+    {
+      "step": 3,
+      "seat": "N",
+      "card": "H3"
+    },
+    {
+      "step": 4,
+      "seat": "E",
+      "card": "H5"
+    },
+    {
+      "step": 5,
+      "seat": "S",
+      "card": "H2"
+    },
+    {
+      "step": 6,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 7,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 8,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 9,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "D2"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 22,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 22,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 22,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "HQ"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 30,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 32,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 34,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 36,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 37,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 39,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 40,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 43,
+      "seat": "S",
+      "card": "DJ"
+    },
+    {
+      "step": 44,
+      "seat": "W",
+      "card": "D4"
+    },
+    {
+      "step": 45,
+      "seat": "N",
+      "card": "D6"
+    },
+    {
+      "step": 46,
+      "seat": "E",
+      "card": "D8"
+    },
+    {
+      "step": 48,
+      "seat": "S",
+      "card": "DQ"
+    },
+    {
+      "step": 50,
+      "seat": "W",
+      "card": "D5"
+    },
+    {
+      "step": 51,
+      "seat": "N",
+      "card": "D7"
+    },
+    {
+      "step": 52,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 55,
+      "seat": "W",
+      "card": "DK"
+    },
+    {
+      "step": 57,
+      "seat": "N",
+      "card": "DA"
+    },
+    {
+      "step": 58,
+      "seat": "E",
+      "card": "C8"
+    },
+    {
+      "step": 60,
+      "seat": "N",
+      "card": "C4"
+    },
+    {
+      "step": 61,
+      "seat": "E",
+      "card": "C9"
+    },
+    {
+      "step": 62,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 63,
+      "seat": "W",
+      "card": "C7"
+    },
+    {
+      "step": 66,
+      "seat": "S",
+      "card": "HA"
+    },
+    {
+      "step": 66,
+      "seat": "W",
+      "card": "H7"
+    },
+    {
+      "step": 66,
+      "seat": "N",
+      "card": "H4"
+    },
+    {
+      "step": 66,
+      "seat": "E",
+      "card": "HQ"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:K32.A2.QJ32.AK32 87.KJT987.K954.7 A654.43.AT76.654 QJT9.Q65.8.QJT98",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "H": [
+            "K",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:K32.A2.QJ32.AK32 87.KT987.K954.7 A654.43.AT76.654 QJT9.Q65.8.QJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead"
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:K32.A2.QJ32.AK32 87.KT987.K954.7 A654.43.AT76.654 QJT9.Q65.8.QJT98",
+      "trick_cards": {
+        "W": "HJ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:K32.A2.QJ32.AK32 87.KT987.K954.7 A654.4.AT76.654 QJT9.Q65.8.QJT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:K32.A2.QJ32.AK32 87.KT987.K954.7 A654.4.AT76.654 QJT9.Q6.8.QJT98",
+      "trick_cards": {
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:K32.A.QJ32.AK32 87.KT987.K954.7 A654.4.AT76.654 QJT9.Q6.8.QJT98",
+      "trick_cards": {
+        "S": "H2",
+        "W": "HJ",
+        "N": "H3",
+        "E": "H5"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:K32.A.QJ32.AK32 87.KT98.K954.7 A654.4.AT76.654 QJT9.Q6.8.QJT98",
+      "trick_cards": {
+        "W": "H7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:K32.A.QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.Q6.8.QJT98",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:K32.A.QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "West's heart lead drives out South's ♥A."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ],
+          "S": [
+            "K"
+          ]
+        },
+        "N": {
+          "D": [
+            "A"
+          ],
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required. South should plan to finesse West for the ♦K."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K4.987 A654..AT76.654 QJT9.6.985.QJT",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required. South should plan to finesse West for the ♦K. If West has 2"
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K54.87 A654..AT76.654 QJT9.6.98.QJT9",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "West's heart lead drives out South's ♥A. There are only 6 top tricks, 2 spades, the ♥A, the ♦A, and 2 clubs. South must hope for diamonds to provide the 3 additional tricks that are required. South should plan to finesse West for the ♦K. If West has 2 or 3 diamonds the contract will be made easily."
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can guard against West holding a singleton ♦K"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:K32..QJ3.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:K32..QJ3.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit."
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:K32..QJ3.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "D2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit. When West follows with the ♦K,"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:K32..QJ3.AK32 87.KT98..T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit. When West follows with the ♦K,"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:K32..QJ3.AK32 87.KT98..T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "D2",
+        "W": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J",
+            "3"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "South can guard against West holding a singleton ♦K by leading a low diamond (as opposed to the ♦Q or ♦J) on the first round of the suit. When West follows with the ♦K, South has no trouble taking 4 diamond tricks."
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "7"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available."
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K854.7 A654..AT76.654 QJT9.6.9.QJT98",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K. It is necessary, however, to start diamonds this way"
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K854.7 A654..AT76.654 QJT9.6.9.QJT98",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K. It is necessary, however, to start diamonds this way in the more likely event the East has a singleton ♦9"
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "Due to the presence of the ♦7 in dummy, South has a stronger play available. South should start with the ♦Q or ♦J. This play will be immediately fatal if West began with a singleton ♦K. It is necessary, however, to start diamonds this way in the more likely event the East has a singleton ♦9 or ♦8."
+    },
+    {
+      "step": 29,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K,"
+    },
+    {
+      "step": 30,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K,"
+    },
+    {
+      "step": 31,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A"
+    },
+    {
+      "step": 32,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A"
+    },
+    {
+      "step": 33,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK",
+        "N": "DA"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card."
+    },
+    {
+      "step": 34,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T76.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card."
+    },
+    {
+      "step": 35,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T76.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "DK",
+        "N": "DA",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back"
+    },
+    {
+      "step": 36,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "N": "D6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back"
+    },
+    {
+      "step": 37,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back"
+    },
+    {
+      "step": 38,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.954.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor"
+    },
+    {
+      "step": 39,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.954.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor"
+    },
+    {
+      "step": 40,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor"
+    },
+    {
+      "step": 41,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor and finesse"
+    },
+    {
+      "step": 42,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D4",
+        "N": "D6",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West covers with the ♦K, South wins the ♦A as East follows with a high spot card. South can cross back to his remaining diamond honor and finesse against West's high diamond spot card."
+    },
+    {
+      "step": 43,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds,"
+    },
+    {
+      "step": 44,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K95.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds,"
+    },
+    {
+      "step": 45,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D6"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds,"
+    },
+    {
+      "step": 46,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds,"
+    },
+    {
+      "step": 47,
+      "hands_pbn": "S:K32..Q32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DJ",
+        "W": "D4",
+        "N": "D6",
+        "E": "D8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "3",
+            "2"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor."
+    },
+    {
+      "step": 48,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor."
+    },
+    {
+      "step": 49,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again,"
+    },
+    {
+      "step": 50,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K9.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again,"
+    },
+    {
+      "step": 51,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K9.7 A654..AT.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D7"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again,"
+    },
+    {
+      "step": 52,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K9.7 A654..AT.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D7",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again,"
+    },
+    {
+      "step": 53,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K9.7 A654..AT.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "D5",
+        "N": "D7",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "A",
+            "T"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round."
+    },
+    {
+      "step": 54,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.K95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K",
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round,"
+    },
+    {
+      "step": 55,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round,"
+    },
+    {
+      "step": 56,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..AT7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A,"
+    },
+    {
+      "step": 57,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT98",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "DA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A,"
+    },
+    {
+      "step": 58,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "DA",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A,"
+    },
+    {
+      "step": 59,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.654 QJT9.6..QJT9",
+      "trick_cards": {
+        "S": "DQ",
+        "W": "DK",
+        "N": "DA",
+        "E": "C8"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K",
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "C": [
+            "6",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand"
+    },
+    {
+      "step": 60,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.65 QJT9.6..QJT9",
+      "trick_cards": {
+        "N": "C4"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand"
+    },
+    {
+      "step": 61,
+      "hands_pbn": "S:K32..32.AK32 87.KT98.95.7 A654..T7.65 QJT9.6..QJT",
+      "trick_cards": {
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand"
+    },
+    {
+      "step": 62,
+      "hands_pbn": "S:K32..32.K32 87.KT98.95.7 A654..T7.65 QJT9.6..QJT",
+      "trick_cards": {
+        "S": "CA",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand"
+    },
+    {
+      "step": 63,
+      "hands_pbn": "S:K32..32.K32 87.KT98.95. A654..T7.65 QJT9.6..QJT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand"
+    },
+    {
+      "step": 64,
+      "hands_pbn": "S:K32..32.K32 87.KT98.95. A654..T7.65 QJT9.6..QJT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "3",
+            "2"
+          ]
+        },
+        "N": {
+          "D": [
+            "T",
+            "7"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand and finesse"
+    },
+    {
+      "step": 65,
+      "hands_pbn": "S:K32..32.K32 87.KT98.95. A654..T7.65 QJT9.6..QJT",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C7",
+        "N": "C4",
+        "E": "C9"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "9",
+            "5"
+          ]
+        }
+      },
+      "commentary": "If West does not cover on the first round of diamonds, South must continue with his other diamond honor. If West ducks again, South can finesse the ♦10 on the third round. If West covers on the second round, South can win the ♦A, cross back to his hand and finesse against West's high spot card in diamonds."
+    },
+    {
+      "step": 66,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        },
+        "E": {
+          "D": [
+            "9",
+            "8",
+            "5",
+            "4"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up."
+    },
+    {
+      "step": 67,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "D": [
+            "A",
+            "T",
+            "7",
+            "6"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal,"
+    },
+    {
+      "step": 68,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K.T987 A654..AT76.654 QJT9.6.9854.QJ",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "W": {
+          "D": [
+            "K"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West"
+    },
+    {
+      "step": 69,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K854.7 A654..AT76.654 QJT9.6.9.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "9"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West or picking up a singleton ♦9"
+    },
+    {
+      "step": 70,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "D": [
+            "8"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West or picking up a singleton ♦9 or ♦8 with East."
+    },
+    {
+      "step": 71,
+      "hands_pbn": "S:K32..QJ32.AK32 87.KT98.K954.7 A654..AT76.654 QJT9.6.8.QJT98",
+      "trick_cards": {
+        "S": "HA",
+        "W": "H7",
+        "N": "H4",
+        "E": "HQ"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "D": [
+            "Q",
+            "J"
+          ]
+        }
+      },
+      "commentary": "On the previous deal, a singleton ♦K with West was the only 4-1 break that could be picked up. As the diamond spots in dummy are stronger on this deal, South must choose between picking up a singleton ♦K with West or picking up a singleton ♦9 or ♦8 with East. As there are 2 combinations that favor starting with a diamond honor (versus 1 combination for starting with a low diamond), it is correct to play the ♦Q or ♦J on the first round."
+    }
+  ]
+}

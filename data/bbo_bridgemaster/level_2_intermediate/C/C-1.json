@@ -1,0 +1,609 @@
+{
+  "title": "Level 2 (Intermediate) - C-1",
+  "level": 2,
+  "level_name": "Intermediate",
+  "deal_id": "C-1",
+  "deal_pbn": "S:2.Q43.AJT9876.AK 6543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+  "contract": "3NT",
+  "declarer": "S",
+  "dealer": "S",
+  "vulnerability": "None",
+  "auction": [
+    "1D",
+    "Pass",
+    "2C",
+    "Pass",
+    "2D",
+    "Pass",
+    "2S",
+    "Pass",
+    "2NT",
+    "Pass",
+    "3NT",
+    "Pass",
+    "Pass",
+    "Pass"
+  ],
+  "opening_lead": "S6",
+  "par_tricks": 9,
+  "notes": "West leads the ♠6 against 3NT.\n\nIt seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win and switch to hearts. The defense will be able to knock out the ♥A before the clubs can be unblocked.\n\nSouth can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts.\n\nNine tricks are now easy, the ♠A, the ♥A, the ♦A, and 6 club tricks.",
+  "commentary_paragraphs": [
+    "West leads the ♠6 against 3NT.",
+    "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win and switch to hearts. The defense will be able to knock out the ♥A before the clubs can be unblocked.",
+    "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts.",
+    "Nine tricks are now easy, the ♠A, the ♥A, the ♦A, and 6 club tricks."
+  ],
+  "play_sequence": [
+    {
+      "step": 1,
+      "seat": "W",
+      "card": "S6"
+    },
+    {
+      "step": 4,
+      "seat": "N",
+      "card": "S9"
+    },
+    {
+      "step": 5,
+      "seat": "E",
+      "card": "SQ"
+    },
+    {
+      "step": 6,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 11,
+      "seat": "N",
+      "card": "SA"
+    },
+    {
+      "step": 12,
+      "seat": "E",
+      "card": "S7"
+    },
+    {
+      "step": 13,
+      "seat": "S",
+      "card": "S2"
+    },
+    {
+      "step": 15,
+      "seat": "N",
+      "card": "C7"
+    },
+    {
+      "step": 16,
+      "seat": "E",
+      "card": "C2"
+    },
+    {
+      "step": 17,
+      "seat": "S",
+      "card": "CK"
+    },
+    {
+      "step": 18,
+      "seat": "W",
+      "card": "C5"
+    },
+    {
+      "step": 19,
+      "seat": "S",
+      "card": "CA"
+    },
+    {
+      "step": 20,
+      "seat": "W",
+      "card": "C6"
+    },
+    {
+      "step": 21,
+      "seat": "N",
+      "card": "C8"
+    },
+    {
+      "step": 22,
+      "seat": "E",
+      "card": "C3"
+    },
+    {
+      "step": 24,
+      "seat": "S",
+      "card": "H3"
+    },
+    {
+      "step": 25,
+      "seat": "W",
+      "card": "H6"
+    },
+    {
+      "step": 26,
+      "seat": "N",
+      "card": "HA"
+    },
+    {
+      "step": 27,
+      "seat": "E",
+      "card": "H5"
+    }
+  ],
+  "solution_steps": [
+    {
+      "step": 0,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 6543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {},
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "W": {
+          "S": [
+            "6"
+          ]
+        }
+      },
+      "commentary": "West leads the ♠6 against 3NT."
+    },
+    {
+      "step": 1,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "West leads the ♠6 against 3NT."
+    },
+    {
+      "step": 2,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "It seems natural to finesse in dummy on West's spade lead."
+    },
+    {
+      "step": 3,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "9"
+          ]
+        },
+        "E": {
+          "S": [
+            "Q"
+          ]
+        }
+      },
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win"
+    },
+    {
+      "step": 4,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win"
+    },
+    {
+      "step": 5,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 K87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6",
+        "N": "S9",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win"
+    },
+    {
+      "step": 6,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 K87.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {},
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win"
+    },
+    {
+      "step": 7,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 K87.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "E": {
+          "H": [
+            "J",
+            "T",
+            "8",
+            "5"
+          ]
+        }
+      },
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win and switch to hearts."
+    },
+    {
+      "step": 8,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 K87.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "N": {
+          "H": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win and switch to hearts. The defense will be able to knock out the ♥A"
+    },
+    {
+      "step": 9,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 AJT.A2.5.QJT987 K87.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "S9",
+        "E": "SQ"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 1,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "It seems natural to finesse in dummy on West's spade lead. There is a great danger in making this play, however. East may win and switch to hearts. The defense will be able to knock out the ♥A before the clubs can be unblocked."
+    },
+    {
+      "step": 10,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 AJT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {
+        "N": {
+          "S": [
+            "A"
+          ]
+        }
+      },
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1."
+    },
+    {
+      "step": 11,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT987 KQ87.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6",
+        "N": "SA"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1."
+    },
+    {
+      "step": 12,
+      "hands_pbn": "S:2.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT987 KQ8.JT85.KQ.432",
+      "trick_cards": {
+        "W": "S6",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 0,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1."
+    },
+    {
+      "step": 13,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT987 KQ8.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1."
+    },
+    {
+      "step": 14,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT987 KQ8.JT85.KQ.432",
+      "trick_cards": {
+        "S": "S2",
+        "W": "S6",
+        "N": "SA",
+        "E": "S7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "C": [
+            "A",
+            "K"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9",
+            "8",
+            "7"
+          ]
+        }
+      },
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 15,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT98 KQ8.JT85.KQ.432",
+      "trick_cards": {
+        "N": "C7"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 16,
+      "hands_pbn": "S:.Q43.AJT9876.AK 543.K976.432.65 JT9.A2.5.QJT98 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 17,
+      "hands_pbn": "S:.Q43.AJT9876.A 543.K976.432.65 JT9.A2.5.QJT98 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "S": "CK",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 1,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 18,
+      "hands_pbn": "S:.Q43.AJT9876.A 543.K976.432.6 JT9.A2.5.QJT98 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "S": "CK",
+        "W": "C5",
+        "N": "C7",
+        "E": "C2"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 19,
+      "hands_pbn": "S:.Q43.AJT9876. 543.K976.432.6 JT9.A2.5.QJT98 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "S": "CA"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 20,
+      "hands_pbn": "S:.Q43.AJT9876. 543.K976.432. JT9.A2.5.QJT98 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 21,
+      "hands_pbn": "S:.Q43.AJT9876. 543.K976.432. JT9.A2.5.QJT9 KQ8.JT85.KQ.43",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C8"
+      },
+      "declarer_tricks": 2,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 22,
+      "hands_pbn": "S:.Q43.AJT9876. 543.K976.432. JT9.A2.5.QJT9 KQ8.JT85.KQ.4",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C8",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs"
+    },
+    {
+      "step": 23,
+      "hands_pbn": "S:.Q43.AJT9876. 543.K976.432. JT9.A2.5.QJT9 KQ8.JT85.KQ.4",
+      "trick_cards": {
+        "S": "CA",
+        "W": "C6",
+        "N": "C8",
+        "E": "C3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "H": [
+            "Q",
+            "4",
+            "3"
+          ]
+        },
+        "N": {
+          "H": [
+            "A",
+            "2"
+          ]
+        }
+      },
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts."
+    },
+    {
+      "step": 24,
+      "hands_pbn": "S:.Q4.AJT9876. 543.K976.432. JT9.A2.5.QJT9 KQ8.JT85.KQ.4",
+      "trick_cards": {
+        "S": "H3"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts."
+    },
+    {
+      "step": 25,
+      "hands_pbn": "S:.Q4.AJT9876. 543.K97.432. JT9.A2.5.QJT9 KQ8.JT85.KQ.4",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts."
+    },
+    {
+      "step": 26,
+      "hands_pbn": "S:.Q4.AJT9876. 543.K97.432. JT9.2.5.QJT9 KQ8.JT85.KQ.4",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA"
+      },
+      "declarer_tricks": 3,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts."
+    },
+    {
+      "step": 27,
+      "hands_pbn": "S:.Q4.AJT9876. 543.K97.432. JT9.2.5.QJT9 KQ8.JT8.KQ.4",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {},
+      "commentary": "South can make certain of 9 tricks by rising with the ♠A at trick 1. South can unblock the clubs and cross to dummy in hearts."
+    },
+    {
+      "step": 28,
+      "hands_pbn": "S:.Q4.AJT9876. 543.K97.432. JT9.2.5.QJT9 KQ8.JT8.KQ.4",
+      "trick_cards": {
+        "S": "H3",
+        "W": "H6",
+        "N": "HA",
+        "E": "H5"
+      },
+      "declarer_tricks": 4,
+      "defense_tricks": 0,
+      "highlighted": {
+        "S": {
+          "D": [
+            "A"
+          ]
+        },
+        "N": {
+          "C": [
+            "Q",
+            "J",
+            "T",
+            "9"
+          ]
+        }
+      },
+      "commentary": "Nine tricks are now easy, the ♠A, the ♥A, the ♦A, and 6 club tricks."
+    }
+  ]
+}
