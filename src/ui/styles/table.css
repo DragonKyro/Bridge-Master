@@ -559,3 +559,112 @@
 @media (prefers-reduced-motion: reduce) {
   .trick-sweeping .trick-card-inner { animation: none; }
 }
+
+/* ---------- history: side panel (wide screens) and sheet (phones) ---------- */
+
+.table-shell { display: flex; justify-content: center; align-items: flex-start; }
+.table-shell .table-page { flex: 1 1 auto; min-width: 0; margin: 0 auto; }
+.history-aside { display: none; }
+@media (min-width: 1180px) {
+  .table-shell .table-page { margin: 0; }
+  .history-aside {
+    display: block;
+    flex: none;
+    width: 310px;
+    height: calc(100dvh - 24px);
+    position: sticky;
+    top: 12px;
+    margin: 12px 12px 12px 4px;
+    padding: 14px 14px 18px;
+    overflow: auto;
+  }
+  .action-history { display: none; }
+}
+.history-aside h3 { font-size: 18px; margin-bottom: 4px; }
+.history-aside .auction-grid { font-size: 14px; }
+.history-sub { font-size: 12px; margin: 0 0 10px; }
+.history-h-tricks { margin-top: 18px; display: flex; justify-content: space-between; align-items: baseline; }
+.history-h-tricks .muted { font-family: var(--font); font-size: 13px; font-weight: 700; }
+.history-sheet { max-width: 480px; }
+.history-tabs button { font-size: 14px; padding: 7px 14px; }
+.history-empty { margin: 8px 0; font-size: 14px; }
+
+.tricks-table { display: flex; flex-direction: column; gap: 3px; font-size: 14px; }
+.tricks-row {
+  display: grid;
+  grid-template-columns: 22px repeat(4, minmax(0, 1fr)) 44px;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 6px;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.035);
+  animation: rise-in 260ms var(--ease-out) both;
+}
+.tricks-head { background: none; padding-top: 0; padding-bottom: 0; font-size: 11px; font-weight: 800; color: var(--fg-faint); letter-spacing: 0.6px; text-align: center; animation: none; }
+.tricks-head .is-us { color: var(--fg-muted); }
+.tricks-head span:last-child { text-align: right; }
+.tricks-n { color: var(--fg-faint); font-size: 12px; text-align: center; font-weight: 700; }
+.tricks-cell { text-align: center; font-weight: 650; border-radius: 6px; padding: 1px 0; white-space: nowrap; }
+.tricks-cell.is-lead { box-shadow: inset 0 -2px 0 rgba(233, 196, 106, 0.55); }
+.tricks-cell.is-winner {
+  color: #2a1c00;
+  background: linear-gradient(180deg, #fbe3a0, #e0b24f);
+  box-shadow: 0 0 8px rgba(233, 196, 106, 0.35);
+  --suit-S: #1b2132;
+  --suit-H: #c72a39;
+  --suit-D: #c05a0c;
+  --suit-C: #0f7440;
+}
+.suits-two .tricks-cell.is-winner { --suit-D: #c72a39; --suit-C: #1b2132; }
+.tricks-won { font-size: 12px; font-weight: 800; text-align: right; }
+.won-us .tricks-won { color: var(--gold); }
+.won-them .tricks-won { color: var(--danger); }
+.tricks-row.is-open { background: transparent; border: 1px dashed var(--line-strong); }
+.tricks-row.is-open .tricks-won { color: var(--fg-faint); }
+
+/* ---------- claim ---------- */
+
+.claim-pill {
+  position: absolute;
+  left: 50%;
+  bottom: 6px;
+  transform: translateX(-50%);
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  border: none;
+  border-radius: 999px;
+  padding: 9px 18px;
+  font-weight: 750;
+  font-size: 14px;
+  color: #2a1c00;
+  background: linear-gradient(180deg, #fbe3a0 0%, #e9c46a 50%, #cf9f3c 100%);
+  box-shadow: 0 3px 0 #8d6518, 0 8px 20px rgba(0, 0, 0, 0.4);
+  animation: claim-in 460ms var(--spring) both, claim-glow 2.4s ease-in-out 700ms infinite;
+  white-space: nowrap;
+}
+.claim-pill:active { transform: translateX(-50%) translateY(2px); box-shadow: 0 1px 0 #8d6518, 0 3px 8px rgba(0, 0, 0, 0.4); }
+@keyframes claim-in { from { opacity: 0; transform: translate(-50%, 14px) scale(0.8); } }
+@keyframes claim-glow {
+  50% { box-shadow: 0 3px 0 #8d6518, 0 8px 20px rgba(0, 0, 0, 0.4), 0 0 0 6px rgba(233, 196, 106, 0.18), 0 0 26px rgba(233, 196, 106, 0.45); }
+}
+.claim-banner {
+  position: absolute;
+  left: 50%;
+  bottom: 6px;
+  transform: translateX(-50%);
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 6px 5px 14px;
+  border-radius: 999px;
+  background: rgba(4, 14, 10, 0.6);
+  border: 1px solid var(--line-strong);
+  font-size: 13px;
+  font-weight: 650;
+  white-space: nowrap;
+  animation: fade-in 200ms ease both;
+}
+.claim-skip { border: none; border-radius: 999px; padding: 5px 12px; font-weight: 750; font-size: 13px; color: var(--gold-hi); background: rgba(233, 196, 106, 0.18); }

@@ -2,11 +2,12 @@
 // then each defender's card. Async because double-dummy work goes through a
 // DdApi — the solver worker in the app (dd/client.ts), DDS directly in tests.
 
-import type { Card, Strain } from '@/bridge/cards';
+import { isDeclarerSide, type Card, type Strain } from '@/bridge/cards';
 import { layoutToPbn, parsePbn } from '@/bridge/deal';
 import { legalPlays, replay, type Play } from '@/bridge/play';
 import type { Deal } from '@/data/types';
 import type { CardScore, DdSolver } from '@/dd/solver';
+import { claimPlay } from './claim';
 import { naturalCard } from './defence';
 import { applyPlay, consistentAlternatives, handView, inScriptSpan, scriptedCard, switchLayout, type HandState } from './hand';
 import { findPunisher } from './rig';
@@ -42,11 +43,19 @@ export async function defenderCard(h: HandState, api: DdApi): Promise<Card> {
   return naturalCard(view, h.strain, scores);
 }
 
-/** Tricks declarer ends with if the rest is played double dummy (claims). */
-export async function claimTricks(h: HandState, api: DdApi): Promise<number> {
+/**
+ * The next card while a claim plays out: declarer's side follows the claim's
+ * line (claim.ts), the defenders defend as usual. The fallback (declarer's
+ * double-dummy best) is never expected — the claim tests check that.
+ */
+export async function claimStepCard(h: HandState, api: DdApi): Promise<Card> {
   const view = handView(h);
-  if (view.done) return view.ns;
-  return view.ns + (await api.declarerMax(layoutToPbn(h.layout), h.strain, h.plays));
+  if (view.turn === null || !isDeclarerSide(view.turn)) return defenderCard(h, api);
+  const c = claimPlay(h);
+  if (c && legalPlays(view).includes(c)) return c;
+  const scores = await api.scores(layoutToPbn(h.layout), h.strain, h.plays);
+  const best = Math.max(...scores.map((x) => x.score));
+  return scores.find((x) => x.score === best)!.card;
 }
 
 /** A DdApi over a solver in this thread (tests, scripts, and the worker itself). */

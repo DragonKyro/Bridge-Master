@@ -7,7 +7,8 @@ import { isDeclarerSide, type Card } from '@/bridge/cards';
 import { legalPlays } from '@/bridge/play';
 import type { Deal } from '@/data/types';
 import { ddApi } from '@/dd/client';
-import { declarerPlays, defenderCard } from '@/game/engine';
+import { canClaim } from '@/game/claim';
+import { claimStepCard, declarerPlays, defenderCard } from '@/game/engine';
 import { applyPlay, handView, startHand, type HandState } from '@/game/hand';
 import { paceMs, usePrefs } from './prefsStore';
 import { useProgress, type DealProgress } from './progressStore';
@@ -24,6 +25,8 @@ export interface Outcome {
   progress: DealProgress;
   /** The defenders' cards moved to beat this line (shown in the result). */
   switched: boolean;
+  /** Finished by a claim. */
+  claimed: boolean;
 }
 
 interface PlayState {
@@ -39,6 +42,10 @@ interface PlayState {
   peeked: boolean;
   outcome: Outcome | null;
   error: string | null;
+  /** A claim is playing out. */
+  claiming: boolean;
+  /** Finish the claim without the animation. */
+  claimSkip: boolean;
   open: (deal: Deal) => void;
   /** End the auction display: the opening lead goes down. */
   begin: () => void;
@@ -46,6 +53,9 @@ interface PlayState {
   undo: () => void;
   restart: () => void;
   notePeek: () => void;
+  /** Claim the rest (only when game/claim.ts allows it): the remaining tricks play out fast. */
+  claim: () => void;
+  skipClaim: () => void;
 }
 
 /** Bumped on every open / restart / undo so stale async work stops. */
@@ -67,7 +77,7 @@ export const usePlay = create<PlayState>((set, get) => {
     const { deal, usedUndo, peeked } = get();
     const clean = !usedUndo && !peeked;
     const progress = useProgress.getState().record(deal!.id, made, clean);
-    set({ phase: 'done', busy: false, outcome: { made, tricks: view.ns, clean, progress, switched: h.switches > 0 } });
+    set({ phase: 'done', busy: false, claiming: false, outcome: { made, tricks: view.ns, clean, progress, switched: h.switches > 0, claimed: h.claimFrom !== null } });
     sound(made ? 'win' : 'fail');
     return true;
   };
@@ -97,6 +107,29 @@ export const usePlay = create<PlayState>((set, get) => {
     if (id === session) set({ busy: false });
   };
 
+  /** Play a claim out quickly (declarer's side on the claim's line), until it is settled. */
+  const runClaim = async (id: number) => {
+    for (;;) {
+      const h = get().hand!;
+      if (settle(h)) return;
+      const view = handView(h);
+      const skip = get().claimSkip;
+      if (!skip) await sleep(view.current.plays.length === 0 && view.tricks.length > 0 ? 340 : 120);
+      if (id !== session) return;
+      let card: Card;
+      try {
+        card = await claimStepCard(h, ddApi);
+      } catch (e) {
+        if (id === session) set({ busy: false, claiming: false, error: (e as Error).message });
+        return;
+      }
+      if (id !== session) return;
+      const next = applyPlay(h, card);
+      set({ hand: next });
+      if (!get().claimSkip) sound(handView(next).current.plays.length === 0 ? 'trick' : 'card');
+    }
+  };
+
   return {
     deal: null,
     hand: null,
@@ -107,10 +140,12 @@ export const usePlay = create<PlayState>((set, get) => {
     peeked: false,
     outcome: null,
     error: null,
+    claiming: false,
+    claimSkip: false,
 
     open: (deal) => {
       session++;
-      set({ deal, hand: startHand(deal), history: [], phase: 'auction', busy: false, usedUndo: false, peeked: false, outcome: null, error: null });
+      set({ deal, hand: startHand(deal), history: [], phase: 'auction', busy: false, usedUndo: false, peeked: false, outcome: null, error: null, claiming: false, claimSkip: false });
     },
 
     begin: () => {
@@ -151,17 +186,29 @@ export const usePlay = create<PlayState>((set, get) => {
       const { history, phase } = get();
       if (history.length === 0 || phase === 'auction') return;
       session++;
-      set({ hand: history[history.length - 1]!, history: history.slice(0, -1), busy: false, usedUndo: true, phase: 'play', outcome: null });
+      set({ hand: history[history.length - 1]!, history: history.slice(0, -1), busy: false, usedUndo: true, phase: 'play', outcome: null, claiming: false, claimSkip: false });
     },
 
     restart: () => {
       const { deal } = get();
       if (!deal) return;
       session++;
-      set({ hand: startHand(deal), history: [], phase: 'auction', busy: false, usedUndo: false, outcome: null, error: null });
+      set({ hand: startHand(deal), history: [], phase: 'auction', busy: false, usedUndo: false, outcome: null, error: null, claiming: false, claimSkip: false });
     },
 
     notePeek: () => set({ peeked: true }),
+
+    claim: () => {
+      const { hand, phase, busy, history } = get();
+      if (!hand || phase !== 'play' || busy || !canClaim(hand)) return;
+      const id = session;
+      set({ hand: { ...hand, claimFrom: hand.plays.length }, history: [...history, hand], busy: true, claiming: true, claimSkip: false });
+      void runClaim(id);
+    },
+
+    skipClaim: () => {
+      if (get().claiming) set({ claimSkip: true });
+    },
   };
 });
 

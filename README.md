@@ -8,6 +8,8 @@ Declarer-play training in the browser, made for playing on a phone: the 540 deal
 
 - **540 deals** in 5 levels (Beginner → World Class) and their A–D sets, each with the auction, the opening lead and the full commentary.
 - **Rigged defence.** Follow the solution and the defenders play BBO's scripted defence. Leave it and they play double dummy — and, while the key part of the hand is still in progress, switch to any of BBO's alternative layouts that fits every card you've seen and beats your line. Only the right line makes. Every deal is tested: the solution always makes.
+- **Claim.** Once you're past the key play and the tricks you still need are plain winners — top cards, trumps drawn, no entry or unblocking problem left — a *Claim the rest* button appears; the rest plays out fast and counts as made. It's checked to hold against any lie of the defenders' cards, and never appears inside the solution's critical plays.
+- **Bidding and trick history** at hand while you play: a side panel on wide screens, one tap away (History) on a phone.
 - **Solution player.** BBO's step-by-step review: the four hands, the cards the commentary is talking about lit up, the trick in the middle, the commentary growing a phrase at a time. Autoplay, step, or scrub.
 - **Stars.** Gold for a clean solve, silver if you used undo or had looked at the solution. Saved on the device; sign in with Google to keep phone and computer in step.
 - **Offline.** The whole app — every deal and the solver — is cached after the first visit. Progress made offline syncs when you reconnect.

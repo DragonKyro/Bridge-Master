@@ -53,6 +53,7 @@ export function ResultSheet({
           </div>
         </div>
         <p className="result-note">
+          {outcome.claimed && outcome.made ? 'Claim accepted. ' : ''}
           {outcome.made
             ? earned === 2
               ? 'A clean solve — gold star.'

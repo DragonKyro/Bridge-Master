@@ -38,6 +38,8 @@ export interface HandState {
   deviatedAt: number | null;
   /** How many times the defenders' layout changed. */
   switches: number;
+  /** Plays made when declarer claimed (claim.ts); null: no claim. */
+  claimFrom: number | null;
 }
 
 export function strainOf(contract: string): Strain {
@@ -64,6 +66,7 @@ export function startHand(deal: Deal): HandState {
     onScript: true,
     deviatedAt: null,
     switches: 0,
+    claimFrom: null,
   };
 }
 

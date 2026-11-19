@@ -8,6 +8,7 @@ import { legalPlays } from '@/bridge/play';
 import { levelName, loadDeal, nextDealId } from '@/data/load';
 import type { Deal } from '@/data/types';
 import { warmUpSolver } from '@/dd/client';
+import { canClaim } from '@/game/claim';
 import { handView } from '@/game/hand';
 import { usePlay } from '@/store/playStore';
 import { useProgress } from '@/store/progressStore';
@@ -21,6 +22,7 @@ import { SolutionPlayer } from '../solution/SolutionPlayer';
 import { AuctionBox, vulText } from './Auction';
 import { HandFan } from './HandFan';
 import { ResultSheet } from './Result';
+import { HistoryPanel, HistorySheet } from './History';
 import { DefenderSeat, Trick } from './Trick';
 
 export function TablePage({ id, solution }: { id: string; solution: boolean }) {
@@ -61,10 +63,10 @@ export function TablePage({ id, solution }: { id: string; solution: boolean }) {
 }
 
 function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
-  const { hand, phase, busy, outcome, history, error } = usePlay();
+  const { hand, phase, busy, outcome, history, error, claiming } = usePlay();
   const fourColor = usePrefs((s) => s.fourColor);
   const star = useProgress((s) => s.deals[deal.id]?.b ?? 0);
-  const [showAuction, setShowAuction] = useState(false);
+  const [showHistory, setShowHistory] = useState<null | 'tricks' | 'auction'>(null);
   const [showSettings, setShowSettings] = useState(false);
   const [resultClosed, setResultClosed] = useState(false);
 
@@ -74,6 +76,7 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
   }, [solution]);
 
   const view = useMemo(() => (hand ? handView(hand) : null), [hand]);
+  const claimable = useMemo(() => !!hand && phase === 'play' && !busy && canClaim(hand), [hand, phase, busy]);
   if (!hand || !view || hand.dealId !== deal.id) return <div className="page-center muted">Shuffling…</div>;
 
   const turn = view.turn;
@@ -85,7 +88,8 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
   const turnLabel = phase !== 'play' || turn === null ? null : turn === 'S' ? 'Your turn' : turn === 'N' ? 'Play from dummy' : null;
 
   return (
-    <div className={`table-page${fourColor ? '' : ' suits-two'}`}>
+    <div className={`table-shell${fourColor ? '' : ' suits-two'}`}>
+    <div className="table-page">
       <header className="topbar">
         <button type="button" className="icon-btn" onClick={() => back(paths.level(deal.level))} aria-label="Back to the level">
           <Icon name="back" />
@@ -98,7 +102,7 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
             Deal {setLabel} {star ? <Star kind={star} /> : null}
           </span>
         </div>
-        <button type="button" className="contract-chip" onClick={() => setShowAuction(true)} aria-label="Show the auction">
+        <button type="button" className="contract-chip" onClick={() => setShowHistory('auction')} aria-label="Show the auction">
           <Contract contract={deal.contract} />
           <span className="contract-chip-need">need {deal.need}</span>
         </button>
@@ -118,6 +122,19 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
           <DefenderSeat seat="W" count={view.remaining.W.length + (phase === 'auction' ? 1 : 0)} active={phase === 'play' && turn === 'W'} thinking={busy} />
           <Trick view={view} strain={hand.strain} hideLead={phase === 'auction'} over={phase === 'done'} turn={phase === 'play' ? turn : null} thinking={busy} />
           <DefenderSeat seat="E" count={view.remaining.E.length} active={phase === 'play' && turn === 'E'} thinking={busy} />
+          {claimable && (
+            <button type="button" className="claim-pill" onClick={() => usePlay.getState().claim()}>
+              <Icon name="flag" size="sm" /> Claim the rest
+            </button>
+          )}
+          {claiming && (
+            <div className="claim-banner" role="status">
+              Claiming — cashing the rest
+              <button type="button" className="claim-skip" onClick={() => usePlay.getState().skipClaim()}>
+                Skip
+              </button>
+            </div>
+          )}
           {phase === 'auction' && (
             <div className="auction-overlay">
               <div className="auction-card panel">
@@ -151,9 +168,9 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
           <Icon name="restart" />
           <span>Restart</span>
         </button>
-        <button type="button" className="action" onClick={() => setShowAuction(true)}>
+        <button type="button" className="action action-history" onClick={() => setShowHistory(phase === 'auction' ? 'auction' : 'tricks')}>
           <Icon name="auction" />
-          <span>Auction</span>
+          <span>History</span>
         </button>
         <button type="button" className="action" onClick={() => go(paths.solution(deal.id))}>
           <Icon name="book" />
@@ -167,22 +184,7 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
 
       {error && <div className="toast">Solver error: {error}</div>}
 
-      {showAuction && (
-        <div className="backdrop" onClick={(e) => e.target === e.currentTarget && setShowAuction(false)}>
-          <div className="modal panel" role="dialog" aria-label="Auction">
-            <h2>
-              Auction
-              <button type="button" className="icon-btn modal-close" onClick={() => setShowAuction(false)} aria-label="Close">
-                <Icon name="close" />
-              </button>
-            </h2>
-            <p className="muted modal-sub">
-              {vulText(deal)} · Dealer {({ N: 'North', E: 'East', S: 'South', W: 'West' } as const)[deal.dealer]}
-            </p>
-            <AuctionBox deal={deal} animate={false} />
-          </div>
-        </div>
-      )}
+      {showHistory && <HistorySheet deal={deal} view={view} strain={hand.strain} hideLead={phase === 'auction'} initialTab={showHistory} onClose={() => setShowHistory(null)} />}
       {showSettings && <SettingsModal onClose={() => setShowSettings(false)} />}
 
       {phase === 'done' && outcome && !resultClosed && !solution && (
@@ -204,6 +206,8 @@ function Table({ deal, solution }: { deal: Deal; solution: boolean }) {
       )}
 
       {solution && <SolutionPlayer deal={deal} onClose={() => back(paths.deal(deal.id))} />}
+    </div>
+    <HistoryPanel deal={deal} view={view} strain={hand.strain} hideLead={phase === 'auction'} />
     </div>
   );
 }

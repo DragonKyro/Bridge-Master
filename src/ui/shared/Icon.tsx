@@ -18,6 +18,7 @@ const PATHS = {
   cloud: 'M7 18a5 5 0 01-.6-10A6.5 6.5 0 0119 9.5 4.3 4.3 0 0118 18z',
   cloudOff: 'M3 3l18 18M8.5 8.4A6.4 6.4 0 0119 9.5a4.3 4.3 0 012.2 6.9M17 18H7a5 5 0 01-1.2-9.9',
   arrow: 'M5 12h14M13 6l6 6-6 6',
+  flag: 'M5 21V4M5 4h11l-2 4 2 4H5',
 } as const;
 
 export type IconName = keyof typeof PATHS;
