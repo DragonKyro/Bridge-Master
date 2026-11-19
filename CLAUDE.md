@@ -20,7 +20,7 @@ TypeScript, Vite 6, React 19, Zustand, Vitest. DDS (Bo Haglund's double-dummy so
 - `npm run deals` — rebuild `src/data/sets/*.json` + `src/data/catalog.json` from `data/bbo_bridgemaster/` (~15 s). The generated files are committed (CI doesn't run the pipeline). Re-run the simulation test after changing it.
 - `npm run fix-lock` — **run after any `npm install` that changes package-lock.json.** This machine installs through a corporate Artifactory mirror (`NPM_CONFIG_REGISTRY`), which writes mirror URLs into the lockfile; GitHub Actions can't reach them. The script points every `resolved` URL back at registry.npmjs.org (integrity hashes stay valid). The lockfile must contain no `drwholdings` URLs.
 - `npm run deploy:rules` — deploy `firestore.rules`. Confirm with the user first (shared project).
-- `python scripts/make-icons.py` — redraw `public/` icons (needs Pillow).
+- `node scripts/make-icons.mjs` — redraw the icons (`public/favicon.svg` + the PNGs: an ace of spades standing on a gold arched bridge), rasterised with the local Chrome (set `CHROME` if not found).
 - `scripts/scrape_bbo_bridgemaster.py` — the original scraper (Python, websocket + a browser); only needed to re-scrape.
 
 ## Architecture
